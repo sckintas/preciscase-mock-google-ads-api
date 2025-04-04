@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "adgrp_0001",
+    "campaign_id": "cmp_0057",
+    "name": "Campaign_1_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0002",
+    "campaign_id": "cmp_0057",
+    "name": "Campaign_1_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0003",
+    "campaign_id": "cmp_0004",
+    "name": "Campaign_2_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0004",
+    "campaign_id": "cmp_0004",
+    "name": "Campaign_2_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0005",
+    "campaign_id": "cmp_0089",
+    "name": "Campaign_3_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0006",
+    "campaign_id": "cmp_0089",
+    "name": "Campaign_3_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0007",
+    "campaign_id": "cmp_0045",
+    "name": "Campaign_5_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0008",
+    "campaign_id": "cmp_0045",
+    "name": "Campaign_5_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0009",
+    "campaign_id": "cmp_0035",
+    "name": "Campaign_6_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0010",
+    "campaign_id": "cmp_0035",
+    "name": "Campaign_6_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0011",
+    "campaign_id": "cmp_0088",
+    "name": "Campaign_7_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0012",
+    "campaign_id": "cmp_0088",
+    "name": "Campaign_7_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0013",
+    "campaign_id": "cmp_0023",
+    "name": "Campaign_8_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0014",
+    "campaign_id": "cmp_0023",
+    "name": "Campaign_8_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0015",
+    "campaign_id": "cmp_0069",
+    "name": "Campaign_9_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0016",
+    "campaign_id": "cmp_0069",
+    "name": "Campaign_9_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0017",
+    "campaign_id": "cmp_0063",
+    "name": "Campaign_10_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0018",
+    "campaign_id": "cmp_0063",
+    "name": "Campaign_10_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0019",
+    "campaign_id": "cmp_0033",
+    "name": "Campaign_11_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0020",
+    "campaign_id": "cmp_0033",
+    "name": "Campaign_11_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0021",
+    "campaign_id": "cmp_0031",
+    "name": "Campaign_12_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0022",
+    "campaign_id": "cmp_0031",
+    "name": "Campaign_12_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0023",
+    "campaign_id": "cmp_0046",
+    "name": "Campaign_13_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0024",
+    "campaign_id": "cmp_0046",
+    "name": "Campaign_13_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0025",
+    "campaign_id": "cmp_0099",
+    "name": "Campaign_14_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0026",
+    "campaign_id": "cmp_0099",
+    "name": "Campaign_14_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0027",
+    "campaign_id": "cmp_0092",
+    "name": "Campaign_17_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0028",
+    "campaign_id": "cmp_0092",
+    "name": "Campaign_17_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0029",
+    "campaign_id": "cmp_0087",
+    "name": "Campaign_18_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0030",
+    "campaign_id": "cmp_0087",
+    "name": "Campaign_18_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0031",
+    "campaign_id": "cmp_0071",
+    "name": "Campaign_19_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0032",
+    "campaign_id": "cmp_0071",
+    "name": "Campaign_19_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0033",
+    "campaign_id": "cmp_0100",
+    "name": "Campaign_20_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0034",
+    "campaign_id": "cmp_0100",
+    "name": "Campaign_20_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0035",
+    "campaign_id": "cmp_0009",
+    "name": "Campaign_21_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0036",
+    "campaign_id": "cmp_0009",
+    "name": "Campaign_21_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0037",
+    "campaign_id": "cmp_0007",
+    "name": "Campaign_22_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0038",
+    "campaign_id": "cmp_0007",
+    "name": "Campaign_22_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0039",
+    "campaign_id": "cmp_0037",
+    "name": "Campaign_23_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0040",
+    "campaign_id": "cmp_0037",
+    "name": "Campaign_23_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0041",
+    "campaign_id": "cmp_0056",
+    "name": "Campaign_25_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0042",
+    "campaign_id": "cmp_0056",
+    "name": "Campaign_25_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0043",
+    "campaign_id": "cmp_0016",
+    "name": "Campaign_26_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0044",
+    "campaign_id": "cmp_0016",
+    "name": "Campaign_26_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0045",
+    "campaign_id": "cmp_0015",
+    "name": "Campaign_27_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0046",
+    "campaign_id": "cmp_0015",
+    "name": "Campaign_27_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0047",
+    "campaign_id": "cmp_0077",
+    "name": "Campaign_28_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0048",
+    "campaign_id": "cmp_0077",
+    "name": "Campaign_28_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0049",
+    "campaign_id": "cmp_0049",
+    "name": "Campaign_30_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0050",
+    "campaign_id": "cmp_0049",
+    "name": "Campaign_30_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0051",
+    "campaign_id": "cmp_0091",
+    "name": "Campaign_32_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0052",
+    "campaign_id": "cmp_0091",
+    "name": "Campaign_32_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0053",
+    "campaign_id": "cmp_0052",
+    "name": "Campaign_33_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0054",
+    "campaign_id": "cmp_0052",
+    "name": "Campaign_33_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0055",
+    "campaign_id": "cmp_0022",
+    "name": "Campaign_34_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0056",
+    "campaign_id": "cmp_0022",
+    "name": "Campaign_34_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0057",
+    "campaign_id": "cmp_0078",
+    "name": "Campaign_36_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0058",
+    "campaign_id": "cmp_0078",
+    "name": "Campaign_36_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0059",
+    "campaign_id": "cmp_0032",
+    "name": "Campaign_37_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0060",
+    "campaign_id": "cmp_0032",
+    "name": "Campaign_37_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0061",
+    "campaign_id": "cmp_0070",
+    "name": "Campaign_38_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0062",
+    "campaign_id": "cmp_0070",
+    "name": "Campaign_38_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0063",
+    "campaign_id": "cmp_0086",
+    "name": "Campaign_39_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0064",
+    "campaign_id": "cmp_0086",
+    "name": "Campaign_39_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0065",
+    "campaign_id": "cmp_0084",
+    "name": "Campaign_40_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0066",
+    "campaign_id": "cmp_0084",
+    "name": "Campaign_40_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0067",
+    "campaign_id": "cmp_0081",
+    "name": "Campaign_41_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0068",
+    "campaign_id": "cmp_0081",
+    "name": "Campaign_41_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0069",
+    "campaign_id": "cmp_0079",
+    "name": "Campaign_44_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0070",
+    "campaign_id": "cmp_0079",
+    "name": "Campaign_44_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0071",
+    "campaign_id": "cmp_0043",
+    "name": "Campaign_46_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0072",
+    "campaign_id": "cmp_0043",
+    "name": "Campaign_46_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0073",
+    "campaign_id": "cmp_0064",
+    "name": "Campaign_47_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0074",
+    "campaign_id": "cmp_0064",
+    "name": "Campaign_47_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0075",
+    "campaign_id": "cmp_0098",
+    "name": "Campaign_48_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0076",
+    "campaign_id": "cmp_0098",
+    "name": "Campaign_48_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0077",
+    "campaign_id": "cmp_0006",
+    "name": "Campaign_52_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0078",
+    "campaign_id": "cmp_0006",
+    "name": "Campaign_52_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0079",
+    "campaign_id": "cmp_0011",
+    "name": "Campaign_53_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0080",
+    "campaign_id": "cmp_0011",
+    "name": "Campaign_53_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0081",
+    "campaign_id": "cmp_0062",
+    "name": "Campaign_55_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0082",
+    "campaign_id": "cmp_0062",
+    "name": "Campaign_55_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0083",
+    "campaign_id": "cmp_0072",
+    "name": "Campaign_56_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0084",
+    "campaign_id": "cmp_0072",
+    "name": "Campaign_56_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0085",
+    "campaign_id": "cmp_0036",
+    "name": "Campaign_57_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0086",
+    "campaign_id": "cmp_0036",
+    "name": "Campaign_57_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0087",
+    "campaign_id": "cmp_0075",
+    "name": "Campaign_59_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0088",
+    "campaign_id": "cmp_0075",
+    "name": "Campaign_59_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0089",
+    "campaign_id": "cmp_0093",
+    "name": "Campaign_60_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0090",
+    "campaign_id": "cmp_0093",
+    "name": "Campaign_60_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0091",
+    "campaign_id": "cmp_0017",
+    "name": "Campaign_61_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0092",
+    "campaign_id": "cmp_0017",
+    "name": "Campaign_61_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0093",
+    "campaign_id": "cmp_0095",
+    "name": "Campaign_65_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0094",
+    "campaign_id": "cmp_0095",
+    "name": "Campaign_65_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0095",
+    "campaign_id": "cmp_0005",
+    "name": "Campaign_66_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0096",
+    "campaign_id": "cmp_0005",
+    "name": "Campaign_66_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0097",
+    "campaign_id": "cmp_0073",
+    "name": "Campaign_67_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0098",
+    "campaign_id": "cmp_0073",
+    "name": "Campaign_67_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0099",
+    "campaign_id": "cmp_0020",
+    "name": "Campaign_70_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0100",
+    "campaign_id": "cmp_0020",
+    "name": "Campaign_70_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0101",
+    "campaign_id": "cmp_0048",
+    "name": "Campaign_71_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0102",
+    "campaign_id": "cmp_0048",
+    "name": "Campaign_71_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0103",
+    "campaign_id": "cmp_0059",
+    "name": "Campaign_72_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0104",
+    "campaign_id": "cmp_0059",
+    "name": "Campaign_72_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0105",
+    "campaign_id": "cmp_0065",
+    "name": "Campaign_77_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0106",
+    "campaign_id": "cmp_0065",
+    "name": "Campaign_77_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0107",
+    "campaign_id": "cmp_0044",
+    "name": "Campaign_80_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0108",
+    "campaign_id": "cmp_0044",
+    "name": "Campaign_80_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0109",
+    "campaign_id": "cmp_0018",
+    "name": "Campaign_83_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0110",
+    "campaign_id": "cmp_0018",
+    "name": "Campaign_83_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0111",
+    "campaign_id": "cmp_0050",
+    "name": "Campaign_87_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0112",
+    "campaign_id": "cmp_0050",
+    "name": "Campaign_87_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0113",
+    "campaign_id": "cmp_0085",
+    "name": "Campaign_89_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0114",
+    "campaign_id": "cmp_0085",
+    "name": "Campaign_89_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0115",
+    "campaign_id": "cmp_0030",
+    "name": "Campaign_90_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0116",
+    "campaign_id": "cmp_0030",
+    "name": "Campaign_90_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0117",
+    "campaign_id": "cmp_0034",
+    "name": "Campaign_94_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0118",
+    "campaign_id": "cmp_0034",
+    "name": "Campaign_94_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0119",
+    "campaign_id": "cmp_0027",
+    "name": "Campaign_97_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0120",
+    "campaign_id": "cmp_0027",
+    "name": "Campaign_97_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0121",
+    "campaign_id": "cmp_0067",
+    "name": "Campaign_98_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0122",
+    "campaign_id": "cmp_0067",
+    "name": "Campaign_98_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0123",
+    "campaign_id": "cmp_0047",
+    "name": "Campaign_99_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0124",
+    "campaign_id": "cmp_0047",
+    "name": "Campaign_99_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0125",
+    "campaign_id": "cmp_0029",
+    "name": "Campaign_100_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0126",
+    "campaign_id": "cmp_0029",
+    "name": "Campaign_100_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0127",
+    "campaign_id": "cmp_0040",
+    "name": "Campaign_2_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0128",
+    "campaign_id": "cmp_0040",
+    "name": "Campaign_2_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0129",
+    "campaign_id": "cmp_0042",
+    "name": "Campaign_10_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0130",
+    "campaign_id": "cmp_0042",
+    "name": "Campaign_10_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0131",
+    "campaign_id": "cmp_0060",
+    "name": "Campaign_14_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0132",
+    "campaign_id": "cmp_0060",
+    "name": "Campaign_14_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0133",
+    "campaign_id": "cmp_0002",
+    "name": "Campaign_15_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0134",
+    "campaign_id": "cmp_0002",
+    "name": "Campaign_15_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0135",
+    "campaign_id": "cmp_0080",
+    "name": "Campaign_16_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0136",
+    "campaign_id": "cmp_0080",
+    "name": "Campaign_16_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0137",
+    "campaign_id": "cmp_0008",
+    "name": "Campaign_17_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0138",
+    "campaign_id": "cmp_0008",
+    "name": "Campaign_17_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0139",
+    "campaign_id": "cmp_0074",
+    "name": "Campaign_19_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0140",
+    "campaign_id": "cmp_0074",
+    "name": "Campaign_19_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0141",
+    "campaign_id": "cmp_0094",
+    "name": "Campaign_20_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0142",
+    "campaign_id": "cmp_0094",
+    "name": "Campaign_20_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0143",
+    "campaign_id": "cmp_0054",
+    "name": "Campaign_25_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0144",
+    "campaign_id": "cmp_0054",
+    "name": "Campaign_25_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0145",
+    "campaign_id": "cmp_0010",
+    "name": "Campaign_30_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0146",
+    "campaign_id": "cmp_0010",
+    "name": "Campaign_30_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0147",
+    "campaign_id": "cmp_0076",
+    "name": "Campaign_34_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0148",
+    "campaign_id": "cmp_0076",
+    "name": "Campaign_34_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0149",
+    "campaign_id": "cmp_0083",
+    "name": "Campaign_41_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0150",
+    "campaign_id": "cmp_0083",
+    "name": "Campaign_41_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0151",
+    "campaign_id": "cmp_0090",
+    "name": "Campaign_44_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0152",
+    "campaign_id": "cmp_0090",
+    "name": "Campaign_44_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0153",
+    "campaign_id": "cmp_0041",
+    "name": "Campaign_53_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0154",
+    "campaign_id": "cmp_0041",
+    "name": "Campaign_53_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0155",
+    "campaign_id": "cmp_0021",
+    "name": "Campaign_59_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0156",
+    "campaign_id": "cmp_0021",
+    "name": "Campaign_59_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0157",
+    "campaign_id": "cmp_0014",
+    "name": "Campaign_70_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0158",
+    "campaign_id": "cmp_0014",
+    "name": "Campaign_70_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0159",
+    "campaign_id": "cmp_0019",
+    "name": "Campaign_74_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0160",
+    "campaign_id": "cmp_0019",
+    "name": "Campaign_74_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0161",
+    "campaign_id": "cmp_0066",
+    "name": "Campaign_76_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0162",
+    "campaign_id": "cmp_0066",
+    "name": "Campaign_76_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0163",
+    "campaign_id": "cmp_0039",
+    "name": "Campaign_79_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0164",
+    "campaign_id": "cmp_0039",
+    "name": "Campaign_79_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0165",
+    "campaign_id": "cmp_0024",
+    "name": "Campaign_83_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0166",
+    "campaign_id": "cmp_0024",
+    "name": "Campaign_83_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0167",
+    "campaign_id": "cmp_0003",
+    "name": "Campaign_85_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0168",
+    "campaign_id": "cmp_0003",
+    "name": "Campaign_85_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0169",
+    "campaign_id": "cmp_0058",
+    "name": "Campaign_87_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0170",
+    "campaign_id": "cmp_0058",
+    "name": "Campaign_87_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0171",
+    "campaign_id": "cmp_0082",
+    "name": "Campaign_94_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0172",
+    "campaign_id": "cmp_0082",
+    "name": "Campaign_94_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0173",
+    "campaign_id": "cmp_0061",
+    "name": "Campaign_97_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0174",
+    "campaign_id": "cmp_0061",
+    "name": "Campaign_97_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0175",
+    "campaign_id": "cmp_0013",
+    "name": "Campaign_99_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0176",
+    "campaign_id": "cmp_0013",
+    "name": "Campaign_99_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0177",
+    "campaign_id": "cmp_0097",
+    "name": "Campaign_4_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0178",
+    "campaign_id": "cmp_0097",
+    "name": "Campaign_4_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0179",
+    "campaign_id": "cmp_0053",
+    "name": "Campaign_17_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0180",
+    "campaign_id": "cmp_0053",
+    "name": "Campaign_17_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0181",
+    "campaign_id": "cmp_0051",
+    "name": "Campaign_24_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0182",
+    "campaign_id": "cmp_0051",
+    "name": "Campaign_24_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0183",
+    "campaign_id": "cmp_0001",
+    "name": "Campaign_31_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0184",
+    "campaign_id": "cmp_0001",
+    "name": "Campaign_31_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0185",
+    "campaign_id": "cmp_0026",
+    "name": "Campaign_36_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0186",
+    "campaign_id": "cmp_0026",
+    "name": "Campaign_36_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0187",
+    "campaign_id": "cmp_0038",
+    "name": "Campaign_9_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0188",
+    "campaign_id": "cmp_0038",
+    "name": "Campaign_9_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0189",
+    "campaign_id": "cmp_0055",
+    "name": "Campaign_13_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0190",
+    "campaign_id": "cmp_0055",
+    "name": "Campaign_13_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0191",
+    "campaign_id": "cmp_0012",
+    "name": "Campaign_50_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0192",
+    "campaign_id": "cmp_0012",
+    "name": "Campaign_50_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0193",
+    "campaign_id": "cmp_0025",
+    "name": "Campaign_23_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0194",
+    "campaign_id": "cmp_0025",
+    "name": "Campaign_23_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0195",
+    "campaign_id": "cmp_0068",
+    "name": "Campaign_26_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0196",
+    "campaign_id": "cmp_0068",
+    "name": "Campaign_26_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0197",
+    "campaign_id": "cmp_0096",
+    "name": "Campaign_69_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0198",
+    "campaign_id": "cmp_0096",
+    "name": "Campaign_69_Group_2",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0199",
+    "campaign_id": "cmp_0028",
+    "name": "Campaign_13_Group_1",
+    "status": "ENABLED"
+  },
+  {
+    "id": "adgrp_0200",
+    "campaign_id": "cmp_0028",
+    "name": "Campaign_13_Group_2",
+    "status": "ENABLED"
+  }
+]
