@@ -1,902 +1,2802 @@
 [
   {
-    "id": "cmp_1000",
-    "name": "Campaign 1",
+    "id": "adgrp_00",
+    "campaign_id": "cmp_1000",
+    "name": "Campaign_1_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_01",
+    "campaign_id": "cmp_1000",
+    "name": "Campaign_1_Group_2",
     "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2000",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_02",
+    "campaign_id": "cmp_1000",
+    "name": "Campaign_1_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_03",
+    "campaign_id": "cmp_1000",
+    "name": "Campaign_1_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_10",
+    "campaign_id": "cmp_1001",
+    "name": "Campaign_2_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_11",
+    "campaign_id": "cmp_1001",
+    "name": "Campaign_2_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_12",
+    "campaign_id": "cmp_1001",
+    "name": "Campaign_2_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_13",
+    "campaign_id": "cmp_1001",
+    "name": "Campaign_2_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_20",
+    "campaign_id": "cmp_1002",
+    "name": "Campaign_3_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_21",
+    "campaign_id": "cmp_1002",
+    "name": "Campaign_3_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_22",
+    "campaign_id": "cmp_1002",
+    "name": "Campaign_3_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_23",
+    "campaign_id": "cmp_1002",
+    "name": "Campaign_3_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_30",
+    "campaign_id": "cmp_1003",
+    "name": "Campaign_4_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_31",
+    "campaign_id": "cmp_1003",
+    "name": "Campaign_4_Group_2",
+    "status": "PAUSED",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1001",
-    "name": "Campaign 2",
+    "id": "adgrp_32",
+    "campaign_id": "cmp_1003",
+    "name": "Campaign_4_Group_3",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2001",
-    "date": "2025-04-02"
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_1002",
-    "name": "Campaign 3",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2002",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1003",
-    "name": "Campaign 4",
+    "id": "adgrp_33",
+    "campaign_id": "cmp_1003",
+    "name": "Campaign_4_Group_4",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2003",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_40",
+    "campaign_id": "cmp_1004",
+    "name": "Campaign_5_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_41",
+    "campaign_id": "cmp_1004",
+    "name": "Campaign_5_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_42",
+    "campaign_id": "cmp_1004",
+    "name": "Campaign_5_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_43",
+    "campaign_id": "cmp_1004",
+    "name": "Campaign_5_Group_4",
+    "status": "PAUSED",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1004",
-    "name": "Campaign 5",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2004",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1005",
-    "name": "Campaign 6",
+    "id": "adgrp_50",
+    "campaign_id": "cmp_1005",
+    "name": "Campaign_6_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2005",
-    "date": "2025-04-03"
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_1006",
-    "name": "Campaign 7",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2006",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1007",
-    "name": "Campaign 8",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2007",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1008",
-    "name": "Campaign 9",
+    "id": "adgrp_51",
+    "campaign_id": "cmp_1005",
+    "name": "Campaign_6_Group_2",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2008",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1009",
-    "name": "Campaign 10",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2009",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1010",
-    "name": "Campaign 11",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2010",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1011",
-    "name": "Campaign 12",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2011",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1012",
-    "name": "Campaign 13",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2012",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1013",
-    "name": "Campaign 14",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2013",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1014",
-    "name": "Campaign 15",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2014",
     "date": "2025-04-05"
   },
   {
-    "id": "cmp_1015",
-    "name": "Campaign 16",
+    "id": "adgrp_52",
+    "campaign_id": "cmp_1005",
+    "name": "Campaign_6_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_53",
+    "campaign_id": "cmp_1005",
+    "name": "Campaign_6_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_60",
+    "campaign_id": "cmp_1006",
+    "name": "Campaign_7_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_61",
+    "campaign_id": "cmp_1006",
+    "name": "Campaign_7_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_62",
+    "campaign_id": "cmp_1006",
+    "name": "Campaign_7_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_63",
+    "campaign_id": "cmp_1006",
+    "name": "Campaign_7_Group_4",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2015",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_70",
+    "campaign_id": "cmp_1007",
+    "name": "Campaign_8_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_71",
+    "campaign_id": "cmp_1007",
+    "name": "Campaign_8_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_72",
+    "campaign_id": "cmp_1007",
+    "name": "Campaign_8_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_73",
+    "campaign_id": "cmp_1007",
+    "name": "Campaign_8_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_80",
+    "campaign_id": "cmp_1008",
+    "name": "Campaign_9_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_81",
+    "campaign_id": "cmp_1008",
+    "name": "Campaign_9_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_82",
+    "campaign_id": "cmp_1008",
+    "name": "Campaign_9_Group_3",
+    "status": "ENABLED",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1016",
-    "name": "Campaign 17",
+    "id": "adgrp_83",
+    "campaign_id": "cmp_1008",
+    "name": "Campaign_9_Group_4",
     "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2016",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1017",
-    "name": "Campaign 18",
+    "id": "adgrp_90",
+    "campaign_id": "cmp_1009",
+    "name": "Campaign_10_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2017",
     "date": "2025-04-04"
   },
   {
-    "id": "cmp_1018",
-    "name": "Campaign 19",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2018",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1019",
-    "name": "Campaign 20",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2019",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1020",
-    "name": "Campaign 21",
+    "id": "adgrp_91",
+    "campaign_id": "cmp_1009",
+    "name": "Campaign_10_Group_2",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2020",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1021",
-    "name": "Campaign 22",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2021",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1022",
-    "name": "Campaign 23",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2022",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1023",
-    "name": "Campaign 24",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2023",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1024",
-    "name": "Campaign 25",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2024",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1025",
-    "name": "Campaign 26",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2025",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1026",
-    "name": "Campaign 27",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2026",
     "date": "2025-04-06"
   },
   {
-    "id": "cmp_1027",
-    "name": "Campaign 28",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2027",
-    "date": "2025-04-05"
+    "id": "adgrp_92",
+    "campaign_id": "cmp_1009",
+    "name": "Campaign_10_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
   },
   {
-    "id": "cmp_1028",
-    "name": "Campaign 29",
+    "id": "adgrp_93",
+    "campaign_id": "cmp_1009",
+    "name": "Campaign_10_Group_4",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2028",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1029",
-    "name": "Campaign 30",
+    "id": "adgrp_100",
+    "campaign_id": "cmp_1010",
+    "name": "Campaign_11_Group_1",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2029",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1030",
-    "name": "Campaign 31",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2030",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1031",
-    "name": "Campaign 32",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2031",
     "date": "2025-04-03"
   },
   {
-    "id": "cmp_1032",
-    "name": "Campaign 33",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2032",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1033",
-    "name": "Campaign 34",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2033",
+    "id": "adgrp_101",
+    "campaign_id": "cmp_1010",
+    "name": "Campaign_11_Group_2",
+    "status": "ENABLED",
     "date": "2025-04-06"
   },
   {
-    "id": "cmp_1034",
-    "name": "Campaign 35",
+    "id": "adgrp_102",
+    "campaign_id": "cmp_1010",
+    "name": "Campaign_11_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_103",
+    "campaign_id": "cmp_1010",
+    "name": "Campaign_11_Group_4",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2034",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_110",
+    "campaign_id": "cmp_1011",
+    "name": "Campaign_12_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_111",
+    "campaign_id": "cmp_1011",
+    "name": "Campaign_12_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_112",
+    "campaign_id": "cmp_1011",
+    "name": "Campaign_12_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_113",
+    "campaign_id": "cmp_1011",
+    "name": "Campaign_12_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_120",
+    "campaign_id": "cmp_1012",
+    "name": "Campaign_13_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_121",
+    "campaign_id": "cmp_1012",
+    "name": "Campaign_13_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_122",
+    "campaign_id": "cmp_1012",
+    "name": "Campaign_13_Group_3",
+    "status": "PAUSED",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1035",
-    "name": "Campaign 36",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2035",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1036",
-    "name": "Campaign 37",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2036",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1037",
-    "name": "Campaign 38",
+    "id": "adgrp_123",
+    "campaign_id": "cmp_1012",
+    "name": "Campaign_13_Group_4",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2037",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1038",
-    "name": "Campaign 39",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2038",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1039",
-    "name": "Campaign 40",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2039",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1040",
-    "name": "Campaign 41",
+    "id": "adgrp_130",
+    "campaign_id": "cmp_1013",
+    "name": "Campaign_14_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2040",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1041",
-    "name": "Campaign 42",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2041",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1042",
-    "name": "Campaign 43",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2042",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1043",
-    "name": "Campaign 44",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2043",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1044",
-    "name": "Campaign 45",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2044",
     "date": "2025-04-03"
   },
   {
-    "id": "cmp_1045",
-    "name": "Campaign 46",
+    "id": "adgrp_131",
+    "campaign_id": "cmp_1013",
+    "name": "Campaign_14_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_132",
+    "campaign_id": "cmp_1013",
+    "name": "Campaign_14_Group_3",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2045",
     "date": "2025-04-02"
   },
   {
-    "id": "cmp_1046",
-    "name": "Campaign 47",
+    "id": "adgrp_133",
+    "campaign_id": "cmp_1013",
+    "name": "Campaign_14_Group_4",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2046",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1047",
-    "name": "Campaign 48",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2047",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1048",
-    "name": "Campaign 49",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2048",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1049",
-    "name": "Campaign 50",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2049",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1050",
-    "name": "Campaign 51",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2050",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1051",
-    "name": "Campaign 52",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2051",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1052",
-    "name": "Campaign 53",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2052",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1053",
-    "name": "Campaign 54",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2053",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1054",
-    "name": "Campaign 55",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2054",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1055",
-    "name": "Campaign 56",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2055",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1056",
-    "name": "Campaign 57",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2056",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1057",
-    "name": "Campaign 58",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2057",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1058",
-    "name": "Campaign 59",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2058",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1059",
-    "name": "Campaign 60",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2059",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1060",
-    "name": "Campaign 61",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2060",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1061",
-    "name": "Campaign 62",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2061",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1062",
-    "name": "Campaign 63",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2062",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1063",
-    "name": "Campaign 64",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2063",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1064",
-    "name": "Campaign 65",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2064",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1065",
-    "name": "Campaign 66",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2065",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1066",
-    "name": "Campaign 67",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2066",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1067",
-    "name": "Campaign 68",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2067",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1068",
-    "name": "Campaign 69",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2068",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1069",
-    "name": "Campaign 70",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2069",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1070",
-    "name": "Campaign 71",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2070",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1071",
-    "name": "Campaign 72",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2071",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1072",
-    "name": "Campaign 73",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2072",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1073",
-    "name": "Campaign 74",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2073",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1074",
-    "name": "Campaign 75",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2074",
-    "date": "2025-04-07"
-  },
-  {
-    "id": "cmp_1075",
-    "name": "Campaign 76",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2075",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1076",
-    "name": "Campaign 77",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2076",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1077",
-    "name": "Campaign 78",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2077",
-    "date": "2025-04-04"
-  },
-  {
-    "id": "cmp_1078",
-    "name": "Campaign 79",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2078",
-    "date": "2025-04-03"
-  },
-  {
-    "id": "cmp_1079",
-    "name": "Campaign 80",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2079",
     "date": "2025-04-08"
   },
   {
-    "id": "cmp_1080",
-    "name": "Campaign 81",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2080",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1081",
-    "name": "Campaign 82",
+    "id": "adgrp_140",
+    "campaign_id": "cmp_1014",
+    "name": "Campaign_15_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2081",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1082",
-    "name": "Campaign 83",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2082",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1083",
-    "name": "Campaign 84",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2083",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1084",
-    "name": "Campaign 85",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2084",
-    "date": "2025-04-05"
-  },
-  {
-    "id": "cmp_1085",
-    "name": "Campaign 86",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2085",
-    "date": "2025-04-08"
-  },
-  {
-    "id": "cmp_1086",
-    "name": "Campaign 87",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2086",
     "date": "2025-04-04"
   },
   {
-    "id": "cmp_1087",
-    "name": "Campaign 88",
+    "id": "adgrp_141",
+    "campaign_id": "cmp_1014",
+    "name": "Campaign_15_Group_2",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2087",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_142",
+    "campaign_id": "cmp_1014",
+    "name": "Campaign_15_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_143",
+    "campaign_id": "cmp_1014",
+    "name": "Campaign_15_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_150",
+    "campaign_id": "cmp_1015",
+    "name": "Campaign_16_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_151",
+    "campaign_id": "cmp_1015",
+    "name": "Campaign_16_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_152",
+    "campaign_id": "cmp_1015",
+    "name": "Campaign_16_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_153",
+    "campaign_id": "cmp_1015",
+    "name": "Campaign_16_Group_4",
+    "status": "ENABLED",
     "date": "2025-04-03"
   },
   {
-    "id": "cmp_1088",
-    "name": "Campaign 89",
+    "id": "adgrp_160",
+    "campaign_id": "cmp_1016",
+    "name": "Campaign_17_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2088",
-    "date": "2025-04-02"
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_1089",
-    "name": "Campaign 90",
+    "id": "adgrp_161",
+    "campaign_id": "cmp_1016",
+    "name": "Campaign_17_Group_2",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2089",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1090",
-    "name": "Campaign 91",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2090",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1091",
-    "name": "Campaign 92",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2091",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1092",
-    "name": "Campaign 93",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2092",
-    "date": "2025-04-02"
-  },
-  {
-    "id": "cmp_1093",
-    "name": "Campaign 94",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2093",
     "date": "2025-04-05"
   },
   {
-    "id": "cmp_1094",
-    "name": "Campaign 95",
+    "id": "adgrp_162",
+    "campaign_id": "cmp_1016",
+    "name": "Campaign_17_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_163",
+    "campaign_id": "cmp_1016",
+    "name": "Campaign_17_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_170",
+    "campaign_id": "cmp_1017",
+    "name": "Campaign_18_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2094",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_171",
+    "campaign_id": "cmp_1017",
+    "name": "Campaign_18_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_172",
+    "campaign_id": "cmp_1017",
+    "name": "Campaign_18_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_173",
+    "campaign_id": "cmp_1017",
+    "name": "Campaign_18_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_180",
+    "campaign_id": "cmp_1018",
+    "name": "Campaign_19_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_181",
+    "campaign_id": "cmp_1018",
+    "name": "Campaign_19_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_182",
+    "campaign_id": "cmp_1018",
+    "name": "Campaign_19_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_183",
+    "campaign_id": "cmp_1018",
+    "name": "Campaign_19_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_190",
+    "campaign_id": "cmp_1019",
+    "name": "Campaign_20_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_191",
+    "campaign_id": "cmp_1019",
+    "name": "Campaign_20_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_192",
+    "campaign_id": "cmp_1019",
+    "name": "Campaign_20_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_193",
+    "campaign_id": "cmp_1019",
+    "name": "Campaign_20_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_200",
+    "campaign_id": "cmp_1020",
+    "name": "Campaign_21_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_201",
+    "campaign_id": "cmp_1020",
+    "name": "Campaign_21_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_202",
+    "campaign_id": "cmp_1020",
+    "name": "Campaign_21_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_203",
+    "campaign_id": "cmp_1020",
+    "name": "Campaign_21_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_210",
+    "campaign_id": "cmp_1021",
+    "name": "Campaign_22_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_211",
+    "campaign_id": "cmp_1021",
+    "name": "Campaign_22_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_212",
+    "campaign_id": "cmp_1021",
+    "name": "Campaign_22_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_213",
+    "campaign_id": "cmp_1021",
+    "name": "Campaign_22_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_220",
+    "campaign_id": "cmp_1022",
+    "name": "Campaign_23_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_221",
+    "campaign_id": "cmp_1022",
+    "name": "Campaign_23_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_222",
+    "campaign_id": "cmp_1022",
+    "name": "Campaign_23_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_223",
+    "campaign_id": "cmp_1022",
+    "name": "Campaign_23_Group_4",
+    "status": "PAUSED",
     "date": "2025-04-07"
   },
   {
-    "id": "cmp_1095",
-    "name": "Campaign 96",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2095",
-    "date": "2025-04-06"
-  },
-  {
-    "id": "cmp_1096",
-    "name": "Campaign 97",
+    "id": "adgrp_230",
+    "campaign_id": "cmp_1023",
+    "name": "Campaign_24_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bud_2096",
-    "date": "2025-04-06"
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_1097",
-    "name": "Campaign 98",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2097",
+    "id": "adgrp_231",
+    "campaign_id": "cmp_1023",
+    "name": "Campaign_24_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_232",
+    "campaign_id": "cmp_1023",
+    "name": "Campaign_24_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_233",
+    "campaign_id": "cmp_1023",
+    "name": "Campaign_24_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_240",
+    "campaign_id": "cmp_1024",
+    "name": "Campaign_25_Group_1",
+    "status": "ENABLED",
     "date": "2025-04-03"
   },
   {
-    "id": "cmp_1098",
-    "name": "Campaign 99",
+    "id": "adgrp_241",
+    "campaign_id": "cmp_1024",
+    "name": "Campaign_25_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_242",
+    "campaign_id": "cmp_1024",
+    "name": "Campaign_25_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_243",
+    "campaign_id": "cmp_1024",
+    "name": "Campaign_25_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_250",
+    "campaign_id": "cmp_1025",
+    "name": "Campaign_26_Group_1",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2098",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_251",
+    "campaign_id": "cmp_1025",
+    "name": "Campaign_26_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_252",
+    "campaign_id": "cmp_1025",
+    "name": "Campaign_26_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_253",
+    "campaign_id": "cmp_1025",
+    "name": "Campaign_26_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_260",
+    "campaign_id": "cmp_1026",
+    "name": "Campaign_27_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_261",
+    "campaign_id": "cmp_1026",
+    "name": "Campaign_27_Group_2",
+    "status": "ENABLED",
     "date": "2025-04-05"
   },
   {
-    "id": "cmp_1099",
-    "name": "Campaign 100",
+    "id": "adgrp_262",
+    "campaign_id": "cmp_1026",
+    "name": "Campaign_27_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_263",
+    "campaign_id": "cmp_1026",
+    "name": "Campaign_27_Group_4",
     "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bud_2099",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_270",
+    "campaign_id": "cmp_1027",
+    "name": "Campaign_28_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_271",
+    "campaign_id": "cmp_1027",
+    "name": "Campaign_28_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_272",
+    "campaign_id": "cmp_1027",
+    "name": "Campaign_28_Group_3",
+    "status": "ENABLED",
     "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_273",
+    "campaign_id": "cmp_1027",
+    "name": "Campaign_28_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_280",
+    "campaign_id": "cmp_1028",
+    "name": "Campaign_29_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_281",
+    "campaign_id": "cmp_1028",
+    "name": "Campaign_29_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_282",
+    "campaign_id": "cmp_1028",
+    "name": "Campaign_29_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_283",
+    "campaign_id": "cmp_1028",
+    "name": "Campaign_29_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_290",
+    "campaign_id": "cmp_1029",
+    "name": "Campaign_30_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_291",
+    "campaign_id": "cmp_1029",
+    "name": "Campaign_30_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_292",
+    "campaign_id": "cmp_1029",
+    "name": "Campaign_30_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_293",
+    "campaign_id": "cmp_1029",
+    "name": "Campaign_30_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_300",
+    "campaign_id": "cmp_1030",
+    "name": "Campaign_31_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_301",
+    "campaign_id": "cmp_1030",
+    "name": "Campaign_31_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_302",
+    "campaign_id": "cmp_1030",
+    "name": "Campaign_31_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_303",
+    "campaign_id": "cmp_1030",
+    "name": "Campaign_31_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_310",
+    "campaign_id": "cmp_1031",
+    "name": "Campaign_32_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_311",
+    "campaign_id": "cmp_1031",
+    "name": "Campaign_32_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_312",
+    "campaign_id": "cmp_1031",
+    "name": "Campaign_32_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_313",
+    "campaign_id": "cmp_1031",
+    "name": "Campaign_32_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_320",
+    "campaign_id": "cmp_1032",
+    "name": "Campaign_33_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_321",
+    "campaign_id": "cmp_1032",
+    "name": "Campaign_33_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_322",
+    "campaign_id": "cmp_1032",
+    "name": "Campaign_33_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_323",
+    "campaign_id": "cmp_1032",
+    "name": "Campaign_33_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_330",
+    "campaign_id": "cmp_1033",
+    "name": "Campaign_34_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_331",
+    "campaign_id": "cmp_1033",
+    "name": "Campaign_34_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_332",
+    "campaign_id": "cmp_1033",
+    "name": "Campaign_34_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_333",
+    "campaign_id": "cmp_1033",
+    "name": "Campaign_34_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_340",
+    "campaign_id": "cmp_1034",
+    "name": "Campaign_35_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_341",
+    "campaign_id": "cmp_1034",
+    "name": "Campaign_35_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_342",
+    "campaign_id": "cmp_1034",
+    "name": "Campaign_35_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_343",
+    "campaign_id": "cmp_1034",
+    "name": "Campaign_35_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_350",
+    "campaign_id": "cmp_1035",
+    "name": "Campaign_36_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_351",
+    "campaign_id": "cmp_1035",
+    "name": "Campaign_36_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_352",
+    "campaign_id": "cmp_1035",
+    "name": "Campaign_36_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_353",
+    "campaign_id": "cmp_1035",
+    "name": "Campaign_36_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_360",
+    "campaign_id": "cmp_1036",
+    "name": "Campaign_37_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_361",
+    "campaign_id": "cmp_1036",
+    "name": "Campaign_37_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_362",
+    "campaign_id": "cmp_1036",
+    "name": "Campaign_37_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_363",
+    "campaign_id": "cmp_1036",
+    "name": "Campaign_37_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_370",
+    "campaign_id": "cmp_1037",
+    "name": "Campaign_38_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_371",
+    "campaign_id": "cmp_1037",
+    "name": "Campaign_38_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_372",
+    "campaign_id": "cmp_1037",
+    "name": "Campaign_38_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_373",
+    "campaign_id": "cmp_1037",
+    "name": "Campaign_38_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_380",
+    "campaign_id": "cmp_1038",
+    "name": "Campaign_39_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_381",
+    "campaign_id": "cmp_1038",
+    "name": "Campaign_39_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_382",
+    "campaign_id": "cmp_1038",
+    "name": "Campaign_39_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_383",
+    "campaign_id": "cmp_1038",
+    "name": "Campaign_39_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_390",
+    "campaign_id": "cmp_1039",
+    "name": "Campaign_40_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_391",
+    "campaign_id": "cmp_1039",
+    "name": "Campaign_40_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_392",
+    "campaign_id": "cmp_1039",
+    "name": "Campaign_40_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_393",
+    "campaign_id": "cmp_1039",
+    "name": "Campaign_40_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_400",
+    "campaign_id": "cmp_1040",
+    "name": "Campaign_41_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_401",
+    "campaign_id": "cmp_1040",
+    "name": "Campaign_41_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_402",
+    "campaign_id": "cmp_1040",
+    "name": "Campaign_41_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_403",
+    "campaign_id": "cmp_1040",
+    "name": "Campaign_41_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_410",
+    "campaign_id": "cmp_1041",
+    "name": "Campaign_42_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_411",
+    "campaign_id": "cmp_1041",
+    "name": "Campaign_42_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_412",
+    "campaign_id": "cmp_1041",
+    "name": "Campaign_42_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_413",
+    "campaign_id": "cmp_1041",
+    "name": "Campaign_42_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_420",
+    "campaign_id": "cmp_1042",
+    "name": "Campaign_43_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_421",
+    "campaign_id": "cmp_1042",
+    "name": "Campaign_43_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_422",
+    "campaign_id": "cmp_1042",
+    "name": "Campaign_43_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_423",
+    "campaign_id": "cmp_1042",
+    "name": "Campaign_43_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_430",
+    "campaign_id": "cmp_1043",
+    "name": "Campaign_44_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_431",
+    "campaign_id": "cmp_1043",
+    "name": "Campaign_44_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_432",
+    "campaign_id": "cmp_1043",
+    "name": "Campaign_44_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_433",
+    "campaign_id": "cmp_1043",
+    "name": "Campaign_44_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_440",
+    "campaign_id": "cmp_1044",
+    "name": "Campaign_45_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_441",
+    "campaign_id": "cmp_1044",
+    "name": "Campaign_45_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_442",
+    "campaign_id": "cmp_1044",
+    "name": "Campaign_45_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_443",
+    "campaign_id": "cmp_1044",
+    "name": "Campaign_45_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_450",
+    "campaign_id": "cmp_1045",
+    "name": "Campaign_46_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_451",
+    "campaign_id": "cmp_1045",
+    "name": "Campaign_46_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_452",
+    "campaign_id": "cmp_1045",
+    "name": "Campaign_46_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_453",
+    "campaign_id": "cmp_1045",
+    "name": "Campaign_46_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_460",
+    "campaign_id": "cmp_1046",
+    "name": "Campaign_47_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_461",
+    "campaign_id": "cmp_1046",
+    "name": "Campaign_47_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_462",
+    "campaign_id": "cmp_1046",
+    "name": "Campaign_47_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_463",
+    "campaign_id": "cmp_1046",
+    "name": "Campaign_47_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_470",
+    "campaign_id": "cmp_1047",
+    "name": "Campaign_48_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_471",
+    "campaign_id": "cmp_1047",
+    "name": "Campaign_48_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_472",
+    "campaign_id": "cmp_1047",
+    "name": "Campaign_48_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_473",
+    "campaign_id": "cmp_1047",
+    "name": "Campaign_48_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_480",
+    "campaign_id": "cmp_1048",
+    "name": "Campaign_49_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_481",
+    "campaign_id": "cmp_1048",
+    "name": "Campaign_49_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_482",
+    "campaign_id": "cmp_1048",
+    "name": "Campaign_49_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_483",
+    "campaign_id": "cmp_1048",
+    "name": "Campaign_49_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_490",
+    "campaign_id": "cmp_1049",
+    "name": "Campaign_50_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_491",
+    "campaign_id": "cmp_1049",
+    "name": "Campaign_50_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_492",
+    "campaign_id": "cmp_1049",
+    "name": "Campaign_50_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_493",
+    "campaign_id": "cmp_1049",
+    "name": "Campaign_50_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_500",
+    "campaign_id": "cmp_1050",
+    "name": "Campaign_51_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_501",
+    "campaign_id": "cmp_1050",
+    "name": "Campaign_51_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_502",
+    "campaign_id": "cmp_1050",
+    "name": "Campaign_51_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_503",
+    "campaign_id": "cmp_1050",
+    "name": "Campaign_51_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_510",
+    "campaign_id": "cmp_1051",
+    "name": "Campaign_52_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_511",
+    "campaign_id": "cmp_1051",
+    "name": "Campaign_52_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_512",
+    "campaign_id": "cmp_1051",
+    "name": "Campaign_52_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_513",
+    "campaign_id": "cmp_1051",
+    "name": "Campaign_52_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_520",
+    "campaign_id": "cmp_1052",
+    "name": "Campaign_53_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_521",
+    "campaign_id": "cmp_1052",
+    "name": "Campaign_53_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_522",
+    "campaign_id": "cmp_1052",
+    "name": "Campaign_53_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_523",
+    "campaign_id": "cmp_1052",
+    "name": "Campaign_53_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_530",
+    "campaign_id": "cmp_1053",
+    "name": "Campaign_54_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_531",
+    "campaign_id": "cmp_1053",
+    "name": "Campaign_54_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_532",
+    "campaign_id": "cmp_1053",
+    "name": "Campaign_54_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_533",
+    "campaign_id": "cmp_1053",
+    "name": "Campaign_54_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_540",
+    "campaign_id": "cmp_1054",
+    "name": "Campaign_55_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_541",
+    "campaign_id": "cmp_1054",
+    "name": "Campaign_55_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_542",
+    "campaign_id": "cmp_1054",
+    "name": "Campaign_55_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_543",
+    "campaign_id": "cmp_1054",
+    "name": "Campaign_55_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_550",
+    "campaign_id": "cmp_1055",
+    "name": "Campaign_56_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_551",
+    "campaign_id": "cmp_1055",
+    "name": "Campaign_56_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_552",
+    "campaign_id": "cmp_1055",
+    "name": "Campaign_56_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_553",
+    "campaign_id": "cmp_1055",
+    "name": "Campaign_56_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_560",
+    "campaign_id": "cmp_1056",
+    "name": "Campaign_57_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_561",
+    "campaign_id": "cmp_1056",
+    "name": "Campaign_57_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_562",
+    "campaign_id": "cmp_1056",
+    "name": "Campaign_57_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_563",
+    "campaign_id": "cmp_1056",
+    "name": "Campaign_57_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_570",
+    "campaign_id": "cmp_1057",
+    "name": "Campaign_58_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_571",
+    "campaign_id": "cmp_1057",
+    "name": "Campaign_58_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_572",
+    "campaign_id": "cmp_1057",
+    "name": "Campaign_58_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_573",
+    "campaign_id": "cmp_1057",
+    "name": "Campaign_58_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_580",
+    "campaign_id": "cmp_1058",
+    "name": "Campaign_59_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_581",
+    "campaign_id": "cmp_1058",
+    "name": "Campaign_59_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_582",
+    "campaign_id": "cmp_1058",
+    "name": "Campaign_59_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_583",
+    "campaign_id": "cmp_1058",
+    "name": "Campaign_59_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_590",
+    "campaign_id": "cmp_1059",
+    "name": "Campaign_60_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_591",
+    "campaign_id": "cmp_1059",
+    "name": "Campaign_60_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_592",
+    "campaign_id": "cmp_1059",
+    "name": "Campaign_60_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_593",
+    "campaign_id": "cmp_1059",
+    "name": "Campaign_60_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_600",
+    "campaign_id": "cmp_1060",
+    "name": "Campaign_61_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_601",
+    "campaign_id": "cmp_1060",
+    "name": "Campaign_61_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_602",
+    "campaign_id": "cmp_1060",
+    "name": "Campaign_61_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_603",
+    "campaign_id": "cmp_1060",
+    "name": "Campaign_61_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_610",
+    "campaign_id": "cmp_1061",
+    "name": "Campaign_62_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_611",
+    "campaign_id": "cmp_1061",
+    "name": "Campaign_62_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_612",
+    "campaign_id": "cmp_1061",
+    "name": "Campaign_62_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_613",
+    "campaign_id": "cmp_1061",
+    "name": "Campaign_62_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_620",
+    "campaign_id": "cmp_1062",
+    "name": "Campaign_63_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_621",
+    "campaign_id": "cmp_1062",
+    "name": "Campaign_63_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_622",
+    "campaign_id": "cmp_1062",
+    "name": "Campaign_63_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_623",
+    "campaign_id": "cmp_1062",
+    "name": "Campaign_63_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_630",
+    "campaign_id": "cmp_1063",
+    "name": "Campaign_64_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_631",
+    "campaign_id": "cmp_1063",
+    "name": "Campaign_64_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_632",
+    "campaign_id": "cmp_1063",
+    "name": "Campaign_64_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_633",
+    "campaign_id": "cmp_1063",
+    "name": "Campaign_64_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_640",
+    "campaign_id": "cmp_1064",
+    "name": "Campaign_65_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_641",
+    "campaign_id": "cmp_1064",
+    "name": "Campaign_65_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_642",
+    "campaign_id": "cmp_1064",
+    "name": "Campaign_65_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_643",
+    "campaign_id": "cmp_1064",
+    "name": "Campaign_65_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_650",
+    "campaign_id": "cmp_1065",
+    "name": "Campaign_66_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_651",
+    "campaign_id": "cmp_1065",
+    "name": "Campaign_66_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_652",
+    "campaign_id": "cmp_1065",
+    "name": "Campaign_66_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_653",
+    "campaign_id": "cmp_1065",
+    "name": "Campaign_66_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_660",
+    "campaign_id": "cmp_1066",
+    "name": "Campaign_67_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_661",
+    "campaign_id": "cmp_1066",
+    "name": "Campaign_67_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_662",
+    "campaign_id": "cmp_1066",
+    "name": "Campaign_67_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_663",
+    "campaign_id": "cmp_1066",
+    "name": "Campaign_67_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_670",
+    "campaign_id": "cmp_1067",
+    "name": "Campaign_68_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_671",
+    "campaign_id": "cmp_1067",
+    "name": "Campaign_68_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_672",
+    "campaign_id": "cmp_1067",
+    "name": "Campaign_68_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_673",
+    "campaign_id": "cmp_1067",
+    "name": "Campaign_68_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_680",
+    "campaign_id": "cmp_1068",
+    "name": "Campaign_69_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_681",
+    "campaign_id": "cmp_1068",
+    "name": "Campaign_69_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_682",
+    "campaign_id": "cmp_1068",
+    "name": "Campaign_69_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_683",
+    "campaign_id": "cmp_1068",
+    "name": "Campaign_69_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_690",
+    "campaign_id": "cmp_1069",
+    "name": "Campaign_70_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_691",
+    "campaign_id": "cmp_1069",
+    "name": "Campaign_70_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_692",
+    "campaign_id": "cmp_1069",
+    "name": "Campaign_70_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_693",
+    "campaign_id": "cmp_1069",
+    "name": "Campaign_70_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_700",
+    "campaign_id": "cmp_1070",
+    "name": "Campaign_71_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_701",
+    "campaign_id": "cmp_1070",
+    "name": "Campaign_71_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_702",
+    "campaign_id": "cmp_1070",
+    "name": "Campaign_71_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_703",
+    "campaign_id": "cmp_1070",
+    "name": "Campaign_71_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_710",
+    "campaign_id": "cmp_1071",
+    "name": "Campaign_72_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_711",
+    "campaign_id": "cmp_1071",
+    "name": "Campaign_72_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_712",
+    "campaign_id": "cmp_1071",
+    "name": "Campaign_72_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_713",
+    "campaign_id": "cmp_1071",
+    "name": "Campaign_72_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_720",
+    "campaign_id": "cmp_1072",
+    "name": "Campaign_73_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_721",
+    "campaign_id": "cmp_1072",
+    "name": "Campaign_73_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_722",
+    "campaign_id": "cmp_1072",
+    "name": "Campaign_73_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_723",
+    "campaign_id": "cmp_1072",
+    "name": "Campaign_73_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_730",
+    "campaign_id": "cmp_1073",
+    "name": "Campaign_74_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_731",
+    "campaign_id": "cmp_1073",
+    "name": "Campaign_74_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_732",
+    "campaign_id": "cmp_1073",
+    "name": "Campaign_74_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_733",
+    "campaign_id": "cmp_1073",
+    "name": "Campaign_74_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_740",
+    "campaign_id": "cmp_1074",
+    "name": "Campaign_75_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_741",
+    "campaign_id": "cmp_1074",
+    "name": "Campaign_75_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_742",
+    "campaign_id": "cmp_1074",
+    "name": "Campaign_75_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_743",
+    "campaign_id": "cmp_1074",
+    "name": "Campaign_75_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_750",
+    "campaign_id": "cmp_1075",
+    "name": "Campaign_76_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_751",
+    "campaign_id": "cmp_1075",
+    "name": "Campaign_76_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_752",
+    "campaign_id": "cmp_1075",
+    "name": "Campaign_76_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_753",
+    "campaign_id": "cmp_1075",
+    "name": "Campaign_76_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_760",
+    "campaign_id": "cmp_1076",
+    "name": "Campaign_77_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_761",
+    "campaign_id": "cmp_1076",
+    "name": "Campaign_77_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_762",
+    "campaign_id": "cmp_1076",
+    "name": "Campaign_77_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_763",
+    "campaign_id": "cmp_1076",
+    "name": "Campaign_77_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_770",
+    "campaign_id": "cmp_1077",
+    "name": "Campaign_78_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_771",
+    "campaign_id": "cmp_1077",
+    "name": "Campaign_78_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_772",
+    "campaign_id": "cmp_1077",
+    "name": "Campaign_78_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_773",
+    "campaign_id": "cmp_1077",
+    "name": "Campaign_78_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_780",
+    "campaign_id": "cmp_1078",
+    "name": "Campaign_79_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_781",
+    "campaign_id": "cmp_1078",
+    "name": "Campaign_79_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_782",
+    "campaign_id": "cmp_1078",
+    "name": "Campaign_79_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_783",
+    "campaign_id": "cmp_1078",
+    "name": "Campaign_79_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_790",
+    "campaign_id": "cmp_1079",
+    "name": "Campaign_80_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_791",
+    "campaign_id": "cmp_1079",
+    "name": "Campaign_80_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_792",
+    "campaign_id": "cmp_1079",
+    "name": "Campaign_80_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_793",
+    "campaign_id": "cmp_1079",
+    "name": "Campaign_80_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_800",
+    "campaign_id": "cmp_1080",
+    "name": "Campaign_81_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_801",
+    "campaign_id": "cmp_1080",
+    "name": "Campaign_81_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_802",
+    "campaign_id": "cmp_1080",
+    "name": "Campaign_81_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_803",
+    "campaign_id": "cmp_1080",
+    "name": "Campaign_81_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_810",
+    "campaign_id": "cmp_1081",
+    "name": "Campaign_82_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_811",
+    "campaign_id": "cmp_1081",
+    "name": "Campaign_82_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_812",
+    "campaign_id": "cmp_1081",
+    "name": "Campaign_82_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_813",
+    "campaign_id": "cmp_1081",
+    "name": "Campaign_82_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_820",
+    "campaign_id": "cmp_1082",
+    "name": "Campaign_83_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_821",
+    "campaign_id": "cmp_1082",
+    "name": "Campaign_83_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_822",
+    "campaign_id": "cmp_1082",
+    "name": "Campaign_83_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_823",
+    "campaign_id": "cmp_1082",
+    "name": "Campaign_83_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_830",
+    "campaign_id": "cmp_1083",
+    "name": "Campaign_84_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_831",
+    "campaign_id": "cmp_1083",
+    "name": "Campaign_84_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_832",
+    "campaign_id": "cmp_1083",
+    "name": "Campaign_84_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_833",
+    "campaign_id": "cmp_1083",
+    "name": "Campaign_84_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_840",
+    "campaign_id": "cmp_1084",
+    "name": "Campaign_85_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_841",
+    "campaign_id": "cmp_1084",
+    "name": "Campaign_85_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_842",
+    "campaign_id": "cmp_1084",
+    "name": "Campaign_85_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_843",
+    "campaign_id": "cmp_1084",
+    "name": "Campaign_85_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_850",
+    "campaign_id": "cmp_1085",
+    "name": "Campaign_86_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_851",
+    "campaign_id": "cmp_1085",
+    "name": "Campaign_86_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_852",
+    "campaign_id": "cmp_1085",
+    "name": "Campaign_86_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_853",
+    "campaign_id": "cmp_1085",
+    "name": "Campaign_86_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_860",
+    "campaign_id": "cmp_1086",
+    "name": "Campaign_87_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_861",
+    "campaign_id": "cmp_1086",
+    "name": "Campaign_87_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_862",
+    "campaign_id": "cmp_1086",
+    "name": "Campaign_87_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_863",
+    "campaign_id": "cmp_1086",
+    "name": "Campaign_87_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_870",
+    "campaign_id": "cmp_1087",
+    "name": "Campaign_88_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_871",
+    "campaign_id": "cmp_1087",
+    "name": "Campaign_88_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_872",
+    "campaign_id": "cmp_1087",
+    "name": "Campaign_88_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_873",
+    "campaign_id": "cmp_1087",
+    "name": "Campaign_88_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_880",
+    "campaign_id": "cmp_1088",
+    "name": "Campaign_89_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_881",
+    "campaign_id": "cmp_1088",
+    "name": "Campaign_89_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_882",
+    "campaign_id": "cmp_1088",
+    "name": "Campaign_89_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_883",
+    "campaign_id": "cmp_1088",
+    "name": "Campaign_89_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_890",
+    "campaign_id": "cmp_1089",
+    "name": "Campaign_90_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_891",
+    "campaign_id": "cmp_1089",
+    "name": "Campaign_90_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_892",
+    "campaign_id": "cmp_1089",
+    "name": "Campaign_90_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_893",
+    "campaign_id": "cmp_1089",
+    "name": "Campaign_90_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_900",
+    "campaign_id": "cmp_1090",
+    "name": "Campaign_91_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_901",
+    "campaign_id": "cmp_1090",
+    "name": "Campaign_91_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_902",
+    "campaign_id": "cmp_1090",
+    "name": "Campaign_91_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_903",
+    "campaign_id": "cmp_1090",
+    "name": "Campaign_91_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_910",
+    "campaign_id": "cmp_1091",
+    "name": "Campaign_92_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_911",
+    "campaign_id": "cmp_1091",
+    "name": "Campaign_92_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_912",
+    "campaign_id": "cmp_1091",
+    "name": "Campaign_92_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_913",
+    "campaign_id": "cmp_1091",
+    "name": "Campaign_92_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_920",
+    "campaign_id": "cmp_1092",
+    "name": "Campaign_93_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_921",
+    "campaign_id": "cmp_1092",
+    "name": "Campaign_93_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_922",
+    "campaign_id": "cmp_1092",
+    "name": "Campaign_93_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_923",
+    "campaign_id": "cmp_1092",
+    "name": "Campaign_93_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_930",
+    "campaign_id": "cmp_1093",
+    "name": "Campaign_94_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_931",
+    "campaign_id": "cmp_1093",
+    "name": "Campaign_94_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_932",
+    "campaign_id": "cmp_1093",
+    "name": "Campaign_94_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_933",
+    "campaign_id": "cmp_1093",
+    "name": "Campaign_94_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_940",
+    "campaign_id": "cmp_1094",
+    "name": "Campaign_95_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_941",
+    "campaign_id": "cmp_1094",
+    "name": "Campaign_95_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_942",
+    "campaign_id": "cmp_1094",
+    "name": "Campaign_95_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_943",
+    "campaign_id": "cmp_1094",
+    "name": "Campaign_95_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_950",
+    "campaign_id": "cmp_1095",
+    "name": "Campaign_96_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "adgrp_951",
+    "campaign_id": "cmp_1095",
+    "name": "Campaign_96_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_952",
+    "campaign_id": "cmp_1095",
+    "name": "Campaign_96_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_953",
+    "campaign_id": "cmp_1095",
+    "name": "Campaign_96_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_960",
+    "campaign_id": "cmp_1096",
+    "name": "Campaign_97_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_961",
+    "campaign_id": "cmp_1096",
+    "name": "Campaign_97_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_962",
+    "campaign_id": "cmp_1096",
+    "name": "Campaign_97_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_963",
+    "campaign_id": "cmp_1096",
+    "name": "Campaign_97_Group_4",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_970",
+    "campaign_id": "cmp_1097",
+    "name": "Campaign_98_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_971",
+    "campaign_id": "cmp_1097",
+    "name": "Campaign_98_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_972",
+    "campaign_id": "cmp_1097",
+    "name": "Campaign_98_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_973",
+    "campaign_id": "cmp_1097",
+    "name": "Campaign_98_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "adgrp_980",
+    "campaign_id": "cmp_1098",
+    "name": "Campaign_99_Group_1",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_981",
+    "campaign_id": "cmp_1098",
+    "name": "Campaign_99_Group_2",
+    "status": "PAUSED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_982",
+    "campaign_id": "cmp_1098",
+    "name": "Campaign_99_Group_3",
+    "status": "ENABLED",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "adgrp_983",
+    "campaign_id": "cmp_1098",
+    "name": "Campaign_99_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "adgrp_990",
+    "campaign_id": "cmp_1099",
+    "name": "Campaign_100_Group_1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "adgrp_991",
+    "campaign_id": "cmp_1099",
+    "name": "Campaign_100_Group_2",
+    "status": "ENABLED",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "adgrp_992",
+    "campaign_id": "cmp_1099",
+    "name": "Campaign_100_Group_3",
+    "status": "PAUSED",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "adgrp_993",
+    "campaign_id": "cmp_1099",
+    "name": "Campaign_100_Group_4",
+    "status": "PAUSED",
+    "date": "2025-04-08"
   }
 ]
