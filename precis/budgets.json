@@ -1,402 +1,602 @@
 [
   {
-    "campaign_id": "cmp_0057",
-    "amount_micros": 632770800
+    "id": "bud_2000",
+    "name": "Budget Plan 1",
+    "amount_micros": 106000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0004",
-    "amount_micros": 573225600
+    "id": "bud_2001",
+    "name": "Budget Plan 2",
+    "amount_micros": 94000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0089",
-    "amount_micros": 878503500
+    "id": "bud_2002",
+    "name": "Budget Plan 3",
+    "amount_micros": 67000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0045",
-    "amount_micros": 819073000
+    "id": "bud_2003",
+    "name": "Budget Plan 4",
+    "amount_micros": 59000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0035",
-    "amount_micros": 242749600
+    "id": "bud_2004",
+    "name": "Budget Plan 5",
+    "amount_micros": 114000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0088",
-    "amount_micros": 640254400
+    "id": "bud_2005",
+    "name": "Budget Plan 6",
+    "amount_micros": 87000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0023",
-    "amount_micros": 567522700
+    "id": "bud_2006",
+    "name": "Budget Plan 7",
+    "amount_micros": 101000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0069",
-    "amount_micros": 480278700
+    "id": "bud_2007",
+    "name": "Budget Plan 8",
+    "amount_micros": 128000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0063",
-    "amount_micros": 929237000
+    "id": "bud_2008",
+    "name": "Budget Plan 9",
+    "amount_micros": 71000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0033",
-    "amount_micros": 384745700
+    "id": "bud_2009",
+    "name": "Budget Plan 10",
+    "amount_micros": 79000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0031",
-    "amount_micros": 646099300
+    "id": "bud_2010",
+    "name": "Budget Plan 11",
+    "amount_micros": 101000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0046",
-    "amount_micros": 313575100
+    "id": "bud_2011",
+    "name": "Budget Plan 12",
+    "amount_micros": 91000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0099",
-    "amount_micros": 618273900
+    "id": "bud_2012",
+    "name": "Budget Plan 13",
+    "amount_micros": 82000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0092",
-    "amount_micros": 387256900
+    "id": "bud_2013",
+    "name": "Budget Plan 14",
+    "amount_micros": 51000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0087",
-    "amount_micros": 639246400
+    "id": "bud_2014",
+    "name": "Budget Plan 15",
+    "amount_micros": 134000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0071",
-    "amount_micros": 679975100
+    "id": "bud_2015",
+    "name": "Budget Plan 16",
+    "amount_micros": 110000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0100",
-    "amount_micros": 457612300
+    "id": "bud_2016",
+    "name": "Budget Plan 17",
+    "amount_micros": 108000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0009",
-    "amount_micros": 598166200
+    "id": "bud_2017",
+    "name": "Budget Plan 18",
+    "amount_micros": 137000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0007",
-    "amount_micros": 499291900
+    "id": "bud_2018",
+    "name": "Budget Plan 19",
+    "amount_micros": 81000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0037",
-    "amount_micros": 193208100
+    "id": "bud_2019",
+    "name": "Budget Plan 20",
+    "amount_micros": 73000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0056",
-    "amount_micros": 435219500
+    "id": "bud_2020",
+    "name": "Budget Plan 21",
+    "amount_micros": 141000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0016",
-    "amount_micros": 360693300
+    "id": "bud_2021",
+    "name": "Budget Plan 22",
+    "amount_micros": 119000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0015",
-    "amount_micros": 523069300
+    "id": "bud_2022",
+    "name": "Budget Plan 23",
+    "amount_micros": 143000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0077",
-    "amount_micros": 312759300
+    "id": "bud_2023",
+    "name": "Budget Plan 24",
+    "amount_micros": 125000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0049",
-    "amount_micros": 808169800
+    "id": "bud_2024",
+    "name": "Budget Plan 25",
+    "amount_micros": 85000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0091",
-    "amount_micros": 901111500
+    "id": "bud_2025",
+    "name": "Budget Plan 26",
+    "amount_micros": 68000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0052",
-    "amount_micros": 555993200
+    "id": "bud_2026",
+    "name": "Budget Plan 27",
+    "amount_micros": 120000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0022",
-    "amount_micros": 828726500
+    "id": "bud_2027",
+    "name": "Budget Plan 28",
+    "amount_micros": 79000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0078",
-    "amount_micros": 912986900
+    "id": "bud_2028",
+    "name": "Budget Plan 29",
+    "amount_micros": 117000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0032",
-    "amount_micros": 111322600
+    "id": "bud_2029",
+    "name": "Budget Plan 30",
+    "amount_micros": 148000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0070",
-    "amount_micros": 293295700
+    "id": "bud_2030",
+    "name": "Budget Plan 31",
+    "amount_micros": 85000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0086",
-    "amount_micros": 142869700
+    "id": "bud_2031",
+    "name": "Budget Plan 32",
+    "amount_micros": 134000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0084",
-    "amount_micros": 469841900
+    "id": "bud_2032",
+    "name": "Budget Plan 33",
+    "amount_micros": 80000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0081",
-    "amount_micros": 338135600
+    "id": "bud_2033",
+    "name": "Budget Plan 34",
+    "amount_micros": 107000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0079",
-    "amount_micros": 331913900
+    "id": "bud_2034",
+    "name": "Budget Plan 35",
+    "amount_micros": 63000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0043",
-    "amount_micros": 793394800
+    "id": "bud_2035",
+    "name": "Budget Plan 36",
+    "amount_micros": 63000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0064",
-    "amount_micros": 625540000
+    "id": "bud_2036",
+    "name": "Budget Plan 37",
+    "amount_micros": 63000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0098",
-    "amount_micros": 380958700
+    "id": "bud_2037",
+    "name": "Budget Plan 38",
+    "amount_micros": 121000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0006",
-    "amount_micros": 675137400
+    "id": "bud_2038",
+    "name": "Budget Plan 39",
+    "amount_micros": 103000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0011",
-    "amount_micros": 232105000
+    "id": "bud_2039",
+    "name": "Budget Plan 40",
+    "amount_micros": 111000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0062",
-    "amount_micros": 107872800
+    "id": "bud_2040",
+    "name": "Budget Plan 41",
+    "amount_micros": 84000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0072",
-    "amount_micros": 369915500
+    "id": "bud_2041",
+    "name": "Budget Plan 42",
+    "amount_micros": 124000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0036",
-    "amount_micros": 935394000
+    "id": "bud_2042",
+    "name": "Budget Plan 43",
+    "amount_micros": 137000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0075",
-    "amount_micros": 614495700
+    "id": "bud_2043",
+    "name": "Budget Plan 44",
+    "amount_micros": 77000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0093",
-    "amount_micros": 338210300
+    "id": "bud_2044",
+    "name": "Budget Plan 45",
+    "amount_micros": 110000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0017",
-    "amount_micros": 782814900
+    "id": "bud_2045",
+    "name": "Budget Plan 46",
+    "amount_micros": 144000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0095",
-    "amount_micros": 864813200
+    "id": "bud_2046",
+    "name": "Budget Plan 47",
+    "amount_micros": 59000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0005",
-    "amount_micros": 401508400
+    "id": "bud_2047",
+    "name": "Budget Plan 48",
+    "amount_micros": 122000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0073",
-    "amount_micros": 450980700
+    "id": "bud_2048",
+    "name": "Budget Plan 49",
+    "amount_micros": 138000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0020",
-    "amount_micros": 764635200
+    "id": "bud_2049",
+    "name": "Budget Plan 50",
+    "amount_micros": 115000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0048",
-    "amount_micros": 396793600
+    "id": "bud_2050",
+    "name": "Budget Plan 51",
+    "amount_micros": 88000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0059",
-    "amount_micros": 110082600
+    "id": "bud_2051",
+    "name": "Budget Plan 52",
+    "amount_micros": 148000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0065",
-    "amount_micros": 540690200
+    "id": "bud_2052",
+    "name": "Budget Plan 53",
+    "amount_micros": 89000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0044",
-    "amount_micros": 222951600
+    "id": "bud_2053",
+    "name": "Budget Plan 54",
+    "amount_micros": 100000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0018",
-    "amount_micros": 226117500
+    "id": "bud_2054",
+    "name": "Budget Plan 55",
+    "amount_micros": 111000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0050",
-    "amount_micros": 954051800
+    "id": "bud_2055",
+    "name": "Budget Plan 56",
+    "amount_micros": 70000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0085",
-    "amount_micros": 346572800
+    "id": "bud_2056",
+    "name": "Budget Plan 57",
+    "amount_micros": 120000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0030",
-    "amount_micros": 496391700
+    "id": "bud_2057",
+    "name": "Budget Plan 58",
+    "amount_micros": 120000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0034",
-    "amount_micros": 862938200
+    "id": "bud_2058",
+    "name": "Budget Plan 59",
+    "amount_micros": 106000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0027",
-    "amount_micros": 272691000
+    "id": "bud_2059",
+    "name": "Budget Plan 60",
+    "amount_micros": 146000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0067",
-    "amount_micros": 958244100
+    "id": "bud_2060",
+    "name": "Budget Plan 61",
+    "amount_micros": 69000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0047",
-    "amount_micros": 169373900
+    "id": "bud_2061",
+    "name": "Budget Plan 62",
+    "amount_micros": 117000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0029",
-    "amount_micros": 882234900
+    "id": "bud_2062",
+    "name": "Budget Plan 63",
+    "amount_micros": 109000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0040",
-    "amount_micros": 559055900
+    "id": "bud_2063",
+    "name": "Budget Plan 64",
+    "amount_micros": 70000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0042",
-    "amount_micros": 580591000
+    "id": "bud_2064",
+    "name": "Budget Plan 65",
+    "amount_micros": 109000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0060",
-    "amount_micros": 842228900
+    "id": "bud_2065",
+    "name": "Budget Plan 66",
+    "amount_micros": 64000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0002",
-    "amount_micros": 264042100
+    "id": "bud_2066",
+    "name": "Budget Plan 67",
+    "amount_micros": 57000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0080",
-    "amount_micros": 398620700
+    "id": "bud_2067",
+    "name": "Budget Plan 68",
+    "amount_micros": 88000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0008",
-    "amount_micros": 417627300
+    "id": "bud_2068",
+    "name": "Budget Plan 69",
+    "amount_micros": 54000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0074",
-    "amount_micros": 831046600
+    "id": "bud_2069",
+    "name": "Budget Plan 70",
+    "amount_micros": 103000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0094",
-    "amount_micros": 868891800
+    "id": "bud_2070",
+    "name": "Budget Plan 71",
+    "amount_micros": 53000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0054",
-    "amount_micros": 837022800
+    "id": "bud_2071",
+    "name": "Budget Plan 72",
+    "amount_micros": 134000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0010",
-    "amount_micros": 141156400
+    "id": "bud_2072",
+    "name": "Budget Plan 73",
+    "amount_micros": 66000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0076",
-    "amount_micros": 411867900
+    "id": "bud_2073",
+    "name": "Budget Plan 74",
+    "amount_micros": 56000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0083",
-    "amount_micros": 318216700
+    "id": "bud_2074",
+    "name": "Budget Plan 75",
+    "amount_micros": 77000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0090",
-    "amount_micros": 920207100
+    "id": "bud_2075",
+    "name": "Budget Plan 76",
+    "amount_micros": 57000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0041",
-    "amount_micros": 681728300
+    "id": "bud_2076",
+    "name": "Budget Plan 77",
+    "amount_micros": 121000000,
+    "date": "2025-04-07"
   },
   {
-    "campaign_id": "cmp_0021",
-    "amount_micros": 812539700
+    "id": "bud_2077",
+    "name": "Budget Plan 78",
+    "amount_micros": 58000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0014",
-    "amount_micros": 648210400
+    "id": "bud_2078",
+    "name": "Budget Plan 79",
+    "amount_micros": 117000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0019",
-    "amount_micros": 678072100
+    "id": "bud_2079",
+    "name": "Budget Plan 80",
+    "amount_micros": 129000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0066",
-    "amount_micros": 817150600
+    "id": "bud_2080",
+    "name": "Budget Plan 81",
+    "amount_micros": 125000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0039",
-    "amount_micros": 691001100
+    "id": "bud_2081",
+    "name": "Budget Plan 82",
+    "amount_micros": 80000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0024",
-    "amount_micros": 316501800
+    "id": "bud_2082",
+    "name": "Budget Plan 83",
+    "amount_micros": 80000000,
+    "date": "2025-04-03"
   },
   {
-    "campaign_id": "cmp_0003",
-    "amount_micros": 362631300
+    "id": "bud_2083",
+    "name": "Budget Plan 84",
+    "amount_micros": 140000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0058",
-    "amount_micros": 500469500
+    "id": "bud_2084",
+    "name": "Budget Plan 85",
+    "amount_micros": 106000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0082",
-    "amount_micros": 199647800
+    "id": "bud_2085",
+    "name": "Budget Plan 86",
+    "amount_micros": 127000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0061",
-    "amount_micros": 888556700
+    "id": "bud_2086",
+    "name": "Budget Plan 87",
+    "amount_micros": 123000000,
+    "date": "2025-04-04"
   },
   {
-    "campaign_id": "cmp_0013",
-    "amount_micros": 182115300
+    "id": "bud_2087",
+    "name": "Budget Plan 88",
+    "amount_micros": 79000000,
+    "date": "2025-04-05"
   },
   {
-    "campaign_id": "cmp_0097",
-    "amount_micros": 744333600
+    "id": "bud_2088",
+    "name": "Budget Plan 89",
+    "amount_micros": 105000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0053",
-    "amount_micros": 655933200
+    "id": "bud_2089",
+    "name": "Budget Plan 90",
+    "amount_micros": 72000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0051",
-    "amount_micros": 534278300
+    "id": "bud_2090",
+    "name": "Budget Plan 91",
+    "amount_micros": 110000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0001",
-    "amount_micros": 174959600
+    "id": "bud_2091",
+    "name": "Budget Plan 92",
+    "amount_micros": 74000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0026",
-    "amount_micros": 747998300
+    "id": "bud_2092",
+    "name": "Budget Plan 93",
+    "amount_micros": 125000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0038",
-    "amount_micros": 727255800
+    "id": "bud_2093",
+    "name": "Budget Plan 94",
+    "amount_micros": 122000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0055",
-    "amount_micros": 646821200
+    "id": "bud_2094",
+    "name": "Budget Plan 95",
+    "amount_micros": 82000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0012",
-    "amount_micros": 499318900
+    "id": "bud_2095",
+    "name": "Budget Plan 96",
+    "amount_micros": 136000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0025",
-    "amount_micros": 621020100
+    "id": "bud_2096",
+    "name": "Budget Plan 97",
+    "amount_micros": 99000000,
+    "date": "2025-04-02"
   },
   {
-    "campaign_id": "cmp_0068",
-    "amount_micros": 351887700
+    "id": "bud_2097",
+    "name": "Budget Plan 98",
+    "amount_micros": 115000000,
+    "date": "2025-04-08"
   },
   {
-    "campaign_id": "cmp_0096",
-    "amount_micros": 435150400
+    "id": "bud_2098",
+    "name": "Budget Plan 99",
+    "amount_micros": 94000000,
+    "date": "2025-04-06"
   },
   {
-    "campaign_id": "cmp_0028",
-    "amount_micros": 779635500
+    "id": "bud_2099",
+    "name": "Budget Plan 100",
+    "amount_micros": 90000000,
+    "date": "2025-04-04"
   }
 ]
