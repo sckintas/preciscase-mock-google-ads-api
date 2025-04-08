@@ -1,802 +1,902 @@
 [
   {
-    "id": "cmp_0057",
-    "name": "Campaign_1",
-    "status": "ENABLED",
-    "optimization_score": 0.6,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0004",
-    "name": "Campaign_2",
-    "status": "ENABLED",
-    "optimization_score": 0.89,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0089",
-    "name": "Campaign_3",
-    "status": "ENABLED",
-    "optimization_score": 0.66,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0045",
-    "name": "Campaign_5",
-    "status": "ENABLED",
-    "optimization_score": 0.81,
+    "id": "cmp_1000",
+    "name": "Campaign 1",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2000",
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_0035",
-    "name": "Campaign_6",
-    "status": "ENABLED",
-    "optimization_score": 0.62,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0088",
-    "name": "Campaign_7",
-    "status": "ENABLED",
-    "optimization_score": 0.76,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0023",
-    "name": "Campaign_8",
-    "status": "ENABLED",
-    "optimization_score": 0.5,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0069",
-    "name": "Campaign_9",
-    "status": "ENABLED",
-    "optimization_score": 0.45,
+    "id": "cmp_1001",
+    "name": "Campaign 2",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2001",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0063",
-    "name": "Campaign_10",
-    "status": "ENABLED",
-    "optimization_score": 0.59,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0033",
-    "name": "Campaign_11",
-    "status": "ENABLED",
-    "optimization_score": 0.82,
+    "id": "cmp_1002",
+    "name": "Campaign 3",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2002",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0031",
-    "name": "Campaign_12",
+    "id": "cmp_1003",
+    "name": "Campaign 4",
     "status": "ENABLED",
-    "optimization_score": 0.54,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0046",
-    "name": "Campaign_13",
-    "status": "ENABLED",
-    "optimization_score": 0.86,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2003",
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_0099",
-    "name": "Campaign_14",
-    "status": "ENABLED",
-    "optimization_score": 0.84,
+    "id": "cmp_1004",
+    "name": "Campaign 5",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2004",
+    "date": "2025-04-03"
   },
   {
-    "id": "cmp_0092",
-    "name": "Campaign_17",
+    "id": "cmp_1005",
+    "name": "Campaign 6",
     "status": "ENABLED",
-    "optimization_score": 0.63,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2005",
+    "date": "2025-04-03"
   },
   {
-    "id": "cmp_0087",
-    "name": "Campaign_18",
+    "id": "cmp_1006",
+    "name": "Campaign 7",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2006",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1007",
+    "name": "Campaign 8",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2007",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1008",
+    "name": "Campaign 9",
     "status": "ENABLED",
-    "optimization_score": 0.48,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2008",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0071",
-    "name": "Campaign_19",
-    "status": "ENABLED",
-    "optimization_score": 0.82,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0100",
-    "name": "Campaign_20",
-    "status": "ENABLED",
-    "optimization_score": 0.77,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0009",
-    "name": "Campaign_21",
-    "status": "ENABLED",
-    "optimization_score": 0.43,
+    "id": "cmp_1009",
+    "name": "Campaign 10",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2009",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0007",
-    "name": "Campaign_22",
+    "id": "cmp_1010",
+    "name": "Campaign 11",
     "status": "ENABLED",
-    "optimization_score": 0.73,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0037",
-    "name": "Campaign_23",
-    "status": "ENABLED",
-    "optimization_score": 0.5,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0056",
-    "name": "Campaign_25",
-    "status": "ENABLED",
-    "optimization_score": 0.49,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2010",
+    "date": "2025-04-03"
   },
   {
-    "id": "cmp_0016",
-    "name": "Campaign_26",
-    "status": "ENABLED",
-    "optimization_score": 0.44,
+    "id": "cmp_1011",
+    "name": "Campaign 12",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2011",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0015",
-    "name": "Campaign_27",
+    "id": "cmp_1012",
+    "name": "Campaign 13",
     "status": "ENABLED",
-    "optimization_score": 0.44,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0077",
-    "name": "Campaign_28",
-    "status": "ENABLED",
-    "optimization_score": 0.66,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0049",
-    "name": "Campaign_30",
-    "status": "ENABLED",
-    "optimization_score": 0.81,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2012",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0091",
-    "name": "Campaign_32",
+    "id": "cmp_1013",
+    "name": "Campaign 14",
     "status": "ENABLED",
-    "optimization_score": 0.54,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0052",
-    "name": "Campaign_33",
-    "status": "ENABLED",
-    "optimization_score": 0.49,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0022",
-    "name": "Campaign_34",
-    "status": "ENABLED",
-    "optimization_score": 0.72,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0078",
-    "name": "Campaign_36",
-    "status": "ENABLED",
-    "optimization_score": 0.76,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2013",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0032",
-    "name": "Campaign_37",
-    "status": "ENABLED",
-    "optimization_score": 0.6,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0070",
-    "name": "Campaign_38",
-    "status": "ENABLED",
-    "optimization_score": 0.69,
+    "id": "cmp_1014",
+    "name": "Campaign 15",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2014",
+    "date": "2025-04-05"
   },
   {
-    "id": "cmp_0086",
-    "name": "Campaign_39",
+    "id": "cmp_1015",
+    "name": "Campaign 16",
     "status": "ENABLED",
-    "optimization_score": 0.81,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0084",
-    "name": "Campaign_40",
-    "status": "ENABLED",
-    "optimization_score": 0.52,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0081",
-    "name": "Campaign_41",
-    "status": "ENABLED",
-    "optimization_score": 0.61,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2015",
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_0079",
-    "name": "Campaign_44",
+    "id": "cmp_1016",
+    "name": "Campaign 17",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2016",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "cmp_1017",
+    "name": "Campaign 18",
     "status": "ENABLED",
-    "optimization_score": 0.83,
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2017",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1018",
+    "name": "Campaign 19",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2018",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0043",
-    "name": "Campaign_46",
-    "status": "ENABLED",
-    "optimization_score": 0.85,
+    "id": "cmp_1019",
+    "name": "Campaign 20",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2019",
+    "date": "2025-04-05"
   },
   {
-    "id": "cmp_0064",
-    "name": "Campaign_47",
+    "id": "cmp_1020",
+    "name": "Campaign 21",
     "status": "ENABLED",
-    "optimization_score": 0.55,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2020",
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_0098",
-    "name": "Campaign_48",
+    "id": "cmp_1021",
+    "name": "Campaign 22",
     "status": "ENABLED",
-    "optimization_score": 0.5,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0006",
-    "name": "Campaign_52",
-    "status": "ENABLED",
-    "optimization_score": 0.69,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2021",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0011",
-    "name": "Campaign_53",
-    "status": "ENABLED",
-    "optimization_score": 0.73,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0062",
-    "name": "Campaign_55",
-    "status": "ENABLED",
-    "optimization_score": 0.62,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0072",
-    "name": "Campaign_56",
-    "status": "ENABLED",
-    "optimization_score": 0.75,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0036",
-    "name": "Campaign_57",
-    "status": "ENABLED",
-    "optimization_score": 0.74,
+    "id": "cmp_1022",
+    "name": "Campaign 23",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2022",
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_0075",
-    "name": "Campaign_59",
-    "status": "ENABLED",
-    "optimization_score": 0.45,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0093",
-    "name": "Campaign_60",
-    "status": "ENABLED",
-    "optimization_score": 0.79,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0017",
-    "name": "Campaign_61",
-    "status": "ENABLED",
-    "optimization_score": 0.7,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0095",
-    "name": "Campaign_65",
-    "status": "ENABLED",
-    "optimization_score": 0.74,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0005",
-    "name": "Campaign_66",
-    "status": "ENABLED",
-    "optimization_score": 0.58,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0073",
-    "name": "Campaign_67",
-    "status": "ENABLED",
-    "optimization_score": 0.79,
+    "id": "cmp_1023",
+    "name": "Campaign 24",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2023",
+    "date": "2025-04-07"
   },
   {
-    "id": "cmp_0020",
-    "name": "Campaign_70",
+    "id": "cmp_1024",
+    "name": "Campaign 25",
     "status": "ENABLED",
-    "optimization_score": 0.62,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0048",
-    "name": "Campaign_71",
-    "status": "ENABLED",
-    "optimization_score": 0.61,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0059",
-    "name": "Campaign_72",
-    "status": "ENABLED",
-    "optimization_score": 0.54,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2024",
+    "date": "2025-04-07"
   },
   {
-    "id": "cmp_0065",
-    "name": "Campaign_77",
+    "id": "cmp_1025",
+    "name": "Campaign 26",
     "status": "ENABLED",
-    "optimization_score": 0.84,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2025",
+    "date": "2025-04-07"
   },
   {
-    "id": "cmp_0044",
-    "name": "Campaign_80",
+    "id": "cmp_1026",
+    "name": "Campaign 27",
     "status": "ENABLED",
-    "optimization_score": 0.49,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0018",
-    "name": "Campaign_83",
-    "status": "ENABLED",
-    "optimization_score": 0.78,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0050",
-    "name": "Campaign_87",
-    "status": "ENABLED",
-    "optimization_score": 0.45,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0085",
-    "name": "Campaign_89",
-    "status": "ENABLED",
-    "optimization_score": 0.44,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0030",
-    "name": "Campaign_90",
-    "status": "ENABLED",
-    "optimization_score": 0.47,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0034",
-    "name": "Campaign_94",
-    "status": "ENABLED",
-    "optimization_score": 0.53,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0027",
-    "name": "Campaign_97",
-    "status": "ENABLED",
-    "optimization_score": 0.71,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0067",
-    "name": "Campaign_98",
-    "status": "ENABLED",
-    "optimization_score": 0.64,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0047",
-    "name": "Campaign_99",
-    "status": "ENABLED",
-    "optimization_score": 0.45,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0029",
-    "name": "Campaign_100",
-    "status": "ENABLED",
-    "optimization_score": 0.4,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0040",
-    "name": "Campaign_2",
-    "status": "ENABLED",
-    "optimization_score": 0.66,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2026",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0042",
-    "name": "Campaign_10",
+    "id": "cmp_1027",
+    "name": "Campaign 28",
     "status": "ENABLED",
-    "optimization_score": 0.58,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0060",
-    "name": "Campaign_14",
-    "status": "ENABLED",
-    "optimization_score": 0.68,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0002",
-    "name": "Campaign_15",
-    "status": "ENABLED",
-    "optimization_score": 0.46,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2027",
+    "date": "2025-04-05"
   },
   {
-    "id": "cmp_0080",
-    "name": "Campaign_16",
+    "id": "cmp_1028",
+    "name": "Campaign 29",
     "status": "ENABLED",
-    "optimization_score": 0.54,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2028",
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_0008",
-    "name": "Campaign_17",
-    "status": "ENABLED",
-    "optimization_score": 0.66,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0074",
-    "name": "Campaign_19",
-    "status": "ENABLED",
-    "optimization_score": 0.8,
+    "id": "cmp_1029",
+    "name": "Campaign 30",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2029",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0094",
-    "name": "Campaign_20",
-    "status": "ENABLED",
-    "optimization_score": 0.4,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0054",
-    "name": "Campaign_25",
-    "status": "ENABLED",
-    "optimization_score": 0.59,
+    "id": "cmp_1030",
+    "name": "Campaign 31",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2030",
+    "date": "2025-04-07"
   },
   {
-    "id": "cmp_0010",
-    "name": "Campaign_30",
+    "id": "cmp_1031",
+    "name": "Campaign 32",
     "status": "ENABLED",
-    "optimization_score": 0.71,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0076",
-    "name": "Campaign_34",
-    "status": "ENABLED",
-    "optimization_score": 0.68,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0083",
-    "name": "Campaign_41",
-    "status": "ENABLED",
-    "optimization_score": 0.73,
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0090",
-    "name": "Campaign_44",
-    "status": "ENABLED",
-    "optimization_score": 0.5,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2031",
+    "date": "2025-04-03"
   },
   {
-    "id": "cmp_0041",
-    "name": "Campaign_53",
-    "status": "ENABLED",
-    "optimization_score": 0.49,
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0021",
-    "name": "Campaign_59",
-    "status": "ENABLED",
-    "optimization_score": 0.51,
+    "id": "cmp_1032",
+    "name": "Campaign 33",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2032",
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_0014",
-    "name": "Campaign_70",
+    "id": "cmp_1033",
+    "name": "Campaign 34",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2033",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1034",
+    "name": "Campaign 35",
     "status": "ENABLED",
-    "optimization_score": 0.59,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2034",
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_0019",
-    "name": "Campaign_74",
+    "id": "cmp_1035",
+    "name": "Campaign 36",
     "status": "ENABLED",
-    "optimization_score": 0.78,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2035",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0066",
-    "name": "Campaign_76",
+    "id": "cmp_1036",
+    "name": "Campaign 37",
     "status": "ENABLED",
-    "optimization_score": 0.42,
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0039",
-    "name": "Campaign_79",
-    "status": "ENABLED",
-    "optimization_score": 0.67,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2036",
+    "date": "2025-04-07"
   },
   {
-    "id": "cmp_0024",
-    "name": "Campaign_83",
-    "status": "ENABLED",
-    "optimization_score": 0.44,
+    "id": "cmp_1037",
+    "name": "Campaign 38",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2037",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0003",
-    "name": "Campaign_85",
-    "status": "ENABLED",
-    "optimization_score": 0.81,
+    "id": "cmp_1038",
+    "name": "Campaign 39",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2038",
+    "date": "2025-04-08"
   },
   {
-    "id": "cmp_0058",
-    "name": "Campaign_87",
-    "status": "ENABLED",
-    "optimization_score": 0.49,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0082",
-    "name": "Campaign_94",
-    "status": "ENABLED",
-    "optimization_score": 0.64,
+    "id": "cmp_1039",
+    "name": "Campaign 40",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2039",
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_0061",
-    "name": "Campaign_97",
+    "id": "cmp_1040",
+    "name": "Campaign 41",
     "status": "ENABLED",
-    "optimization_score": 0.4,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2040",
+    "date": "2025-04-05"
   },
   {
-    "id": "cmp_0013",
-    "name": "Campaign_99",
+    "id": "cmp_1041",
+    "name": "Campaign 42",
     "status": "ENABLED",
-    "optimization_score": 0.82,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2041",
+    "date": "2025-04-04"
   },
   {
-    "id": "cmp_0097",
-    "name": "Campaign_4",
-    "status": "ENABLED",
-    "optimization_score": 0.42,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0053",
-    "name": "Campaign_17",
-    "status": "ENABLED",
-    "optimization_score": 0.62,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "TARGET_CPA"
-  },
-  {
-    "id": "cmp_0051",
-    "name": "Campaign_24",
-    "status": "ENABLED",
-    "optimization_score": 0.8,
+    "id": "cmp_1042",
+    "name": "Campaign 43",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2042",
+    "date": "2025-04-07"
   },
   {
-    "id": "cmp_0001",
-    "name": "Campaign_31",
+    "id": "cmp_1043",
+    "name": "Campaign 44",
     "status": "ENABLED",
-    "optimization_score": 0.78,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2043",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0026",
-    "name": "Campaign_36",
+    "id": "cmp_1044",
+    "name": "Campaign 45",
     "status": "ENABLED",
-    "optimization_score": 0.44,
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2044",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1045",
+    "name": "Campaign 46",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2045",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1046",
+    "name": "Campaign 47",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2046",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0038",
-    "name": "Campaign_9",
+    "id": "cmp_1047",
+    "name": "Campaign 48",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2047",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1048",
+    "name": "Campaign 49",
     "status": "ENABLED",
-    "optimization_score": 0.66,
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2048",
+    "date": "2025-04-06"
   },
   {
-    "id": "cmp_0055",
-    "name": "Campaign_13",
+    "id": "cmp_1049",
+    "name": "Campaign 50",
     "status": "ENABLED",
-    "optimization_score": 0.42,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS"
-  },
-  {
-    "id": "cmp_0012",
-    "name": "Campaign_50",
-    "status": "ENABLED",
-    "optimization_score": 0.64,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0025",
-    "name": "Campaign_23",
-    "status": "ENABLED",
-    "optimization_score": 0.46,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
-  },
-  {
-    "id": "cmp_0068",
-    "name": "Campaign_26",
-    "status": "ENABLED",
-    "optimization_score": 0.49,
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA"
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2049",
+    "date": "2025-04-05"
   },
   {
-    "id": "cmp_0096",
-    "name": "Campaign_69",
+    "id": "cmp_1050",
+    "name": "Campaign 51",
     "status": "ENABLED",
-    "optimization_score": 0.45,
-    "advertising_channel_type": "SHOPPING",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2050",
+    "date": "2025-04-02"
   },
   {
-    "id": "cmp_0028",
-    "name": "Campaign_13",
-    "status": "ENABLED",
-    "optimization_score": 0.5,
+    "id": "cmp_1051",
+    "name": "Campaign 52",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC"
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2051",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "cmp_1052",
+    "name": "Campaign 53",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2052",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1053",
+    "name": "Campaign 54",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2053",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "cmp_1054",
+    "name": "Campaign 55",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2054",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1055",
+    "name": "Campaign 56",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2055",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1056",
+    "name": "Campaign 57",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2056",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1057",
+    "name": "Campaign 58",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2057",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1058",
+    "name": "Campaign 59",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2058",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1059",
+    "name": "Campaign 60",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2059",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1060",
+    "name": "Campaign 61",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2060",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "cmp_1061",
+    "name": "Campaign 62",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2061",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1062",
+    "name": "Campaign 63",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2062",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1063",
+    "name": "Campaign 64",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2063",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1064",
+    "name": "Campaign 65",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2064",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1065",
+    "name": "Campaign 66",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2065",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1066",
+    "name": "Campaign 67",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2066",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "cmp_1067",
+    "name": "Campaign 68",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2067",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1068",
+    "name": "Campaign 69",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2068",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1069",
+    "name": "Campaign 70",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2069",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1070",
+    "name": "Campaign 71",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2070",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1071",
+    "name": "Campaign 72",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2071",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1072",
+    "name": "Campaign 73",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2072",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1073",
+    "name": "Campaign 74",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2073",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1074",
+    "name": "Campaign 75",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2074",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "cmp_1075",
+    "name": "Campaign 76",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2075",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1076",
+    "name": "Campaign 77",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2076",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1077",
+    "name": "Campaign 78",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2077",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1078",
+    "name": "Campaign 79",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2078",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1079",
+    "name": "Campaign 80",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2079",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "cmp_1080",
+    "name": "Campaign 81",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2080",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1081",
+    "name": "Campaign 82",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2081",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1082",
+    "name": "Campaign 83",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2082",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1083",
+    "name": "Campaign 84",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2083",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1084",
+    "name": "Campaign 85",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2084",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1085",
+    "name": "Campaign 86",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2085",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "cmp_1086",
+    "name": "Campaign 87",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2086",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "cmp_1087",
+    "name": "Campaign 88",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2087",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1088",
+    "name": "Campaign 89",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2088",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1089",
+    "name": "Campaign 90",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2089",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1090",
+    "name": "Campaign 91",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2090",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1091",
+    "name": "Campaign 92",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2091",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1092",
+    "name": "Campaign 93",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2092",
+    "date": "2025-04-02"
+  },
+  {
+    "id": "cmp_1093",
+    "name": "Campaign 94",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2093",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1094",
+    "name": "Campaign 95",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2094",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "cmp_1095",
+    "name": "Campaign 96",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2095",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1096",
+    "name": "Campaign 97",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bud_2096",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "cmp_1097",
+    "name": "Campaign 98",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2097",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "cmp_1098",
+    "name": "Campaign 99",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2098",
+    "date": "2025-04-05"
+  },
+  {
+    "id": "cmp_1099",
+    "name": "Campaign 100",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bud_2099",
+    "date": "2025-04-07"
   }
 ]
