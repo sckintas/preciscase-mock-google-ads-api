@@ -1,602 +1,6002 @@
 [
   {
-    "id": "bud_2000",
+    "id": "bud_0000",
+    "name": "Budget Plan 0",
+    "amount_micros": 82855650,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0001",
     "name": "Budget Plan 1",
-    "amount_micros": 106000000,
-    "date": "2025-04-06"
+    "amount_micros": 120773291,
+    "date": "2024-06-10"
   },
   {
-    "id": "bud_2001",
+    "id": "bud_0002",
     "name": "Budget Plan 2",
-    "amount_micros": 94000000,
-    "date": "2025-04-05"
+    "amount_micros": 82740344,
+    "date": "2024-12-07"
   },
   {
-    "id": "bud_2002",
+    "id": "bud_0003",
     "name": "Budget Plan 3",
-    "amount_micros": 67000000,
-    "date": "2025-04-02"
+    "amount_micros": 176409078,
+    "date": "2025-03-28"
   },
   {
-    "id": "bud_2003",
+    "id": "bud_0004",
     "name": "Budget Plan 4",
-    "amount_micros": 59000000,
-    "date": "2025-04-05"
+    "amount_micros": 129810767,
+    "date": "2024-08-23"
   },
   {
-    "id": "bud_2004",
+    "id": "bud_0005",
     "name": "Budget Plan 5",
-    "amount_micros": 114000000,
-    "date": "2025-04-03"
+    "amount_micros": 75566687,
+    "date": "2025-03-25"
   },
   {
-    "id": "bud_2005",
+    "id": "bud_0006",
     "name": "Budget Plan 6",
-    "amount_micros": 87000000,
-    "date": "2025-04-06"
+    "amount_micros": 194691650,
+    "date": "2024-11-26"
   },
   {
-    "id": "bud_2006",
+    "id": "bud_0007",
     "name": "Budget Plan 7",
-    "amount_micros": 101000000,
-    "date": "2025-04-05"
+    "amount_micros": 142345143,
+    "date": "2024-09-13"
   },
   {
-    "id": "bud_2007",
+    "id": "bud_0008",
     "name": "Budget Plan 8",
-    "amount_micros": 128000000,
-    "date": "2025-04-05"
+    "amount_micros": 119415227,
+    "date": "2025-02-24"
   },
   {
-    "id": "bud_2008",
+    "id": "bud_0009",
     "name": "Budget Plan 9",
-    "amount_micros": 71000000,
-    "date": "2025-04-08"
+    "amount_micros": 158995782,
+    "date": "2025-01-16"
   },
   {
-    "id": "bud_2009",
+    "id": "bud_0010",
     "name": "Budget Plan 10",
-    "amount_micros": 79000000,
-    "date": "2025-04-03"
+    "amount_micros": 57398341,
+    "date": "2025-01-01"
   },
   {
-    "id": "bud_2010",
+    "id": "bud_0011",
     "name": "Budget Plan 11",
-    "amount_micros": 101000000,
-    "date": "2025-04-02"
+    "amount_micros": 195563134,
+    "date": "2024-04-12"
   },
   {
-    "id": "bud_2011",
+    "id": "bud_0012",
     "name": "Budget Plan 12",
-    "amount_micros": 91000000,
-    "date": "2025-04-07"
+    "amount_micros": 151931904,
+    "date": "2025-03-03"
   },
   {
-    "id": "bud_2012",
+    "id": "bud_0013",
     "name": "Budget Plan 13",
-    "amount_micros": 82000000,
-    "date": "2025-04-02"
+    "amount_micros": 71410451,
+    "date": "2025-01-06"
   },
   {
-    "id": "bud_2013",
+    "id": "bud_0014",
     "name": "Budget Plan 14",
-    "amount_micros": 51000000,
-    "date": "2025-04-08"
+    "amount_micros": 118068143,
+    "date": "2025-03-18"
   },
   {
-    "id": "bud_2014",
+    "id": "bud_0015",
     "name": "Budget Plan 15",
-    "amount_micros": 134000000,
-    "date": "2025-04-03"
+    "amount_micros": 162450098,
+    "date": "2024-04-06"
   },
   {
-    "id": "bud_2015",
+    "id": "bud_0016",
     "name": "Budget Plan 16",
-    "amount_micros": 110000000,
-    "date": "2025-04-04"
+    "amount_micros": 76395204,
+    "date": "2024-05-01"
   },
   {
-    "id": "bud_2016",
+    "id": "bud_0017",
     "name": "Budget Plan 17",
-    "amount_micros": 108000000,
-    "date": "2025-04-07"
+    "amount_micros": 111294374,
+    "date": "2024-07-26"
   },
   {
-    "id": "bud_2017",
+    "id": "bud_0018",
     "name": "Budget Plan 18",
-    "amount_micros": 137000000,
-    "date": "2025-04-07"
+    "amount_micros": 163761894,
+    "date": "2024-11-19"
   },
   {
-    "id": "bud_2018",
+    "id": "bud_0019",
     "name": "Budget Plan 19",
-    "amount_micros": 81000000,
-    "date": "2025-04-07"
+    "amount_micros": 124897286,
+    "date": "2025-02-07"
   },
   {
-    "id": "bud_2019",
+    "id": "bud_0020",
     "name": "Budget Plan 20",
-    "amount_micros": 73000000,
-    "date": "2025-04-07"
+    "amount_micros": 186100567,
+    "date": "2024-05-20"
   },
   {
-    "id": "bud_2020",
+    "id": "bud_0021",
     "name": "Budget Plan 21",
-    "amount_micros": 141000000,
-    "date": "2025-04-05"
+    "amount_micros": 94566835,
+    "date": "2024-12-09"
   },
   {
-    "id": "bud_2021",
+    "id": "bud_0022",
     "name": "Budget Plan 22",
-    "amount_micros": 119000000,
-    "date": "2025-04-04"
+    "amount_micros": 193929669,
+    "date": "2024-08-24"
   },
   {
-    "id": "bud_2022",
+    "id": "bud_0023",
     "name": "Budget Plan 23",
-    "amount_micros": 143000000,
-    "date": "2025-04-07"
+    "amount_micros": 152507987,
+    "date": "2024-12-12"
   },
   {
-    "id": "bud_2023",
+    "id": "bud_0024",
     "name": "Budget Plan 24",
-    "amount_micros": 125000000,
-    "date": "2025-04-02"
+    "amount_micros": 61795379,
+    "date": "2024-11-19"
   },
   {
-    "id": "bud_2024",
+    "id": "bud_0025",
     "name": "Budget Plan 25",
-    "amount_micros": 85000000,
-    "date": "2025-04-03"
+    "amount_micros": 154568438,
+    "date": "2024-10-05"
   },
   {
-    "id": "bud_2025",
+    "id": "bud_0026",
     "name": "Budget Plan 26",
-    "amount_micros": 68000000,
-    "date": "2025-04-02"
+    "amount_micros": 71066947,
+    "date": "2024-08-07"
   },
   {
-    "id": "bud_2026",
+    "id": "bud_0027",
     "name": "Budget Plan 27",
-    "amount_micros": 120000000,
-    "date": "2025-04-05"
+    "amount_micros": 124117056,
+    "date": "2024-09-22"
   },
   {
-    "id": "bud_2027",
+    "id": "bud_0028",
     "name": "Budget Plan 28",
-    "amount_micros": 79000000,
-    "date": "2025-04-06"
+    "amount_micros": 86348959,
+    "date": "2024-07-26"
   },
   {
-    "id": "bud_2028",
+    "id": "bud_0029",
     "name": "Budget Plan 29",
-    "amount_micros": 117000000,
-    "date": "2025-04-08"
+    "amount_micros": 117231388,
+    "date": "2024-11-06"
   },
   {
-    "id": "bud_2029",
+    "id": "bud_0030",
     "name": "Budget Plan 30",
-    "amount_micros": 148000000,
-    "date": "2025-04-05"
+    "amount_micros": 50759349,
+    "date": "2024-11-19"
   },
   {
-    "id": "bud_2030",
+    "id": "bud_0031",
     "name": "Budget Plan 31",
-    "amount_micros": 85000000,
-    "date": "2025-04-03"
+    "amount_micros": 130688224,
+    "date": "2024-10-01"
   },
   {
-    "id": "bud_2031",
+    "id": "bud_0032",
     "name": "Budget Plan 32",
-    "amount_micros": 134000000,
-    "date": "2025-04-06"
+    "amount_micros": 106265830,
+    "date": "2024-07-27"
   },
   {
-    "id": "bud_2032",
+    "id": "bud_0033",
     "name": "Budget Plan 33",
-    "amount_micros": 80000000,
-    "date": "2025-04-03"
+    "amount_micros": 167821656,
+    "date": "2024-04-14"
   },
   {
-    "id": "bud_2033",
+    "id": "bud_0034",
     "name": "Budget Plan 34",
-    "amount_micros": 107000000,
-    "date": "2025-04-02"
+    "amount_micros": 198711284,
+    "date": "2024-12-10"
   },
   {
-    "id": "bud_2034",
+    "id": "bud_0035",
     "name": "Budget Plan 35",
-    "amount_micros": 63000000,
-    "date": "2025-04-04"
+    "amount_micros": 185532045,
+    "date": "2024-07-15"
   },
   {
-    "id": "bud_2035",
+    "id": "bud_0036",
     "name": "Budget Plan 36",
-    "amount_micros": 63000000,
-    "date": "2025-04-03"
+    "amount_micros": 193591857,
+    "date": "2024-09-21"
   },
   {
-    "id": "bud_2036",
+    "id": "bud_0037",
     "name": "Budget Plan 37",
-    "amount_micros": 63000000,
-    "date": "2025-04-02"
+    "amount_micros": 98003858,
+    "date": "2025-03-26"
   },
   {
-    "id": "bud_2037",
+    "id": "bud_0038",
     "name": "Budget Plan 38",
-    "amount_micros": 121000000,
-    "date": "2025-04-06"
+    "amount_micros": 167938212,
+    "date": "2024-05-27"
   },
   {
-    "id": "bud_2038",
+    "id": "bud_0039",
     "name": "Budget Plan 39",
-    "amount_micros": 103000000,
-    "date": "2025-04-06"
+    "amount_micros": 196185487,
+    "date": "2024-04-01"
   },
   {
-    "id": "bud_2039",
+    "id": "bud_0040",
     "name": "Budget Plan 40",
-    "amount_micros": 111000000,
-    "date": "2025-04-05"
+    "amount_micros": 86464555,
+    "date": "2024-10-16"
   },
   {
-    "id": "bud_2040",
+    "id": "bud_0041",
     "name": "Budget Plan 41",
-    "amount_micros": 84000000,
-    "date": "2025-04-02"
+    "amount_micros": 84709119,
+    "date": "2025-03-16"
   },
   {
-    "id": "bud_2041",
+    "id": "bud_0042",
     "name": "Budget Plan 42",
-    "amount_micros": 124000000,
-    "date": "2025-04-03"
+    "amount_micros": 105214482,
+    "date": "2025-03-22"
   },
   {
-    "id": "bud_2042",
+    "id": "bud_0043",
     "name": "Budget Plan 43",
-    "amount_micros": 137000000,
-    "date": "2025-04-02"
+    "amount_micros": 193316569,
+    "date": "2024-06-17"
   },
   {
-    "id": "bud_2043",
+    "id": "bud_0044",
     "name": "Budget Plan 44",
-    "amount_micros": 77000000,
-    "date": "2025-04-04"
+    "amount_micros": 100163955,
+    "date": "2025-02-01"
   },
   {
-    "id": "bud_2044",
+    "id": "bud_0045",
     "name": "Budget Plan 45",
-    "amount_micros": 110000000,
-    "date": "2025-04-06"
+    "amount_micros": 86299333,
+    "date": "2024-06-28"
   },
   {
-    "id": "bud_2045",
+    "id": "bud_0046",
     "name": "Budget Plan 46",
-    "amount_micros": 144000000,
-    "date": "2025-04-04"
+    "amount_micros": 165541326,
+    "date": "2024-05-23"
   },
   {
-    "id": "bud_2046",
+    "id": "bud_0047",
     "name": "Budget Plan 47",
-    "amount_micros": 59000000,
-    "date": "2025-04-02"
+    "amount_micros": 108461956,
+    "date": "2024-07-06"
   },
   {
-    "id": "bud_2047",
+    "id": "bud_0048",
     "name": "Budget Plan 48",
-    "amount_micros": 122000000,
-    "date": "2025-04-02"
+    "amount_micros": 171807311,
+    "date": "2024-07-11"
   },
   {
-    "id": "bud_2048",
+    "id": "bud_0049",
     "name": "Budget Plan 49",
-    "amount_micros": 138000000,
-    "date": "2025-04-06"
+    "amount_micros": 184799855,
+    "date": "2024-10-05"
   },
   {
-    "id": "bud_2049",
+    "id": "bud_0050",
     "name": "Budget Plan 50",
-    "amount_micros": 115000000,
-    "date": "2025-04-03"
+    "amount_micros": 121033579,
+    "date": "2024-10-11"
   },
   {
-    "id": "bud_2050",
+    "id": "bud_0051",
     "name": "Budget Plan 51",
-    "amount_micros": 88000000,
-    "date": "2025-04-04"
+    "amount_micros": 116836898,
+    "date": "2024-06-28"
   },
   {
-    "id": "bud_2051",
+    "id": "bud_0052",
     "name": "Budget Plan 52",
-    "amount_micros": 148000000,
-    "date": "2025-04-07"
+    "amount_micros": 71080319,
+    "date": "2024-10-19"
   },
   {
-    "id": "bud_2052",
+    "id": "bud_0053",
     "name": "Budget Plan 53",
-    "amount_micros": 89000000,
-    "date": "2025-04-07"
+    "amount_micros": 148617615,
+    "date": "2024-04-16"
   },
   {
-    "id": "bud_2053",
+    "id": "bud_0054",
     "name": "Budget Plan 54",
-    "amount_micros": 100000000,
-    "date": "2025-04-06"
+    "amount_micros": 104801434,
+    "date": "2024-07-09"
   },
   {
-    "id": "bud_2054",
+    "id": "bud_0055",
     "name": "Budget Plan 55",
-    "amount_micros": 111000000,
-    "date": "2025-04-02"
+    "amount_micros": 104754240,
+    "date": "2024-04-16"
   },
   {
-    "id": "bud_2055",
+    "id": "bud_0056",
     "name": "Budget Plan 56",
-    "amount_micros": 70000000,
-    "date": "2025-04-06"
+    "amount_micros": 155232432,
+    "date": "2024-10-20"
   },
   {
-    "id": "bud_2056",
+    "id": "bud_0057",
     "name": "Budget Plan 57",
-    "amount_micros": 120000000,
-    "date": "2025-04-03"
+    "amount_micros": 184349778,
+    "date": "2024-11-28"
   },
   {
-    "id": "bud_2057",
+    "id": "bud_0058",
     "name": "Budget Plan 58",
-    "amount_micros": 120000000,
-    "date": "2025-04-06"
+    "amount_micros": 51709260,
+    "date": "2024-06-08"
   },
   {
-    "id": "bud_2058",
+    "id": "bud_0059",
     "name": "Budget Plan 59",
-    "amount_micros": 106000000,
-    "date": "2025-04-03"
+    "amount_micros": 126479779,
+    "date": "2024-07-09"
   },
   {
-    "id": "bud_2059",
+    "id": "bud_0060",
     "name": "Budget Plan 60",
-    "amount_micros": 146000000,
-    "date": "2025-04-03"
+    "amount_micros": 154269449,
+    "date": "2025-01-26"
   },
   {
-    "id": "bud_2060",
+    "id": "bud_0061",
     "name": "Budget Plan 61",
-    "amount_micros": 69000000,
-    "date": "2025-04-08"
+    "amount_micros": 95079221,
+    "date": "2024-04-21"
   },
   {
-    "id": "bud_2061",
+    "id": "bud_0062",
     "name": "Budget Plan 62",
-    "amount_micros": 117000000,
-    "date": "2025-04-02"
+    "amount_micros": 186430528,
+    "date": "2024-05-17"
   },
   {
-    "id": "bud_2062",
+    "id": "bud_0063",
     "name": "Budget Plan 63",
-    "amount_micros": 109000000,
-    "date": "2025-04-07"
+    "amount_micros": 138938895,
+    "date": "2024-04-18"
   },
   {
-    "id": "bud_2063",
+    "id": "bud_0064",
     "name": "Budget Plan 64",
-    "amount_micros": 70000000,
-    "date": "2025-04-07"
+    "amount_micros": 50787804,
+    "date": "2024-05-04"
   },
   {
-    "id": "bud_2064",
+    "id": "bud_0065",
     "name": "Budget Plan 65",
-    "amount_micros": 109000000,
-    "date": "2025-04-06"
+    "amount_micros": 91493648,
+    "date": "2024-06-24"
   },
   {
-    "id": "bud_2065",
+    "id": "bud_0066",
     "name": "Budget Plan 66",
-    "amount_micros": 64000000,
-    "date": "2025-04-07"
+    "amount_micros": 196618704,
+    "date": "2025-03-26"
   },
   {
-    "id": "bud_2066",
+    "id": "bud_0067",
     "name": "Budget Plan 67",
-    "amount_micros": 57000000,
-    "date": "2025-04-05"
+    "amount_micros": 199782064,
+    "date": "2024-04-17"
   },
   {
-    "id": "bud_2067",
+    "id": "bud_0068",
     "name": "Budget Plan 68",
-    "amount_micros": 88000000,
-    "date": "2025-04-03"
+    "amount_micros": 104599783,
+    "date": "2025-03-08"
   },
   {
-    "id": "bud_2068",
+    "id": "bud_0069",
     "name": "Budget Plan 69",
-    "amount_micros": 54000000,
-    "date": "2025-04-06"
+    "amount_micros": 119653328,
+    "date": "2024-12-30"
   },
   {
-    "id": "bud_2069",
+    "id": "bud_0070",
     "name": "Budget Plan 70",
-    "amount_micros": 103000000,
-    "date": "2025-04-05"
+    "amount_micros": 162213825,
+    "date": "2025-02-24"
   },
   {
-    "id": "bud_2070",
+    "id": "bud_0071",
     "name": "Budget Plan 71",
-    "amount_micros": 53000000,
-    "date": "2025-04-08"
+    "amount_micros": 141100883,
+    "date": "2025-02-01"
   },
   {
-    "id": "bud_2071",
+    "id": "bud_0072",
     "name": "Budget Plan 72",
-    "amount_micros": 134000000,
-    "date": "2025-04-07"
+    "amount_micros": 80492353,
+    "date": "2024-09-06"
   },
   {
-    "id": "bud_2072",
+    "id": "bud_0073",
     "name": "Budget Plan 73",
-    "amount_micros": 66000000,
-    "date": "2025-04-07"
+    "amount_micros": 70312777,
+    "date": "2025-01-26"
   },
   {
-    "id": "bud_2073",
+    "id": "bud_0074",
     "name": "Budget Plan 74",
-    "amount_micros": 56000000,
-    "date": "2025-04-06"
+    "amount_micros": 183125350,
+    "date": "2024-12-26"
   },
   {
-    "id": "bud_2074",
+    "id": "bud_0075",
     "name": "Budget Plan 75",
-    "amount_micros": 77000000,
-    "date": "2025-04-05"
+    "amount_micros": 149009628,
+    "date": "2025-02-21"
   },
   {
-    "id": "bud_2075",
+    "id": "bud_0076",
     "name": "Budget Plan 76",
-    "amount_micros": 57000000,
-    "date": "2025-04-05"
+    "amount_micros": 71203201,
+    "date": "2024-06-19"
   },
   {
-    "id": "bud_2076",
+    "id": "bud_0077",
     "name": "Budget Plan 77",
-    "amount_micros": 121000000,
-    "date": "2025-04-07"
+    "amount_micros": 51190300,
+    "date": "2025-03-23"
   },
   {
-    "id": "bud_2077",
+    "id": "bud_0078",
     "name": "Budget Plan 78",
-    "amount_micros": 58000000,
-    "date": "2025-04-08"
+    "amount_micros": 176178440,
+    "date": "2024-10-06"
   },
   {
-    "id": "bud_2078",
+    "id": "bud_0079",
     "name": "Budget Plan 79",
-    "amount_micros": 117000000,
-    "date": "2025-04-05"
+    "amount_micros": 89603588,
+    "date": "2024-09-16"
   },
   {
-    "id": "bud_2079",
+    "id": "bud_0080",
     "name": "Budget Plan 80",
-    "amount_micros": 129000000,
-    "date": "2025-04-03"
+    "amount_micros": 75228863,
+    "date": "2024-11-12"
   },
   {
-    "id": "bud_2080",
+    "id": "bud_0081",
     "name": "Budget Plan 81",
-    "amount_micros": 125000000,
-    "date": "2025-04-03"
+    "amount_micros": 91533856,
+    "date": "2025-03-25"
   },
   {
-    "id": "bud_2081",
+    "id": "bud_0082",
     "name": "Budget Plan 82",
-    "amount_micros": 80000000,
-    "date": "2025-04-08"
+    "amount_micros": 59273070,
+    "date": "2024-04-27"
   },
   {
-    "id": "bud_2082",
+    "id": "bud_0083",
     "name": "Budget Plan 83",
-    "amount_micros": 80000000,
-    "date": "2025-04-03"
+    "amount_micros": 182486888,
+    "date": "2024-06-06"
   },
   {
-    "id": "bud_2083",
+    "id": "bud_0084",
     "name": "Budget Plan 84",
-    "amount_micros": 140000000,
-    "date": "2025-04-02"
+    "amount_micros": 108028538,
+    "date": "2024-12-08"
   },
   {
-    "id": "bud_2084",
+    "id": "bud_0085",
     "name": "Budget Plan 85",
-    "amount_micros": 106000000,
-    "date": "2025-04-04"
+    "amount_micros": 112411842,
+    "date": "2024-07-24"
   },
   {
-    "id": "bud_2085",
+    "id": "bud_0086",
     "name": "Budget Plan 86",
-    "amount_micros": 127000000,
-    "date": "2025-04-06"
+    "amount_micros": 129706664,
+    "date": "2024-08-20"
   },
   {
-    "id": "bud_2086",
+    "id": "bud_0087",
     "name": "Budget Plan 87",
-    "amount_micros": 123000000,
-    "date": "2025-04-04"
+    "amount_micros": 112184319,
+    "date": "2024-04-07"
   },
   {
-    "id": "bud_2087",
+    "id": "bud_0088",
     "name": "Budget Plan 88",
-    "amount_micros": 79000000,
-    "date": "2025-04-05"
+    "amount_micros": 173701516,
+    "date": "2025-01-15"
   },
   {
-    "id": "bud_2088",
+    "id": "bud_0089",
     "name": "Budget Plan 89",
-    "amount_micros": 105000000,
-    "date": "2025-04-06"
+    "amount_micros": 82112923,
+    "date": "2024-06-27"
   },
   {
-    "id": "bud_2089",
+    "id": "bud_0090",
     "name": "Budget Plan 90",
-    "amount_micros": 72000000,
-    "date": "2025-04-08"
+    "amount_micros": 126703431,
+    "date": "2024-09-01"
   },
   {
-    "id": "bud_2090",
+    "id": "bud_0091",
     "name": "Budget Plan 91",
-    "amount_micros": 110000000,
-    "date": "2025-04-02"
+    "amount_micros": 98506586,
+    "date": "2024-08-15"
   },
   {
-    "id": "bud_2091",
+    "id": "bud_0092",
     "name": "Budget Plan 92",
-    "amount_micros": 74000000,
-    "date": "2025-04-02"
+    "amount_micros": 125521111,
+    "date": "2025-01-14"
   },
   {
-    "id": "bud_2092",
+    "id": "bud_0093",
     "name": "Budget Plan 93",
-    "amount_micros": 125000000,
-    "date": "2025-04-02"
+    "amount_micros": 128713748,
+    "date": "2024-10-03"
   },
   {
-    "id": "bud_2093",
+    "id": "bud_0094",
     "name": "Budget Plan 94",
-    "amount_micros": 122000000,
-    "date": "2025-04-06"
+    "amount_micros": 140712461,
+    "date": "2024-06-16"
   },
   {
-    "id": "bud_2094",
+    "id": "bud_0095",
     "name": "Budget Plan 95",
-    "amount_micros": 82000000,
-    "date": "2025-04-08"
+    "amount_micros": 185012465,
+    "date": "2024-07-08"
   },
   {
-    "id": "bud_2095",
+    "id": "bud_0096",
     "name": "Budget Plan 96",
-    "amount_micros": 136000000,
-    "date": "2025-04-08"
+    "amount_micros": 154874170,
+    "date": "2024-04-04"
   },
   {
-    "id": "bud_2096",
+    "id": "bud_0097",
     "name": "Budget Plan 97",
-    "amount_micros": 99000000,
-    "date": "2025-04-02"
+    "amount_micros": 79888181,
+    "date": "2024-04-10"
   },
   {
-    "id": "bud_2097",
+    "id": "bud_0098",
     "name": "Budget Plan 98",
-    "amount_micros": 115000000,
-    "date": "2025-04-08"
+    "amount_micros": 112757757,
+    "date": "2024-08-21"
   },
   {
-    "id": "bud_2098",
+    "id": "bud_0099",
     "name": "Budget Plan 99",
-    "amount_micros": 94000000,
-    "date": "2025-04-06"
+    "amount_micros": 116692403,
+    "date": "2025-01-31"
   },
   {
-    "id": "bud_2099",
+    "id": "bud_0100",
     "name": "Budget Plan 100",
-    "amount_micros": 90000000,
-    "date": "2025-04-04"
+    "amount_micros": 148760993,
+    "date": "2025-01-25"
+  },
+  {
+    "id": "bud_0101",
+    "name": "Budget Plan 101",
+    "amount_micros": 74128350,
+    "date": "2025-01-18"
+  },
+  {
+    "id": "bud_0102",
+    "name": "Budget Plan 102",
+    "amount_micros": 159086651,
+    "date": "2024-11-01"
+  },
+  {
+    "id": "bud_0103",
+    "name": "Budget Plan 103",
+    "amount_micros": 145901029,
+    "date": "2025-02-15"
+  },
+  {
+    "id": "bud_0104",
+    "name": "Budget Plan 104",
+    "amount_micros": 90260438,
+    "date": "2025-01-20"
+  },
+  {
+    "id": "bud_0105",
+    "name": "Budget Plan 105",
+    "amount_micros": 104945153,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0106",
+    "name": "Budget Plan 106",
+    "amount_micros": 194105408,
+    "date": "2024-11-23"
+  },
+  {
+    "id": "bud_0107",
+    "name": "Budget Plan 107",
+    "amount_micros": 99046147,
+    "date": "2024-07-19"
+  },
+  {
+    "id": "bud_0108",
+    "name": "Budget Plan 108",
+    "amount_micros": 75285697,
+    "date": "2024-08-06"
+  },
+  {
+    "id": "bud_0109",
+    "name": "Budget Plan 109",
+    "amount_micros": 133734300,
+    "date": "2025-01-23"
+  },
+  {
+    "id": "bud_0110",
+    "name": "Budget Plan 110",
+    "amount_micros": 84200253,
+    "date": "2025-03-28"
+  },
+  {
+    "id": "bud_0111",
+    "name": "Budget Plan 111",
+    "amount_micros": 75766327,
+    "date": "2025-03-12"
+  },
+  {
+    "id": "bud_0112",
+    "name": "Budget Plan 112",
+    "amount_micros": 64862701,
+    "date": "2024-08-15"
+  },
+  {
+    "id": "bud_0113",
+    "name": "Budget Plan 113",
+    "amount_micros": 64551102,
+    "date": "2024-05-24"
+  },
+  {
+    "id": "bud_0114",
+    "name": "Budget Plan 114",
+    "amount_micros": 51761284,
+    "date": "2024-09-08"
+  },
+  {
+    "id": "bud_0115",
+    "name": "Budget Plan 115",
+    "amount_micros": 84464979,
+    "date": "2025-02-02"
+  },
+  {
+    "id": "bud_0116",
+    "name": "Budget Plan 116",
+    "amount_micros": 141395867,
+    "date": "2024-10-18"
+  },
+  {
+    "id": "bud_0117",
+    "name": "Budget Plan 117",
+    "amount_micros": 63923127,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0118",
+    "name": "Budget Plan 118",
+    "amount_micros": 164797288,
+    "date": "2024-09-24"
+  },
+  {
+    "id": "bud_0119",
+    "name": "Budget Plan 119",
+    "amount_micros": 171075348,
+    "date": "2024-04-14"
+  },
+  {
+    "id": "bud_0120",
+    "name": "Budget Plan 120",
+    "amount_micros": 172463517,
+    "date": "2024-08-22"
+  },
+  {
+    "id": "bud_0121",
+    "name": "Budget Plan 121",
+    "amount_micros": 65262035,
+    "date": "2024-05-05"
+  },
+  {
+    "id": "bud_0122",
+    "name": "Budget Plan 122",
+    "amount_micros": 156275875,
+    "date": "2025-02-12"
+  },
+  {
+    "id": "bud_0123",
+    "name": "Budget Plan 123",
+    "amount_micros": 58659551,
+    "date": "2025-03-25"
+  },
+  {
+    "id": "bud_0124",
+    "name": "Budget Plan 124",
+    "amount_micros": 142127097,
+    "date": "2024-08-29"
+  },
+  {
+    "id": "bud_0125",
+    "name": "Budget Plan 125",
+    "amount_micros": 80177212,
+    "date": "2024-09-06"
+  },
+  {
+    "id": "bud_0126",
+    "name": "Budget Plan 126",
+    "amount_micros": 68453520,
+    "date": "2025-03-26"
+  },
+  {
+    "id": "bud_0127",
+    "name": "Budget Plan 127",
+    "amount_micros": 179938416,
+    "date": "2024-11-29"
+  },
+  {
+    "id": "bud_0128",
+    "name": "Budget Plan 128",
+    "amount_micros": 195728175,
+    "date": "2024-04-05"
+  },
+  {
+    "id": "bud_0129",
+    "name": "Budget Plan 129",
+    "amount_micros": 64465683,
+    "date": "2024-10-09"
+  },
+  {
+    "id": "bud_0130",
+    "name": "Budget Plan 130",
+    "amount_micros": 184084785,
+    "date": "2024-08-14"
+  },
+  {
+    "id": "bud_0131",
+    "name": "Budget Plan 131",
+    "amount_micros": 78264110,
+    "date": "2024-04-21"
+  },
+  {
+    "id": "bud_0132",
+    "name": "Budget Plan 132",
+    "amount_micros": 128332204,
+    "date": "2024-06-22"
+  },
+  {
+    "id": "bud_0133",
+    "name": "Budget Plan 133",
+    "amount_micros": 91103306,
+    "date": "2024-06-02"
+  },
+  {
+    "id": "bud_0134",
+    "name": "Budget Plan 134",
+    "amount_micros": 92620676,
+    "date": "2024-12-20"
+  },
+  {
+    "id": "bud_0135",
+    "name": "Budget Plan 135",
+    "amount_micros": 138861918,
+    "date": "2024-11-05"
+  },
+  {
+    "id": "bud_0136",
+    "name": "Budget Plan 136",
+    "amount_micros": 169798781,
+    "date": "2024-08-15"
+  },
+  {
+    "id": "bud_0137",
+    "name": "Budget Plan 137",
+    "amount_micros": 66966613,
+    "date": "2025-02-08"
+  },
+  {
+    "id": "bud_0138",
+    "name": "Budget Plan 138",
+    "amount_micros": 112225673,
+    "date": "2024-04-15"
+  },
+  {
+    "id": "bud_0139",
+    "name": "Budget Plan 139",
+    "amount_micros": 113630266,
+    "date": "2024-11-29"
+  },
+  {
+    "id": "bud_0140",
+    "name": "Budget Plan 140",
+    "amount_micros": 150362616,
+    "date": "2024-10-11"
+  },
+  {
+    "id": "bud_0141",
+    "name": "Budget Plan 141",
+    "amount_micros": 61620466,
+    "date": "2024-08-10"
+  },
+  {
+    "id": "bud_0142",
+    "name": "Budget Plan 142",
+    "amount_micros": 62418495,
+    "date": "2024-09-17"
+  },
+  {
+    "id": "bud_0143",
+    "name": "Budget Plan 143",
+    "amount_micros": 118155081,
+    "date": "2024-11-22"
+  },
+  {
+    "id": "bud_0144",
+    "name": "Budget Plan 144",
+    "amount_micros": 177033606,
+    "date": "2024-05-12"
+  },
+  {
+    "id": "bud_0145",
+    "name": "Budget Plan 145",
+    "amount_micros": 183521848,
+    "date": "2024-11-07"
+  },
+  {
+    "id": "bud_0146",
+    "name": "Budget Plan 146",
+    "amount_micros": 78868394,
+    "date": "2024-12-28"
+  },
+  {
+    "id": "bud_0147",
+    "name": "Budget Plan 147",
+    "amount_micros": 71798911,
+    "date": "2024-10-06"
+  },
+  {
+    "id": "bud_0148",
+    "name": "Budget Plan 148",
+    "amount_micros": 101654226,
+    "date": "2025-03-30"
+  },
+  {
+    "id": "bud_0149",
+    "name": "Budget Plan 149",
+    "amount_micros": 180175704,
+    "date": "2024-10-13"
+  },
+  {
+    "id": "bud_0150",
+    "name": "Budget Plan 150",
+    "amount_micros": 118257098,
+    "date": "2024-07-28"
+  },
+  {
+    "id": "bud_0151",
+    "name": "Budget Plan 151",
+    "amount_micros": 139770341,
+    "date": "2024-07-29"
+  },
+  {
+    "id": "bud_0152",
+    "name": "Budget Plan 152",
+    "amount_micros": 125571043,
+    "date": "2024-09-01"
+  },
+  {
+    "id": "bud_0153",
+    "name": "Budget Plan 153",
+    "amount_micros": 165012845,
+    "date": "2024-05-06"
+  },
+  {
+    "id": "bud_0154",
+    "name": "Budget Plan 154",
+    "amount_micros": 142574169,
+    "date": "2024-12-05"
+  },
+  {
+    "id": "bud_0155",
+    "name": "Budget Plan 155",
+    "amount_micros": 53399355,
+    "date": "2024-10-11"
+  },
+  {
+    "id": "bud_0156",
+    "name": "Budget Plan 156",
+    "amount_micros": 73792390,
+    "date": "2024-10-16"
+  },
+  {
+    "id": "bud_0157",
+    "name": "Budget Plan 157",
+    "amount_micros": 56550465,
+    "date": "2024-09-29"
+  },
+  {
+    "id": "bud_0158",
+    "name": "Budget Plan 158",
+    "amount_micros": 82010847,
+    "date": "2024-10-04"
+  },
+  {
+    "id": "bud_0159",
+    "name": "Budget Plan 159",
+    "amount_micros": 178712308,
+    "date": "2025-03-02"
+  },
+  {
+    "id": "bud_0160",
+    "name": "Budget Plan 160",
+    "amount_micros": 161633391,
+    "date": "2024-06-22"
+  },
+  {
+    "id": "bud_0161",
+    "name": "Budget Plan 161",
+    "amount_micros": 181528973,
+    "date": "2025-01-21"
+  },
+  {
+    "id": "bud_0162",
+    "name": "Budget Plan 162",
+    "amount_micros": 56551547,
+    "date": "2025-02-14"
+  },
+  {
+    "id": "bud_0163",
+    "name": "Budget Plan 163",
+    "amount_micros": 83717876,
+    "date": "2024-12-06"
+  },
+  {
+    "id": "bud_0164",
+    "name": "Budget Plan 164",
+    "amount_micros": 194768876,
+    "date": "2024-12-23"
+  },
+  {
+    "id": "bud_0165",
+    "name": "Budget Plan 165",
+    "amount_micros": 53900241,
+    "date": "2025-01-24"
+  },
+  {
+    "id": "bud_0166",
+    "name": "Budget Plan 166",
+    "amount_micros": 158910161,
+    "date": "2024-11-23"
+  },
+  {
+    "id": "bud_0167",
+    "name": "Budget Plan 167",
+    "amount_micros": 52203897,
+    "date": "2024-10-27"
+  },
+  {
+    "id": "bud_0168",
+    "name": "Budget Plan 168",
+    "amount_micros": 178013902,
+    "date": "2024-11-01"
+  },
+  {
+    "id": "bud_0169",
+    "name": "Budget Plan 169",
+    "amount_micros": 69524116,
+    "date": "2024-05-31"
+  },
+  {
+    "id": "bud_0170",
+    "name": "Budget Plan 170",
+    "amount_micros": 179026054,
+    "date": "2024-07-18"
+  },
+  {
+    "id": "bud_0171",
+    "name": "Budget Plan 171",
+    "amount_micros": 109279847,
+    "date": "2024-11-24"
+  },
+  {
+    "id": "bud_0172",
+    "name": "Budget Plan 172",
+    "amount_micros": 100272873,
+    "date": "2024-11-20"
+  },
+  {
+    "id": "bud_0173",
+    "name": "Budget Plan 173",
+    "amount_micros": 101255394,
+    "date": "2024-10-31"
+  },
+  {
+    "id": "bud_0174",
+    "name": "Budget Plan 174",
+    "amount_micros": 179444077,
+    "date": "2024-11-04"
+  },
+  {
+    "id": "bud_0175",
+    "name": "Budget Plan 175",
+    "amount_micros": 107021885,
+    "date": "2024-06-20"
+  },
+  {
+    "id": "bud_0176",
+    "name": "Budget Plan 176",
+    "amount_micros": 112358410,
+    "date": "2024-10-25"
+  },
+  {
+    "id": "bud_0177",
+    "name": "Budget Plan 177",
+    "amount_micros": 52896343,
+    "date": "2025-03-22"
+  },
+  {
+    "id": "bud_0178",
+    "name": "Budget Plan 178",
+    "amount_micros": 169630605,
+    "date": "2024-11-13"
+  },
+  {
+    "id": "bud_0179",
+    "name": "Budget Plan 179",
+    "amount_micros": 109211503,
+    "date": "2024-11-22"
+  },
+  {
+    "id": "bud_0180",
+    "name": "Budget Plan 180",
+    "amount_micros": 170656060,
+    "date": "2024-11-02"
+  },
+  {
+    "id": "bud_0181",
+    "name": "Budget Plan 181",
+    "amount_micros": 177623390,
+    "date": "2024-11-17"
+  },
+  {
+    "id": "bud_0182",
+    "name": "Budget Plan 182",
+    "amount_micros": 139778179,
+    "date": "2024-09-15"
+  },
+  {
+    "id": "bud_0183",
+    "name": "Budget Plan 183",
+    "amount_micros": 106104467,
+    "date": "2024-04-09"
+  },
+  {
+    "id": "bud_0184",
+    "name": "Budget Plan 184",
+    "amount_micros": 107277379,
+    "date": "2024-09-29"
+  },
+  {
+    "id": "bud_0185",
+    "name": "Budget Plan 185",
+    "amount_micros": 172758076,
+    "date": "2024-07-12"
+  },
+  {
+    "id": "bud_0186",
+    "name": "Budget Plan 186",
+    "amount_micros": 193107502,
+    "date": "2024-05-29"
+  },
+  {
+    "id": "bud_0187",
+    "name": "Budget Plan 187",
+    "amount_micros": 121104318,
+    "date": "2024-10-09"
+  },
+  {
+    "id": "bud_0188",
+    "name": "Budget Plan 188",
+    "amount_micros": 91980744,
+    "date": "2024-05-31"
+  },
+  {
+    "id": "bud_0189",
+    "name": "Budget Plan 189",
+    "amount_micros": 186874738,
+    "date": "2024-06-18"
+  },
+  {
+    "id": "bud_0190",
+    "name": "Budget Plan 190",
+    "amount_micros": 93440793,
+    "date": "2024-05-19"
+  },
+  {
+    "id": "bud_0191",
+    "name": "Budget Plan 191",
+    "amount_micros": 174280334,
+    "date": "2024-04-17"
+  },
+  {
+    "id": "bud_0192",
+    "name": "Budget Plan 192",
+    "amount_micros": 118650068,
+    "date": "2024-12-22"
+  },
+  {
+    "id": "bud_0193",
+    "name": "Budget Plan 193",
+    "amount_micros": 129042985,
+    "date": "2024-04-19"
+  },
+  {
+    "id": "bud_0194",
+    "name": "Budget Plan 194",
+    "amount_micros": 118183658,
+    "date": "2024-04-15"
+  },
+  {
+    "id": "bud_0195",
+    "name": "Budget Plan 195",
+    "amount_micros": 73009797,
+    "date": "2024-06-23"
+  },
+  {
+    "id": "bud_0196",
+    "name": "Budget Plan 196",
+    "amount_micros": 189638930,
+    "date": "2024-10-20"
+  },
+  {
+    "id": "bud_0197",
+    "name": "Budget Plan 197",
+    "amount_micros": 117981494,
+    "date": "2024-09-30"
+  },
+  {
+    "id": "bud_0198",
+    "name": "Budget Plan 198",
+    "amount_micros": 112375353,
+    "date": "2024-09-22"
+  },
+  {
+    "id": "bud_0199",
+    "name": "Budget Plan 199",
+    "amount_micros": 174137666,
+    "date": "2024-04-18"
+  },
+  {
+    "id": "bud_0200",
+    "name": "Budget Plan 200",
+    "amount_micros": 142439893,
+    "date": "2024-08-26"
+  },
+  {
+    "id": "bud_0201",
+    "name": "Budget Plan 201",
+    "amount_micros": 133911053,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0202",
+    "name": "Budget Plan 202",
+    "amount_micros": 89888385,
+    "date": "2025-03-26"
+  },
+  {
+    "id": "bud_0203",
+    "name": "Budget Plan 203",
+    "amount_micros": 93886604,
+    "date": "2024-07-09"
+  },
+  {
+    "id": "bud_0204",
+    "name": "Budget Plan 204",
+    "amount_micros": 186732762,
+    "date": "2024-09-15"
+  },
+  {
+    "id": "bud_0205",
+    "name": "Budget Plan 205",
+    "amount_micros": 192291691,
+    "date": "2025-02-04"
+  },
+  {
+    "id": "bud_0206",
+    "name": "Budget Plan 206",
+    "amount_micros": 192616918,
+    "date": "2024-11-06"
+  },
+  {
+    "id": "bud_0207",
+    "name": "Budget Plan 207",
+    "amount_micros": 72079336,
+    "date": "2025-01-18"
+  },
+  {
+    "id": "bud_0208",
+    "name": "Budget Plan 208",
+    "amount_micros": 154426685,
+    "date": "2024-08-15"
+  },
+  {
+    "id": "bud_0209",
+    "name": "Budget Plan 209",
+    "amount_micros": 180688611,
+    "date": "2024-11-01"
+  },
+  {
+    "id": "bud_0210",
+    "name": "Budget Plan 210",
+    "amount_micros": 72871649,
+    "date": "2024-10-04"
+  },
+  {
+    "id": "bud_0211",
+    "name": "Budget Plan 211",
+    "amount_micros": 110027208,
+    "date": "2025-02-26"
+  },
+  {
+    "id": "bud_0212",
+    "name": "Budget Plan 212",
+    "amount_micros": 94070370,
+    "date": "2025-01-25"
+  },
+  {
+    "id": "bud_0213",
+    "name": "Budget Plan 213",
+    "amount_micros": 183756390,
+    "date": "2024-11-24"
+  },
+  {
+    "id": "bud_0214",
+    "name": "Budget Plan 214",
+    "amount_micros": 132101760,
+    "date": "2024-05-17"
+  },
+  {
+    "id": "bud_0215",
+    "name": "Budget Plan 215",
+    "amount_micros": 197055709,
+    "date": "2025-03-28"
+  },
+  {
+    "id": "bud_0216",
+    "name": "Budget Plan 216",
+    "amount_micros": 130437486,
+    "date": "2024-05-29"
+  },
+  {
+    "id": "bud_0217",
+    "name": "Budget Plan 217",
+    "amount_micros": 91706787,
+    "date": "2024-05-17"
+  },
+  {
+    "id": "bud_0218",
+    "name": "Budget Plan 218",
+    "amount_micros": 197403421,
+    "date": "2025-03-04"
+  },
+  {
+    "id": "bud_0219",
+    "name": "Budget Plan 219",
+    "amount_micros": 165460705,
+    "date": "2024-06-12"
+  },
+  {
+    "id": "bud_0220",
+    "name": "Budget Plan 220",
+    "amount_micros": 110594859,
+    "date": "2024-12-24"
+  },
+  {
+    "id": "bud_0221",
+    "name": "Budget Plan 221",
+    "amount_micros": 125588163,
+    "date": "2024-05-25"
+  },
+  {
+    "id": "bud_0222",
+    "name": "Budget Plan 222",
+    "amount_micros": 198215441,
+    "date": "2024-07-11"
+  },
+  {
+    "id": "bud_0223",
+    "name": "Budget Plan 223",
+    "amount_micros": 55354054,
+    "date": "2025-01-08"
+  },
+  {
+    "id": "bud_0224",
+    "name": "Budget Plan 224",
+    "amount_micros": 139776789,
+    "date": "2024-05-01"
+  },
+  {
+    "id": "bud_0225",
+    "name": "Budget Plan 225",
+    "amount_micros": 94255078,
+    "date": "2024-08-15"
+  },
+  {
+    "id": "bud_0226",
+    "name": "Budget Plan 226",
+    "amount_micros": 129244265,
+    "date": "2024-09-14"
+  },
+  {
+    "id": "bud_0227",
+    "name": "Budget Plan 227",
+    "amount_micros": 137479184,
+    "date": "2024-07-16"
+  },
+  {
+    "id": "bud_0228",
+    "name": "Budget Plan 228",
+    "amount_micros": 80886683,
+    "date": "2024-09-14"
+  },
+  {
+    "id": "bud_0229",
+    "name": "Budget Plan 229",
+    "amount_micros": 79490820,
+    "date": "2024-10-18"
+  },
+  {
+    "id": "bud_0230",
+    "name": "Budget Plan 230",
+    "amount_micros": 197741230,
+    "date": "2025-03-24"
+  },
+  {
+    "id": "bud_0231",
+    "name": "Budget Plan 231",
+    "amount_micros": 75739266,
+    "date": "2024-12-18"
+  },
+  {
+    "id": "bud_0232",
+    "name": "Budget Plan 232",
+    "amount_micros": 97625210,
+    "date": "2024-12-04"
+  },
+  {
+    "id": "bud_0233",
+    "name": "Budget Plan 233",
+    "amount_micros": 155627166,
+    "date": "2025-03-09"
+  },
+  {
+    "id": "bud_0234",
+    "name": "Budget Plan 234",
+    "amount_micros": 157307142,
+    "date": "2024-05-02"
+  },
+  {
+    "id": "bud_0235",
+    "name": "Budget Plan 235",
+    "amount_micros": 199730268,
+    "date": "2024-05-13"
+  },
+  {
+    "id": "bud_0236",
+    "name": "Budget Plan 236",
+    "amount_micros": 119006602,
+    "date": "2024-05-01"
+  },
+  {
+    "id": "bud_0237",
+    "name": "Budget Plan 237",
+    "amount_micros": 187249497,
+    "date": "2024-08-18"
+  },
+  {
+    "id": "bud_0238",
+    "name": "Budget Plan 238",
+    "amount_micros": 127556620,
+    "date": "2024-10-12"
+  },
+  {
+    "id": "bud_0239",
+    "name": "Budget Plan 239",
+    "amount_micros": 81854518,
+    "date": "2024-12-31"
+  },
+  {
+    "id": "bud_0240",
+    "name": "Budget Plan 240",
+    "amount_micros": 176475118,
+    "date": "2024-11-25"
+  },
+  {
+    "id": "bud_0241",
+    "name": "Budget Plan 241",
+    "amount_micros": 89001732,
+    "date": "2025-03-28"
+  },
+  {
+    "id": "bud_0242",
+    "name": "Budget Plan 242",
+    "amount_micros": 124139168,
+    "date": "2024-06-12"
+  },
+  {
+    "id": "bud_0243",
+    "name": "Budget Plan 243",
+    "amount_micros": 114632693,
+    "date": "2025-02-03"
+  },
+  {
+    "id": "bud_0244",
+    "name": "Budget Plan 244",
+    "amount_micros": 71424312,
+    "date": "2024-12-29"
+  },
+  {
+    "id": "bud_0245",
+    "name": "Budget Plan 245",
+    "amount_micros": 79730654,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0246",
+    "name": "Budget Plan 246",
+    "amount_micros": 75317807,
+    "date": "2024-10-02"
+  },
+  {
+    "id": "bud_0247",
+    "name": "Budget Plan 247",
+    "amount_micros": 127964904,
+    "date": "2024-04-16"
+  },
+  {
+    "id": "bud_0248",
+    "name": "Budget Plan 248",
+    "amount_micros": 81171892,
+    "date": "2025-03-05"
+  },
+  {
+    "id": "bud_0249",
+    "name": "Budget Plan 249",
+    "amount_micros": 107531369,
+    "date": "2024-09-15"
+  },
+  {
+    "id": "bud_0250",
+    "name": "Budget Plan 250",
+    "amount_micros": 148618945,
+    "date": "2024-06-28"
+  },
+  {
+    "id": "bud_0251",
+    "name": "Budget Plan 251",
+    "amount_micros": 118942698,
+    "date": "2025-03-14"
+  },
+  {
+    "id": "bud_0252",
+    "name": "Budget Plan 252",
+    "amount_micros": 123597333,
+    "date": "2024-05-10"
+  },
+  {
+    "id": "bud_0253",
+    "name": "Budget Plan 253",
+    "amount_micros": 167764899,
+    "date": "2024-06-24"
+  },
+  {
+    "id": "bud_0254",
+    "name": "Budget Plan 254",
+    "amount_micros": 111798097,
+    "date": "2024-06-18"
+  },
+  {
+    "id": "bud_0255",
+    "name": "Budget Plan 255",
+    "amount_micros": 98478595,
+    "date": "2024-08-31"
+  },
+  {
+    "id": "bud_0256",
+    "name": "Budget Plan 256",
+    "amount_micros": 162867471,
+    "date": "2024-08-26"
+  },
+  {
+    "id": "bud_0257",
+    "name": "Budget Plan 257",
+    "amount_micros": 74657490,
+    "date": "2024-06-23"
+  },
+  {
+    "id": "bud_0258",
+    "name": "Budget Plan 258",
+    "amount_micros": 157519249,
+    "date": "2025-02-14"
+  },
+  {
+    "id": "bud_0259",
+    "name": "Budget Plan 259",
+    "amount_micros": 168118715,
+    "date": "2024-05-29"
+  },
+  {
+    "id": "bud_0260",
+    "name": "Budget Plan 260",
+    "amount_micros": 60304564,
+    "date": "2024-07-11"
+  },
+  {
+    "id": "bud_0261",
+    "name": "Budget Plan 261",
+    "amount_micros": 194983937,
+    "date": "2024-05-05"
+  },
+  {
+    "id": "bud_0262",
+    "name": "Budget Plan 262",
+    "amount_micros": 190470175,
+    "date": "2025-01-11"
+  },
+  {
+    "id": "bud_0263",
+    "name": "Budget Plan 263",
+    "amount_micros": 169741138,
+    "date": "2024-06-14"
+  },
+  {
+    "id": "bud_0264",
+    "name": "Budget Plan 264",
+    "amount_micros": 165322162,
+    "date": "2024-11-04"
+  },
+  {
+    "id": "bud_0265",
+    "name": "Budget Plan 265",
+    "amount_micros": 81775746,
+    "date": "2024-09-28"
+  },
+  {
+    "id": "bud_0266",
+    "name": "Budget Plan 266",
+    "amount_micros": 156777340,
+    "date": "2025-02-05"
+  },
+  {
+    "id": "bud_0267",
+    "name": "Budget Plan 267",
+    "amount_micros": 150248849,
+    "date": "2024-10-25"
+  },
+  {
+    "id": "bud_0268",
+    "name": "Budget Plan 268",
+    "amount_micros": 89047791,
+    "date": "2025-02-15"
+  },
+  {
+    "id": "bud_0269",
+    "name": "Budget Plan 269",
+    "amount_micros": 82129498,
+    "date": "2024-09-21"
+  },
+  {
+    "id": "bud_0270",
+    "name": "Budget Plan 270",
+    "amount_micros": 65616782,
+    "date": "2024-06-22"
+  },
+  {
+    "id": "bud_0271",
+    "name": "Budget Plan 271",
+    "amount_micros": 141119001,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0272",
+    "name": "Budget Plan 272",
+    "amount_micros": 62022369,
+    "date": "2024-12-17"
+  },
+  {
+    "id": "bud_0273",
+    "name": "Budget Plan 273",
+    "amount_micros": 147165392,
+    "date": "2025-02-05"
+  },
+  {
+    "id": "bud_0274",
+    "name": "Budget Plan 274",
+    "amount_micros": 52060966,
+    "date": "2024-10-29"
+  },
+  {
+    "id": "bud_0275",
+    "name": "Budget Plan 275",
+    "amount_micros": 50367679,
+    "date": "2024-09-08"
+  },
+  {
+    "id": "bud_0276",
+    "name": "Budget Plan 276",
+    "amount_micros": 64093024,
+    "date": "2024-11-07"
+  },
+  {
+    "id": "bud_0277",
+    "name": "Budget Plan 277",
+    "amount_micros": 109717358,
+    "date": "2025-02-07"
+  },
+  {
+    "id": "bud_0278",
+    "name": "Budget Plan 278",
+    "amount_micros": 82943868,
+    "date": "2024-11-13"
+  },
+  {
+    "id": "bud_0279",
+    "name": "Budget Plan 279",
+    "amount_micros": 174749825,
+    "date": "2024-08-26"
+  },
+  {
+    "id": "bud_0280",
+    "name": "Budget Plan 280",
+    "amount_micros": 103816771,
+    "date": "2024-10-30"
+  },
+  {
+    "id": "bud_0281",
+    "name": "Budget Plan 281",
+    "amount_micros": 197653836,
+    "date": "2025-01-14"
+  },
+  {
+    "id": "bud_0282",
+    "name": "Budget Plan 282",
+    "amount_micros": 187699731,
+    "date": "2024-06-18"
+  },
+  {
+    "id": "bud_0283",
+    "name": "Budget Plan 283",
+    "amount_micros": 117298928,
+    "date": "2024-05-02"
+  },
+  {
+    "id": "bud_0284",
+    "name": "Budget Plan 284",
+    "amount_micros": 97186463,
+    "date": "2024-07-13"
+  },
+  {
+    "id": "bud_0285",
+    "name": "Budget Plan 285",
+    "amount_micros": 197063227,
+    "date": "2024-04-15"
+  },
+  {
+    "id": "bud_0286",
+    "name": "Budget Plan 286",
+    "amount_micros": 175107262,
+    "date": "2025-01-30"
+  },
+  {
+    "id": "bud_0287",
+    "name": "Budget Plan 287",
+    "amount_micros": 92288306,
+    "date": "2024-12-26"
+  },
+  {
+    "id": "bud_0288",
+    "name": "Budget Plan 288",
+    "amount_micros": 85050766,
+    "date": "2024-05-17"
+  },
+  {
+    "id": "bud_0289",
+    "name": "Budget Plan 289",
+    "amount_micros": 82398047,
+    "date": "2025-01-19"
+  },
+  {
+    "id": "bud_0290",
+    "name": "Budget Plan 290",
+    "amount_micros": 95947537,
+    "date": "2024-04-28"
+  },
+  {
+    "id": "bud_0291",
+    "name": "Budget Plan 291",
+    "amount_micros": 100737275,
+    "date": "2024-06-06"
+  },
+  {
+    "id": "bud_0292",
+    "name": "Budget Plan 292",
+    "amount_micros": 133338220,
+    "date": "2024-10-19"
+  },
+  {
+    "id": "bud_0293",
+    "name": "Budget Plan 293",
+    "amount_micros": 103351370,
+    "date": "2025-01-26"
+  },
+  {
+    "id": "bud_0294",
+    "name": "Budget Plan 294",
+    "amount_micros": 85914531,
+    "date": "2024-08-06"
+  },
+  {
+    "id": "bud_0295",
+    "name": "Budget Plan 295",
+    "amount_micros": 54722457,
+    "date": "2025-03-17"
+  },
+  {
+    "id": "bud_0296",
+    "name": "Budget Plan 296",
+    "amount_micros": 183814882,
+    "date": "2025-01-23"
+  },
+  {
+    "id": "bud_0297",
+    "name": "Budget Plan 297",
+    "amount_micros": 81619536,
+    "date": "2024-09-30"
+  },
+  {
+    "id": "bud_0298",
+    "name": "Budget Plan 298",
+    "amount_micros": 179510743,
+    "date": "2024-05-12"
+  },
+  {
+    "id": "bud_0299",
+    "name": "Budget Plan 299",
+    "amount_micros": 180031137,
+    "date": "2024-08-09"
+  },
+  {
+    "id": "bud_0300",
+    "name": "Budget Plan 300",
+    "amount_micros": 82920184,
+    "date": "2025-02-17"
+  },
+  {
+    "id": "bud_0301",
+    "name": "Budget Plan 301",
+    "amount_micros": 79238715,
+    "date": "2024-11-11"
+  },
+  {
+    "id": "bud_0302",
+    "name": "Budget Plan 302",
+    "amount_micros": 74371233,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0303",
+    "name": "Budget Plan 303",
+    "amount_micros": 122364604,
+    "date": "2025-02-08"
+  },
+  {
+    "id": "bud_0304",
+    "name": "Budget Plan 304",
+    "amount_micros": 54147118,
+    "date": "2025-03-29"
+  },
+  {
+    "id": "bud_0305",
+    "name": "Budget Plan 305",
+    "amount_micros": 110023595,
+    "date": "2024-08-16"
+  },
+  {
+    "id": "bud_0306",
+    "name": "Budget Plan 306",
+    "amount_micros": 155775234,
+    "date": "2025-02-22"
+  },
+  {
+    "id": "bud_0307",
+    "name": "Budget Plan 307",
+    "amount_micros": 62274726,
+    "date": "2024-11-07"
+  },
+  {
+    "id": "bud_0308",
+    "name": "Budget Plan 308",
+    "amount_micros": 81525632,
+    "date": "2024-07-15"
+  },
+  {
+    "id": "bud_0309",
+    "name": "Budget Plan 309",
+    "amount_micros": 115175240,
+    "date": "2024-07-02"
+  },
+  {
+    "id": "bud_0310",
+    "name": "Budget Plan 310",
+    "amount_micros": 177705657,
+    "date": "2024-07-13"
+  },
+  {
+    "id": "bud_0311",
+    "name": "Budget Plan 311",
+    "amount_micros": 81354361,
+    "date": "2024-04-04"
+  },
+  {
+    "id": "bud_0312",
+    "name": "Budget Plan 312",
+    "amount_micros": 154208021,
+    "date": "2025-03-21"
+  },
+  {
+    "id": "bud_0313",
+    "name": "Budget Plan 313",
+    "amount_micros": 74060503,
+    "date": "2025-02-21"
+  },
+  {
+    "id": "bud_0314",
+    "name": "Budget Plan 314",
+    "amount_micros": 52803806,
+    "date": "2024-10-26"
+  },
+  {
+    "id": "bud_0315",
+    "name": "Budget Plan 315",
+    "amount_micros": 80209547,
+    "date": "2025-03-10"
+  },
+  {
+    "id": "bud_0316",
+    "name": "Budget Plan 316",
+    "amount_micros": 166123266,
+    "date": "2024-12-23"
+  },
+  {
+    "id": "bud_0317",
+    "name": "Budget Plan 317",
+    "amount_micros": 175519366,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0318",
+    "name": "Budget Plan 318",
+    "amount_micros": 188564288,
+    "date": "2025-01-23"
+  },
+  {
+    "id": "bud_0319",
+    "name": "Budget Plan 319",
+    "amount_micros": 130256621,
+    "date": "2024-04-20"
+  },
+  {
+    "id": "bud_0320",
+    "name": "Budget Plan 320",
+    "amount_micros": 57383140,
+    "date": "2024-04-06"
+  },
+  {
+    "id": "bud_0321",
+    "name": "Budget Plan 321",
+    "amount_micros": 109745140,
+    "date": "2025-03-06"
+  },
+  {
+    "id": "bud_0322",
+    "name": "Budget Plan 322",
+    "amount_micros": 105051055,
+    "date": "2025-03-25"
+  },
+  {
+    "id": "bud_0323",
+    "name": "Budget Plan 323",
+    "amount_micros": 82914138,
+    "date": "2024-12-24"
+  },
+  {
+    "id": "bud_0324",
+    "name": "Budget Plan 324",
+    "amount_micros": 134056378,
+    "date": "2024-09-01"
+  },
+  {
+    "id": "bud_0325",
+    "name": "Budget Plan 325",
+    "amount_micros": 127129617,
+    "date": "2024-12-10"
+  },
+  {
+    "id": "bud_0326",
+    "name": "Budget Plan 326",
+    "amount_micros": 132074664,
+    "date": "2024-05-16"
+  },
+  {
+    "id": "bud_0327",
+    "name": "Budget Plan 327",
+    "amount_micros": 127532517,
+    "date": "2024-06-08"
+  },
+  {
+    "id": "bud_0328",
+    "name": "Budget Plan 328",
+    "amount_micros": 59475175,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0329",
+    "name": "Budget Plan 329",
+    "amount_micros": 128003981,
+    "date": "2024-12-09"
+  },
+  {
+    "id": "bud_0330",
+    "name": "Budget Plan 330",
+    "amount_micros": 73514368,
+    "date": "2025-03-23"
+  },
+  {
+    "id": "bud_0331",
+    "name": "Budget Plan 331",
+    "amount_micros": 187791176,
+    "date": "2025-03-17"
+  },
+  {
+    "id": "bud_0332",
+    "name": "Budget Plan 332",
+    "amount_micros": 185551953,
+    "date": "2024-05-03"
+  },
+  {
+    "id": "bud_0333",
+    "name": "Budget Plan 333",
+    "amount_micros": 89415105,
+    "date": "2024-12-22"
+  },
+  {
+    "id": "bud_0334",
+    "name": "Budget Plan 334",
+    "amount_micros": 73132060,
+    "date": "2024-07-22"
+  },
+  {
+    "id": "bud_0335",
+    "name": "Budget Plan 335",
+    "amount_micros": 128100612,
+    "date": "2024-12-28"
+  },
+  {
+    "id": "bud_0336",
+    "name": "Budget Plan 336",
+    "amount_micros": 109140445,
+    "date": "2024-12-24"
+  },
+  {
+    "id": "bud_0337",
+    "name": "Budget Plan 337",
+    "amount_micros": 64977747,
+    "date": "2024-11-28"
+  },
+  {
+    "id": "bud_0338",
+    "name": "Budget Plan 338",
+    "amount_micros": 128632262,
+    "date": "2024-08-20"
+  },
+  {
+    "id": "bud_0339",
+    "name": "Budget Plan 339",
+    "amount_micros": 101284254,
+    "date": "2025-03-15"
+  },
+  {
+    "id": "bud_0340",
+    "name": "Budget Plan 340",
+    "amount_micros": 166355069,
+    "date": "2024-11-06"
+  },
+  {
+    "id": "bud_0341",
+    "name": "Budget Plan 341",
+    "amount_micros": 110431058,
+    "date": "2024-06-03"
+  },
+  {
+    "id": "bud_0342",
+    "name": "Budget Plan 342",
+    "amount_micros": 143741994,
+    "date": "2024-09-10"
+  },
+  {
+    "id": "bud_0343",
+    "name": "Budget Plan 343",
+    "amount_micros": 151317134,
+    "date": "2024-04-05"
+  },
+  {
+    "id": "bud_0344",
+    "name": "Budget Plan 344",
+    "amount_micros": 158995942,
+    "date": "2024-05-25"
+  },
+  {
+    "id": "bud_0345",
+    "name": "Budget Plan 345",
+    "amount_micros": 198094197,
+    "date": "2024-10-09"
+  },
+  {
+    "id": "bud_0346",
+    "name": "Budget Plan 346",
+    "amount_micros": 165628537,
+    "date": "2024-11-13"
+  },
+  {
+    "id": "bud_0347",
+    "name": "Budget Plan 347",
+    "amount_micros": 176520541,
+    "date": "2024-10-02"
+  },
+  {
+    "id": "bud_0348",
+    "name": "Budget Plan 348",
+    "amount_micros": 57766359,
+    "date": "2025-04-01"
+  },
+  {
+    "id": "bud_0349",
+    "name": "Budget Plan 349",
+    "amount_micros": 170027981,
+    "date": "2025-01-09"
+  },
+  {
+    "id": "bud_0350",
+    "name": "Budget Plan 350",
+    "amount_micros": 88241968,
+    "date": "2025-02-15"
+  },
+  {
+    "id": "bud_0351",
+    "name": "Budget Plan 351",
+    "amount_micros": 51725592,
+    "date": "2024-12-23"
+  },
+  {
+    "id": "bud_0352",
+    "name": "Budget Plan 352",
+    "amount_micros": 116422764,
+    "date": "2024-06-07"
+  },
+  {
+    "id": "bud_0353",
+    "name": "Budget Plan 353",
+    "amount_micros": 198717095,
+    "date": "2024-08-24"
+  },
+  {
+    "id": "bud_0354",
+    "name": "Budget Plan 354",
+    "amount_micros": 86485694,
+    "date": "2024-04-06"
+  },
+  {
+    "id": "bud_0355",
+    "name": "Budget Plan 355",
+    "amount_micros": 65755855,
+    "date": "2025-02-14"
+  },
+  {
+    "id": "bud_0356",
+    "name": "Budget Plan 356",
+    "amount_micros": 89361827,
+    "date": "2024-08-10"
+  },
+  {
+    "id": "bud_0357",
+    "name": "Budget Plan 357",
+    "amount_micros": 106055547,
+    "date": "2024-07-24"
+  },
+  {
+    "id": "bud_0358",
+    "name": "Budget Plan 358",
+    "amount_micros": 199541944,
+    "date": "2024-12-28"
+  },
+  {
+    "id": "bud_0359",
+    "name": "Budget Plan 359",
+    "amount_micros": 169636310,
+    "date": "2024-05-29"
+  },
+  {
+    "id": "bud_0360",
+    "name": "Budget Plan 360",
+    "amount_micros": 86038076,
+    "date": "2024-10-24"
+  },
+  {
+    "id": "bud_0361",
+    "name": "Budget Plan 361",
+    "amount_micros": 77482961,
+    "date": "2024-06-13"
+  },
+  {
+    "id": "bud_0362",
+    "name": "Budget Plan 362",
+    "amount_micros": 130769576,
+    "date": "2024-04-14"
+  },
+  {
+    "id": "bud_0363",
+    "name": "Budget Plan 363",
+    "amount_micros": 170768212,
+    "date": "2024-12-26"
+  },
+  {
+    "id": "bud_0364",
+    "name": "Budget Plan 364",
+    "amount_micros": 191423330,
+    "date": "2024-04-14"
+  },
+  {
+    "id": "bud_0365",
+    "name": "Budget Plan 365",
+    "amount_micros": 94574002,
+    "date": "2024-08-02"
+  },
+  {
+    "id": "bud_0366",
+    "name": "Budget Plan 366",
+    "amount_micros": 92852267,
+    "date": "2025-03-25"
+  },
+  {
+    "id": "bud_0367",
+    "name": "Budget Plan 367",
+    "amount_micros": 152673200,
+    "date": "2024-07-09"
+  },
+  {
+    "id": "bud_0368",
+    "name": "Budget Plan 368",
+    "amount_micros": 161041270,
+    "date": "2024-11-12"
+  },
+  {
+    "id": "bud_0369",
+    "name": "Budget Plan 369",
+    "amount_micros": 53278544,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0370",
+    "name": "Budget Plan 370",
+    "amount_micros": 119581358,
+    "date": "2025-01-07"
+  },
+  {
+    "id": "bud_0371",
+    "name": "Budget Plan 371",
+    "amount_micros": 51149994,
+    "date": "2024-06-29"
+  },
+  {
+    "id": "bud_0372",
+    "name": "Budget Plan 372",
+    "amount_micros": 119655463,
+    "date": "2024-09-11"
+  },
+  {
+    "id": "bud_0373",
+    "name": "Budget Plan 373",
+    "amount_micros": 175677423,
+    "date": "2024-05-05"
+  },
+  {
+    "id": "bud_0374",
+    "name": "Budget Plan 374",
+    "amount_micros": 164016205,
+    "date": "2024-06-24"
+  },
+  {
+    "id": "bud_0375",
+    "name": "Budget Plan 375",
+    "amount_micros": 131821655,
+    "date": "2024-10-19"
+  },
+  {
+    "id": "bud_0376",
+    "name": "Budget Plan 376",
+    "amount_micros": 131913559,
+    "date": "2025-01-13"
+  },
+  {
+    "id": "bud_0377",
+    "name": "Budget Plan 377",
+    "amount_micros": 108440765,
+    "date": "2024-05-12"
+  },
+  {
+    "id": "bud_0378",
+    "name": "Budget Plan 378",
+    "amount_micros": 130826598,
+    "date": "2025-03-04"
+  },
+  {
+    "id": "bud_0379",
+    "name": "Budget Plan 379",
+    "amount_micros": 189718116,
+    "date": "2024-11-02"
+  },
+  {
+    "id": "bud_0380",
+    "name": "Budget Plan 380",
+    "amount_micros": 58312704,
+    "date": "2024-06-20"
+  },
+  {
+    "id": "bud_0381",
+    "name": "Budget Plan 381",
+    "amount_micros": 122166196,
+    "date": "2024-05-16"
+  },
+  {
+    "id": "bud_0382",
+    "name": "Budget Plan 382",
+    "amount_micros": 124957415,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0383",
+    "name": "Budget Plan 383",
+    "amount_micros": 109789140,
+    "date": "2024-06-27"
+  },
+  {
+    "id": "bud_0384",
+    "name": "Budget Plan 384",
+    "amount_micros": 128516577,
+    "date": "2024-05-05"
+  },
+  {
+    "id": "bud_0385",
+    "name": "Budget Plan 385",
+    "amount_micros": 175023829,
+    "date": "2025-02-05"
+  },
+  {
+    "id": "bud_0386",
+    "name": "Budget Plan 386",
+    "amount_micros": 122346382,
+    "date": "2025-01-12"
+  },
+  {
+    "id": "bud_0387",
+    "name": "Budget Plan 387",
+    "amount_micros": 158578789,
+    "date": "2024-04-22"
+  },
+  {
+    "id": "bud_0388",
+    "name": "Budget Plan 388",
+    "amount_micros": 192738967,
+    "date": "2024-10-31"
+  },
+  {
+    "id": "bud_0389",
+    "name": "Budget Plan 389",
+    "amount_micros": 182458698,
+    "date": "2024-11-11"
+  },
+  {
+    "id": "bud_0390",
+    "name": "Budget Plan 390",
+    "amount_micros": 111265505,
+    "date": "2025-01-30"
+  },
+  {
+    "id": "bud_0391",
+    "name": "Budget Plan 391",
+    "amount_micros": 111093762,
+    "date": "2025-01-06"
+  },
+  {
+    "id": "bud_0392",
+    "name": "Budget Plan 392",
+    "amount_micros": 65014134,
+    "date": "2024-04-27"
+  },
+  {
+    "id": "bud_0393",
+    "name": "Budget Plan 393",
+    "amount_micros": 145612387,
+    "date": "2025-03-09"
+  },
+  {
+    "id": "bud_0394",
+    "name": "Budget Plan 394",
+    "amount_micros": 61438147,
+    "date": "2025-01-04"
+  },
+  {
+    "id": "bud_0395",
+    "name": "Budget Plan 395",
+    "amount_micros": 148398187,
+    "date": "2024-10-28"
+  },
+  {
+    "id": "bud_0396",
+    "name": "Budget Plan 396",
+    "amount_micros": 94626296,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0397",
+    "name": "Budget Plan 397",
+    "amount_micros": 158753088,
+    "date": "2024-07-07"
+  },
+  {
+    "id": "bud_0398",
+    "name": "Budget Plan 398",
+    "amount_micros": 103571758,
+    "date": "2024-11-08"
+  },
+  {
+    "id": "bud_0399",
+    "name": "Budget Plan 399",
+    "amount_micros": 154419236,
+    "date": "2024-07-15"
+  },
+  {
+    "id": "bud_0400",
+    "name": "Budget Plan 400",
+    "amount_micros": 108057957,
+    "date": "2025-03-27"
+  },
+  {
+    "id": "bud_0401",
+    "name": "Budget Plan 401",
+    "amount_micros": 70450343,
+    "date": "2024-06-23"
+  },
+  {
+    "id": "bud_0402",
+    "name": "Budget Plan 402",
+    "amount_micros": 65886637,
+    "date": "2025-02-25"
+  },
+  {
+    "id": "bud_0403",
+    "name": "Budget Plan 403",
+    "amount_micros": 96422308,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "bud_0404",
+    "name": "Budget Plan 404",
+    "amount_micros": 64059650,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0405",
+    "name": "Budget Plan 405",
+    "amount_micros": 150151569,
+    "date": "2024-11-08"
+  },
+  {
+    "id": "bud_0406",
+    "name": "Budget Plan 406",
+    "amount_micros": 105446113,
+    "date": "2024-09-02"
+  },
+  {
+    "id": "bud_0407",
+    "name": "Budget Plan 407",
+    "amount_micros": 72375200,
+    "date": "2024-09-28"
+  },
+  {
+    "id": "bud_0408",
+    "name": "Budget Plan 408",
+    "amount_micros": 162876287,
+    "date": "2024-08-31"
+  },
+  {
+    "id": "bud_0409",
+    "name": "Budget Plan 409",
+    "amount_micros": 117175274,
+    "date": "2025-02-12"
+  },
+  {
+    "id": "bud_0410",
+    "name": "Budget Plan 410",
+    "amount_micros": 193833587,
+    "date": "2024-09-06"
+  },
+  {
+    "id": "bud_0411",
+    "name": "Budget Plan 411",
+    "amount_micros": 52708591,
+    "date": "2024-12-15"
+  },
+  {
+    "id": "bud_0412",
+    "name": "Budget Plan 412",
+    "amount_micros": 124154544,
+    "date": "2024-08-08"
+  },
+  {
+    "id": "bud_0413",
+    "name": "Budget Plan 413",
+    "amount_micros": 148604576,
+    "date": "2024-12-20"
+  },
+  {
+    "id": "bud_0414",
+    "name": "Budget Plan 414",
+    "amount_micros": 113158364,
+    "date": "2025-03-03"
+  },
+  {
+    "id": "bud_0415",
+    "name": "Budget Plan 415",
+    "amount_micros": 83027761,
+    "date": "2024-11-16"
+  },
+  {
+    "id": "bud_0416",
+    "name": "Budget Plan 416",
+    "amount_micros": 109442264,
+    "date": "2025-03-28"
+  },
+  {
+    "id": "bud_0417",
+    "name": "Budget Plan 417",
+    "amount_micros": 120520291,
+    "date": "2024-07-24"
+  },
+  {
+    "id": "bud_0418",
+    "name": "Budget Plan 418",
+    "amount_micros": 102701936,
+    "date": "2024-07-26"
+  },
+  {
+    "id": "bud_0419",
+    "name": "Budget Plan 419",
+    "amount_micros": 149810897,
+    "date": "2024-05-04"
+  },
+  {
+    "id": "bud_0420",
+    "name": "Budget Plan 420",
+    "amount_micros": 106221307,
+    "date": "2025-01-03"
+  },
+  {
+    "id": "bud_0421",
+    "name": "Budget Plan 421",
+    "amount_micros": 56466516,
+    "date": "2024-04-03"
+  },
+  {
+    "id": "bud_0422",
+    "name": "Budget Plan 422",
+    "amount_micros": 62228612,
+    "date": "2025-02-14"
+  },
+  {
+    "id": "bud_0423",
+    "name": "Budget Plan 423",
+    "amount_micros": 116499553,
+    "date": "2024-10-31"
+  },
+  {
+    "id": "bud_0424",
+    "name": "Budget Plan 424",
+    "amount_micros": 100637917,
+    "date": "2024-07-22"
+  },
+  {
+    "id": "bud_0425",
+    "name": "Budget Plan 425",
+    "amount_micros": 68305419,
+    "date": "2024-07-26"
+  },
+  {
+    "id": "bud_0426",
+    "name": "Budget Plan 426",
+    "amount_micros": 79659595,
+    "date": "2024-05-01"
+  },
+  {
+    "id": "bud_0427",
+    "name": "Budget Plan 427",
+    "amount_micros": 106335467,
+    "date": "2025-02-03"
+  },
+  {
+    "id": "bud_0428",
+    "name": "Budget Plan 428",
+    "amount_micros": 190209434,
+    "date": "2024-10-21"
+  },
+  {
+    "id": "bud_0429",
+    "name": "Budget Plan 429",
+    "amount_micros": 72652587,
+    "date": "2024-11-22"
+  },
+  {
+    "id": "bud_0430",
+    "name": "Budget Plan 430",
+    "amount_micros": 91416979,
+    "date": "2024-11-21"
+  },
+  {
+    "id": "bud_0431",
+    "name": "Budget Plan 431",
+    "amount_micros": 117487171,
+    "date": "2024-11-08"
+  },
+  {
+    "id": "bud_0432",
+    "name": "Budget Plan 432",
+    "amount_micros": 117014329,
+    "date": "2024-05-19"
+  },
+  {
+    "id": "bud_0433",
+    "name": "Budget Plan 433",
+    "amount_micros": 164390980,
+    "date": "2025-01-20"
+  },
+  {
+    "id": "bud_0434",
+    "name": "Budget Plan 434",
+    "amount_micros": 69198245,
+    "date": "2025-01-29"
+  },
+  {
+    "id": "bud_0435",
+    "name": "Budget Plan 435",
+    "amount_micros": 167934712,
+    "date": "2024-05-06"
+  },
+  {
+    "id": "bud_0436",
+    "name": "Budget Plan 436",
+    "amount_micros": 147991697,
+    "date": "2024-12-13"
+  },
+  {
+    "id": "bud_0437",
+    "name": "Budget Plan 437",
+    "amount_micros": 109703402,
+    "date": "2024-12-26"
+  },
+  {
+    "id": "bud_0438",
+    "name": "Budget Plan 438",
+    "amount_micros": 63250349,
+    "date": "2024-08-11"
+  },
+  {
+    "id": "bud_0439",
+    "name": "Budget Plan 439",
+    "amount_micros": 188424005,
+    "date": "2024-04-22"
+  },
+  {
+    "id": "bud_0440",
+    "name": "Budget Plan 440",
+    "amount_micros": 125290668,
+    "date": "2025-03-27"
+  },
+  {
+    "id": "bud_0441",
+    "name": "Budget Plan 441",
+    "amount_micros": 93539444,
+    "date": "2024-07-19"
+  },
+  {
+    "id": "bud_0442",
+    "name": "Budget Plan 442",
+    "amount_micros": 57899182,
+    "date": "2024-07-06"
+  },
+  {
+    "id": "bud_0443",
+    "name": "Budget Plan 443",
+    "amount_micros": 89948283,
+    "date": "2024-11-04"
+  },
+  {
+    "id": "bud_0444",
+    "name": "Budget Plan 444",
+    "amount_micros": 164274336,
+    "date": "2025-01-18"
+  },
+  {
+    "id": "bud_0445",
+    "name": "Budget Plan 445",
+    "amount_micros": 199152358,
+    "date": "2025-01-18"
+  },
+  {
+    "id": "bud_0446",
+    "name": "Budget Plan 446",
+    "amount_micros": 118519525,
+    "date": "2024-07-10"
+  },
+  {
+    "id": "bud_0447",
+    "name": "Budget Plan 447",
+    "amount_micros": 129930730,
+    "date": "2025-01-20"
+  },
+  {
+    "id": "bud_0448",
+    "name": "Budget Plan 448",
+    "amount_micros": 120648631,
+    "date": "2024-10-10"
+  },
+  {
+    "id": "bud_0449",
+    "name": "Budget Plan 449",
+    "amount_micros": 155380061,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0450",
+    "name": "Budget Plan 450",
+    "amount_micros": 190775527,
+    "date": "2024-09-24"
+  },
+  {
+    "id": "bud_0451",
+    "name": "Budget Plan 451",
+    "amount_micros": 91938898,
+    "date": "2024-11-02"
+  },
+  {
+    "id": "bud_0452",
+    "name": "Budget Plan 452",
+    "amount_micros": 142618582,
+    "date": "2024-12-15"
+  },
+  {
+    "id": "bud_0453",
+    "name": "Budget Plan 453",
+    "amount_micros": 129747731,
+    "date": "2025-02-11"
+  },
+  {
+    "id": "bud_0454",
+    "name": "Budget Plan 454",
+    "amount_micros": 85871645,
+    "date": "2025-01-03"
+  },
+  {
+    "id": "bud_0455",
+    "name": "Budget Plan 455",
+    "amount_micros": 75600392,
+    "date": "2025-01-18"
+  },
+  {
+    "id": "bud_0456",
+    "name": "Budget Plan 456",
+    "amount_micros": 157209320,
+    "date": "2024-06-28"
+  },
+  {
+    "id": "bud_0457",
+    "name": "Budget Plan 457",
+    "amount_micros": 110018639,
+    "date": "2024-08-09"
+  },
+  {
+    "id": "bud_0458",
+    "name": "Budget Plan 458",
+    "amount_micros": 93765888,
+    "date": "2024-11-12"
+  },
+  {
+    "id": "bud_0459",
+    "name": "Budget Plan 459",
+    "amount_micros": 74984630,
+    "date": "2024-05-18"
+  },
+  {
+    "id": "bud_0460",
+    "name": "Budget Plan 460",
+    "amount_micros": 114166268,
+    "date": "2025-02-15"
+  },
+  {
+    "id": "bud_0461",
+    "name": "Budget Plan 461",
+    "amount_micros": 141254765,
+    "date": "2024-09-27"
+  },
+  {
+    "id": "bud_0462",
+    "name": "Budget Plan 462",
+    "amount_micros": 55587281,
+    "date": "2024-09-09"
+  },
+  {
+    "id": "bud_0463",
+    "name": "Budget Plan 463",
+    "amount_micros": 174314542,
+    "date": "2024-08-31"
+  },
+  {
+    "id": "bud_0464",
+    "name": "Budget Plan 464",
+    "amount_micros": 185094119,
+    "date": "2024-08-31"
+  },
+  {
+    "id": "bud_0465",
+    "name": "Budget Plan 465",
+    "amount_micros": 141588384,
+    "date": "2024-08-16"
+  },
+  {
+    "id": "bud_0466",
+    "name": "Budget Plan 466",
+    "amount_micros": 151507901,
+    "date": "2025-02-03"
+  },
+  {
+    "id": "bud_0467",
+    "name": "Budget Plan 467",
+    "amount_micros": 154274068,
+    "date": "2024-09-10"
+  },
+  {
+    "id": "bud_0468",
+    "name": "Budget Plan 468",
+    "amount_micros": 158275026,
+    "date": "2024-08-27"
+  },
+  {
+    "id": "bud_0469",
+    "name": "Budget Plan 469",
+    "amount_micros": 146514830,
+    "date": "2024-10-13"
+  },
+  {
+    "id": "bud_0470",
+    "name": "Budget Plan 470",
+    "amount_micros": 117057667,
+    "date": "2024-08-26"
+  },
+  {
+    "id": "bud_0471",
+    "name": "Budget Plan 471",
+    "amount_micros": 129816583,
+    "date": "2024-09-26"
+  },
+  {
+    "id": "bud_0472",
+    "name": "Budget Plan 472",
+    "amount_micros": 188202822,
+    "date": "2024-06-16"
+  },
+  {
+    "id": "bud_0473",
+    "name": "Budget Plan 473",
+    "amount_micros": 62095626,
+    "date": "2024-04-07"
+  },
+  {
+    "id": "bud_0474",
+    "name": "Budget Plan 474",
+    "amount_micros": 170048784,
+    "date": "2024-08-15"
+  },
+  {
+    "id": "bud_0475",
+    "name": "Budget Plan 475",
+    "amount_micros": 190997684,
+    "date": "2025-03-16"
+  },
+  {
+    "id": "bud_0476",
+    "name": "Budget Plan 476",
+    "amount_micros": 171111436,
+    "date": "2024-04-21"
+  },
+  {
+    "id": "bud_0477",
+    "name": "Budget Plan 477",
+    "amount_micros": 133204716,
+    "date": "2024-12-01"
+  },
+  {
+    "id": "bud_0478",
+    "name": "Budget Plan 478",
+    "amount_micros": 165888736,
+    "date": "2024-11-07"
+  },
+  {
+    "id": "bud_0479",
+    "name": "Budget Plan 479",
+    "amount_micros": 120231321,
+    "date": "2024-06-12"
+  },
+  {
+    "id": "bud_0480",
+    "name": "Budget Plan 480",
+    "amount_micros": 77374655,
+    "date": "2024-12-25"
+  },
+  {
+    "id": "bud_0481",
+    "name": "Budget Plan 481",
+    "amount_micros": 105430320,
+    "date": "2025-01-22"
+  },
+  {
+    "id": "bud_0482",
+    "name": "Budget Plan 482",
+    "amount_micros": 102634926,
+    "date": "2024-10-26"
+  },
+  {
+    "id": "bud_0483",
+    "name": "Budget Plan 483",
+    "amount_micros": 137652036,
+    "date": "2024-07-25"
+  },
+  {
+    "id": "bud_0484",
+    "name": "Budget Plan 484",
+    "amount_micros": 190974890,
+    "date": "2024-04-30"
+  },
+  {
+    "id": "bud_0485",
+    "name": "Budget Plan 485",
+    "amount_micros": 171608875,
+    "date": "2024-09-05"
+  },
+  {
+    "id": "bud_0486",
+    "name": "Budget Plan 486",
+    "amount_micros": 67549306,
+    "date": "2024-05-17"
+  },
+  {
+    "id": "bud_0487",
+    "name": "Budget Plan 487",
+    "amount_micros": 175443292,
+    "date": "2024-06-16"
+  },
+  {
+    "id": "bud_0488",
+    "name": "Budget Plan 488",
+    "amount_micros": 133239791,
+    "date": "2024-10-16"
+  },
+  {
+    "id": "bud_0489",
+    "name": "Budget Plan 489",
+    "amount_micros": 121203235,
+    "date": "2024-12-27"
+  },
+  {
+    "id": "bud_0490",
+    "name": "Budget Plan 490",
+    "amount_micros": 89893917,
+    "date": "2024-05-15"
+  },
+  {
+    "id": "bud_0491",
+    "name": "Budget Plan 491",
+    "amount_micros": 100472298,
+    "date": "2024-05-12"
+  },
+  {
+    "id": "bud_0492",
+    "name": "Budget Plan 492",
+    "amount_micros": 124339560,
+    "date": "2024-11-18"
+  },
+  {
+    "id": "bud_0493",
+    "name": "Budget Plan 493",
+    "amount_micros": 170004507,
+    "date": "2024-04-16"
+  },
+  {
+    "id": "bud_0494",
+    "name": "Budget Plan 494",
+    "amount_micros": 116938701,
+    "date": "2024-07-19"
+  },
+  {
+    "id": "bud_0495",
+    "name": "Budget Plan 495",
+    "amount_micros": 183251897,
+    "date": "2025-02-05"
+  },
+  {
+    "id": "bud_0496",
+    "name": "Budget Plan 496",
+    "amount_micros": 78036926,
+    "date": "2024-08-21"
+  },
+  {
+    "id": "bud_0497",
+    "name": "Budget Plan 497",
+    "amount_micros": 87024809,
+    "date": "2025-01-24"
+  },
+  {
+    "id": "bud_0498",
+    "name": "Budget Plan 498",
+    "amount_micros": 151095867,
+    "date": "2024-05-04"
+  },
+  {
+    "id": "bud_0499",
+    "name": "Budget Plan 499",
+    "amount_micros": 83444417,
+    "date": "2024-08-18"
+  },
+  {
+    "id": "bud_0500",
+    "name": "Budget Plan 500",
+    "amount_micros": 169249416,
+    "date": "2024-07-14"
+  },
+  {
+    "id": "bud_0501",
+    "name": "Budget Plan 501",
+    "amount_micros": 103942825,
+    "date": "2025-03-25"
+  },
+  {
+    "id": "bud_0502",
+    "name": "Budget Plan 502",
+    "amount_micros": 174911027,
+    "date": "2024-05-09"
+  },
+  {
+    "id": "bud_0503",
+    "name": "Budget Plan 503",
+    "amount_micros": 126435237,
+    "date": "2024-11-05"
+  },
+  {
+    "id": "bud_0504",
+    "name": "Budget Plan 504",
+    "amount_micros": 124947040,
+    "date": "2024-11-15"
+  },
+  {
+    "id": "bud_0505",
+    "name": "Budget Plan 505",
+    "amount_micros": 53045852,
+    "date": "2024-10-17"
+  },
+  {
+    "id": "bud_0506",
+    "name": "Budget Plan 506",
+    "amount_micros": 139738535,
+    "date": "2024-07-19"
+  },
+  {
+    "id": "bud_0507",
+    "name": "Budget Plan 507",
+    "amount_micros": 65499941,
+    "date": "2025-01-23"
+  },
+  {
+    "id": "bud_0508",
+    "name": "Budget Plan 508",
+    "amount_micros": 167987712,
+    "date": "2024-04-17"
+  },
+  {
+    "id": "bud_0509",
+    "name": "Budget Plan 509",
+    "amount_micros": 117820624,
+    "date": "2024-06-27"
+  },
+  {
+    "id": "bud_0510",
+    "name": "Budget Plan 510",
+    "amount_micros": 144677941,
+    "date": "2024-10-29"
+  },
+  {
+    "id": "bud_0511",
+    "name": "Budget Plan 511",
+    "amount_micros": 93043482,
+    "date": "2024-07-22"
+  },
+  {
+    "id": "bud_0512",
+    "name": "Budget Plan 512",
+    "amount_micros": 100180102,
+    "date": "2024-09-15"
+  },
+  {
+    "id": "bud_0513",
+    "name": "Budget Plan 513",
+    "amount_micros": 107301903,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0514",
+    "name": "Budget Plan 514",
+    "amount_micros": 147251521,
+    "date": "2024-12-27"
+  },
+  {
+    "id": "bud_0515",
+    "name": "Budget Plan 515",
+    "amount_micros": 63057032,
+    "date": "2024-10-14"
+  },
+  {
+    "id": "bud_0516",
+    "name": "Budget Plan 516",
+    "amount_micros": 147466546,
+    "date": "2024-10-08"
+  },
+  {
+    "id": "bud_0517",
+    "name": "Budget Plan 517",
+    "amount_micros": 139884324,
+    "date": "2024-06-20"
+  },
+  {
+    "id": "bud_0518",
+    "name": "Budget Plan 518",
+    "amount_micros": 199070054,
+    "date": "2025-02-15"
+  },
+  {
+    "id": "bud_0519",
+    "name": "Budget Plan 519",
+    "amount_micros": 69740614,
+    "date": "2025-03-15"
+  },
+  {
+    "id": "bud_0520",
+    "name": "Budget Plan 520",
+    "amount_micros": 63168233,
+    "date": "2024-11-18"
+  },
+  {
+    "id": "bud_0521",
+    "name": "Budget Plan 521",
+    "amount_micros": 169549710,
+    "date": "2024-07-02"
+  },
+  {
+    "id": "bud_0522",
+    "name": "Budget Plan 522",
+    "amount_micros": 105139549,
+    "date": "2024-06-28"
+  },
+  {
+    "id": "bud_0523",
+    "name": "Budget Plan 523",
+    "amount_micros": 82791920,
+    "date": "2025-03-02"
+  },
+  {
+    "id": "bud_0524",
+    "name": "Budget Plan 524",
+    "amount_micros": 185732976,
+    "date": "2024-05-23"
+  },
+  {
+    "id": "bud_0525",
+    "name": "Budget Plan 525",
+    "amount_micros": 193854969,
+    "date": "2024-06-09"
+  },
+  {
+    "id": "bud_0526",
+    "name": "Budget Plan 526",
+    "amount_micros": 140252259,
+    "date": "2025-03-31"
+  },
+  {
+    "id": "bud_0527",
+    "name": "Budget Plan 527",
+    "amount_micros": 126046144,
+    "date": "2024-04-22"
+  },
+  {
+    "id": "bud_0528",
+    "name": "Budget Plan 528",
+    "amount_micros": 72089555,
+    "date": "2024-06-30"
+  },
+  {
+    "id": "bud_0529",
+    "name": "Budget Plan 529",
+    "amount_micros": 136305407,
+    "date": "2024-05-05"
+  },
+  {
+    "id": "bud_0530",
+    "name": "Budget Plan 530",
+    "amount_micros": 88330633,
+    "date": "2024-08-06"
+  },
+  {
+    "id": "bud_0531",
+    "name": "Budget Plan 531",
+    "amount_micros": 130733886,
+    "date": "2024-07-31"
+  },
+  {
+    "id": "bud_0532",
+    "name": "Budget Plan 532",
+    "amount_micros": 167254712,
+    "date": "2025-03-06"
+  },
+  {
+    "id": "bud_0533",
+    "name": "Budget Plan 533",
+    "amount_micros": 150536497,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0534",
+    "name": "Budget Plan 534",
+    "amount_micros": 192869517,
+    "date": "2024-05-14"
+  },
+  {
+    "id": "bud_0535",
+    "name": "Budget Plan 535",
+    "amount_micros": 130688928,
+    "date": "2024-11-16"
+  },
+  {
+    "id": "bud_0536",
+    "name": "Budget Plan 536",
+    "amount_micros": 112776644,
+    "date": "2024-09-16"
+  },
+  {
+    "id": "bud_0537",
+    "name": "Budget Plan 537",
+    "amount_micros": 57596147,
+    "date": "2024-06-05"
+  },
+  {
+    "id": "bud_0538",
+    "name": "Budget Plan 538",
+    "amount_micros": 58824473,
+    "date": "2025-03-24"
+  },
+  {
+    "id": "bud_0539",
+    "name": "Budget Plan 539",
+    "amount_micros": 160391045,
+    "date": "2024-08-13"
+  },
+  {
+    "id": "bud_0540",
+    "name": "Budget Plan 540",
+    "amount_micros": 121892170,
+    "date": "2024-12-09"
+  },
+  {
+    "id": "bud_0541",
+    "name": "Budget Plan 541",
+    "amount_micros": 182522274,
+    "date": "2024-05-20"
+  },
+  {
+    "id": "bud_0542",
+    "name": "Budget Plan 542",
+    "amount_micros": 96241799,
+    "date": "2024-06-27"
+  },
+  {
+    "id": "bud_0543",
+    "name": "Budget Plan 543",
+    "amount_micros": 196121825,
+    "date": "2024-07-12"
+  },
+  {
+    "id": "bud_0544",
+    "name": "Budget Plan 544",
+    "amount_micros": 65518107,
+    "date": "2024-04-17"
+  },
+  {
+    "id": "bud_0545",
+    "name": "Budget Plan 545",
+    "amount_micros": 158304025,
+    "date": "2025-02-22"
+  },
+  {
+    "id": "bud_0546",
+    "name": "Budget Plan 546",
+    "amount_micros": 189019926,
+    "date": "2024-11-03"
+  },
+  {
+    "id": "bud_0547",
+    "name": "Budget Plan 547",
+    "amount_micros": 96257462,
+    "date": "2024-06-25"
+  },
+  {
+    "id": "bud_0548",
+    "name": "Budget Plan 548",
+    "amount_micros": 185347644,
+    "date": "2024-07-12"
+  },
+  {
+    "id": "bud_0549",
+    "name": "Budget Plan 549",
+    "amount_micros": 176682361,
+    "date": "2024-07-28"
+  },
+  {
+    "id": "bud_0550",
+    "name": "Budget Plan 550",
+    "amount_micros": 162119480,
+    "date": "2024-07-19"
+  },
+  {
+    "id": "bud_0551",
+    "name": "Budget Plan 551",
+    "amount_micros": 154253228,
+    "date": "2024-09-20"
+  },
+  {
+    "id": "bud_0552",
+    "name": "Budget Plan 552",
+    "amount_micros": 88272748,
+    "date": "2024-05-10"
+  },
+  {
+    "id": "bud_0553",
+    "name": "Budget Plan 553",
+    "amount_micros": 98832903,
+    "date": "2024-04-10"
+  },
+  {
+    "id": "bud_0554",
+    "name": "Budget Plan 554",
+    "amount_micros": 199119428,
+    "date": "2024-08-10"
+  },
+  {
+    "id": "bud_0555",
+    "name": "Budget Plan 555",
+    "amount_micros": 149125926,
+    "date": "2025-01-07"
+  },
+  {
+    "id": "bud_0556",
+    "name": "Budget Plan 556",
+    "amount_micros": 98791965,
+    "date": "2025-03-26"
+  },
+  {
+    "id": "bud_0557",
+    "name": "Budget Plan 557",
+    "amount_micros": 103893475,
+    "date": "2025-03-06"
+  },
+  {
+    "id": "bud_0558",
+    "name": "Budget Plan 558",
+    "amount_micros": 104439520,
+    "date": "2024-08-27"
+  },
+  {
+    "id": "bud_0559",
+    "name": "Budget Plan 559",
+    "amount_micros": 87892405,
+    "date": "2024-10-20"
+  },
+  {
+    "id": "bud_0560",
+    "name": "Budget Plan 560",
+    "amount_micros": 179850551,
+    "date": "2024-11-21"
+  },
+  {
+    "id": "bud_0561",
+    "name": "Budget Plan 561",
+    "amount_micros": 92145477,
+    "date": "2024-07-07"
+  },
+  {
+    "id": "bud_0562",
+    "name": "Budget Plan 562",
+    "amount_micros": 138348578,
+    "date": "2025-03-05"
+  },
+  {
+    "id": "bud_0563",
+    "name": "Budget Plan 563",
+    "amount_micros": 97683643,
+    "date": "2024-10-27"
+  },
+  {
+    "id": "bud_0564",
+    "name": "Budget Plan 564",
+    "amount_micros": 151146179,
+    "date": "2024-06-15"
+  },
+  {
+    "id": "bud_0565",
+    "name": "Budget Plan 565",
+    "amount_micros": 105680504,
+    "date": "2024-08-11"
+  },
+  {
+    "id": "bud_0566",
+    "name": "Budget Plan 566",
+    "amount_micros": 116209064,
+    "date": "2025-03-09"
+  },
+  {
+    "id": "bud_0567",
+    "name": "Budget Plan 567",
+    "amount_micros": 144717807,
+    "date": "2025-01-11"
+  },
+  {
+    "id": "bud_0568",
+    "name": "Budget Plan 568",
+    "amount_micros": 185430526,
+    "date": "2024-11-17"
+  },
+  {
+    "id": "bud_0569",
+    "name": "Budget Plan 569",
+    "amount_micros": 183609385,
+    "date": "2024-07-06"
+  },
+  {
+    "id": "bud_0570",
+    "name": "Budget Plan 570",
+    "amount_micros": 177083663,
+    "date": "2024-11-24"
+  },
+  {
+    "id": "bud_0571",
+    "name": "Budget Plan 571",
+    "amount_micros": 177934600,
+    "date": "2024-11-14"
+  },
+  {
+    "id": "bud_0572",
+    "name": "Budget Plan 572",
+    "amount_micros": 92263102,
+    "date": "2025-01-30"
+  },
+  {
+    "id": "bud_0573",
+    "name": "Budget Plan 573",
+    "amount_micros": 109324907,
+    "date": "2025-02-24"
+  },
+  {
+    "id": "bud_0574",
+    "name": "Budget Plan 574",
+    "amount_micros": 100009033,
+    "date": "2024-10-20"
+  },
+  {
+    "id": "bud_0575",
+    "name": "Budget Plan 575",
+    "amount_micros": 136226918,
+    "date": "2024-12-17"
+  },
+  {
+    "id": "bud_0576",
+    "name": "Budget Plan 576",
+    "amount_micros": 185876041,
+    "date": "2025-03-01"
+  },
+  {
+    "id": "bud_0577",
+    "name": "Budget Plan 577",
+    "amount_micros": 62780103,
+    "date": "2024-07-01"
+  },
+  {
+    "id": "bud_0578",
+    "name": "Budget Plan 578",
+    "amount_micros": 72990973,
+    "date": "2024-12-07"
+  },
+  {
+    "id": "bud_0579",
+    "name": "Budget Plan 579",
+    "amount_micros": 71494842,
+    "date": "2024-09-23"
+  },
+  {
+    "id": "bud_0580",
+    "name": "Budget Plan 580",
+    "amount_micros": 59988890,
+    "date": "2024-08-19"
+  },
+  {
+    "id": "bud_0581",
+    "name": "Budget Plan 581",
+    "amount_micros": 64706379,
+    "date": "2025-03-08"
+  },
+  {
+    "id": "bud_0582",
+    "name": "Budget Plan 582",
+    "amount_micros": 73168596,
+    "date": "2024-04-14"
+  },
+  {
+    "id": "bud_0583",
+    "name": "Budget Plan 583",
+    "amount_micros": 75977168,
+    "date": "2025-03-22"
+  },
+  {
+    "id": "bud_0584",
+    "name": "Budget Plan 584",
+    "amount_micros": 173775169,
+    "date": "2024-04-28"
+  },
+  {
+    "id": "bud_0585",
+    "name": "Budget Plan 585",
+    "amount_micros": 146478293,
+    "date": "2024-07-21"
+  },
+  {
+    "id": "bud_0586",
+    "name": "Budget Plan 586",
+    "amount_micros": 199307029,
+    "date": "2024-10-31"
+  },
+  {
+    "id": "bud_0587",
+    "name": "Budget Plan 587",
+    "amount_micros": 88381054,
+    "date": "2024-11-17"
+  },
+  {
+    "id": "bud_0588",
+    "name": "Budget Plan 588",
+    "amount_micros": 119070929,
+    "date": "2024-09-07"
+  },
+  {
+    "id": "bud_0589",
+    "name": "Budget Plan 589",
+    "amount_micros": 157476427,
+    "date": "2024-09-11"
+  },
+  {
+    "id": "bud_0590",
+    "name": "Budget Plan 590",
+    "amount_micros": 188667866,
+    "date": "2024-07-09"
+  },
+  {
+    "id": "bud_0591",
+    "name": "Budget Plan 591",
+    "amount_micros": 134698174,
+    "date": "2024-09-08"
+  },
+  {
+    "id": "bud_0592",
+    "name": "Budget Plan 592",
+    "amount_micros": 131372313,
+    "date": "2024-08-06"
+  },
+  {
+    "id": "bud_0593",
+    "name": "Budget Plan 593",
+    "amount_micros": 152333004,
+    "date": "2024-05-18"
+  },
+  {
+    "id": "bud_0594",
+    "name": "Budget Plan 594",
+    "amount_micros": 147227478,
+    "date": "2025-02-16"
+  },
+  {
+    "id": "bud_0595",
+    "name": "Budget Plan 595",
+    "amount_micros": 82317288,
+    "date": "2024-08-20"
+  },
+  {
+    "id": "bud_0596",
+    "name": "Budget Plan 596",
+    "amount_micros": 78838842,
+    "date": "2024-09-20"
+  },
+  {
+    "id": "bud_0597",
+    "name": "Budget Plan 597",
+    "amount_micros": 187003067,
+    "date": "2024-09-17"
+  },
+  {
+    "id": "bud_0598",
+    "name": "Budget Plan 598",
+    "amount_micros": 152932627,
+    "date": "2024-08-03"
+  },
+  {
+    "id": "bud_0599",
+    "name": "Budget Plan 599",
+    "amount_micros": 128074458,
+    "date": "2024-11-18"
+  },
+  {
+    "id": "bud_0600",
+    "name": "Budget Plan 600",
+    "amount_micros": 89177683,
+    "date": "2025-01-19"
+  },
+  {
+    "id": "bud_0601",
+    "name": "Budget Plan 601",
+    "amount_micros": 150118536,
+    "date": "2024-12-15"
+  },
+  {
+    "id": "bud_0602",
+    "name": "Budget Plan 602",
+    "amount_micros": 72685310,
+    "date": "2024-07-18"
+  },
+  {
+    "id": "bud_0603",
+    "name": "Budget Plan 603",
+    "amount_micros": 157196414,
+    "date": "2024-07-13"
+  },
+  {
+    "id": "bud_0604",
+    "name": "Budget Plan 604",
+    "amount_micros": 134919925,
+    "date": "2024-06-22"
+  },
+  {
+    "id": "bud_0605",
+    "name": "Budget Plan 605",
+    "amount_micros": 87404075,
+    "date": "2024-08-04"
+  },
+  {
+    "id": "bud_0606",
+    "name": "Budget Plan 606",
+    "amount_micros": 179548091,
+    "date": "2024-07-29"
+  },
+  {
+    "id": "bud_0607",
+    "name": "Budget Plan 607",
+    "amount_micros": 116201841,
+    "date": "2024-04-05"
+  },
+  {
+    "id": "bud_0608",
+    "name": "Budget Plan 608",
+    "amount_micros": 85010607,
+    "date": "2024-09-26"
+  },
+  {
+    "id": "bud_0609",
+    "name": "Budget Plan 609",
+    "amount_micros": 136224605,
+    "date": "2024-07-20"
+  },
+  {
+    "id": "bud_0610",
+    "name": "Budget Plan 610",
+    "amount_micros": 183899676,
+    "date": "2024-10-18"
+  },
+  {
+    "id": "bud_0611",
+    "name": "Budget Plan 611",
+    "amount_micros": 176166260,
+    "date": "2024-07-26"
+  },
+  {
+    "id": "bud_0612",
+    "name": "Budget Plan 612",
+    "amount_micros": 78784302,
+    "date": "2024-08-02"
+  },
+  {
+    "id": "bud_0613",
+    "name": "Budget Plan 613",
+    "amount_micros": 156478286,
+    "date": "2024-09-10"
+  },
+  {
+    "id": "bud_0614",
+    "name": "Budget Plan 614",
+    "amount_micros": 113315339,
+    "date": "2024-05-02"
+  },
+  {
+    "id": "bud_0615",
+    "name": "Budget Plan 615",
+    "amount_micros": 196410927,
+    "date": "2024-11-15"
+  },
+  {
+    "id": "bud_0616",
+    "name": "Budget Plan 616",
+    "amount_micros": 178596549,
+    "date": "2025-02-25"
+  },
+  {
+    "id": "bud_0617",
+    "name": "Budget Plan 617",
+    "amount_micros": 170987075,
+    "date": "2024-07-08"
+  },
+  {
+    "id": "bud_0618",
+    "name": "Budget Plan 618",
+    "amount_micros": 106577724,
+    "date": "2025-02-12"
+  },
+  {
+    "id": "bud_0619",
+    "name": "Budget Plan 619",
+    "amount_micros": 139686323,
+    "date": "2024-11-01"
+  },
+  {
+    "id": "bud_0620",
+    "name": "Budget Plan 620",
+    "amount_micros": 80027116,
+    "date": "2024-05-06"
+  },
+  {
+    "id": "bud_0621",
+    "name": "Budget Plan 621",
+    "amount_micros": 54538658,
+    "date": "2024-04-06"
+  },
+  {
+    "id": "bud_0622",
+    "name": "Budget Plan 622",
+    "amount_micros": 197137456,
+    "date": "2024-09-18"
+  },
+  {
+    "id": "bud_0623",
+    "name": "Budget Plan 623",
+    "amount_micros": 120396842,
+    "date": "2025-01-19"
+  },
+  {
+    "id": "bud_0624",
+    "name": "Budget Plan 624",
+    "amount_micros": 87666587,
+    "date": "2025-01-31"
+  },
+  {
+    "id": "bud_0625",
+    "name": "Budget Plan 625",
+    "amount_micros": 126005775,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "bud_0626",
+    "name": "Budget Plan 626",
+    "amount_micros": 130179115,
+    "date": "2024-11-02"
+  },
+  {
+    "id": "bud_0627",
+    "name": "Budget Plan 627",
+    "amount_micros": 164750712,
+    "date": "2024-06-12"
+  },
+  {
+    "id": "bud_0628",
+    "name": "Budget Plan 628",
+    "amount_micros": 80897540,
+    "date": "2024-07-28"
+  },
+  {
+    "id": "bud_0629",
+    "name": "Budget Plan 629",
+    "amount_micros": 59425052,
+    "date": "2025-02-18"
+  },
+  {
+    "id": "bud_0630",
+    "name": "Budget Plan 630",
+    "amount_micros": 194066922,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0631",
+    "name": "Budget Plan 631",
+    "amount_micros": 116178923,
+    "date": "2024-12-10"
+  },
+  {
+    "id": "bud_0632",
+    "name": "Budget Plan 632",
+    "amount_micros": 87105074,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0633",
+    "name": "Budget Plan 633",
+    "amount_micros": 140660627,
+    "date": "2025-01-20"
+  },
+  {
+    "id": "bud_0634",
+    "name": "Budget Plan 634",
+    "amount_micros": 125154026,
+    "date": "2024-08-31"
+  },
+  {
+    "id": "bud_0635",
+    "name": "Budget Plan 635",
+    "amount_micros": 148839077,
+    "date": "2024-04-20"
+  },
+  {
+    "id": "bud_0636",
+    "name": "Budget Plan 636",
+    "amount_micros": 51721216,
+    "date": "2025-01-19"
+  },
+  {
+    "id": "bud_0637",
+    "name": "Budget Plan 637",
+    "amount_micros": 140674895,
+    "date": "2024-07-31"
+  },
+  {
+    "id": "bud_0638",
+    "name": "Budget Plan 638",
+    "amount_micros": 105161430,
+    "date": "2024-10-04"
+  },
+  {
+    "id": "bud_0639",
+    "name": "Budget Plan 639",
+    "amount_micros": 59599451,
+    "date": "2025-03-05"
+  },
+  {
+    "id": "bud_0640",
+    "name": "Budget Plan 640",
+    "amount_micros": 87121711,
+    "date": "2024-05-16"
+  },
+  {
+    "id": "bud_0641",
+    "name": "Budget Plan 641",
+    "amount_micros": 53961669,
+    "date": "2024-07-29"
+  },
+  {
+    "id": "bud_0642",
+    "name": "Budget Plan 642",
+    "amount_micros": 147598089,
+    "date": "2025-03-11"
+  },
+  {
+    "id": "bud_0643",
+    "name": "Budget Plan 643",
+    "amount_micros": 53501004,
+    "date": "2024-05-02"
+  },
+  {
+    "id": "bud_0644",
+    "name": "Budget Plan 644",
+    "amount_micros": 173612465,
+    "date": "2024-12-16"
+  },
+  {
+    "id": "bud_0645",
+    "name": "Budget Plan 645",
+    "amount_micros": 111163806,
+    "date": "2024-06-17"
+  },
+  {
+    "id": "bud_0646",
+    "name": "Budget Plan 646",
+    "amount_micros": 104757728,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "bud_0647",
+    "name": "Budget Plan 647",
+    "amount_micros": 67488368,
+    "date": "2024-05-22"
+  },
+  {
+    "id": "bud_0648",
+    "name": "Budget Plan 648",
+    "amount_micros": 79457948,
+    "date": "2024-11-18"
+  },
+  {
+    "id": "bud_0649",
+    "name": "Budget Plan 649",
+    "amount_micros": 96649384,
+    "date": "2025-01-10"
+  },
+  {
+    "id": "bud_0650",
+    "name": "Budget Plan 650",
+    "amount_micros": 167763699,
+    "date": "2025-02-08"
+  },
+  {
+    "id": "bud_0651",
+    "name": "Budget Plan 651",
+    "amount_micros": 80317701,
+    "date": "2024-09-30"
+  },
+  {
+    "id": "bud_0652",
+    "name": "Budget Plan 652",
+    "amount_micros": 104940420,
+    "date": "2024-10-28"
+  },
+  {
+    "id": "bud_0653",
+    "name": "Budget Plan 653",
+    "amount_micros": 132960688,
+    "date": "2024-04-20"
+  },
+  {
+    "id": "bud_0654",
+    "name": "Budget Plan 654",
+    "amount_micros": 186414780,
+    "date": "2024-06-20"
+  },
+  {
+    "id": "bud_0655",
+    "name": "Budget Plan 655",
+    "amount_micros": 187017238,
+    "date": "2024-06-05"
+  },
+  {
+    "id": "bud_0656",
+    "name": "Budget Plan 656",
+    "amount_micros": 169526481,
+    "date": "2024-12-27"
+  },
+  {
+    "id": "bud_0657",
+    "name": "Budget Plan 657",
+    "amount_micros": 102388313,
+    "date": "2024-10-13"
+  },
+  {
+    "id": "bud_0658",
+    "name": "Budget Plan 658",
+    "amount_micros": 110437291,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0659",
+    "name": "Budget Plan 659",
+    "amount_micros": 72313409,
+    "date": "2024-08-05"
+  },
+  {
+    "id": "bud_0660",
+    "name": "Budget Plan 660",
+    "amount_micros": 103711517,
+    "date": "2024-11-18"
+  },
+  {
+    "id": "bud_0661",
+    "name": "Budget Plan 661",
+    "amount_micros": 193351280,
+    "date": "2025-03-24"
+  },
+  {
+    "id": "bud_0662",
+    "name": "Budget Plan 662",
+    "amount_micros": 77998437,
+    "date": "2024-10-13"
+  },
+  {
+    "id": "bud_0663",
+    "name": "Budget Plan 663",
+    "amount_micros": 135551798,
+    "date": "2025-01-03"
+  },
+  {
+    "id": "bud_0664",
+    "name": "Budget Plan 664",
+    "amount_micros": 118786766,
+    "date": "2025-03-18"
+  },
+  {
+    "id": "bud_0665",
+    "name": "Budget Plan 665",
+    "amount_micros": 142934476,
+    "date": "2024-04-23"
+  },
+  {
+    "id": "bud_0666",
+    "name": "Budget Plan 666",
+    "amount_micros": 111760774,
+    "date": "2024-05-14"
+  },
+  {
+    "id": "bud_0667",
+    "name": "Budget Plan 667",
+    "amount_micros": 131807705,
+    "date": "2024-12-13"
+  },
+  {
+    "id": "bud_0668",
+    "name": "Budget Plan 668",
+    "amount_micros": 78131992,
+    "date": "2025-01-26"
+  },
+  {
+    "id": "bud_0669",
+    "name": "Budget Plan 669",
+    "amount_micros": 180532215,
+    "date": "2024-12-13"
+  },
+  {
+    "id": "bud_0670",
+    "name": "Budget Plan 670",
+    "amount_micros": 151882711,
+    "date": "2024-04-08"
+  },
+  {
+    "id": "bud_0671",
+    "name": "Budget Plan 671",
+    "amount_micros": 179311884,
+    "date": "2024-05-26"
+  },
+  {
+    "id": "bud_0672",
+    "name": "Budget Plan 672",
+    "amount_micros": 102462288,
+    "date": "2024-06-21"
+  },
+  {
+    "id": "bud_0673",
+    "name": "Budget Plan 673",
+    "amount_micros": 55397041,
+    "date": "2024-08-25"
+  },
+  {
+    "id": "bud_0674",
+    "name": "Budget Plan 674",
+    "amount_micros": 161586613,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0675",
+    "name": "Budget Plan 675",
+    "amount_micros": 151847503,
+    "date": "2024-11-02"
+  },
+  {
+    "id": "bud_0676",
+    "name": "Budget Plan 676",
+    "amount_micros": 193790616,
+    "date": "2024-09-11"
+  },
+  {
+    "id": "bud_0677",
+    "name": "Budget Plan 677",
+    "amount_micros": 165045395,
+    "date": "2025-02-02"
+  },
+  {
+    "id": "bud_0678",
+    "name": "Budget Plan 678",
+    "amount_micros": 97371594,
+    "date": "2025-01-29"
+  },
+  {
+    "id": "bud_0679",
+    "name": "Budget Plan 679",
+    "amount_micros": 135417752,
+    "date": "2025-03-19"
+  },
+  {
+    "id": "bud_0680",
+    "name": "Budget Plan 680",
+    "amount_micros": 84812655,
+    "date": "2024-07-23"
+  },
+  {
+    "id": "bud_0681",
+    "name": "Budget Plan 681",
+    "amount_micros": 141783953,
+    "date": "2024-07-03"
+  },
+  {
+    "id": "bud_0682",
+    "name": "Budget Plan 682",
+    "amount_micros": 108130483,
+    "date": "2024-05-03"
+  },
+  {
+    "id": "bud_0683",
+    "name": "Budget Plan 683",
+    "amount_micros": 162340028,
+    "date": "2024-10-21"
+  },
+  {
+    "id": "bud_0684",
+    "name": "Budget Plan 684",
+    "amount_micros": 57295843,
+    "date": "2024-06-21"
+  },
+  {
+    "id": "bud_0685",
+    "name": "Budget Plan 685",
+    "amount_micros": 55934086,
+    "date": "2025-02-17"
+  },
+  {
+    "id": "bud_0686",
+    "name": "Budget Plan 686",
+    "amount_micros": 70875706,
+    "date": "2024-11-05"
+  },
+  {
+    "id": "bud_0687",
+    "name": "Budget Plan 687",
+    "amount_micros": 80282616,
+    "date": "2024-11-29"
+  },
+  {
+    "id": "bud_0688",
+    "name": "Budget Plan 688",
+    "amount_micros": 68596775,
+    "date": "2024-10-27"
+  },
+  {
+    "id": "bud_0689",
+    "name": "Budget Plan 689",
+    "amount_micros": 196531151,
+    "date": "2024-04-09"
+  },
+  {
+    "id": "bud_0690",
+    "name": "Budget Plan 690",
+    "amount_micros": 77557553,
+    "date": "2024-07-21"
+  },
+  {
+    "id": "bud_0691",
+    "name": "Budget Plan 691",
+    "amount_micros": 95690262,
+    "date": "2025-02-07"
+  },
+  {
+    "id": "bud_0692",
+    "name": "Budget Plan 692",
+    "amount_micros": 182612909,
+    "date": "2024-04-22"
+  },
+  {
+    "id": "bud_0693",
+    "name": "Budget Plan 693",
+    "amount_micros": 192863228,
+    "date": "2024-06-12"
+  },
+  {
+    "id": "bud_0694",
+    "name": "Budget Plan 694",
+    "amount_micros": 120932247,
+    "date": "2024-09-11"
+  },
+  {
+    "id": "bud_0695",
+    "name": "Budget Plan 695",
+    "amount_micros": 131138180,
+    "date": "2024-06-07"
+  },
+  {
+    "id": "bud_0696",
+    "name": "Budget Plan 696",
+    "amount_micros": 92156996,
+    "date": "2024-05-08"
+  },
+  {
+    "id": "bud_0697",
+    "name": "Budget Plan 697",
+    "amount_micros": 167287511,
+    "date": "2025-02-23"
+  },
+  {
+    "id": "bud_0698",
+    "name": "Budget Plan 698",
+    "amount_micros": 102621076,
+    "date": "2024-09-24"
+  },
+  {
+    "id": "bud_0699",
+    "name": "Budget Plan 699",
+    "amount_micros": 69276157,
+    "date": "2025-01-28"
+  },
+  {
+    "id": "bud_0700",
+    "name": "Budget Plan 700",
+    "amount_micros": 177503694,
+    "date": "2024-05-23"
+  },
+  {
+    "id": "bud_0701",
+    "name": "Budget Plan 701",
+    "amount_micros": 57822262,
+    "date": "2025-02-21"
+  },
+  {
+    "id": "bud_0702",
+    "name": "Budget Plan 702",
+    "amount_micros": 180006691,
+    "date": "2024-06-25"
+  },
+  {
+    "id": "bud_0703",
+    "name": "Budget Plan 703",
+    "amount_micros": 168648775,
+    "date": "2024-08-29"
+  },
+  {
+    "id": "bud_0704",
+    "name": "Budget Plan 704",
+    "amount_micros": 59331732,
+    "date": "2024-05-26"
+  },
+  {
+    "id": "bud_0705",
+    "name": "Budget Plan 705",
+    "amount_micros": 56223308,
+    "date": "2024-08-15"
+  },
+  {
+    "id": "bud_0706",
+    "name": "Budget Plan 706",
+    "amount_micros": 113266427,
+    "date": "2024-12-28"
+  },
+  {
+    "id": "bud_0707",
+    "name": "Budget Plan 707",
+    "amount_micros": 80704816,
+    "date": "2024-10-03"
+  },
+  {
+    "id": "bud_0708",
+    "name": "Budget Plan 708",
+    "amount_micros": 144251830,
+    "date": "2024-12-10"
+  },
+  {
+    "id": "bud_0709",
+    "name": "Budget Plan 709",
+    "amount_micros": 78031206,
+    "date": "2025-02-19"
+  },
+  {
+    "id": "bud_0710",
+    "name": "Budget Plan 710",
+    "amount_micros": 51900271,
+    "date": "2025-03-07"
+  },
+  {
+    "id": "bud_0711",
+    "name": "Budget Plan 711",
+    "amount_micros": 109551446,
+    "date": "2024-08-09"
+  },
+  {
+    "id": "bud_0712",
+    "name": "Budget Plan 712",
+    "amount_micros": 82244131,
+    "date": "2025-03-30"
+  },
+  {
+    "id": "bud_0713",
+    "name": "Budget Plan 713",
+    "amount_micros": 99273943,
+    "date": "2024-07-11"
+  },
+  {
+    "id": "bud_0714",
+    "name": "Budget Plan 714",
+    "amount_micros": 173579480,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0715",
+    "name": "Budget Plan 715",
+    "amount_micros": 171872902,
+    "date": "2024-08-17"
+  },
+  {
+    "id": "bud_0716",
+    "name": "Budget Plan 716",
+    "amount_micros": 80607088,
+    "date": "2024-05-04"
+  },
+  {
+    "id": "bud_0717",
+    "name": "Budget Plan 717",
+    "amount_micros": 103842603,
+    "date": "2024-07-04"
+  },
+  {
+    "id": "bud_0718",
+    "name": "Budget Plan 718",
+    "amount_micros": 189200392,
+    "date": "2024-10-09"
+  },
+  {
+    "id": "bud_0719",
+    "name": "Budget Plan 719",
+    "amount_micros": 74315353,
+    "date": "2024-04-07"
+  },
+  {
+    "id": "bud_0720",
+    "name": "Budget Plan 720",
+    "amount_micros": 149452206,
+    "date": "2024-10-12"
+  },
+  {
+    "id": "bud_0721",
+    "name": "Budget Plan 721",
+    "amount_micros": 190643100,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "bud_0722",
+    "name": "Budget Plan 722",
+    "amount_micros": 151226635,
+    "date": "2024-10-06"
+  },
+  {
+    "id": "bud_0723",
+    "name": "Budget Plan 723",
+    "amount_micros": 139090293,
+    "date": "2024-04-04"
+  },
+  {
+    "id": "bud_0724",
+    "name": "Budget Plan 724",
+    "amount_micros": 89771751,
+    "date": "2024-12-07"
+  },
+  {
+    "id": "bud_0725",
+    "name": "Budget Plan 725",
+    "amount_micros": 136094578,
+    "date": "2024-05-17"
+  },
+  {
+    "id": "bud_0726",
+    "name": "Budget Plan 726",
+    "amount_micros": 71348855,
+    "date": "2024-09-01"
+  },
+  {
+    "id": "bud_0727",
+    "name": "Budget Plan 727",
+    "amount_micros": 193823068,
+    "date": "2025-02-05"
+  },
+  {
+    "id": "bud_0728",
+    "name": "Budget Plan 728",
+    "amount_micros": 117775354,
+    "date": "2024-07-11"
+  },
+  {
+    "id": "bud_0729",
+    "name": "Budget Plan 729",
+    "amount_micros": 146475014,
+    "date": "2024-09-05"
+  },
+  {
+    "id": "bud_0730",
+    "name": "Budget Plan 730",
+    "amount_micros": 168170723,
+    "date": "2024-05-11"
+  },
+  {
+    "id": "bud_0731",
+    "name": "Budget Plan 731",
+    "amount_micros": 118866557,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "bud_0732",
+    "name": "Budget Plan 732",
+    "amount_micros": 73868092,
+    "date": "2024-06-11"
+  },
+  {
+    "id": "bud_0733",
+    "name": "Budget Plan 733",
+    "amount_micros": 67113824,
+    "date": "2025-01-28"
+  },
+  {
+    "id": "bud_0734",
+    "name": "Budget Plan 734",
+    "amount_micros": 57743472,
+    "date": "2024-12-18"
+  },
+  {
+    "id": "bud_0735",
+    "name": "Budget Plan 735",
+    "amount_micros": 88652748,
+    "date": "2024-12-09"
+  },
+  {
+    "id": "bud_0736",
+    "name": "Budget Plan 736",
+    "amount_micros": 88621679,
+    "date": "2024-05-26"
+  },
+  {
+    "id": "bud_0737",
+    "name": "Budget Plan 737",
+    "amount_micros": 94886774,
+    "date": "2024-09-09"
+  },
+  {
+    "id": "bud_0738",
+    "name": "Budget Plan 738",
+    "amount_micros": 79972064,
+    "date": "2024-11-13"
+  },
+  {
+    "id": "bud_0739",
+    "name": "Budget Plan 739",
+    "amount_micros": 134084814,
+    "date": "2024-05-15"
+  },
+  {
+    "id": "bud_0740",
+    "name": "Budget Plan 740",
+    "amount_micros": 194556171,
+    "date": "2024-09-21"
+  },
+  {
+    "id": "bud_0741",
+    "name": "Budget Plan 741",
+    "amount_micros": 163851613,
+    "date": "2025-03-21"
+  },
+  {
+    "id": "bud_0742",
+    "name": "Budget Plan 742",
+    "amount_micros": 75938523,
+    "date": "2025-01-29"
+  },
+  {
+    "id": "bud_0743",
+    "name": "Budget Plan 743",
+    "amount_micros": 143974163,
+    "date": "2024-11-25"
+  },
+  {
+    "id": "bud_0744",
+    "name": "Budget Plan 744",
+    "amount_micros": 126806978,
+    "date": "2024-11-14"
+  },
+  {
+    "id": "bud_0745",
+    "name": "Budget Plan 745",
+    "amount_micros": 189146105,
+    "date": "2024-11-16"
+  },
+  {
+    "id": "bud_0746",
+    "name": "Budget Plan 746",
+    "amount_micros": 195827676,
+    "date": "2024-07-23"
+  },
+  {
+    "id": "bud_0747",
+    "name": "Budget Plan 747",
+    "amount_micros": 110670305,
+    "date": "2024-09-23"
+  },
+  {
+    "id": "bud_0748",
+    "name": "Budget Plan 748",
+    "amount_micros": 107554212,
+    "date": "2024-07-14"
+  },
+  {
+    "id": "bud_0749",
+    "name": "Budget Plan 749",
+    "amount_micros": 181386662,
+    "date": "2025-01-10"
+  },
+  {
+    "id": "bud_0750",
+    "name": "Budget Plan 750",
+    "amount_micros": 103802847,
+    "date": "2025-01-17"
+  },
+  {
+    "id": "bud_0751",
+    "name": "Budget Plan 751",
+    "amount_micros": 93029495,
+    "date": "2025-03-19"
+  },
+  {
+    "id": "bud_0752",
+    "name": "Budget Plan 752",
+    "amount_micros": 76087598,
+    "date": "2024-07-02"
+  },
+  {
+    "id": "bud_0753",
+    "name": "Budget Plan 753",
+    "amount_micros": 177342255,
+    "date": "2024-11-30"
+  },
+  {
+    "id": "bud_0754",
+    "name": "Budget Plan 754",
+    "amount_micros": 53821654,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0755",
+    "name": "Budget Plan 755",
+    "amount_micros": 152077310,
+    "date": "2025-03-20"
+  },
+  {
+    "id": "bud_0756",
+    "name": "Budget Plan 756",
+    "amount_micros": 71700967,
+    "date": "2024-12-08"
+  },
+  {
+    "id": "bud_0757",
+    "name": "Budget Plan 757",
+    "amount_micros": 173810964,
+    "date": "2024-09-03"
+  },
+  {
+    "id": "bud_0758",
+    "name": "Budget Plan 758",
+    "amount_micros": 168996940,
+    "date": "2025-02-14"
+  },
+  {
+    "id": "bud_0759",
+    "name": "Budget Plan 759",
+    "amount_micros": 100477601,
+    "date": "2025-02-09"
+  },
+  {
+    "id": "bud_0760",
+    "name": "Budget Plan 760",
+    "amount_micros": 157109057,
+    "date": "2024-08-16"
+  },
+  {
+    "id": "bud_0761",
+    "name": "Budget Plan 761",
+    "amount_micros": 108680402,
+    "date": "2025-03-24"
+  },
+  {
+    "id": "bud_0762",
+    "name": "Budget Plan 762",
+    "amount_micros": 183371989,
+    "date": "2025-01-06"
+  },
+  {
+    "id": "bud_0763",
+    "name": "Budget Plan 763",
+    "amount_micros": 113715729,
+    "date": "2025-03-28"
+  },
+  {
+    "id": "bud_0764",
+    "name": "Budget Plan 764",
+    "amount_micros": 72354510,
+    "date": "2024-10-23"
+  },
+  {
+    "id": "bud_0765",
+    "name": "Budget Plan 765",
+    "amount_micros": 140167696,
+    "date": "2024-07-20"
+  },
+  {
+    "id": "bud_0766",
+    "name": "Budget Plan 766",
+    "amount_micros": 152388079,
+    "date": "2024-05-03"
+  },
+  {
+    "id": "bud_0767",
+    "name": "Budget Plan 767",
+    "amount_micros": 114556165,
+    "date": "2024-08-06"
+  },
+  {
+    "id": "bud_0768",
+    "name": "Budget Plan 768",
+    "amount_micros": 161760495,
+    "date": "2024-06-22"
+  },
+  {
+    "id": "bud_0769",
+    "name": "Budget Plan 769",
+    "amount_micros": 165501638,
+    "date": "2025-02-15"
+  },
+  {
+    "id": "bud_0770",
+    "name": "Budget Plan 770",
+    "amount_micros": 126083641,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0771",
+    "name": "Budget Plan 771",
+    "amount_micros": 109655035,
+    "date": "2024-09-05"
+  },
+  {
+    "id": "bud_0772",
+    "name": "Budget Plan 772",
+    "amount_micros": 102778278,
+    "date": "2025-02-25"
+  },
+  {
+    "id": "bud_0773",
+    "name": "Budget Plan 773",
+    "amount_micros": 174200059,
+    "date": "2024-10-07"
+  },
+  {
+    "id": "bud_0774",
+    "name": "Budget Plan 774",
+    "amount_micros": 160828869,
+    "date": "2024-08-05"
+  },
+  {
+    "id": "bud_0775",
+    "name": "Budget Plan 775",
+    "amount_micros": 143123280,
+    "date": "2024-10-29"
+  },
+  {
+    "id": "bud_0776",
+    "name": "Budget Plan 776",
+    "amount_micros": 199094412,
+    "date": "2024-11-06"
+  },
+  {
+    "id": "bud_0777",
+    "name": "Budget Plan 777",
+    "amount_micros": 137110898,
+    "date": "2024-12-14"
+  },
+  {
+    "id": "bud_0778",
+    "name": "Budget Plan 778",
+    "amount_micros": 68071163,
+    "date": "2024-05-08"
+  },
+  {
+    "id": "bud_0779",
+    "name": "Budget Plan 779",
+    "amount_micros": 103719624,
+    "date": "2025-01-23"
+  },
+  {
+    "id": "bud_0780",
+    "name": "Budget Plan 780",
+    "amount_micros": 114724055,
+    "date": "2024-09-22"
+  },
+  {
+    "id": "bud_0781",
+    "name": "Budget Plan 781",
+    "amount_micros": 51841899,
+    "date": "2024-12-11"
+  },
+  {
+    "id": "bud_0782",
+    "name": "Budget Plan 782",
+    "amount_micros": 129167257,
+    "date": "2024-08-12"
+  },
+  {
+    "id": "bud_0783",
+    "name": "Budget Plan 783",
+    "amount_micros": 160050937,
+    "date": "2024-11-16"
+  },
+  {
+    "id": "bud_0784",
+    "name": "Budget Plan 784",
+    "amount_micros": 103871931,
+    "date": "2024-11-04"
+  },
+  {
+    "id": "bud_0785",
+    "name": "Budget Plan 785",
+    "amount_micros": 52594930,
+    "date": "2024-08-22"
+  },
+  {
+    "id": "bud_0786",
+    "name": "Budget Plan 786",
+    "amount_micros": 196073107,
+    "date": "2024-07-20"
+  },
+  {
+    "id": "bud_0787",
+    "name": "Budget Plan 787",
+    "amount_micros": 55864957,
+    "date": "2024-09-22"
+  },
+  {
+    "id": "bud_0788",
+    "name": "Budget Plan 788",
+    "amount_micros": 175561925,
+    "date": "2025-03-02"
+  },
+  {
+    "id": "bud_0789",
+    "name": "Budget Plan 789",
+    "amount_micros": 174192035,
+    "date": "2024-08-04"
+  },
+  {
+    "id": "bud_0790",
+    "name": "Budget Plan 790",
+    "amount_micros": 91357037,
+    "date": "2025-01-23"
+  },
+  {
+    "id": "bud_0791",
+    "name": "Budget Plan 791",
+    "amount_micros": 182723904,
+    "date": "2024-06-16"
+  },
+  {
+    "id": "bud_0792",
+    "name": "Budget Plan 792",
+    "amount_micros": 174190670,
+    "date": "2024-11-21"
+  },
+  {
+    "id": "bud_0793",
+    "name": "Budget Plan 793",
+    "amount_micros": 96153392,
+    "date": "2025-03-22"
+  },
+  {
+    "id": "bud_0794",
+    "name": "Budget Plan 794",
+    "amount_micros": 103209881,
+    "date": "2024-04-02"
+  },
+  {
+    "id": "bud_0795",
+    "name": "Budget Plan 795",
+    "amount_micros": 159845495,
+    "date": "2024-09-05"
+  },
+  {
+    "id": "bud_0796",
+    "name": "Budget Plan 796",
+    "amount_micros": 177485989,
+    "date": "2024-08-12"
+  },
+  {
+    "id": "bud_0797",
+    "name": "Budget Plan 797",
+    "amount_micros": 51559329,
+    "date": "2025-02-27"
+  },
+  {
+    "id": "bud_0798",
+    "name": "Budget Plan 798",
+    "amount_micros": 146578000,
+    "date": "2024-05-31"
+  },
+  {
+    "id": "bud_0799",
+    "name": "Budget Plan 799",
+    "amount_micros": 160774065,
+    "date": "2024-07-23"
+  },
+  {
+    "id": "bud_0800",
+    "name": "Budget Plan 800",
+    "amount_micros": 184554721,
+    "date": "2024-05-26"
+  },
+  {
+    "id": "bud_0801",
+    "name": "Budget Plan 801",
+    "amount_micros": 99672594,
+    "date": "2025-01-05"
+  },
+  {
+    "id": "bud_0802",
+    "name": "Budget Plan 802",
+    "amount_micros": 185913564,
+    "date": "2024-05-16"
+  },
+  {
+    "id": "bud_0803",
+    "name": "Budget Plan 803",
+    "amount_micros": 81309709,
+    "date": "2024-10-19"
+  },
+  {
+    "id": "bud_0804",
+    "name": "Budget Plan 804",
+    "amount_micros": 104968453,
+    "date": "2025-03-04"
+  },
+  {
+    "id": "bud_0805",
+    "name": "Budget Plan 805",
+    "amount_micros": 152104919,
+    "date": "2024-04-16"
+  },
+  {
+    "id": "bud_0806",
+    "name": "Budget Plan 806",
+    "amount_micros": 90026861,
+    "date": "2024-09-05"
+  },
+  {
+    "id": "bud_0807",
+    "name": "Budget Plan 807",
+    "amount_micros": 88431194,
+    "date": "2024-04-10"
+  },
+  {
+    "id": "bud_0808",
+    "name": "Budget Plan 808",
+    "amount_micros": 146169718,
+    "date": "2024-05-11"
+  },
+  {
+    "id": "bud_0809",
+    "name": "Budget Plan 809",
+    "amount_micros": 152857123,
+    "date": "2024-05-30"
+  },
+  {
+    "id": "bud_0810",
+    "name": "Budget Plan 810",
+    "amount_micros": 126138588,
+    "date": "2024-05-14"
+  },
+  {
+    "id": "bud_0811",
+    "name": "Budget Plan 811",
+    "amount_micros": 190169933,
+    "date": "2025-02-19"
+  },
+  {
+    "id": "bud_0812",
+    "name": "Budget Plan 812",
+    "amount_micros": 144884303,
+    "date": "2024-07-29"
+  },
+  {
+    "id": "bud_0813",
+    "name": "Budget Plan 813",
+    "amount_micros": 91568775,
+    "date": "2024-10-20"
+  },
+  {
+    "id": "bud_0814",
+    "name": "Budget Plan 814",
+    "amount_micros": 143898963,
+    "date": "2024-07-22"
+  },
+  {
+    "id": "bud_0815",
+    "name": "Budget Plan 815",
+    "amount_micros": 58045671,
+    "date": "2024-12-29"
+  },
+  {
+    "id": "bud_0816",
+    "name": "Budget Plan 816",
+    "amount_micros": 158167908,
+    "date": "2025-02-05"
+  },
+  {
+    "id": "bud_0817",
+    "name": "Budget Plan 817",
+    "amount_micros": 67055793,
+    "date": "2024-05-20"
+  },
+  {
+    "id": "bud_0818",
+    "name": "Budget Plan 818",
+    "amount_micros": 175454992,
+    "date": "2024-11-11"
+  },
+  {
+    "id": "bud_0819",
+    "name": "Budget Plan 819",
+    "amount_micros": 68638013,
+    "date": "2024-09-05"
+  },
+  {
+    "id": "bud_0820",
+    "name": "Budget Plan 820",
+    "amount_micros": 192637544,
+    "date": "2024-04-25"
+  },
+  {
+    "id": "bud_0821",
+    "name": "Budget Plan 821",
+    "amount_micros": 99000061,
+    "date": "2024-09-28"
+  },
+  {
+    "id": "bud_0822",
+    "name": "Budget Plan 822",
+    "amount_micros": 111903662,
+    "date": "2025-03-19"
+  },
+  {
+    "id": "bud_0823",
+    "name": "Budget Plan 823",
+    "amount_micros": 145277275,
+    "date": "2024-07-22"
+  },
+  {
+    "id": "bud_0824",
+    "name": "Budget Plan 824",
+    "amount_micros": 185280782,
+    "date": "2025-03-07"
+  },
+  {
+    "id": "bud_0825",
+    "name": "Budget Plan 825",
+    "amount_micros": 82700470,
+    "date": "2025-01-01"
+  },
+  {
+    "id": "bud_0826",
+    "name": "Budget Plan 826",
+    "amount_micros": 59986968,
+    "date": "2025-03-12"
+  },
+  {
+    "id": "bud_0827",
+    "name": "Budget Plan 827",
+    "amount_micros": 62082153,
+    "date": "2024-07-31"
+  },
+  {
+    "id": "bud_0828",
+    "name": "Budget Plan 828",
+    "amount_micros": 179764824,
+    "date": "2024-07-11"
+  },
+  {
+    "id": "bud_0829",
+    "name": "Budget Plan 829",
+    "amount_micros": 62250104,
+    "date": "2024-04-05"
+  },
+  {
+    "id": "bud_0830",
+    "name": "Budget Plan 830",
+    "amount_micros": 82005761,
+    "date": "2024-09-09"
+  },
+  {
+    "id": "bud_0831",
+    "name": "Budget Plan 831",
+    "amount_micros": 55980077,
+    "date": "2025-01-12"
+  },
+  {
+    "id": "bud_0832",
+    "name": "Budget Plan 832",
+    "amount_micros": 117506478,
+    "date": "2024-12-08"
+  },
+  {
+    "id": "bud_0833",
+    "name": "Budget Plan 833",
+    "amount_micros": 127902610,
+    "date": "2024-06-28"
+  },
+  {
+    "id": "bud_0834",
+    "name": "Budget Plan 834",
+    "amount_micros": 174809031,
+    "date": "2024-12-05"
+  },
+  {
+    "id": "bud_0835",
+    "name": "Budget Plan 835",
+    "amount_micros": 161891890,
+    "date": "2025-01-04"
+  },
+  {
+    "id": "bud_0836",
+    "name": "Budget Plan 836",
+    "amount_micros": 156666807,
+    "date": "2024-07-20"
+  },
+  {
+    "id": "bud_0837",
+    "name": "Budget Plan 837",
+    "amount_micros": 55556256,
+    "date": "2025-02-18"
+  },
+  {
+    "id": "bud_0838",
+    "name": "Budget Plan 838",
+    "amount_micros": 107221553,
+    "date": "2024-11-11"
+  },
+  {
+    "id": "bud_0839",
+    "name": "Budget Plan 839",
+    "amount_micros": 113141291,
+    "date": "2024-09-27"
+  },
+  {
+    "id": "bud_0840",
+    "name": "Budget Plan 840",
+    "amount_micros": 104352559,
+    "date": "2024-10-15"
+  },
+  {
+    "id": "bud_0841",
+    "name": "Budget Plan 841",
+    "amount_micros": 175221745,
+    "date": "2025-03-09"
+  },
+  {
+    "id": "bud_0842",
+    "name": "Budget Plan 842",
+    "amount_micros": 167236958,
+    "date": "2024-06-22"
+  },
+  {
+    "id": "bud_0843",
+    "name": "Budget Plan 843",
+    "amount_micros": 138643272,
+    "date": "2025-01-25"
+  },
+  {
+    "id": "bud_0844",
+    "name": "Budget Plan 844",
+    "amount_micros": 76984778,
+    "date": "2024-04-14"
+  },
+  {
+    "id": "bud_0845",
+    "name": "Budget Plan 845",
+    "amount_micros": 60865604,
+    "date": "2025-03-19"
+  },
+  {
+    "id": "bud_0846",
+    "name": "Budget Plan 846",
+    "amount_micros": 171309193,
+    "date": "2024-07-16"
+  },
+  {
+    "id": "bud_0847",
+    "name": "Budget Plan 847",
+    "amount_micros": 78822434,
+    "date": "2024-12-23"
+  },
+  {
+    "id": "bud_0848",
+    "name": "Budget Plan 848",
+    "amount_micros": 125044816,
+    "date": "2024-11-07"
+  },
+  {
+    "id": "bud_0849",
+    "name": "Budget Plan 849",
+    "amount_micros": 57181735,
+    "date": "2024-09-11"
+  },
+  {
+    "id": "bud_0850",
+    "name": "Budget Plan 850",
+    "amount_micros": 163490425,
+    "date": "2024-05-20"
+  },
+  {
+    "id": "bud_0851",
+    "name": "Budget Plan 851",
+    "amount_micros": 61011023,
+    "date": "2024-05-02"
+  },
+  {
+    "id": "bud_0852",
+    "name": "Budget Plan 852",
+    "amount_micros": 53609172,
+    "date": "2024-04-17"
+  },
+  {
+    "id": "bud_0853",
+    "name": "Budget Plan 853",
+    "amount_micros": 162963318,
+    "date": "2025-03-16"
+  },
+  {
+    "id": "bud_0854",
+    "name": "Budget Plan 854",
+    "amount_micros": 127538803,
+    "date": "2024-11-29"
+  },
+  {
+    "id": "bud_0855",
+    "name": "Budget Plan 855",
+    "amount_micros": 114113322,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0856",
+    "name": "Budget Plan 856",
+    "amount_micros": 70429360,
+    "date": "2025-02-01"
+  },
+  {
+    "id": "bud_0857",
+    "name": "Budget Plan 857",
+    "amount_micros": 156375392,
+    "date": "2025-01-25"
+  },
+  {
+    "id": "bud_0858",
+    "name": "Budget Plan 858",
+    "amount_micros": 149878707,
+    "date": "2024-10-03"
+  },
+  {
+    "id": "bud_0859",
+    "name": "Budget Plan 859",
+    "amount_micros": 59604391,
+    "date": "2024-08-22"
+  },
+  {
+    "id": "bud_0860",
+    "name": "Budget Plan 860",
+    "amount_micros": 92621219,
+    "date": "2024-08-09"
+  },
+  {
+    "id": "bud_0861",
+    "name": "Budget Plan 861",
+    "amount_micros": 177185039,
+    "date": "2024-08-31"
+  },
+  {
+    "id": "bud_0862",
+    "name": "Budget Plan 862",
+    "amount_micros": 82263605,
+    "date": "2024-04-21"
+  },
+  {
+    "id": "bud_0863",
+    "name": "Budget Plan 863",
+    "amount_micros": 162284416,
+    "date": "2024-05-03"
+  },
+  {
+    "id": "bud_0864",
+    "name": "Budget Plan 864",
+    "amount_micros": 162304188,
+    "date": "2025-02-08"
+  },
+  {
+    "id": "bud_0865",
+    "name": "Budget Plan 865",
+    "amount_micros": 175811811,
+    "date": "2024-12-28"
+  },
+  {
+    "id": "bud_0866",
+    "name": "Budget Plan 866",
+    "amount_micros": 143375828,
+    "date": "2024-06-10"
+  },
+  {
+    "id": "bud_0867",
+    "name": "Budget Plan 867",
+    "amount_micros": 188080905,
+    "date": "2024-09-29"
+  },
+  {
+    "id": "bud_0868",
+    "name": "Budget Plan 868",
+    "amount_micros": 138795868,
+    "date": "2024-08-05"
+  },
+  {
+    "id": "bud_0869",
+    "name": "Budget Plan 869",
+    "amount_micros": 69834448,
+    "date": "2024-08-05"
+  },
+  {
+    "id": "bud_0870",
+    "name": "Budget Plan 870",
+    "amount_micros": 100216959,
+    "date": "2025-03-04"
+  },
+  {
+    "id": "bud_0871",
+    "name": "Budget Plan 871",
+    "amount_micros": 64187706,
+    "date": "2025-02-10"
+  },
+  {
+    "id": "bud_0872",
+    "name": "Budget Plan 872",
+    "amount_micros": 67579675,
+    "date": "2025-02-21"
+  },
+  {
+    "id": "bud_0873",
+    "name": "Budget Plan 873",
+    "amount_micros": 173881323,
+    "date": "2025-02-07"
+  },
+  {
+    "id": "bud_0874",
+    "name": "Budget Plan 874",
+    "amount_micros": 98906593,
+    "date": "2024-05-05"
+  },
+  {
+    "id": "bud_0875",
+    "name": "Budget Plan 875",
+    "amount_micros": 92476293,
+    "date": "2024-05-20"
+  },
+  {
+    "id": "bud_0876",
+    "name": "Budget Plan 876",
+    "amount_micros": 98403243,
+    "date": "2024-07-04"
+  },
+  {
+    "id": "bud_0877",
+    "name": "Budget Plan 877",
+    "amount_micros": 151347569,
+    "date": "2024-11-23"
+  },
+  {
+    "id": "bud_0878",
+    "name": "Budget Plan 878",
+    "amount_micros": 172242573,
+    "date": "2025-03-22"
+  },
+  {
+    "id": "bud_0879",
+    "name": "Budget Plan 879",
+    "amount_micros": 181019605,
+    "date": "2025-03-26"
+  },
+  {
+    "id": "bud_0880",
+    "name": "Budget Plan 880",
+    "amount_micros": 77240205,
+    "date": "2024-07-14"
+  },
+  {
+    "id": "bud_0881",
+    "name": "Budget Plan 881",
+    "amount_micros": 116867682,
+    "date": "2025-03-20"
+  },
+  {
+    "id": "bud_0882",
+    "name": "Budget Plan 882",
+    "amount_micros": 177970376,
+    "date": "2024-06-03"
+  },
+  {
+    "id": "bud_0883",
+    "name": "Budget Plan 883",
+    "amount_micros": 101005258,
+    "date": "2025-03-11"
+  },
+  {
+    "id": "bud_0884",
+    "name": "Budget Plan 884",
+    "amount_micros": 91714578,
+    "date": "2025-01-30"
+  },
+  {
+    "id": "bud_0885",
+    "name": "Budget Plan 885",
+    "amount_micros": 103254345,
+    "date": "2024-04-05"
+  },
+  {
+    "id": "bud_0886",
+    "name": "Budget Plan 886",
+    "amount_micros": 184492225,
+    "date": "2024-05-22"
+  },
+  {
+    "id": "bud_0887",
+    "name": "Budget Plan 887",
+    "amount_micros": 133888634,
+    "date": "2024-11-26"
+  },
+  {
+    "id": "bud_0888",
+    "name": "Budget Plan 888",
+    "amount_micros": 164524623,
+    "date": "2025-03-04"
+  },
+  {
+    "id": "bud_0889",
+    "name": "Budget Plan 889",
+    "amount_micros": 178257709,
+    "date": "2024-08-01"
+  },
+  {
+    "id": "bud_0890",
+    "name": "Budget Plan 890",
+    "amount_micros": 188596272,
+    "date": "2025-03-10"
+  },
+  {
+    "id": "bud_0891",
+    "name": "Budget Plan 891",
+    "amount_micros": 173085259,
+    "date": "2024-10-22"
+  },
+  {
+    "id": "bud_0892",
+    "name": "Budget Plan 892",
+    "amount_micros": 98221740,
+    "date": "2024-05-04"
+  },
+  {
+    "id": "bud_0893",
+    "name": "Budget Plan 893",
+    "amount_micros": 119037630,
+    "date": "2024-05-28"
+  },
+  {
+    "id": "bud_0894",
+    "name": "Budget Plan 894",
+    "amount_micros": 128347986,
+    "date": "2024-04-25"
+  },
+  {
+    "id": "bud_0895",
+    "name": "Budget Plan 895",
+    "amount_micros": 161361830,
+    "date": "2024-12-30"
+  },
+  {
+    "id": "bud_0896",
+    "name": "Budget Plan 896",
+    "amount_micros": 181103972,
+    "date": "2024-11-13"
+  },
+  {
+    "id": "bud_0897",
+    "name": "Budget Plan 897",
+    "amount_micros": 86105390,
+    "date": "2024-10-26"
+  },
+  {
+    "id": "bud_0898",
+    "name": "Budget Plan 898",
+    "amount_micros": 115652316,
+    "date": "2024-10-12"
+  },
+  {
+    "id": "bud_0899",
+    "name": "Budget Plan 899",
+    "amount_micros": 94198185,
+    "date": "2024-09-09"
+  },
+  {
+    "id": "bud_0900",
+    "name": "Budget Plan 900",
+    "amount_micros": 71904504,
+    "date": "2024-10-23"
+  },
+  {
+    "id": "bud_0901",
+    "name": "Budget Plan 901",
+    "amount_micros": 184737931,
+    "date": "2024-08-16"
+  },
+  {
+    "id": "bud_0902",
+    "name": "Budget Plan 902",
+    "amount_micros": 187314987,
+    "date": "2024-11-18"
+  },
+  {
+    "id": "bud_0903",
+    "name": "Budget Plan 903",
+    "amount_micros": 170413780,
+    "date": "2025-01-26"
+  },
+  {
+    "id": "bud_0904",
+    "name": "Budget Plan 904",
+    "amount_micros": 128297521,
+    "date": "2024-11-04"
+  },
+  {
+    "id": "bud_0905",
+    "name": "Budget Plan 905",
+    "amount_micros": 91804483,
+    "date": "2024-05-20"
+  },
+  {
+    "id": "bud_0906",
+    "name": "Budget Plan 906",
+    "amount_micros": 52576310,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0907",
+    "name": "Budget Plan 907",
+    "amount_micros": 172608689,
+    "date": "2025-03-26"
+  },
+  {
+    "id": "bud_0908",
+    "name": "Budget Plan 908",
+    "amount_micros": 165867674,
+    "date": "2025-01-01"
+  },
+  {
+    "id": "bud_0909",
+    "name": "Budget Plan 909",
+    "amount_micros": 183978479,
+    "date": "2025-01-21"
+  },
+  {
+    "id": "bud_0910",
+    "name": "Budget Plan 910",
+    "amount_micros": 87712838,
+    "date": "2024-05-10"
+  },
+  {
+    "id": "bud_0911",
+    "name": "Budget Plan 911",
+    "amount_micros": 170910419,
+    "date": "2024-06-11"
+  },
+  {
+    "id": "bud_0912",
+    "name": "Budget Plan 912",
+    "amount_micros": 88807897,
+    "date": "2025-03-18"
+  },
+  {
+    "id": "bud_0913",
+    "name": "Budget Plan 913",
+    "amount_micros": 104416750,
+    "date": "2024-09-06"
+  },
+  {
+    "id": "bud_0914",
+    "name": "Budget Plan 914",
+    "amount_micros": 121352411,
+    "date": "2024-04-09"
+  },
+  {
+    "id": "bud_0915",
+    "name": "Budget Plan 915",
+    "amount_micros": 106857069,
+    "date": "2024-07-08"
+  },
+  {
+    "id": "bud_0916",
+    "name": "Budget Plan 916",
+    "amount_micros": 64123163,
+    "date": "2025-03-03"
+  },
+  {
+    "id": "bud_0917",
+    "name": "Budget Plan 917",
+    "amount_micros": 65946353,
+    "date": "2024-12-28"
+  },
+  {
+    "id": "bud_0918",
+    "name": "Budget Plan 918",
+    "amount_micros": 138493076,
+    "date": "2024-05-10"
+  },
+  {
+    "id": "bud_0919",
+    "name": "Budget Plan 919",
+    "amount_micros": 169783586,
+    "date": "2025-01-24"
+  },
+  {
+    "id": "bud_0920",
+    "name": "Budget Plan 920",
+    "amount_micros": 77941648,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0921",
+    "name": "Budget Plan 921",
+    "amount_micros": 144121869,
+    "date": "2024-06-23"
+  },
+  {
+    "id": "bud_0922",
+    "name": "Budget Plan 922",
+    "amount_micros": 137538889,
+    "date": "2025-02-12"
+  },
+  {
+    "id": "bud_0923",
+    "name": "Budget Plan 923",
+    "amount_micros": 99450043,
+    "date": "2024-05-23"
+  },
+  {
+    "id": "bud_0924",
+    "name": "Budget Plan 924",
+    "amount_micros": 116620353,
+    "date": "2025-03-14"
+  },
+  {
+    "id": "bud_0925",
+    "name": "Budget Plan 925",
+    "amount_micros": 63584976,
+    "date": "2024-09-29"
+  },
+  {
+    "id": "bud_0926",
+    "name": "Budget Plan 926",
+    "amount_micros": 93916173,
+    "date": "2025-04-01"
+  },
+  {
+    "id": "bud_0927",
+    "name": "Budget Plan 927",
+    "amount_micros": 182606458,
+    "date": "2024-09-23"
+  },
+  {
+    "id": "bud_0928",
+    "name": "Budget Plan 928",
+    "amount_micros": 95489999,
+    "date": "2024-04-25"
+  },
+  {
+    "id": "bud_0929",
+    "name": "Budget Plan 929",
+    "amount_micros": 150215926,
+    "date": "2024-09-27"
+  },
+  {
+    "id": "bud_0930",
+    "name": "Budget Plan 930",
+    "amount_micros": 124401951,
+    "date": "2024-06-01"
+  },
+  {
+    "id": "bud_0931",
+    "name": "Budget Plan 931",
+    "amount_micros": 61308570,
+    "date": "2025-01-27"
+  },
+  {
+    "id": "bud_0932",
+    "name": "Budget Plan 932",
+    "amount_micros": 104011843,
+    "date": "2024-07-04"
+  },
+  {
+    "id": "bud_0933",
+    "name": "Budget Plan 933",
+    "amount_micros": 159760454,
+    "date": "2025-04-01"
+  },
+  {
+    "id": "bud_0934",
+    "name": "Budget Plan 934",
+    "amount_micros": 191041706,
+    "date": "2024-08-06"
+  },
+  {
+    "id": "bud_0935",
+    "name": "Budget Plan 935",
+    "amount_micros": 167025164,
+    "date": "2025-02-10"
+  },
+  {
+    "id": "bud_0936",
+    "name": "Budget Plan 936",
+    "amount_micros": 197104478,
+    "date": "2024-07-03"
+  },
+  {
+    "id": "bud_0937",
+    "name": "Budget Plan 937",
+    "amount_micros": 187688384,
+    "date": "2024-08-17"
+  },
+  {
+    "id": "bud_0938",
+    "name": "Budget Plan 938",
+    "amount_micros": 70992456,
+    "date": "2025-01-01"
+  },
+  {
+    "id": "bud_0939",
+    "name": "Budget Plan 939",
+    "amount_micros": 198979266,
+    "date": "2024-04-08"
+  },
+  {
+    "id": "bud_0940",
+    "name": "Budget Plan 940",
+    "amount_micros": 140217664,
+    "date": "2025-02-16"
+  },
+  {
+    "id": "bud_0941",
+    "name": "Budget Plan 941",
+    "amount_micros": 141820710,
+    "date": "2024-08-26"
+  },
+  {
+    "id": "bud_0942",
+    "name": "Budget Plan 942",
+    "amount_micros": 181133218,
+    "date": "2024-09-02"
+  },
+  {
+    "id": "bud_0943",
+    "name": "Budget Plan 943",
+    "amount_micros": 173031711,
+    "date": "2024-10-08"
+  },
+  {
+    "id": "bud_0944",
+    "name": "Budget Plan 944",
+    "amount_micros": 105501490,
+    "date": "2024-05-01"
+  },
+  {
+    "id": "bud_0945",
+    "name": "Budget Plan 945",
+    "amount_micros": 180918950,
+    "date": "2024-09-07"
+  },
+  {
+    "id": "bud_0946",
+    "name": "Budget Plan 946",
+    "amount_micros": 167228842,
+    "date": "2024-11-04"
+  },
+  {
+    "id": "bud_0947",
+    "name": "Budget Plan 947",
+    "amount_micros": 106272366,
+    "date": "2024-10-03"
+  },
+  {
+    "id": "bud_0948",
+    "name": "Budget Plan 948",
+    "amount_micros": 79705649,
+    "date": "2024-12-06"
+  },
+  {
+    "id": "bud_0949",
+    "name": "Budget Plan 949",
+    "amount_micros": 102574188,
+    "date": "2025-01-07"
+  },
+  {
+    "id": "bud_0950",
+    "name": "Budget Plan 950",
+    "amount_micros": 57322364,
+    "date": "2025-03-27"
+  },
+  {
+    "id": "bud_0951",
+    "name": "Budget Plan 951",
+    "amount_micros": 155133092,
+    "date": "2025-03-23"
+  },
+  {
+    "id": "bud_0952",
+    "name": "Budget Plan 952",
+    "amount_micros": 143022133,
+    "date": "2024-12-09"
+  },
+  {
+    "id": "bud_0953",
+    "name": "Budget Plan 953",
+    "amount_micros": 66802422,
+    "date": "2025-03-07"
+  },
+  {
+    "id": "bud_0954",
+    "name": "Budget Plan 954",
+    "amount_micros": 138334317,
+    "date": "2024-12-18"
+  },
+  {
+    "id": "bud_0955",
+    "name": "Budget Plan 955",
+    "amount_micros": 158272255,
+    "date": "2024-05-30"
+  },
+  {
+    "id": "bud_0956",
+    "name": "Budget Plan 956",
+    "amount_micros": 135775707,
+    "date": "2025-03-29"
+  },
+  {
+    "id": "bud_0957",
+    "name": "Budget Plan 957",
+    "amount_micros": 160714242,
+    "date": "2024-10-28"
+  },
+  {
+    "id": "bud_0958",
+    "name": "Budget Plan 958",
+    "amount_micros": 189575913,
+    "date": "2024-07-01"
+  },
+  {
+    "id": "bud_0959",
+    "name": "Budget Plan 959",
+    "amount_micros": 58628213,
+    "date": "2024-11-14"
+  },
+  {
+    "id": "bud_0960",
+    "name": "Budget Plan 960",
+    "amount_micros": 89904273,
+    "date": "2024-12-01"
+  },
+  {
+    "id": "bud_0961",
+    "name": "Budget Plan 961",
+    "amount_micros": 153408645,
+    "date": "2024-06-18"
+  },
+  {
+    "id": "bud_0962",
+    "name": "Budget Plan 962",
+    "amount_micros": 186266043,
+    "date": "2024-08-03"
+  },
+  {
+    "id": "bud_0963",
+    "name": "Budget Plan 963",
+    "amount_micros": 113029956,
+    "date": "2024-12-23"
+  },
+  {
+    "id": "bud_0964",
+    "name": "Budget Plan 964",
+    "amount_micros": 162625992,
+    "date": "2024-10-21"
+  },
+  {
+    "id": "bud_0965",
+    "name": "Budget Plan 965",
+    "amount_micros": 102697794,
+    "date": "2024-08-20"
+  },
+  {
+    "id": "bud_0966",
+    "name": "Budget Plan 966",
+    "amount_micros": 128379684,
+    "date": "2024-05-09"
+  },
+  {
+    "id": "bud_0967",
+    "name": "Budget Plan 967",
+    "amount_micros": 93314309,
+    "date": "2024-12-16"
+  },
+  {
+    "id": "bud_0968",
+    "name": "Budget Plan 968",
+    "amount_micros": 117478833,
+    "date": "2024-12-14"
+  },
+  {
+    "id": "bud_0969",
+    "name": "Budget Plan 969",
+    "amount_micros": 70552365,
+    "date": "2024-07-26"
+  },
+  {
+    "id": "bud_0970",
+    "name": "Budget Plan 970",
+    "amount_micros": 120377805,
+    "date": "2025-02-04"
+  },
+  {
+    "id": "bud_0971",
+    "name": "Budget Plan 971",
+    "amount_micros": 91867709,
+    "date": "2024-06-11"
+  },
+  {
+    "id": "bud_0972",
+    "name": "Budget Plan 972",
+    "amount_micros": 160522363,
+    "date": "2025-03-28"
+  },
+  {
+    "id": "bud_0973",
+    "name": "Budget Plan 973",
+    "amount_micros": 166955132,
+    "date": "2024-05-22"
+  },
+  {
+    "id": "bud_0974",
+    "name": "Budget Plan 974",
+    "amount_micros": 69255161,
+    "date": "2024-04-25"
+  },
+  {
+    "id": "bud_0975",
+    "name": "Budget Plan 975",
+    "amount_micros": 159230847,
+    "date": "2024-09-03"
+  },
+  {
+    "id": "bud_0976",
+    "name": "Budget Plan 976",
+    "amount_micros": 157522376,
+    "date": "2024-11-11"
+  },
+  {
+    "id": "bud_0977",
+    "name": "Budget Plan 977",
+    "amount_micros": 81475236,
+    "date": "2024-11-16"
+  },
+  {
+    "id": "bud_0978",
+    "name": "Budget Plan 978",
+    "amount_micros": 106721529,
+    "date": "2024-08-23"
+  },
+  {
+    "id": "bud_0979",
+    "name": "Budget Plan 979",
+    "amount_micros": 80425246,
+    "date": "2024-05-24"
+  },
+  {
+    "id": "bud_0980",
+    "name": "Budget Plan 980",
+    "amount_micros": 87279591,
+    "date": "2024-10-10"
+  },
+  {
+    "id": "bud_0981",
+    "name": "Budget Plan 981",
+    "amount_micros": 73977426,
+    "date": "2024-09-03"
+  },
+  {
+    "id": "bud_0982",
+    "name": "Budget Plan 982",
+    "amount_micros": 135787855,
+    "date": "2024-04-29"
+  },
+  {
+    "id": "bud_0983",
+    "name": "Budget Plan 983",
+    "amount_micros": 164509463,
+    "date": "2025-02-11"
+  },
+  {
+    "id": "bud_0984",
+    "name": "Budget Plan 984",
+    "amount_micros": 191827343,
+    "date": "2024-11-23"
+  },
+  {
+    "id": "bud_0985",
+    "name": "Budget Plan 985",
+    "amount_micros": 52733636,
+    "date": "2025-01-28"
+  },
+  {
+    "id": "bud_0986",
+    "name": "Budget Plan 986",
+    "amount_micros": 167387816,
+    "date": "2024-05-22"
+  },
+  {
+    "id": "bud_0987",
+    "name": "Budget Plan 987",
+    "amount_micros": 70930557,
+    "date": "2024-04-06"
+  },
+  {
+    "id": "bud_0988",
+    "name": "Budget Plan 988",
+    "amount_micros": 123107909,
+    "date": "2024-05-22"
+  },
+  {
+    "id": "bud_0989",
+    "name": "Budget Plan 989",
+    "amount_micros": 155110486,
+    "date": "2024-04-11"
+  },
+  {
+    "id": "bud_0990",
+    "name": "Budget Plan 990",
+    "amount_micros": 119710322,
+    "date": "2025-02-02"
+  },
+  {
+    "id": "bud_0991",
+    "name": "Budget Plan 991",
+    "amount_micros": 172874839,
+    "date": "2024-11-11"
+  },
+  {
+    "id": "bud_0992",
+    "name": "Budget Plan 992",
+    "amount_micros": 181825782,
+    "date": "2024-09-14"
+  },
+  {
+    "id": "bud_0993",
+    "name": "Budget Plan 993",
+    "amount_micros": 106667729,
+    "date": "2024-10-05"
+  },
+  {
+    "id": "bud_0994",
+    "name": "Budget Plan 994",
+    "amount_micros": 199103213,
+    "date": "2024-05-03"
+  },
+  {
+    "id": "bud_0995",
+    "name": "Budget Plan 995",
+    "amount_micros": 195399808,
+    "date": "2025-03-04"
+  },
+  {
+    "id": "bud_0996",
+    "name": "Budget Plan 996",
+    "amount_micros": 83712739,
+    "date": "2024-12-03"
+  },
+  {
+    "id": "bud_0997",
+    "name": "Budget Plan 997",
+    "amount_micros": 104006071,
+    "date": "2024-10-13"
+  },
+  {
+    "id": "bud_0998",
+    "name": "Budget Plan 998",
+    "amount_micros": 102652055,
+    "date": "2024-07-19"
+  },
+  {
+    "id": "bud_0999",
+    "name": "Budget Plan 999",
+    "amount_micros": 70906248,
+    "date": "2024-07-07"
   }
 ]
