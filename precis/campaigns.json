@@ -1,902 +1,902 @@
 [
   {
     "campaign_id": "cmp_0001",
-    "campaign_name": "Campaign_25353aaf",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_eeea347a",
+    "status": "ENABLED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0001",
-    "date": "2024-10-11"
+    "date": "2025-01-24"
   },
   {
     "campaign_id": "cmp_0002",
-    "campaign_name": "Campaign_509b177a",
-    "status": "REMOVED",
+    "campaign_name": "Campaign_c75ebdcc",
+    "status": "ENABLED",
     "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0002",
-    "date": "2024-10-11"
+    "date": "2024-11-05"
   },
   {
     "campaign_id": "cmp_0003",
-    "campaign_name": "Campaign_18cb9f32",
-    "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "campaign_name": "Campaign_7a7bfc81",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0003",
-    "date": "2024-10-11"
+    "date": "2025-03-27"
   },
   {
     "campaign_id": "cmp_0004",
-    "campaign_name": "Campaign_126f3ee6",
+    "campaign_name": "Campaign_2eb8a45a",
     "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0004",
-    "date": "2024-10-11"
+    "date": "2024-12-13"
   },
   {
     "campaign_id": "cmp_0005",
-    "campaign_name": "Campaign_38ae5257",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bdgt_0005",
-    "date": "2024-10-11"
-  },
-  {
-    "campaign_id": "cmp_0006",
-    "campaign_name": "Campaign_d8b481ef",
+    "campaign_name": "Campaign_41e79f66",
     "status": "ENABLED",
     "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bdgt_0005",
+    "date": "2024-10-16"
+  },
+  {
+    "campaign_id": "cmp_0006",
+    "campaign_name": "Campaign_eb5286c0",
+    "status": "REMOVED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0006",
-    "date": "2024-10-11"
+    "date": "2024-12-29"
   },
   {
     "campaign_id": "cmp_0007",
-    "campaign_name": "Campaign_417da3b2",
-    "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_917b9f3b",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0007",
-    "date": "2024-10-11"
+    "date": "2024-11-17"
   },
   {
     "campaign_id": "cmp_0008",
-    "campaign_name": "Campaign_8d6fb381",
+    "campaign_name": "Campaign_17eefe08",
     "status": "REMOVED",
     "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0008",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "campaign_id": "cmp_0009",
-    "campaign_name": "Campaign_ec37c99e",
+    "campaign_name": "Campaign_8d5967ce",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0009",
-    "date": "2024-10-11"
+    "date": "2024-12-24"
   },
   {
     "campaign_id": "cmp_0010",
-    "campaign_name": "Campaign_f3b4b260",
-    "status": "REMOVED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "campaign_name": "Campaign_fd8f3a12",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0010",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "campaign_id": "cmp_0011",
-    "campaign_name": "Campaign_78f75d70",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "campaign_name": "Campaign_86ddfd2f",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0011",
-    "date": "2024-10-11"
+    "date": "2025-01-28"
   },
   {
     "campaign_id": "cmp_0012",
-    "campaign_name": "Campaign_e60b7c25",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_6362bb3e",
+    "status": "REMOVED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0012",
-    "date": "2024-10-11"
+    "date": "2025-01-22"
   },
   {
     "campaign_id": "cmp_0013",
-    "campaign_name": "Campaign_80968b69",
-    "status": "ENABLED",
-    "advertising_channel_type": "VIDEO",
+    "campaign_name": "Campaign_4a305617",
+    "status": "REMOVED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0013",
-    "date": "2024-10-11"
+    "date": "2025-02-22"
   },
   {
     "campaign_id": "cmp_0014",
-    "campaign_name": "Campaign_8be887f9",
+    "campaign_name": "Campaign_19ff2796",
     "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0014",
-    "date": "2024-10-11"
+    "date": "2024-10-17"
   },
   {
     "campaign_id": "cmp_0015",
-    "campaign_name": "Campaign_5dccbce0",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_6c9d59d7",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0015",
-    "date": "2024-10-11"
+    "date": "2024-11-03"
   },
   {
     "campaign_id": "cmp_0016",
-    "campaign_name": "Campaign_ec59e729",
-    "status": "PAUSED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "campaign_name": "Campaign_0f0782af",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0016",
-    "date": "2024-10-11"
+    "date": "2025-03-20"
   },
   {
     "campaign_id": "cmp_0017",
-    "campaign_name": "Campaign_45c44a8d",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "campaign_name": "Campaign_abf21c28",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0017",
-    "date": "2024-10-11"
+    "date": "2025-03-29"
   },
   {
     "campaign_id": "cmp_0018",
-    "campaign_name": "Campaign_95dfdfc3",
-    "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_dbb5e1a0",
+    "status": "PAUSED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0018",
-    "date": "2024-10-11"
+    "date": "2025-03-07"
   },
   {
     "campaign_id": "cmp_0019",
-    "campaign_name": "Campaign_66a02728",
-    "status": "ENABLED",
+    "campaign_name": "Campaign_8809cfb2",
+    "status": "REMOVED",
     "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0019",
-    "date": "2024-10-11"
+    "date": "2024-11-06"
   },
   {
     "campaign_id": "cmp_0020",
-    "campaign_name": "Campaign_54ac7049",
-    "status": "ENABLED",
-    "advertising_channel_type": "VIDEO",
+    "campaign_name": "Campaign_cc342a4d",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0020",
-    "date": "2024-10-11"
+    "date": "2024-12-03"
   },
   {
     "campaign_id": "cmp_0021",
-    "campaign_name": "Campaign_ee291f56",
-    "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "campaign_name": "Campaign_a31f3098",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0021",
-    "date": "2024-10-11"
+    "date": "2025-02-06"
   },
   {
     "campaign_id": "cmp_0022",
-    "campaign_name": "Campaign_dbd8764d",
+    "campaign_name": "Campaign_094c2daf",
     "status": "REMOVED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0022",
-    "date": "2024-10-11"
+    "date": "2024-12-18"
   },
   {
     "campaign_id": "cmp_0023",
-    "campaign_name": "Campaign_5e968a60",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_7538a656",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0023",
-    "date": "2024-10-11"
+    "date": "2024-11-06"
   },
   {
     "campaign_id": "cmp_0024",
-    "campaign_name": "Campaign_2b00d74a",
-    "status": "ENABLED",
+    "campaign_name": "Campaign_5e720fbe",
+    "status": "REMOVED",
     "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0024",
-    "date": "2024-10-11"
+    "date": "2025-02-01"
   },
   {
     "campaign_id": "cmp_0025",
-    "campaign_name": "Campaign_60d9ff35",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_06473653",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0025",
-    "date": "2024-10-11"
+    "date": "2025-03-24"
   },
   {
     "campaign_id": "cmp_0026",
-    "campaign_name": "Campaign_9f56e952",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_11fabdbd",
+    "status": "REMOVED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0026",
-    "date": "2024-10-11"
+    "date": "2025-03-29"
   },
   {
     "campaign_id": "cmp_0027",
-    "campaign_name": "Campaign_65585fcf",
-    "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_67b0f9a9",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0027",
-    "date": "2024-10-11"
+    "date": "2025-01-09"
   },
   {
     "campaign_id": "cmp_0028",
-    "campaign_name": "Campaign_00f32e5c",
+    "campaign_name": "Campaign_ec53bd79",
     "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0028",
-    "date": "2024-10-11"
+    "date": "2025-02-15"
   },
   {
     "campaign_id": "cmp_0029",
-    "campaign_name": "Campaign_9c5ae68b",
-    "status": "PAUSED",
-    "advertising_channel_type": "VIDEO",
+    "campaign_name": "Campaign_85660c06",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0029",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "campaign_id": "cmp_0030",
-    "campaign_name": "Campaign_f26cbf0d",
+    "campaign_name": "Campaign_b0a46ed1",
     "status": "PAUSED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0030",
-    "date": "2024-10-11"
+    "date": "2025-02-28"
   },
   {
     "campaign_id": "cmp_0031",
-    "campaign_name": "Campaign_d025a6c6",
-    "status": "ENABLED",
+    "campaign_name": "Campaign_05f3aca4",
+    "status": "REMOVED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0031",
-    "date": "2024-10-11"
+    "date": "2025-03-08"
   },
   {
     "campaign_id": "cmp_0032",
-    "campaign_name": "Campaign_a6c9ad20",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_179a4a1c",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0032",
-    "date": "2024-10-11"
+    "date": "2024-10-31"
   },
   {
     "campaign_id": "cmp_0033",
-    "campaign_name": "Campaign_7fef9937",
+    "campaign_name": "Campaign_f87faf80",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0033",
-    "date": "2024-10-11"
+    "date": "2025-01-29"
   },
   {
     "campaign_id": "cmp_0034",
-    "campaign_name": "Campaign_15bde060",
+    "campaign_name": "Campaign_8b4f45f5",
     "status": "PAUSED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "TARGET_CPA",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0034",
-    "date": "2024-10-11"
+    "date": "2025-01-07"
   },
   {
     "campaign_id": "cmp_0035",
-    "campaign_name": "Campaign_d939b3d1",
-    "status": "ENABLED",
+    "campaign_name": "Campaign_c778ab47",
+    "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0035",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "campaign_id": "cmp_0036",
-    "campaign_name": "Campaign_92e811f0",
+    "campaign_name": "Campaign_6476619e",
     "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
+    "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0036",
-    "date": "2024-10-11"
+    "date": "2025-02-05"
   },
   {
     "campaign_id": "cmp_0037",
-    "campaign_name": "Campaign_1f48d80a",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_91002a9c",
+    "status": "PAUSED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0037",
-    "date": "2024-10-11"
+    "date": "2025-02-07"
   },
   {
     "campaign_id": "cmp_0038",
-    "campaign_name": "Campaign_0ea7ee6b",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_f969fbb5",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0038",
-    "date": "2024-10-11"
+    "date": "2025-04-03"
   },
   {
     "campaign_id": "cmp_0039",
-    "campaign_name": "Campaign_c9e1adef",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_5c10c4e0",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0039",
-    "date": "2024-10-11"
+    "date": "2025-01-08"
   },
   {
     "campaign_id": "cmp_0040",
-    "campaign_name": "Campaign_9baad874",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_42a17da0",
+    "status": "REMOVED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0040",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "campaign_id": "cmp_0041",
-    "campaign_name": "Campaign_8932c6f9",
+    "campaign_name": "Campaign_59331687",
     "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0041",
-    "date": "2024-10-11"
+    "date": "2024-12-27"
   },
   {
     "campaign_id": "cmp_0042",
-    "campaign_name": "Campaign_83e6a497",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_6891cd3b",
+    "status": "REMOVED",
+    "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0042",
-    "date": "2024-10-11"
+    "date": "2024-12-20"
   },
   {
     "campaign_id": "cmp_0043",
-    "campaign_name": "Campaign_96902507",
-    "status": "REMOVED",
+    "campaign_name": "Campaign_069e61d1",
+    "status": "ENABLED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0043",
-    "date": "2024-10-11"
+    "date": "2025-03-05"
   },
   {
     "campaign_id": "cmp_0044",
-    "campaign_name": "Campaign_aa75057a",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_6949a878",
+    "status": "REMOVED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0044",
-    "date": "2024-10-11"
+    "date": "2025-03-28"
   },
   {
     "campaign_id": "cmp_0045",
-    "campaign_name": "Campaign_8cbf643f",
+    "campaign_name": "Campaign_40a09efb",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0045",
-    "date": "2024-10-11"
+    "date": "2025-03-24"
   },
   {
     "campaign_id": "cmp_0046",
-    "campaign_name": "Campaign_460b6ca0",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_cd98afb0",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0046",
-    "date": "2024-10-11"
+    "date": "2024-11-08"
   },
   {
     "campaign_id": "cmp_0047",
-    "campaign_name": "Campaign_1a988c2f",
+    "campaign_name": "Campaign_79c87185",
     "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0047",
-    "date": "2024-10-11"
+    "date": "2025-02-24"
   },
   {
     "campaign_id": "cmp_0048",
-    "campaign_name": "Campaign_5e93671a",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_a20387fb",
+    "status": "ENABLED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0048",
-    "date": "2024-10-11"
+    "date": "2025-01-28"
   },
   {
     "campaign_id": "cmp_0049",
-    "campaign_name": "Campaign_8a78c310",
+    "campaign_name": "Campaign_5096135e",
     "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0049",
-    "date": "2024-10-11"
+    "date": "2024-10-21"
   },
   {
     "campaign_id": "cmp_0050",
-    "campaign_name": "Campaign_8054e382",
+    "campaign_name": "Campaign_0130f935",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0050",
-    "date": "2024-10-11"
+    "date": "2024-11-27"
   },
   {
     "campaign_id": "cmp_0051",
-    "campaign_name": "Campaign_630b47d7",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_4dba359f",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0051",
-    "date": "2024-10-11"
+    "date": "2025-01-08"
   },
   {
     "campaign_id": "cmp_0052",
-    "campaign_name": "Campaign_7686a629",
+    "campaign_name": "Campaign_1e84fd86",
     "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0052",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "campaign_id": "cmp_0053",
-    "campaign_name": "Campaign_4af2f367",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_aedfc85c",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0053",
-    "date": "2024-10-11"
+    "date": "2024-11-26"
   },
   {
     "campaign_id": "cmp_0054",
-    "campaign_name": "Campaign_0bb665e6",
-    "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_0baf6d31",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0054",
-    "date": "2024-10-11"
+    "date": "2025-03-01"
   },
   {
     "campaign_id": "cmp_0055",
-    "campaign_name": "Campaign_c1568bc6",
-    "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_27fa0a7f",
+    "status": "ENABLED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0055",
-    "date": "2024-10-11"
+    "date": "2025-01-14"
   },
   {
     "campaign_id": "cmp_0056",
-    "campaign_name": "Campaign_94dd83d7",
-    "status": "REMOVED",
+    "campaign_name": "Campaign_732be59f",
+    "status": "ENABLED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0056",
-    "date": "2024-10-11"
+    "date": "2025-01-04"
   },
   {
     "campaign_id": "cmp_0057",
-    "campaign_name": "Campaign_279f8207",
-    "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_5b1a83d4",
+    "status": "ENABLED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0057",
-    "date": "2024-10-11"
+    "date": "2024-12-19"
   },
   {
     "campaign_id": "cmp_0058",
-    "campaign_name": "Campaign_170aafa7",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_ecaaea4d",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0058",
-    "date": "2024-10-11"
+    "date": "2024-11-02"
   },
   {
     "campaign_id": "cmp_0059",
-    "campaign_name": "Campaign_49bf88f1",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "campaign_name": "Campaign_b5bdaa2d",
+    "status": "PAUSED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0059",
-    "date": "2024-10-11"
+    "date": "2024-12-13"
   },
   {
     "campaign_id": "cmp_0060",
-    "campaign_name": "Campaign_09391870",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_25384fd3",
+    "status": "REMOVED",
     "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0060",
-    "date": "2024-10-11"
+    "date": "2024-12-11"
   },
   {
     "campaign_id": "cmp_0061",
-    "campaign_name": "Campaign_6087650e",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
+    "campaign_name": "Campaign_53e5dac1",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0061",
-    "date": "2024-10-11"
+    "date": "2025-01-24"
   },
   {
     "campaign_id": "cmp_0062",
-    "campaign_name": "Campaign_2b2d0ea2",
+    "campaign_name": "Campaign_8d5dcdef",
     "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0062",
-    "date": "2024-10-11"
+    "date": "2024-12-08"
   },
   {
     "campaign_id": "cmp_0063",
-    "campaign_name": "Campaign_9e634a3d",
+    "campaign_name": "Campaign_cc4ee057",
     "status": "PAUSED",
-    "advertising_channel_type": "VIDEO",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0063",
-    "date": "2024-10-11"
+    "date": "2025-02-14"
   },
   {
     "campaign_id": "cmp_0064",
-    "campaign_name": "Campaign_2dcc4355",
+    "campaign_name": "Campaign_76fa7478",
     "status": "ENABLED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0064",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "campaign_id": "cmp_0065",
-    "campaign_name": "Campaign_4024d1a2",
-    "status": "ENABLED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_056d0431",
+    "status": "PAUSED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0065",
-    "date": "2024-10-11"
+    "date": "2025-03-24"
   },
   {
     "campaign_id": "cmp_0066",
-    "campaign_name": "Campaign_96ea343d",
+    "campaign_name": "Campaign_a5a9badb",
     "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0066",
-    "date": "2024-10-11"
+    "date": "2025-01-19"
   },
   {
     "campaign_id": "cmp_0067",
-    "campaign_name": "Campaign_879c8a28",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_dbd7f19d",
+    "status": "ENABLED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0067",
-    "date": "2024-10-11"
+    "date": "2025-02-12"
   },
   {
     "campaign_id": "cmp_0068",
-    "campaign_name": "Campaign_055a769e",
+    "campaign_name": "Campaign_9b56751d",
     "status": "ENABLED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0068",
-    "date": "2024-10-11"
+    "date": "2025-03-24"
   },
   {
     "campaign_id": "cmp_0069",
-    "campaign_name": "Campaign_03f1876a",
-    "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_1aa1cb10",
+    "status": "ENABLED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0069",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "campaign_id": "cmp_0070",
-    "campaign_name": "Campaign_7220de73",
+    "campaign_name": "Campaign_e5a927cf",
     "status": "ENABLED",
-    "advertising_channel_type": "VIDEO",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0070",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "campaign_id": "cmp_0071",
-    "campaign_name": "Campaign_5e7c8aff",
+    "campaign_name": "Campaign_683c45a2",
     "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0071",
-    "date": "2024-10-11"
+    "date": "2025-03-31"
   },
   {
     "campaign_id": "cmp_0072",
-    "campaign_name": "Campaign_c2e5f761",
-    "status": "REMOVED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "campaign_name": "Campaign_b615b309",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0072",
-    "date": "2024-10-11"
+    "date": "2025-02-14"
   },
   {
     "campaign_id": "cmp_0073",
-    "campaign_name": "Campaign_88b4f3f9",
-    "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_d2be0325",
+    "status": "ENABLED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0073",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "campaign_id": "cmp_0074",
-    "campaign_name": "Campaign_a416032e",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_d94d36cb",
+    "status": "REMOVED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0074",
-    "date": "2024-10-11"
+    "date": "2025-01-30"
   },
   {
     "campaign_id": "cmp_0075",
-    "campaign_name": "Campaign_820881de",
-    "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "campaign_name": "Campaign_26b2d796",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0075",
-    "date": "2024-10-11"
+    "date": "2025-01-08"
   },
   {
     "campaign_id": "cmp_0076",
-    "campaign_name": "Campaign_1b965eb2",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_2d8b480f",
+    "status": "REMOVED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0076",
-    "date": "2024-10-11"
+    "date": "2025-02-24"
   },
   {
     "campaign_id": "cmp_0077",
-    "campaign_name": "Campaign_ca8721e4",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_1caf9eae",
+    "status": "REMOVED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0077",
-    "date": "2024-10-11"
+    "date": "2025-01-07"
   },
   {
     "campaign_id": "cmp_0078",
-    "campaign_name": "Campaign_978f9f50",
-    "status": "PAUSED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_3c5bc6fe",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0078",
-    "date": "2024-10-11"
+    "date": "2025-03-19"
   },
   {
     "campaign_id": "cmp_0079",
-    "campaign_name": "Campaign_c3a1aa44",
-    "status": "ENABLED",
+    "campaign_name": "Campaign_d24f51f9",
+    "status": "PAUSED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0079",
-    "date": "2024-10-11"
+    "date": "2024-12-02"
   },
   {
     "campaign_id": "cmp_0080",
-    "campaign_name": "Campaign_b1e7d7e0",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_f852b9f0",
+    "status": "REMOVED",
     "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0080",
-    "date": "2024-10-11"
+    "date": "2024-12-08"
   },
   {
     "campaign_id": "cmp_0081",
-    "campaign_name": "Campaign_5791386d",
+    "campaign_name": "Campaign_57c2dbb5",
     "status": "ENABLED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0081",
-    "date": "2024-10-11"
+    "date": "2024-10-12"
   },
   {
     "campaign_id": "cmp_0082",
-    "campaign_name": "Campaign_5408b7f4",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_b8de070f",
+    "status": "REMOVED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0082",
-    "date": "2024-10-11"
+    "date": "2024-12-09"
   },
   {
     "campaign_id": "cmp_0083",
-    "campaign_name": "Campaign_8673c361",
+    "campaign_name": "Campaign_0647717f",
     "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0083",
-    "date": "2024-10-11"
+    "date": "2024-10-28"
   },
   {
     "campaign_id": "cmp_0084",
-    "campaign_name": "Campaign_8a1e3938",
+    "campaign_name": "Campaign_ca9b0333",
     "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0084",
-    "date": "2024-10-11"
+    "date": "2025-03-25"
   },
   {
     "campaign_id": "cmp_0085",
-    "campaign_name": "Campaign_c3a92d4d",
+    "campaign_name": "Campaign_004475f7",
     "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0085",
-    "date": "2024-10-11"
+    "date": "2024-12-12"
   },
   {
     "campaign_id": "cmp_0086",
-    "campaign_name": "Campaign_c8f2b7af",
-    "status": "ENABLED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "campaign_name": "Campaign_57bbfa66",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0086",
-    "date": "2024-10-11"
+    "date": "2025-03-19"
   },
   {
     "campaign_id": "cmp_0087",
-    "campaign_name": "Campaign_ba586cd3",
-    "status": "ENABLED",
+    "campaign_name": "Campaign_27e20885",
+    "status": "REMOVED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0087",
-    "date": "2024-10-11"
+    "date": "2025-03-10"
   },
   {
     "campaign_id": "cmp_0088",
-    "campaign_name": "Campaign_cef0a213",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "TARGET_CPA",
+    "campaign_name": "Campaign_d52ef6c0",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0088",
-    "date": "2024-10-11"
+    "date": "2025-03-06"
   },
   {
     "campaign_id": "cmp_0089",
-    "campaign_name": "Campaign_0616a4b2",
-    "status": "PAUSED",
+    "campaign_name": "Campaign_022bccf8",
+    "status": "ENABLED",
     "advertising_channel_type": "SEARCH",
     "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0089",
-    "date": "2024-10-11"
+    "date": "2024-11-25"
   },
   {
     "campaign_id": "cmp_0090",
-    "campaign_name": "Campaign_2efe2eb3",
-    "status": "REMOVED",
+    "campaign_name": "Campaign_e849003f",
+    "status": "PAUSED",
     "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0090",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "campaign_id": "cmp_0091",
-    "campaign_name": "Campaign_e38cc13b",
+    "campaign_name": "Campaign_999e49a9",
     "status": "PAUSED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0091",
-    "date": "2024-10-11"
+    "date": "2025-01-27"
   },
   {
     "campaign_id": "cmp_0092",
-    "campaign_name": "Campaign_6108b1a6",
-    "status": "ENABLED",
-    "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "MANUAL_CPC",
+    "campaign_name": "Campaign_ead34517",
+    "status": "PAUSED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0092",
-    "date": "2024-10-11"
+    "date": "2025-02-18"
   },
   {
     "campaign_id": "cmp_0093",
-    "campaign_name": "Campaign_d42e2453",
-    "status": "ENABLED",
-    "advertising_channel_type": "VIDEO",
+    "campaign_name": "Campaign_710020d4",
+    "status": "REMOVED",
+    "advertising_channel_type": "DISPLAY",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0093",
-    "date": "2024-10-11"
+    "date": "2024-10-27"
   },
   {
     "campaign_id": "cmp_0094",
-    "campaign_name": "Campaign_c920ad8e",
-    "status": "ENABLED",
-    "advertising_channel_type": "SEARCH",
+    "campaign_name": "Campaign_8eb0b130",
+    "status": "REMOVED",
+    "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0094",
-    "date": "2024-10-11"
+    "date": "2024-10-26"
   },
   {
     "campaign_id": "cmp_0095",
-    "campaign_name": "Campaign_cb088016",
-    "status": "REMOVED",
+    "campaign_name": "Campaign_dd7ef09c",
+    "status": "PAUSED",
     "advertising_channel_type": "VIDEO",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MANUAL_CPC",
     "budget_id": "bdgt_0095",
-    "date": "2024-10-11"
+    "date": "2024-11-03"
   },
   {
     "campaign_id": "cmp_0096",
-    "campaign_name": "Campaign_539bacc3",
-    "status": "REMOVED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
-    "budget_id": "bdgt_0096",
-    "date": "2024-10-11"
-  },
-  {
-    "campaign_id": "cmp_0097",
-    "campaign_name": "Campaign_4f3b8602",
-    "status": "REMOVED",
-    "advertising_channel_type": "SEARCH",
-    "bidding_strategy_type": "MANUAL_CPC",
-    "budget_id": "bdgt_0097",
-    "date": "2024-10-11"
-  },
-  {
-    "campaign_id": "cmp_0098",
-    "campaign_name": "Campaign_ec1914a2",
+    "campaign_name": "Campaign_be6f81ed",
     "status": "ENABLED",
     "advertising_channel_type": "VIDEO",
     "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "budget_id": "bdgt_0096",
+    "date": "2025-01-25"
+  },
+  {
+    "campaign_id": "cmp_0097",
+    "campaign_name": "Campaign_9d2571de",
+    "status": "PAUSED",
+    "advertising_channel_type": "DISPLAY",
+    "bidding_strategy_type": "MANUAL_CPC",
+    "budget_id": "bdgt_0097",
+    "date": "2025-03-11"
+  },
+  {
+    "campaign_id": "cmp_0098",
+    "campaign_name": "Campaign_c3dfda8a",
+    "status": "REMOVED",
+    "advertising_channel_type": "SEARCH",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0098",
-    "date": "2024-10-11"
+    "date": "2025-03-29"
   },
   {
     "campaign_id": "cmp_0099",
-    "campaign_name": "Campaign_d0af5bef",
+    "campaign_name": "Campaign_094ae267",
     "status": "PAUSED",
-    "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
+    "advertising_channel_type": "VIDEO",
+    "bidding_strategy_type": "TARGET_CPA",
     "budget_id": "bdgt_0099",
-    "date": "2024-10-11"
+    "date": "2025-01-25"
   },
   {
     "campaign_id": "cmp_0100",
-    "campaign_name": "Campaign_421d1033",
+    "campaign_name": "Campaign_a1da928a",
     "status": "PAUSED",
     "advertising_channel_type": "DISPLAY",
-    "bidding_strategy_type": "TARGET_CPA",
+    "bidding_strategy_type": "MAXIMIZE_CONVERSIONS",
     "budget_id": "bdgt_0100",
-    "date": "2024-10-11"
+    "date": "2024-10-14"
   }
 ]
