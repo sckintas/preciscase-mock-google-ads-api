@@ -2,2101 +2,2101 @@
   {
     "ad_group_id": "cmp_0001_ag_1",
     "campaign_id": "cmp_0001",
-    "ad_group_name": "AdGroup_e9dc314e",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_23ddbb1f",
+    "status": "REMOVED",
+    "date": "2024-11-01"
   },
   {
     "ad_group_id": "cmp_0001_ag_2",
     "campaign_id": "cmp_0001",
-    "ad_group_name": "AdGroup_3c0be256",
+    "ad_group_name": "AdGroup_be7cc2b5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_group_id": "cmp_0001_ag_3",
     "campaign_id": "cmp_0001",
-    "ad_group_name": "AdGroup_8467298c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_da09837a",
+    "status": "PAUSED",
+    "date": "2025-01-28"
   },
   {
     "ad_group_id": "cmp_0002_ag_1",
     "campaign_id": "cmp_0002",
-    "ad_group_name": "AdGroup_8150eed2",
+    "ad_group_name": "AdGroup_c453da27",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_group_id": "cmp_0002_ag_2",
     "campaign_id": "cmp_0002",
-    "ad_group_name": "AdGroup_2e57b6d0",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_d92b705d",
+    "status": "PAUSED",
+    "date": "2025-02-24"
   },
   {
     "ad_group_id": "cmp_0002_ag_3",
     "campaign_id": "cmp_0002",
-    "ad_group_name": "AdGroup_91f11a0a",
+    "ad_group_name": "AdGroup_ea9426b7",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-22"
   },
   {
     "ad_group_id": "cmp_0003_ag_1",
     "campaign_id": "cmp_0003",
-    "ad_group_name": "AdGroup_62a8c461",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ecbf7694",
+    "status": "REMOVED",
+    "date": "2025-01-25"
   },
   {
     "ad_group_id": "cmp_0003_ag_2",
     "campaign_id": "cmp_0003",
-    "ad_group_name": "AdGroup_be1d8de2",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0788e9e4",
+    "status": "PAUSED",
+    "date": "2024-12-12"
   },
   {
     "ad_group_id": "cmp_0003_ag_3",
     "campaign_id": "cmp_0003",
-    "ad_group_name": "AdGroup_8012a39c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_dc7b5661",
+    "status": "ENABLED",
+    "date": "2025-03-16"
   },
   {
     "ad_group_id": "cmp_0004_ag_1",
     "campaign_id": "cmp_0004",
-    "ad_group_name": "AdGroup_badfb5e9",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_14659c6a",
+    "status": "PAUSED",
+    "date": "2025-01-03"
   },
   {
     "ad_group_id": "cmp_0004_ag_2",
     "campaign_id": "cmp_0004",
-    "ad_group_name": "AdGroup_331afd70",
+    "ad_group_name": "AdGroup_b5da1e0d",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-14"
   },
   {
     "ad_group_id": "cmp_0004_ag_3",
     "campaign_id": "cmp_0004",
-    "ad_group_name": "AdGroup_ee430d4d",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7fec71b7",
+    "status": "PAUSED",
+    "date": "2025-02-23"
   },
   {
     "ad_group_id": "cmp_0005_ag_1",
     "campaign_id": "cmp_0005",
-    "ad_group_name": "AdGroup_774ceeb2",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0a7c62f7",
+    "status": "ENABLED",
+    "date": "2024-12-05"
   },
   {
     "ad_group_id": "cmp_0005_ag_2",
     "campaign_id": "cmp_0005",
-    "ad_group_name": "AdGroup_983bcc7b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8be8946f",
+    "status": "REMOVED",
+    "date": "2024-11-09"
   },
   {
     "ad_group_id": "cmp_0005_ag_3",
     "campaign_id": "cmp_0005",
-    "ad_group_name": "AdGroup_735cd61e",
+    "ad_group_name": "AdGroup_eb555fd8",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "ad_group_id": "cmp_0006_ag_1",
     "campaign_id": "cmp_0006",
-    "ad_group_name": "AdGroup_6009b14e",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7c7387b9",
+    "status": "ENABLED",
+    "date": "2025-01-09"
   },
   {
     "ad_group_id": "cmp_0006_ag_2",
     "campaign_id": "cmp_0006",
-    "ad_group_name": "AdGroup_a7480565",
+    "ad_group_name": "AdGroup_a039602f",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-22"
   },
   {
     "ad_group_id": "cmp_0006_ag_3",
     "campaign_id": "cmp_0006",
-    "ad_group_name": "AdGroup_8285f9df",
+    "ad_group_name": "AdGroup_baff454c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_group_id": "cmp_0007_ag_1",
     "campaign_id": "cmp_0007",
-    "ad_group_name": "AdGroup_7ba0d4a9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_84bc595e",
+    "status": "PAUSED",
+    "date": "2024-12-17"
   },
   {
     "ad_group_id": "cmp_0007_ag_2",
     "campaign_id": "cmp_0007",
-    "ad_group_name": "AdGroup_5b090755",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_5f4cc1ab",
+    "status": "PAUSED",
+    "date": "2025-03-30"
   },
   {
     "ad_group_id": "cmp_0007_ag_3",
     "campaign_id": "cmp_0007",
-    "ad_group_name": "AdGroup_da74ca97",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_c8d9149f",
+    "status": "PAUSED",
+    "date": "2024-12-30"
   },
   {
     "ad_group_id": "cmp_0008_ag_1",
     "campaign_id": "cmp_0008",
-    "ad_group_name": "AdGroup_77b896a5",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0965bc19",
+    "status": "ENABLED",
+    "date": "2025-03-06"
   },
   {
     "ad_group_id": "cmp_0008_ag_2",
     "campaign_id": "cmp_0008",
-    "ad_group_name": "AdGroup_7e3820c2",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0b4a286b",
+    "status": "PAUSED",
+    "date": "2024-12-30"
   },
   {
     "ad_group_id": "cmp_0008_ag_3",
     "campaign_id": "cmp_0008",
-    "ad_group_name": "AdGroup_ba76ff8a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_3c8a4df5",
+    "status": "REMOVED",
+    "date": "2025-03-04"
   },
   {
     "ad_group_id": "cmp_0009_ag_1",
     "campaign_id": "cmp_0009",
-    "ad_group_name": "AdGroup_0ca603b7",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_6226f636",
+    "status": "ENABLED",
+    "date": "2024-11-13"
   },
   {
     "ad_group_id": "cmp_0009_ag_2",
     "campaign_id": "cmp_0009",
-    "ad_group_name": "AdGroup_ce8efc3c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ecc3a487",
+    "status": "ENABLED",
+    "date": "2024-11-30"
   },
   {
     "ad_group_id": "cmp_0009_ag_3",
     "campaign_id": "cmp_0009",
-    "ad_group_name": "AdGroup_7d4b3dac",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7a671027",
+    "status": "ENABLED",
+    "date": "2024-12-06"
   },
   {
     "ad_group_id": "cmp_0010_ag_1",
     "campaign_id": "cmp_0010",
-    "ad_group_name": "AdGroup_6f868dc9",
+    "ad_group_name": "AdGroup_05497f49",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-03-06"
   },
   {
     "ad_group_id": "cmp_0010_ag_2",
     "campaign_id": "cmp_0010",
-    "ad_group_name": "AdGroup_6f8cec3e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8d4bccf1",
+    "status": "ENABLED",
+    "date": "2025-04-06"
   },
   {
     "ad_group_id": "cmp_0010_ag_3",
     "campaign_id": "cmp_0010",
-    "ad_group_name": "AdGroup_10052df7",
+    "ad_group_name": "AdGroup_17f99bee",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-26"
   },
   {
     "ad_group_id": "cmp_0011_ag_1",
     "campaign_id": "cmp_0011",
-    "ad_group_name": "AdGroup_77eeb0c3",
+    "ad_group_name": "AdGroup_8d765fef",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-22"
   },
   {
     "ad_group_id": "cmp_0011_ag_2",
     "campaign_id": "cmp_0011",
-    "ad_group_name": "AdGroup_6cd10931",
+    "ad_group_name": "AdGroup_982fb23b",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-26"
   },
   {
     "ad_group_id": "cmp_0011_ag_3",
     "campaign_id": "cmp_0011",
-    "ad_group_name": "AdGroup_2de2f254",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_b19c4756",
+    "status": "ENABLED",
+    "date": "2025-01-05"
   },
   {
     "ad_group_id": "cmp_0012_ag_1",
     "campaign_id": "cmp_0012",
-    "ad_group_name": "AdGroup_09ff703e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_d183cfa3",
+    "status": "ENABLED",
+    "date": "2024-12-16"
   },
   {
     "ad_group_id": "cmp_0012_ag_2",
     "campaign_id": "cmp_0012",
-    "ad_group_name": "AdGroup_f70aff34",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a329d448",
+    "status": "ENABLED",
+    "date": "2024-11-16"
   },
   {
     "ad_group_id": "cmp_0012_ag_3",
     "campaign_id": "cmp_0012",
-    "ad_group_name": "AdGroup_e19cbaa3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_211c8add",
+    "status": "ENABLED",
+    "date": "2025-04-08"
   },
   {
     "ad_group_id": "cmp_0013_ag_1",
     "campaign_id": "cmp_0013",
-    "ad_group_name": "AdGroup_38b40630",
+    "ad_group_name": "AdGroup_3962917b",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-04-05"
   },
   {
     "ad_group_id": "cmp_0013_ag_2",
     "campaign_id": "cmp_0013",
-    "ad_group_name": "AdGroup_cc3b6c2c",
+    "ad_group_name": "AdGroup_559c5478",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-12"
   },
   {
     "ad_group_id": "cmp_0013_ag_3",
     "campaign_id": "cmp_0013",
-    "ad_group_name": "AdGroup_3028706e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_d41d17f7",
+    "status": "ENABLED",
+    "date": "2025-01-18"
   },
   {
     "ad_group_id": "cmp_0014_ag_1",
     "campaign_id": "cmp_0014",
-    "ad_group_name": "AdGroup_66208177",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_2f64d047",
+    "status": "PAUSED",
+    "date": "2024-12-02"
   },
   {
     "ad_group_id": "cmp_0014_ag_2",
     "campaign_id": "cmp_0014",
-    "ad_group_name": "AdGroup_d7eaf072",
+    "ad_group_name": "AdGroup_a8d55424",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_group_id": "cmp_0014_ag_3",
     "campaign_id": "cmp_0014",
-    "ad_group_name": "AdGroup_2fae7a04",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_be902aa4",
+    "status": "ENABLED",
+    "date": "2024-12-12"
   },
   {
     "ad_group_id": "cmp_0015_ag_1",
     "campaign_id": "cmp_0015",
-    "ad_group_name": "AdGroup_570cc5dd",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_e23af2f2",
+    "status": "PAUSED",
+    "date": "2025-01-26"
   },
   {
     "ad_group_id": "cmp_0015_ag_2",
     "campaign_id": "cmp_0015",
-    "ad_group_name": "AdGroup_561b72ae",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_2d88770f",
+    "status": "PAUSED",
+    "date": "2025-03-17"
   },
   {
     "ad_group_id": "cmp_0015_ag_3",
     "campaign_id": "cmp_0015",
-    "ad_group_name": "AdGroup_ac861e4a",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_09b62280",
+    "status": "PAUSED",
+    "date": "2024-11-21"
   },
   {
     "ad_group_id": "cmp_0016_ag_1",
     "campaign_id": "cmp_0016",
-    "ad_group_name": "AdGroup_342d46f9",
+    "ad_group_name": "AdGroup_79c7c20d",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-28"
   },
   {
     "ad_group_id": "cmp_0016_ag_2",
     "campaign_id": "cmp_0016",
-    "ad_group_name": "AdGroup_d5ce060a",
+    "ad_group_name": "AdGroup_546bb2ad",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-16"
   },
   {
     "ad_group_id": "cmp_0016_ag_3",
     "campaign_id": "cmp_0016",
-    "ad_group_name": "AdGroup_5a127e57",
+    "ad_group_name": "AdGroup_aaa35ea8",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-04-02"
   },
   {
     "ad_group_id": "cmp_0017_ag_1",
     "campaign_id": "cmp_0017",
-    "ad_group_name": "AdGroup_4d338405",
+    "ad_group_name": "AdGroup_e3d7d793",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-02"
   },
   {
     "ad_group_id": "cmp_0017_ag_2",
     "campaign_id": "cmp_0017",
-    "ad_group_name": "AdGroup_c929205f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_94b7a79d",
+    "status": "REMOVED",
+    "date": "2025-01-28"
   },
   {
     "ad_group_id": "cmp_0017_ag_3",
     "campaign_id": "cmp_0017",
-    "ad_group_name": "AdGroup_442e9b6d",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0fc88712",
+    "status": "ENABLED",
+    "date": "2025-02-15"
   },
   {
     "ad_group_id": "cmp_0018_ag_1",
     "campaign_id": "cmp_0018",
-    "ad_group_name": "AdGroup_e518037e",
+    "ad_group_name": "AdGroup_04b98236",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-03"
   },
   {
     "ad_group_id": "cmp_0018_ag_2",
     "campaign_id": "cmp_0018",
-    "ad_group_name": "AdGroup_7dc4cf39",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_652895b4",
+    "status": "ENABLED",
+    "date": "2025-03-10"
   },
   {
     "ad_group_id": "cmp_0018_ag_3",
     "campaign_id": "cmp_0018",
-    "ad_group_name": "AdGroup_234db8c6",
+    "ad_group_name": "AdGroup_ac7cbc54",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-19"
   },
   {
     "ad_group_id": "cmp_0019_ag_1",
     "campaign_id": "cmp_0019",
-    "ad_group_name": "AdGroup_ea9bd35d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_69002611",
+    "status": "PAUSED",
+    "date": "2024-12-07"
   },
   {
     "ad_group_id": "cmp_0019_ag_2",
     "campaign_id": "cmp_0019",
-    "ad_group_name": "AdGroup_55f81593",
+    "ad_group_name": "AdGroup_4ce9f3cd",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-26"
   },
   {
     "ad_group_id": "cmp_0019_ag_3",
     "campaign_id": "cmp_0019",
-    "ad_group_name": "AdGroup_03c191dc",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_47e4cf95",
+    "status": "ENABLED",
+    "date": "2024-11-22"
   },
   {
     "ad_group_id": "cmp_0020_ag_1",
     "campaign_id": "cmp_0020",
-    "ad_group_name": "AdGroup_c3f134b9",
+    "ad_group_name": "AdGroup_78bc2a9f",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-21"
   },
   {
     "ad_group_id": "cmp_0020_ag_2",
     "campaign_id": "cmp_0020",
-    "ad_group_name": "AdGroup_4ed6c036",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a6049fcb",
+    "status": "REMOVED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0020_ag_3",
     "campaign_id": "cmp_0020",
-    "ad_group_name": "AdGroup_52f6fe73",
+    "ad_group_name": "AdGroup_57b4fa08",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-03"
   },
   {
     "ad_group_id": "cmp_0021_ag_1",
     "campaign_id": "cmp_0021",
-    "ad_group_name": "AdGroup_aed090af",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_35d61fc1",
+    "status": "REMOVED",
+    "date": "2024-12-03"
   },
   {
     "ad_group_id": "cmp_0021_ag_2",
     "campaign_id": "cmp_0021",
-    "ad_group_name": "AdGroup_0ccd4c58",
+    "ad_group_name": "AdGroup_277da059",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-29"
   },
   {
     "ad_group_id": "cmp_0021_ag_3",
     "campaign_id": "cmp_0021",
-    "ad_group_name": "AdGroup_d386256f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0f9b9d28",
+    "status": "REMOVED",
+    "date": "2025-02-13"
   },
   {
     "ad_group_id": "cmp_0022_ag_1",
     "campaign_id": "cmp_0022",
-    "ad_group_name": "AdGroup_cdda04c7",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_d2b2e642",
+    "status": "PAUSED",
+    "date": "2025-01-03"
   },
   {
     "ad_group_id": "cmp_0022_ag_2",
     "campaign_id": "cmp_0022",
-    "ad_group_name": "AdGroup_9c8632c6",
+    "ad_group_name": "AdGroup_d49f59dd",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-23"
   },
   {
     "ad_group_id": "cmp_0022_ag_3",
     "campaign_id": "cmp_0022",
-    "ad_group_name": "AdGroup_a55fb3f4",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_b784b178",
+    "status": "REMOVED",
+    "date": "2024-10-27"
   },
   {
     "ad_group_id": "cmp_0023_ag_1",
     "campaign_id": "cmp_0023",
-    "ad_group_name": "AdGroup_7153068b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_26e6ee22",
+    "status": "REMOVED",
+    "date": "2024-12-24"
   },
   {
     "ad_group_id": "cmp_0023_ag_2",
     "campaign_id": "cmp_0023",
-    "ad_group_name": "AdGroup_59652f64",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_c7db1fcf",
+    "status": "REMOVED",
+    "date": "2025-03-24"
   },
   {
     "ad_group_id": "cmp_0023_ag_3",
     "campaign_id": "cmp_0023",
-    "ad_group_name": "AdGroup_357127c6",
+    "ad_group_name": "AdGroup_4db18d7b",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-25"
   },
   {
     "ad_group_id": "cmp_0024_ag_1",
     "campaign_id": "cmp_0024",
-    "ad_group_name": "AdGroup_9a092f4c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ca745ca0",
+    "status": "REMOVED",
+    "date": "2024-10-23"
   },
   {
     "ad_group_id": "cmp_0024_ag_2",
     "campaign_id": "cmp_0024",
-    "ad_group_name": "AdGroup_7e894ede",
+    "ad_group_name": "AdGroup_99d71e40",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-04-06"
   },
   {
     "ad_group_id": "cmp_0024_ag_3",
     "campaign_id": "cmp_0024",
-    "ad_group_name": "AdGroup_f0ce1075",
+    "ad_group_name": "AdGroup_fc3f4685",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-03-31"
   },
   {
     "ad_group_id": "cmp_0025_ag_1",
     "campaign_id": "cmp_0025",
-    "ad_group_name": "AdGroup_11352300",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a34af886",
+    "status": "PAUSED",
+    "date": "2025-03-04"
   },
   {
     "ad_group_id": "cmp_0025_ag_2",
     "campaign_id": "cmp_0025",
-    "ad_group_name": "AdGroup_db08222a",
+    "ad_group_name": "AdGroup_0748377e",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-22"
   },
   {
     "ad_group_id": "cmp_0025_ag_3",
     "campaign_id": "cmp_0025",
-    "ad_group_name": "AdGroup_8a76a4cd",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f2153091",
+    "status": "PAUSED",
+    "date": "2025-03-30"
   },
   {
     "ad_group_id": "cmp_0026_ag_1",
     "campaign_id": "cmp_0026",
-    "ad_group_name": "AdGroup_558536dd",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_08aca529",
+    "status": "ENABLED",
+    "date": "2025-03-15"
   },
   {
     "ad_group_id": "cmp_0026_ag_2",
     "campaign_id": "cmp_0026",
-    "ad_group_name": "AdGroup_10baa4d4",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_12486b9d",
+    "status": "REMOVED",
+    "date": "2024-10-25"
   },
   {
     "ad_group_id": "cmp_0026_ag_3",
     "campaign_id": "cmp_0026",
-    "ad_group_name": "AdGroup_2b93bbd8",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f190955f",
+    "status": "PAUSED",
+    "date": "2024-12-18"
   },
   {
     "ad_group_id": "cmp_0027_ag_1",
     "campaign_id": "cmp_0027",
-    "ad_group_name": "AdGroup_071caa81",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f6cf3ba0",
+    "status": "REMOVED",
+    "date": "2024-12-01"
   },
   {
     "ad_group_id": "cmp_0027_ag_2",
     "campaign_id": "cmp_0027",
-    "ad_group_name": "AdGroup_95a0a4e9",
+    "ad_group_name": "AdGroup_76221b2a",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-07"
   },
   {
     "ad_group_id": "cmp_0027_ag_3",
     "campaign_id": "cmp_0027",
-    "ad_group_name": "AdGroup_8c81a181",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_62c4b5d9",
+    "status": "PAUSED",
+    "date": "2024-11-06"
   },
   {
     "ad_group_id": "cmp_0028_ag_1",
     "campaign_id": "cmp_0028",
-    "ad_group_name": "AdGroup_31612ac9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9a0d087d",
+    "status": "REMOVED",
+    "date": "2024-12-09"
   },
   {
     "ad_group_id": "cmp_0028_ag_2",
     "campaign_id": "cmp_0028",
-    "ad_group_name": "AdGroup_68109cda",
-    "status": "ENABLED",
+    "ad_group_name": "AdGroup_0a03d610",
+    "status": "PAUSED",
     "date": "2024-10-11"
   },
   {
     "ad_group_id": "cmp_0028_ag_3",
     "campaign_id": "cmp_0028",
-    "ad_group_name": "AdGroup_57a42821",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_bf3bb00d",
+    "status": "PAUSED",
+    "date": "2025-04-01"
   },
   {
     "ad_group_id": "cmp_0029_ag_1",
     "campaign_id": "cmp_0029",
-    "ad_group_name": "AdGroup_b8726fc3",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_686efe0d",
+    "status": "ENABLED",
+    "date": "2025-04-04"
   },
   {
     "ad_group_id": "cmp_0029_ag_2",
     "campaign_id": "cmp_0029",
-    "ad_group_name": "AdGroup_d93167e5",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_c1920f69",
+    "status": "ENABLED",
+    "date": "2025-03-26"
   },
   {
     "ad_group_id": "cmp_0029_ag_3",
     "campaign_id": "cmp_0029",
-    "ad_group_name": "AdGroup_5941a03c",
+    "ad_group_name": "AdGroup_f9d7edf0",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-12-23"
   },
   {
     "ad_group_id": "cmp_0030_ag_1",
     "campaign_id": "cmp_0030",
-    "ad_group_name": "AdGroup_21716f2f",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_d61b835e",
+    "status": "REMOVED",
+    "date": "2024-12-16"
   },
   {
     "ad_group_id": "cmp_0030_ag_2",
     "campaign_id": "cmp_0030",
-    "ad_group_name": "AdGroup_00902865",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_bc2d35cc",
+    "status": "ENABLED",
+    "date": "2025-03-20"
   },
   {
     "ad_group_id": "cmp_0030_ag_3",
     "campaign_id": "cmp_0030",
-    "ad_group_name": "AdGroup_18dcd148",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_96f96b1d",
+    "status": "ENABLED",
+    "date": "2025-02-21"
   },
   {
     "ad_group_id": "cmp_0031_ag_1",
     "campaign_id": "cmp_0031",
-    "ad_group_name": "AdGroup_1e70bba0",
+    "ad_group_name": "AdGroup_854fa1a5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-13"
   },
   {
     "ad_group_id": "cmp_0031_ag_2",
     "campaign_id": "cmp_0031",
-    "ad_group_name": "AdGroup_fc3525b4",
+    "ad_group_name": "AdGroup_a9a23648",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "ad_group_id": "cmp_0031_ag_3",
     "campaign_id": "cmp_0031",
-    "ad_group_name": "AdGroup_7f2609a6",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4c32f8a9",
+    "status": "ENABLED",
+    "date": "2025-02-27"
   },
   {
     "ad_group_id": "cmp_0032_ag_1",
     "campaign_id": "cmp_0032",
-    "ad_group_name": "AdGroup_4e8212c2",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_bdf007c7",
+    "status": "ENABLED",
+    "date": "2025-02-24"
   },
   {
     "ad_group_id": "cmp_0032_ag_2",
     "campaign_id": "cmp_0032",
-    "ad_group_name": "AdGroup_6bc41d69",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_11e314e4",
+    "status": "REMOVED",
+    "date": "2025-02-02"
   },
   {
     "ad_group_id": "cmp_0032_ag_3",
     "campaign_id": "cmp_0032",
-    "ad_group_name": "AdGroup_348ddd78",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_3de51d6f",
+    "status": "PAUSED",
+    "date": "2025-01-04"
   },
   {
     "ad_group_id": "cmp_0033_ag_1",
     "campaign_id": "cmp_0033",
-    "ad_group_name": "AdGroup_433dc39d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f46a0251",
+    "status": "ENABLED",
+    "date": "2025-03-02"
   },
   {
     "ad_group_id": "cmp_0033_ag_2",
     "campaign_id": "cmp_0033",
-    "ad_group_name": "AdGroup_f68359e3",
+    "ad_group_name": "AdGroup_46185633",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-28"
   },
   {
     "ad_group_id": "cmp_0033_ag_3",
     "campaign_id": "cmp_0033",
-    "ad_group_name": "AdGroup_a98a9e3f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_5d43bf7c",
+    "status": "ENABLED",
+    "date": "2025-02-03"
   },
   {
     "ad_group_id": "cmp_0034_ag_1",
     "campaign_id": "cmp_0034",
-    "ad_group_name": "AdGroup_81fd18d0",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_03113dbb",
+    "status": "PAUSED",
+    "date": "2024-12-30"
   },
   {
     "ad_group_id": "cmp_0034_ag_2",
     "campaign_id": "cmp_0034",
-    "ad_group_name": "AdGroup_569c113b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9968f863",
+    "status": "ENABLED",
+    "date": "2025-02-06"
   },
   {
     "ad_group_id": "cmp_0034_ag_3",
     "campaign_id": "cmp_0034",
-    "ad_group_name": "AdGroup_916f1885",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f8bdca0a",
+    "status": "PAUSED",
+    "date": "2024-12-13"
   },
   {
     "ad_group_id": "cmp_0035_ag_1",
     "campaign_id": "cmp_0035",
-    "ad_group_name": "AdGroup_75316571",
+    "ad_group_name": "AdGroup_52cadacd",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-10"
   },
   {
     "ad_group_id": "cmp_0035_ag_2",
     "campaign_id": "cmp_0035",
-    "ad_group_name": "AdGroup_460596e2",
+    "ad_group_name": "AdGroup_0e308130",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-04-04"
   },
   {
     "ad_group_id": "cmp_0035_ag_3",
     "campaign_id": "cmp_0035",
-    "ad_group_name": "AdGroup_f9e9e895",
-    "status": "ENABLED",
+    "ad_group_name": "AdGroup_8c116b72",
+    "status": "REMOVED",
     "date": "2024-10-11"
   },
   {
     "ad_group_id": "cmp_0036_ag_1",
     "campaign_id": "cmp_0036",
-    "ad_group_name": "AdGroup_0c17531f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_6093e82a",
+    "status": "REMOVED",
+    "date": "2025-03-04"
   },
   {
     "ad_group_id": "cmp_0036_ag_2",
     "campaign_id": "cmp_0036",
-    "ad_group_name": "AdGroup_ceab9876",
+    "ad_group_name": "AdGroup_a2a2df83",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-03"
   },
   {
     "ad_group_id": "cmp_0036_ag_3",
     "campaign_id": "cmp_0036",
-    "ad_group_name": "AdGroup_17bd4b03",
+    "ad_group_name": "AdGroup_2eb93ddd",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-12"
   },
   {
     "ad_group_id": "cmp_0037_ag_1",
     "campaign_id": "cmp_0037",
-    "ad_group_name": "AdGroup_abde7603",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_5a9d9c04",
+    "status": "PAUSED",
+    "date": "2024-12-02"
   },
   {
     "ad_group_id": "cmp_0037_ag_2",
     "campaign_id": "cmp_0037",
-    "ad_group_name": "AdGroup_e30d6924",
+    "ad_group_name": "AdGroup_c6e889c0",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-10-12"
   },
   {
     "ad_group_id": "cmp_0037_ag_3",
     "campaign_id": "cmp_0037",
-    "ad_group_name": "AdGroup_3f56d193",
+    "ad_group_name": "AdGroup_c2df297e",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-04"
   },
   {
     "ad_group_id": "cmp_0038_ag_1",
     "campaign_id": "cmp_0038",
-    "ad_group_name": "AdGroup_31979e39",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_1b267010",
+    "status": "PAUSED",
+    "date": "2025-03-27"
   },
   {
     "ad_group_id": "cmp_0038_ag_2",
     "campaign_id": "cmp_0038",
-    "ad_group_name": "AdGroup_bbb0b495",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_75d35fc7",
+    "status": "ENABLED",
+    "date": "2024-12-11"
   },
   {
     "ad_group_id": "cmp_0038_ag_3",
     "campaign_id": "cmp_0038",
-    "ad_group_name": "AdGroup_7da9ed80",
+    "ad_group_name": "AdGroup_afaa4fc3",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-14"
   },
   {
     "ad_group_id": "cmp_0039_ag_1",
     "campaign_id": "cmp_0039",
-    "ad_group_name": "AdGroup_c30e64de",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_3807760d",
+    "status": "ENABLED",
+    "date": "2024-12-02"
   },
   {
     "ad_group_id": "cmp_0039_ag_2",
     "campaign_id": "cmp_0039",
-    "ad_group_name": "AdGroup_54c4539d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_1849ead3",
+    "status": "PAUSED",
+    "date": "2025-01-12"
   },
   {
     "ad_group_id": "cmp_0039_ag_3",
     "campaign_id": "cmp_0039",
-    "ad_group_name": "AdGroup_524026a7",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_623456c0",
+    "status": "PAUSED",
+    "date": "2025-01-03"
   },
   {
     "ad_group_id": "cmp_0040_ag_1",
     "campaign_id": "cmp_0040",
-    "ad_group_name": "AdGroup_27486996",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_6bdb8906",
+    "status": "PAUSED",
+    "date": "2024-12-05"
   },
   {
     "ad_group_id": "cmp_0040_ag_2",
     "campaign_id": "cmp_0040",
-    "ad_group_name": "AdGroup_b5069d9a",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a91bdcf1",
+    "status": "REMOVED",
+    "date": "2024-12-25"
   },
   {
     "ad_group_id": "cmp_0040_ag_3",
     "campaign_id": "cmp_0040",
-    "ad_group_name": "AdGroup_f5463a3f",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a61836b1",
+    "status": "PAUSED",
+    "date": "2025-03-31"
   },
   {
     "ad_group_id": "cmp_0041_ag_1",
     "campaign_id": "cmp_0041",
-    "ad_group_name": "AdGroup_246fb767",
+    "ad_group_name": "AdGroup_a40397d1",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-03-19"
   },
   {
     "ad_group_id": "cmp_0041_ag_2",
     "campaign_id": "cmp_0041",
-    "ad_group_name": "AdGroup_36703ed0",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9f9c0bf9",
+    "status": "ENABLED",
+    "date": "2025-03-02"
   },
   {
     "ad_group_id": "cmp_0041_ag_3",
     "campaign_id": "cmp_0041",
-    "ad_group_name": "AdGroup_c9020c43",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_cfc00e56",
+    "status": "PAUSED",
+    "date": "2024-11-19"
   },
   {
     "ad_group_id": "cmp_0042_ag_1",
     "campaign_id": "cmp_0042",
-    "ad_group_name": "AdGroup_6cf20cb8",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a46cf033",
+    "status": "ENABLED",
+    "date": "2024-10-26"
   },
   {
     "ad_group_id": "cmp_0042_ag_2",
     "campaign_id": "cmp_0042",
-    "ad_group_name": "AdGroup_c1485c74",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_770d8363",
+    "status": "ENABLED",
+    "date": "2024-12-01"
   },
   {
     "ad_group_id": "cmp_0042_ag_3",
     "campaign_id": "cmp_0042",
-    "ad_group_name": "AdGroup_e58e79c0",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0637b6bd",
+    "status": "ENABLED",
+    "date": "2024-11-04"
   },
   {
     "ad_group_id": "cmp_0043_ag_1",
     "campaign_id": "cmp_0043",
-    "ad_group_name": "AdGroup_8699ab3c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_6cf4841a",
+    "status": "REMOVED",
+    "date": "2024-12-21"
   },
   {
     "ad_group_id": "cmp_0043_ag_2",
     "campaign_id": "cmp_0043",
-    "ad_group_name": "AdGroup_a51523ea",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8e8e1242",
+    "status": "PAUSED",
+    "date": "2024-11-29"
   },
   {
     "ad_group_id": "cmp_0043_ag_3",
     "campaign_id": "cmp_0043",
-    "ad_group_name": "AdGroup_9bd6c1f0",
+    "ad_group_name": "AdGroup_107aadfc",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_group_id": "cmp_0044_ag_1",
     "campaign_id": "cmp_0044",
-    "ad_group_name": "AdGroup_3aa244a0",
+    "ad_group_name": "AdGroup_7025f772",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-20"
   },
   {
     "ad_group_id": "cmp_0044_ag_2",
     "campaign_id": "cmp_0044",
-    "ad_group_name": "AdGroup_da04a538",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_fbc7fe71",
+    "status": "REMOVED",
+    "date": "2025-02-16"
   },
   {
     "ad_group_id": "cmp_0044_ag_3",
     "campaign_id": "cmp_0044",
-    "ad_group_name": "AdGroup_11996fff",
+    "ad_group_name": "AdGroup_ce98a6db",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-19"
   },
   {
     "ad_group_id": "cmp_0045_ag_1",
     "campaign_id": "cmp_0045",
-    "ad_group_name": "AdGroup_61d78a8a",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0d2d254c",
+    "status": "ENABLED",
+    "date": "2025-03-11"
   },
   {
     "ad_group_id": "cmp_0045_ag_2",
     "campaign_id": "cmp_0045",
-    "ad_group_name": "AdGroup_a20b0cd6",
+    "ad_group_name": "AdGroup_d6f22e5d",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-28"
   },
   {
     "ad_group_id": "cmp_0045_ag_3",
     "campaign_id": "cmp_0045",
-    "ad_group_name": "AdGroup_89151f48",
+    "ad_group_name": "AdGroup_d37bf6a6",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-09"
   },
   {
     "ad_group_id": "cmp_0046_ag_1",
     "campaign_id": "cmp_0046",
-    "ad_group_name": "AdGroup_8ccdc65e",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7bc50e30",
+    "status": "ENABLED",
+    "date": "2025-03-18"
   },
   {
     "ad_group_id": "cmp_0046_ag_2",
     "campaign_id": "cmp_0046",
-    "ad_group_name": "AdGroup_78924249",
+    "ad_group_name": "AdGroup_723e3dcf",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "ad_group_id": "cmp_0046_ag_3",
     "campaign_id": "cmp_0046",
-    "ad_group_name": "AdGroup_259d37da",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7dcb74f3",
+    "status": "REMOVED",
+    "date": "2025-03-02"
   },
   {
     "ad_group_id": "cmp_0047_ag_1",
     "campaign_id": "cmp_0047",
-    "ad_group_name": "AdGroup_9d334b0b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_af3447df",
+    "status": "REMOVED",
+    "date": "2024-11-10"
   },
   {
     "ad_group_id": "cmp_0047_ag_2",
     "campaign_id": "cmp_0047",
-    "ad_group_name": "AdGroup_d9902a39",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_e92149e9",
+    "status": "REMOVED",
+    "date": "2024-11-04"
   },
   {
     "ad_group_id": "cmp_0047_ag_3",
     "campaign_id": "cmp_0047",
-    "ad_group_name": "AdGroup_227b7205",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4cf97669",
+    "status": "PAUSED",
+    "date": "2024-11-30"
   },
   {
     "ad_group_id": "cmp_0048_ag_1",
     "campaign_id": "cmp_0048",
-    "ad_group_name": "AdGroup_c5184d06",
+    "ad_group_name": "AdGroup_7f0259f2",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "ad_group_id": "cmp_0048_ag_2",
     "campaign_id": "cmp_0048",
-    "ad_group_name": "AdGroup_122b96af",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_dee97141",
+    "status": "PAUSED",
+    "date": "2024-11-27"
   },
   {
     "ad_group_id": "cmp_0048_ag_3",
     "campaign_id": "cmp_0048",
-    "ad_group_name": "AdGroup_14faa3c9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ec85bc69",
+    "status": "REMOVED",
+    "date": "2025-01-28"
   },
   {
     "ad_group_id": "cmp_0049_ag_1",
     "campaign_id": "cmp_0049",
-    "ad_group_name": "AdGroup_a7a0dc06",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ee5fad78",
+    "status": "REMOVED",
+    "date": "2024-11-16"
   },
   {
     "ad_group_id": "cmp_0049_ag_2",
     "campaign_id": "cmp_0049",
-    "ad_group_name": "AdGroup_49dfd556",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4eb4fca4",
+    "status": "REMOVED",
+    "date": "2024-10-12"
   },
   {
     "ad_group_id": "cmp_0049_ag_3",
     "campaign_id": "cmp_0049",
-    "ad_group_name": "AdGroup_7759001d",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_e12eac21",
+    "status": "ENABLED",
+    "date": "2025-01-24"
   },
   {
     "ad_group_id": "cmp_0050_ag_1",
     "campaign_id": "cmp_0050",
-    "ad_group_name": "AdGroup_f2e3512f",
+    "ad_group_name": "AdGroup_0512badb",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-10"
   },
   {
     "ad_group_id": "cmp_0050_ag_2",
     "campaign_id": "cmp_0050",
-    "ad_group_name": "AdGroup_98d672d8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_47106346",
+    "status": "REMOVED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0050_ag_3",
     "campaign_id": "cmp_0050",
-    "ad_group_name": "AdGroup_a4e69b19",
+    "ad_group_name": "AdGroup_1f78f8eb",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-29"
   },
   {
     "ad_group_id": "cmp_0051_ag_1",
     "campaign_id": "cmp_0051",
-    "ad_group_name": "AdGroup_b731c560",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_b1cb5751",
+    "status": "PAUSED",
+    "date": "2024-11-19"
   },
   {
     "ad_group_id": "cmp_0051_ag_2",
     "campaign_id": "cmp_0051",
-    "ad_group_name": "AdGroup_a8d5434f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0707921b",
+    "status": "REMOVED",
+    "date": "2024-10-23"
   },
   {
     "ad_group_id": "cmp_0051_ag_3",
     "campaign_id": "cmp_0051",
-    "ad_group_name": "AdGroup_6f8d318b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f9383d30",
+    "status": "ENABLED",
+    "date": "2025-02-23"
   },
   {
     "ad_group_id": "cmp_0052_ag_1",
     "campaign_id": "cmp_0052",
-    "ad_group_name": "AdGroup_383c8074",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_e5886836",
+    "status": "PAUSED",
+    "date": "2025-02-22"
   },
   {
     "ad_group_id": "cmp_0052_ag_2",
     "campaign_id": "cmp_0052",
-    "ad_group_name": "AdGroup_817aa13d",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9898332d",
+    "status": "ENABLED",
+    "date": "2025-04-09"
   },
   {
     "ad_group_id": "cmp_0052_ag_3",
     "campaign_id": "cmp_0052",
-    "ad_group_name": "AdGroup_51f2a5f1",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4d7f01da",
+    "status": "ENABLED",
+    "date": "2025-02-14"
   },
   {
     "ad_group_id": "cmp_0053_ag_1",
     "campaign_id": "cmp_0053",
-    "ad_group_name": "AdGroup_71b9da30",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_46d586de",
+    "status": "REMOVED",
+    "date": "2025-02-10"
   },
   {
     "ad_group_id": "cmp_0053_ag_2",
     "campaign_id": "cmp_0053",
-    "ad_group_name": "AdGroup_2b8f9787",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4657b833",
+    "status": "ENABLED",
+    "date": "2024-12-01"
   },
   {
     "ad_group_id": "cmp_0053_ag_3",
     "campaign_id": "cmp_0053",
-    "ad_group_name": "AdGroup_fd5c5de8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_658a2c39",
+    "status": "REMOVED",
+    "date": "2025-02-18"
   },
   {
     "ad_group_id": "cmp_0054_ag_1",
     "campaign_id": "cmp_0054",
-    "ad_group_name": "AdGroup_c00975d3",
+    "ad_group_name": "AdGroup_0c97faa0",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-29"
   },
   {
     "ad_group_id": "cmp_0054_ag_2",
     "campaign_id": "cmp_0054",
-    "ad_group_name": "AdGroup_6b6cd18d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_424ae7a9",
+    "status": "REMOVED",
+    "date": "2025-03-27"
   },
   {
     "ad_group_id": "cmp_0054_ag_3",
     "campaign_id": "cmp_0054",
-    "ad_group_name": "AdGroup_28c2de4a",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_145a3155",
+    "status": "PAUSED",
+    "date": "2024-11-17"
   },
   {
     "ad_group_id": "cmp_0055_ag_1",
     "campaign_id": "cmp_0055",
-    "ad_group_name": "AdGroup_94bcb1a4",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7ca14f8f",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0055_ag_2",
     "campaign_id": "cmp_0055",
-    "ad_group_name": "AdGroup_523e0079",
+    "ad_group_name": "AdGroup_349459b2",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-06"
   },
   {
     "ad_group_id": "cmp_0055_ag_3",
     "campaign_id": "cmp_0055",
-    "ad_group_name": "AdGroup_df21f95f",
+    "ad_group_name": "AdGroup_f611d3f9",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_group_id": "cmp_0056_ag_1",
     "campaign_id": "cmp_0056",
-    "ad_group_name": "AdGroup_7f9f9185",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_5bd6fcb1",
+    "status": "REMOVED",
+    "date": "2024-10-29"
   },
   {
     "ad_group_id": "cmp_0056_ag_2",
     "campaign_id": "cmp_0056",
-    "ad_group_name": "AdGroup_55df2286",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f5f749d6",
+    "status": "ENABLED",
+    "date": "2025-02-01"
   },
   {
     "ad_group_id": "cmp_0056_ag_3",
     "campaign_id": "cmp_0056",
-    "ad_group_name": "AdGroup_e4783415",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_740ca1bc",
+    "status": "ENABLED",
+    "date": "2025-01-11"
   },
   {
     "ad_group_id": "cmp_0057_ag_1",
     "campaign_id": "cmp_0057",
-    "ad_group_name": "AdGroup_eeb3f7c3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8d5c575d",
+    "status": "ENABLED",
+    "date": "2024-12-24"
   },
   {
     "ad_group_id": "cmp_0057_ag_2",
     "campaign_id": "cmp_0057",
-    "ad_group_name": "AdGroup_21901ede",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_bf0a4dd6",
+    "status": "REMOVED",
+    "date": "2024-10-18"
   },
   {
     "ad_group_id": "cmp_0057_ag_3",
     "campaign_id": "cmp_0057",
-    "ad_group_name": "AdGroup_d327f6a3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_c05ce226",
+    "status": "ENABLED",
+    "date": "2025-02-06"
   },
   {
     "ad_group_id": "cmp_0058_ag_1",
     "campaign_id": "cmp_0058",
-    "ad_group_name": "AdGroup_f17f4c9e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_78af4917",
+    "status": "ENABLED",
+    "date": "2025-02-14"
   },
   {
     "ad_group_id": "cmp_0058_ag_2",
     "campaign_id": "cmp_0058",
-    "ad_group_name": "AdGroup_a21a4296",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_874268ed",
+    "status": "ENABLED",
+    "date": "2024-11-28"
   },
   {
     "ad_group_id": "cmp_0058_ag_3",
     "campaign_id": "cmp_0058",
-    "ad_group_name": "AdGroup_f31bbf6c",
+    "ad_group_name": "AdGroup_e7c8502a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "ad_group_id": "cmp_0059_ag_1",
     "campaign_id": "cmp_0059",
-    "ad_group_name": "AdGroup_5b4f5d8a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_bdd0e747",
+    "status": "REMOVED",
+    "date": "2024-10-25"
   },
   {
     "ad_group_id": "cmp_0059_ag_2",
     "campaign_id": "cmp_0059",
-    "ad_group_name": "AdGroup_aac0e4b1",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9fe38b35",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_group_id": "cmp_0059_ag_3",
     "campaign_id": "cmp_0059",
-    "ad_group_name": "AdGroup_ea069e87",
+    "ad_group_name": "AdGroup_c9a1b660",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-12-27"
   },
   {
     "ad_group_id": "cmp_0060_ag_1",
     "campaign_id": "cmp_0060",
-    "ad_group_name": "AdGroup_a5ccde49",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_3d977a1e",
+    "status": "ENABLED",
+    "date": "2024-11-05"
   },
   {
     "ad_group_id": "cmp_0060_ag_2",
     "campaign_id": "cmp_0060",
-    "ad_group_name": "AdGroup_98200d1a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_2ae2dc6c",
+    "status": "REMOVED",
+    "date": "2024-12-15"
   },
   {
     "ad_group_id": "cmp_0060_ag_3",
     "campaign_id": "cmp_0060",
-    "ad_group_name": "AdGroup_44b1a59e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_2a2ccf3f",
+    "status": "ENABLED",
+    "date": "2024-11-12"
   },
   {
     "ad_group_id": "cmp_0061_ag_1",
     "campaign_id": "cmp_0061",
-    "ad_group_name": "AdGroup_85dabdfc",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ac4dca8c",
+    "status": "ENABLED",
+    "date": "2024-12-26"
   },
   {
     "ad_group_id": "cmp_0061_ag_2",
     "campaign_id": "cmp_0061",
-    "ad_group_name": "AdGroup_cc87d147",
+    "ad_group_name": "AdGroup_c3b43f19",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-10-28"
   },
   {
     "ad_group_id": "cmp_0061_ag_3",
     "campaign_id": "cmp_0061",
-    "ad_group_name": "AdGroup_802ddfaa",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ee87ae2f",
+    "status": "ENABLED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0062_ag_1",
     "campaign_id": "cmp_0062",
-    "ad_group_name": "AdGroup_27d07777",
+    "ad_group_name": "AdGroup_d9254c69",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-19"
   },
   {
     "ad_group_id": "cmp_0062_ag_2",
     "campaign_id": "cmp_0062",
-    "ad_group_name": "AdGroup_2d27c23c",
+    "ad_group_name": "AdGroup_863210ea",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_group_id": "cmp_0062_ag_3",
     "campaign_id": "cmp_0062",
-    "ad_group_name": "AdGroup_8d948c71",
+    "ad_group_name": "AdGroup_72ff8cce",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-11"
   },
   {
     "ad_group_id": "cmp_0063_ag_1",
     "campaign_id": "cmp_0063",
-    "ad_group_name": "AdGroup_d4de0742",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_35605c4a",
+    "status": "REMOVED",
+    "date": "2024-10-14"
   },
   {
     "ad_group_id": "cmp_0063_ag_2",
     "campaign_id": "cmp_0063",
-    "ad_group_name": "AdGroup_3d3b7811",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0a8ebfbb",
+    "status": "PAUSED",
+    "date": "2024-11-30"
   },
   {
     "ad_group_id": "cmp_0063_ag_3",
     "campaign_id": "cmp_0063",
-    "ad_group_name": "AdGroup_83267723",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9f112aba",
+    "status": "PAUSED",
+    "date": "2025-03-26"
   },
   {
     "ad_group_id": "cmp_0064_ag_1",
     "campaign_id": "cmp_0064",
-    "ad_group_name": "AdGroup_297b5791",
+    "ad_group_name": "AdGroup_40f64a95",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-09"
   },
   {
     "ad_group_id": "cmp_0064_ag_2",
     "campaign_id": "cmp_0064",
-    "ad_group_name": "AdGroup_8c8285a6",
+    "ad_group_name": "AdGroup_9a68f332",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_group_id": "cmp_0064_ag_3",
     "campaign_id": "cmp_0064",
-    "ad_group_name": "AdGroup_cd669b05",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_755cf1f0",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0065_ag_1",
     "campaign_id": "cmp_0065",
-    "ad_group_name": "AdGroup_6978afae",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_2675c16f",
+    "status": "PAUSED",
+    "date": "2025-04-09"
   },
   {
     "ad_group_id": "cmp_0065_ag_2",
     "campaign_id": "cmp_0065",
-    "ad_group_name": "AdGroup_9a608b84",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8fc986ef",
+    "status": "ENABLED",
+    "date": "2024-11-30"
   },
   {
     "ad_group_id": "cmp_0065_ag_3",
     "campaign_id": "cmp_0065",
-    "ad_group_name": "AdGroup_53a23a49",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_c0bf0007",
+    "status": "ENABLED",
+    "date": "2025-02-14"
   },
   {
     "ad_group_id": "cmp_0066_ag_1",
     "campaign_id": "cmp_0066",
-    "ad_group_name": "AdGroup_ac249623",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_cc9766b9",
+    "status": "ENABLED",
+    "date": "2024-12-11"
   },
   {
     "ad_group_id": "cmp_0066_ag_2",
     "campaign_id": "cmp_0066",
-    "ad_group_name": "AdGroup_1f2bf68c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_5bd72f96",
+    "status": "REMOVED",
+    "date": "2025-02-18"
   },
   {
     "ad_group_id": "cmp_0066_ag_3",
     "campaign_id": "cmp_0066",
-    "ad_group_name": "AdGroup_c4e7f80e",
+    "ad_group_name": "AdGroup_df2f009f",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-05"
   },
   {
     "ad_group_id": "cmp_0067_ag_1",
     "campaign_id": "cmp_0067",
-    "ad_group_name": "AdGroup_ce0176ef",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_41328ca8",
+    "status": "REMOVED",
+    "date": "2024-11-04"
   },
   {
     "ad_group_id": "cmp_0067_ag_2",
     "campaign_id": "cmp_0067",
-    "ad_group_name": "AdGroup_247fdfba",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_966eef7d",
+    "status": "ENABLED",
+    "date": "2024-10-15"
   },
   {
     "ad_group_id": "cmp_0067_ag_3",
     "campaign_id": "cmp_0067",
-    "ad_group_name": "AdGroup_c113d0ca",
+    "ad_group_name": "AdGroup_39e784f7",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-10"
   },
   {
     "ad_group_id": "cmp_0068_ag_1",
     "campaign_id": "cmp_0068",
-    "ad_group_name": "AdGroup_308f68fc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0f6e2064",
+    "status": "REMOVED",
+    "date": "2025-03-19"
   },
   {
     "ad_group_id": "cmp_0068_ag_2",
     "campaign_id": "cmp_0068",
-    "ad_group_name": "AdGroup_0e57155d",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9d8c9f55",
+    "status": "ENABLED",
+    "date": "2024-11-14"
   },
   {
     "ad_group_id": "cmp_0068_ag_3",
     "campaign_id": "cmp_0068",
-    "ad_group_name": "AdGroup_f53ad6a4",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f306a0b8",
+    "status": "PAUSED",
+    "date": "2025-01-12"
   },
   {
     "ad_group_id": "cmp_0069_ag_1",
     "campaign_id": "cmp_0069",
-    "ad_group_name": "AdGroup_c47d4ab5",
+    "ad_group_name": "AdGroup_da461a78",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-12"
   },
   {
     "ad_group_id": "cmp_0069_ag_2",
     "campaign_id": "cmp_0069",
-    "ad_group_name": "AdGroup_c4d7e728",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9b204ed3",
+    "status": "PAUSED",
+    "date": "2024-11-27"
   },
   {
     "ad_group_id": "cmp_0069_ag_3",
     "campaign_id": "cmp_0069",
-    "ad_group_name": "AdGroup_d9b56d53",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9ca74c8b",
+    "status": "PAUSED",
+    "date": "2024-11-29"
   },
   {
     "ad_group_id": "cmp_0070_ag_1",
     "campaign_id": "cmp_0070",
-    "ad_group_name": "AdGroup_3998280f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4e19087a",
+    "status": "ENABLED",
+    "date": "2024-10-30"
   },
   {
     "ad_group_id": "cmp_0070_ag_2",
     "campaign_id": "cmp_0070",
-    "ad_group_name": "AdGroup_416713a0",
+    "ad_group_name": "AdGroup_4db5eda6",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-18"
   },
   {
     "ad_group_id": "cmp_0070_ag_3",
     "campaign_id": "cmp_0070",
-    "ad_group_name": "AdGroup_1be4abde",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a6bf6f28",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_group_id": "cmp_0071_ag_1",
     "campaign_id": "cmp_0071",
-    "ad_group_name": "AdGroup_e9180adf",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_eaae47df",
+    "status": "PAUSED",
+    "date": "2024-11-01"
   },
   {
     "ad_group_id": "cmp_0071_ag_2",
     "campaign_id": "cmp_0071",
-    "ad_group_name": "AdGroup_9f9736f6",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_b0b0d4f3",
+    "status": "ENABLED",
+    "date": "2024-12-28"
   },
   {
     "ad_group_id": "cmp_0071_ag_3",
     "campaign_id": "cmp_0071",
-    "ad_group_name": "AdGroup_caa0088c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_cb73d360",
+    "status": "ENABLED",
+    "date": "2024-12-14"
   },
   {
     "ad_group_id": "cmp_0072_ag_1",
     "campaign_id": "cmp_0072",
-    "ad_group_name": "AdGroup_8a9ad0e9",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_eb5dc885",
+    "status": "REMOVED",
+    "date": "2025-03-09"
   },
   {
     "ad_group_id": "cmp_0072_ag_2",
     "campaign_id": "cmp_0072",
-    "ad_group_name": "AdGroup_7750e036",
+    "ad_group_name": "AdGroup_f52120df",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-27"
   },
   {
     "ad_group_id": "cmp_0072_ag_3",
     "campaign_id": "cmp_0072",
-    "ad_group_name": "AdGroup_40936015",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a4384bc4",
+    "status": "REMOVED",
+    "date": "2025-02-12"
   },
   {
     "ad_group_id": "cmp_0073_ag_1",
     "campaign_id": "cmp_0073",
-    "ad_group_name": "AdGroup_c5edbb07",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_1d87f35c",
+    "status": "ENABLED",
+    "date": "2024-10-17"
   },
   {
     "ad_group_id": "cmp_0073_ag_2",
     "campaign_id": "cmp_0073",
-    "ad_group_name": "AdGroup_c56d6cf6",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ae7a858f",
+    "status": "REMOVED",
+    "date": "2025-04-06"
   },
   {
     "ad_group_id": "cmp_0073_ag_3",
     "campaign_id": "cmp_0073",
-    "ad_group_name": "AdGroup_fa96dd54",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_5cda69b6",
+    "status": "REMOVED",
+    "date": "2024-11-03"
   },
   {
     "ad_group_id": "cmp_0074_ag_1",
     "campaign_id": "cmp_0074",
-    "ad_group_name": "AdGroup_4fe0d24c",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_4b14b69e",
+    "status": "ENABLED",
+    "date": "2025-01-27"
   },
   {
     "ad_group_id": "cmp_0074_ag_2",
     "campaign_id": "cmp_0074",
-    "ad_group_name": "AdGroup_0f0f223b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_cf3a462d",
+    "status": "PAUSED",
+    "date": "2025-02-05"
   },
   {
     "ad_group_id": "cmp_0074_ag_3",
     "campaign_id": "cmp_0074",
-    "ad_group_name": "AdGroup_7dedcecd",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_a109cc2c",
+    "status": "PAUSED",
+    "date": "2024-12-31"
   },
   {
     "ad_group_id": "cmp_0075_ag_1",
     "campaign_id": "cmp_0075",
-    "ad_group_name": "AdGroup_83a3c5dc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_e41bb01b",
+    "status": "REMOVED",
+    "date": "2024-12-17"
   },
   {
     "ad_group_id": "cmp_0075_ag_2",
     "campaign_id": "cmp_0075",
-    "ad_group_name": "AdGroup_ef11a16d",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8a638282",
+    "status": "PAUSED",
+    "date": "2024-12-24"
   },
   {
     "ad_group_id": "cmp_0075_ag_3",
     "campaign_id": "cmp_0075",
-    "ad_group_name": "AdGroup_4ddc0b17",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_18484109",
+    "status": "PAUSED",
+    "date": "2024-12-27"
   },
   {
     "ad_group_id": "cmp_0076_ag_1",
     "campaign_id": "cmp_0076",
-    "ad_group_name": "AdGroup_1412e153",
+    "ad_group_name": "AdGroup_10b5fcda",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-15"
   },
   {
     "ad_group_id": "cmp_0076_ag_2",
     "campaign_id": "cmp_0076",
-    "ad_group_name": "AdGroup_ad4609c7",
+    "ad_group_name": "AdGroup_b4ccbb0a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-03"
   },
   {
     "ad_group_id": "cmp_0076_ag_3",
     "campaign_id": "cmp_0076",
-    "ad_group_name": "AdGroup_38a38b53",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_dcf3742b",
+    "status": "REMOVED",
+    "date": "2025-01-24"
   },
   {
     "ad_group_id": "cmp_0077_ag_1",
     "campaign_id": "cmp_0077",
-    "ad_group_name": "AdGroup_e274529e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_2e1f1a71",
+    "status": "ENABLED",
+    "date": "2025-03-27"
   },
   {
     "ad_group_id": "cmp_0077_ag_2",
     "campaign_id": "cmp_0077",
-    "ad_group_name": "AdGroup_a07f581c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_786b33f4",
+    "status": "REMOVED",
+    "date": "2024-11-12"
   },
   {
     "ad_group_id": "cmp_0077_ag_3",
     "campaign_id": "cmp_0077",
-    "ad_group_name": "AdGroup_42231f86",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_cc609843",
+    "status": "ENABLED",
+    "date": "2024-11-20"
   },
   {
     "ad_group_id": "cmp_0078_ag_1",
     "campaign_id": "cmp_0078",
-    "ad_group_name": "AdGroup_f6551a38",
+    "ad_group_name": "AdGroup_4de40454",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-02"
   },
   {
     "ad_group_id": "cmp_0078_ag_2",
     "campaign_id": "cmp_0078",
-    "ad_group_name": "AdGroup_836f0fc2",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0970d43e",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0078_ag_3",
     "campaign_id": "cmp_0078",
-    "ad_group_name": "AdGroup_3d24a774",
+    "ad_group_name": "AdGroup_a6d58114",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-28"
   },
   {
     "ad_group_id": "cmp_0079_ag_1",
     "campaign_id": "cmp_0079",
-    "ad_group_name": "AdGroup_37b4afc8",
+    "ad_group_name": "AdGroup_71b90d82",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-19"
   },
   {
     "ad_group_id": "cmp_0079_ag_2",
     "campaign_id": "cmp_0079",
-    "ad_group_name": "AdGroup_da07fa81",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_bf4ee466",
+    "status": "ENABLED",
+    "date": "2025-01-30"
   },
   {
     "ad_group_id": "cmp_0079_ag_3",
     "campaign_id": "cmp_0079",
-    "ad_group_name": "AdGroup_75f4e381",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_26bbdce0",
+    "status": "REMOVED",
+    "date": "2025-02-20"
   },
   {
     "ad_group_id": "cmp_0080_ag_1",
     "campaign_id": "cmp_0080",
-    "ad_group_name": "AdGroup_087f4a55",
+    "ad_group_name": "AdGroup_255ee216",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "ad_group_id": "cmp_0080_ag_2",
     "campaign_id": "cmp_0080",
-    "ad_group_name": "AdGroup_b7ba251d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f3b7c305",
+    "status": "ENABLED",
+    "date": "2025-01-27"
   },
   {
     "ad_group_id": "cmp_0080_ag_3",
     "campaign_id": "cmp_0080",
-    "ad_group_name": "AdGroup_a9e1aba8",
+    "ad_group_name": "AdGroup_037d6567",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-02-08"
   },
   {
     "ad_group_id": "cmp_0081_ag_1",
     "campaign_id": "cmp_0081",
-    "ad_group_name": "AdGroup_756e244a",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_cb72087b",
+    "status": "PAUSED",
+    "date": "2025-03-04"
   },
   {
     "ad_group_id": "cmp_0081_ag_2",
     "campaign_id": "cmp_0081",
-    "ad_group_name": "AdGroup_194a72ae",
+    "ad_group_name": "AdGroup_7f26bcf4",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-02-20"
   },
   {
     "ad_group_id": "cmp_0081_ag_3",
     "campaign_id": "cmp_0081",
-    "ad_group_name": "AdGroup_8ec365f8",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_90568018",
+    "status": "PAUSED",
+    "date": "2025-03-03"
   },
   {
     "ad_group_id": "cmp_0082_ag_1",
     "campaign_id": "cmp_0082",
-    "ad_group_name": "AdGroup_957f9f1c",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_81656f6d",
+    "status": "ENABLED",
+    "date": "2024-12-27"
   },
   {
     "ad_group_id": "cmp_0082_ag_2",
     "campaign_id": "cmp_0082",
-    "ad_group_name": "AdGroup_661dbc6d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f49884bb",
+    "status": "PAUSED",
+    "date": "2025-01-09"
   },
   {
     "ad_group_id": "cmp_0082_ag_3",
     "campaign_id": "cmp_0082",
-    "ad_group_name": "AdGroup_ca025147",
+    "ad_group_name": "AdGroup_990448cd",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-04-10"
   },
   {
     "ad_group_id": "cmp_0083_ag_1",
     "campaign_id": "cmp_0083",
-    "ad_group_name": "AdGroup_d6666955",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0c5429b3",
+    "status": "ENABLED",
+    "date": "2024-10-20"
   },
   {
     "ad_group_id": "cmp_0083_ag_2",
     "campaign_id": "cmp_0083",
-    "ad_group_name": "AdGroup_d58b0d3b",
+    "ad_group_name": "AdGroup_c50dbc02",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-29"
   },
   {
     "ad_group_id": "cmp_0083_ag_3",
     "campaign_id": "cmp_0083",
-    "ad_group_name": "AdGroup_c2e59834",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_fbc5cca0",
+    "status": "ENABLED",
+    "date": "2025-02-26"
   },
   {
     "ad_group_id": "cmp_0084_ag_1",
     "campaign_id": "cmp_0084",
-    "ad_group_name": "AdGroup_55cff3e1",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_b60e2e15",
+    "status": "ENABLED",
+    "date": "2024-11-03"
   },
   {
     "ad_group_id": "cmp_0084_ag_2",
     "campaign_id": "cmp_0084",
-    "ad_group_name": "AdGroup_a2257bca",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_78689439",
+    "status": "ENABLED",
+    "date": "2024-10-18"
   },
   {
     "ad_group_id": "cmp_0084_ag_3",
     "campaign_id": "cmp_0084",
-    "ad_group_name": "AdGroup_0fafade9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_35bd8084",
+    "status": "REMOVED",
+    "date": "2025-01-22"
   },
   {
     "ad_group_id": "cmp_0085_ag_1",
     "campaign_id": "cmp_0085",
-    "ad_group_name": "AdGroup_d7d36c81",
+    "ad_group_name": "AdGroup_889d4aeb",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-03-25"
   },
   {
     "ad_group_id": "cmp_0085_ag_2",
     "campaign_id": "cmp_0085",
-    "ad_group_name": "AdGroup_b09ab261",
+    "ad_group_name": "AdGroup_4a4cf0ce",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_group_id": "cmp_0085_ag_3",
     "campaign_id": "cmp_0085",
-    "ad_group_name": "AdGroup_75637961",
+    "ad_group_name": "AdGroup_388c2b68",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-10-18"
   },
   {
     "ad_group_id": "cmp_0086_ag_1",
     "campaign_id": "cmp_0086",
-    "ad_group_name": "AdGroup_cf0d5525",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_d67b7310",
+    "status": "REMOVED",
+    "date": "2025-02-21"
   },
   {
     "ad_group_id": "cmp_0086_ag_2",
     "campaign_id": "cmp_0086",
-    "ad_group_name": "AdGroup_8fe7f5eb",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_fe4c736b",
+    "status": "ENABLED",
+    "date": "2025-01-18"
   },
   {
     "ad_group_id": "cmp_0086_ag_3",
     "campaign_id": "cmp_0086",
-    "ad_group_name": "AdGroup_9991844e",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_b63a0d49",
+    "status": "ENABLED",
+    "date": "2025-02-16"
   },
   {
     "ad_group_id": "cmp_0087_ag_1",
     "campaign_id": "cmp_0087",
-    "ad_group_name": "AdGroup_0d6a5cf6",
+    "ad_group_name": "AdGroup_c355f0a6",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-04-10"
   },
   {
     "ad_group_id": "cmp_0087_ag_2",
     "campaign_id": "cmp_0087",
-    "ad_group_name": "AdGroup_38b78a9e",
+    "ad_group_name": "AdGroup_a8a9d7b5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-25"
   },
   {
     "ad_group_id": "cmp_0087_ag_3",
     "campaign_id": "cmp_0087",
-    "ad_group_name": "AdGroup_a9689928",
+    "ad_group_name": "AdGroup_2dc73147",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-19"
   },
   {
     "ad_group_id": "cmp_0088_ag_1",
     "campaign_id": "cmp_0088",
-    "ad_group_name": "AdGroup_f90d17bd",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7b576e41",
+    "status": "PAUSED",
+    "date": "2024-10-29"
   },
   {
     "ad_group_id": "cmp_0088_ag_2",
     "campaign_id": "cmp_0088",
-    "ad_group_name": "AdGroup_6d0fdfaa",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_1eba4222",
+    "status": "REMOVED",
+    "date": "2024-12-07"
   },
   {
     "ad_group_id": "cmp_0088_ag_3",
     "campaign_id": "cmp_0088",
-    "ad_group_name": "AdGroup_9c04d780",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_fe0f459a",
+    "status": "ENABLED",
+    "date": "2024-10-12"
   },
   {
     "ad_group_id": "cmp_0089_ag_1",
     "campaign_id": "cmp_0089",
-    "ad_group_name": "AdGroup_3945a897",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ba6102f3",
+    "status": "PAUSED",
+    "date": "2025-01-12"
   },
   {
     "ad_group_id": "cmp_0089_ag_2",
     "campaign_id": "cmp_0089",
-    "ad_group_name": "AdGroup_3a88d458",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f2e50623",
+    "status": "ENABLED",
+    "date": "2024-11-05"
   },
   {
     "ad_group_id": "cmp_0089_ag_3",
     "campaign_id": "cmp_0089",
-    "ad_group_name": "AdGroup_aaeaee36",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_9379edae",
+    "status": "PAUSED",
+    "date": "2025-02-01"
   },
   {
     "ad_group_id": "cmp_0090_ag_1",
     "campaign_id": "cmp_0090",
-    "ad_group_name": "AdGroup_bf370e0f",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_3f19808e",
+    "status": "ENABLED",
+    "date": "2024-10-15"
   },
   {
     "ad_group_id": "cmp_0090_ag_2",
     "campaign_id": "cmp_0090",
-    "ad_group_name": "AdGroup_9fda703c",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_02b40ed8",
+    "status": "ENABLED",
+    "date": "2024-10-31"
   },
   {
     "ad_group_id": "cmp_0090_ag_3",
     "campaign_id": "cmp_0090",
-    "ad_group_name": "AdGroup_1029222f",
+    "ad_group_name": "AdGroup_596819ff",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-03-29"
   },
   {
     "ad_group_id": "cmp_0091_ag_1",
     "campaign_id": "cmp_0091",
-    "ad_group_name": "AdGroup_dafd9c08",
+    "ad_group_name": "AdGroup_9ceb02f5",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "ad_group_id": "cmp_0091_ag_2",
     "campaign_id": "cmp_0091",
-    "ad_group_name": "AdGroup_dca0babf",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8a717199",
+    "status": "PAUSED",
+    "date": "2025-02-13"
   },
   {
     "ad_group_id": "cmp_0091_ag_3",
     "campaign_id": "cmp_0091",
-    "ad_group_name": "AdGroup_f36e4e7f",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_ac9ec5a4",
+    "status": "ENABLED",
+    "date": "2024-12-02"
   },
   {
     "ad_group_id": "cmp_0092_ag_1",
     "campaign_id": "cmp_0092",
-    "ad_group_name": "AdGroup_30e4a919",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_df2bb3ea",
+    "status": "PAUSED",
+    "date": "2025-01-01"
   },
   {
     "ad_group_id": "cmp_0092_ag_2",
     "campaign_id": "cmp_0092",
-    "ad_group_name": "AdGroup_7d38eebd",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_dab82476",
+    "status": "PAUSED",
+    "date": "2024-10-17"
   },
   {
     "ad_group_id": "cmp_0092_ag_3",
     "campaign_id": "cmp_0092",
-    "ad_group_name": "AdGroup_9bdde1c9",
+    "ad_group_name": "AdGroup_8786f9ab",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-11-07"
   },
   {
     "ad_group_id": "cmp_0093_ag_1",
     "campaign_id": "cmp_0093",
-    "ad_group_name": "AdGroup_12c4a791",
+    "ad_group_name": "AdGroup_0b1a6b12",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-20"
   },
   {
     "ad_group_id": "cmp_0093_ag_2",
     "campaign_id": "cmp_0093",
-    "ad_group_name": "AdGroup_e330c8d3",
+    "ad_group_name": "AdGroup_a7daed38",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-30"
   },
   {
     "ad_group_id": "cmp_0093_ag_3",
     "campaign_id": "cmp_0093",
-    "ad_group_name": "AdGroup_2394e50f",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7f5df87f",
+    "status": "REMOVED",
+    "date": "2025-02-16"
   },
   {
     "ad_group_id": "cmp_0094_ag_1",
     "campaign_id": "cmp_0094",
-    "ad_group_name": "AdGroup_b82a28ef",
+    "ad_group_name": "AdGroup_8580d5f0",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-07"
   },
   {
     "ad_group_id": "cmp_0094_ag_2",
     "campaign_id": "cmp_0094",
-    "ad_group_name": "AdGroup_48c2b129",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_aa308f54",
+    "status": "ENABLED",
+    "date": "2024-10-22"
   },
   {
     "ad_group_id": "cmp_0094_ag_3",
     "campaign_id": "cmp_0094",
-    "ad_group_name": "AdGroup_85ca0db7",
+    "ad_group_name": "AdGroup_8542ea2b",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-10-17"
   },
   {
     "ad_group_id": "cmp_0095_ag_1",
     "campaign_id": "cmp_0095",
-    "ad_group_name": "AdGroup_685a5e29",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_514ef601",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_group_id": "cmp_0095_ag_2",
     "campaign_id": "cmp_0095",
-    "ad_group_name": "AdGroup_13a253ea",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_7c59c9c7",
+    "status": "ENABLED",
+    "date": "2025-04-05"
   },
   {
     "ad_group_id": "cmp_0095_ag_3",
     "campaign_id": "cmp_0095",
-    "ad_group_name": "AdGroup_61a8c2e6",
+    "ad_group_name": "AdGroup_87441613",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-03"
   },
   {
     "ad_group_id": "cmp_0096_ag_1",
     "campaign_id": "cmp_0096",
-    "ad_group_name": "AdGroup_535dc2fc",
+    "ad_group_name": "AdGroup_961dd1b7",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-07"
   },
   {
     "ad_group_id": "cmp_0096_ag_2",
     "campaign_id": "cmp_0096",
-    "ad_group_name": "AdGroup_c0183430",
+    "ad_group_name": "AdGroup_f7e5bdb9",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-01"
   },
   {
     "ad_group_id": "cmp_0096_ag_3",
     "campaign_id": "cmp_0096",
-    "ad_group_name": "AdGroup_50ab1d19",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_febf66b8",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_group_id": "cmp_0097_ag_1",
     "campaign_id": "cmp_0097",
-    "ad_group_name": "AdGroup_606df1df",
+    "ad_group_name": "AdGroup_95efe5ac",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-22"
   },
   {
     "ad_group_id": "cmp_0097_ag_2",
     "campaign_id": "cmp_0097",
-    "ad_group_name": "AdGroup_32bdd58b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_f772921e",
+    "status": "ENABLED",
+    "date": "2025-04-09"
   },
   {
     "ad_group_id": "cmp_0097_ag_3",
     "campaign_id": "cmp_0097",
-    "ad_group_name": "AdGroup_34206c68",
+    "ad_group_name": "AdGroup_1d2ae08b",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-30"
   },
   {
     "ad_group_id": "cmp_0098_ag_1",
     "campaign_id": "cmp_0098",
-    "ad_group_name": "AdGroup_cf34556e",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_1ead3c06",
+    "status": "REMOVED",
+    "date": "2025-02-25"
   },
   {
     "ad_group_id": "cmp_0098_ag_2",
     "campaign_id": "cmp_0098",
-    "ad_group_name": "AdGroup_13aad423",
+    "ad_group_name": "AdGroup_8b54572a",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2024-12-07"
   },
   {
     "ad_group_id": "cmp_0098_ag_3",
     "campaign_id": "cmp_0098",
-    "ad_group_name": "AdGroup_457f78b5",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_63301f9d",
+    "status": "ENABLED",
+    "date": "2024-11-20"
   },
   {
     "ad_group_id": "cmp_0099_ag_1",
     "campaign_id": "cmp_0099",
-    "ad_group_name": "AdGroup_fe988124",
+    "ad_group_name": "AdGroup_e1724ea3",
     "status": "REMOVED",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "ad_group_id": "cmp_0099_ag_2",
     "campaign_id": "cmp_0099",
-    "ad_group_name": "AdGroup_3dcffa6a",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_8b892912",
+    "status": "PAUSED",
+    "date": "2025-02-13"
   },
   {
     "ad_group_id": "cmp_0099_ag_3",
     "campaign_id": "cmp_0099",
-    "ad_group_name": "AdGroup_3c8242c0",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_6318daf6",
+    "status": "REMOVED",
+    "date": "2024-12-16"
   },
   {
     "ad_group_id": "cmp_0100_ag_1",
     "campaign_id": "cmp_0100",
-    "ad_group_name": "AdGroup_77f4cb44",
-    "status": "REMOVED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_01de4127",
+    "status": "ENABLED",
+    "date": "2025-03-20"
   },
   {
     "ad_group_id": "cmp_0100_ag_2",
     "campaign_id": "cmp_0100",
-    "ad_group_name": "AdGroup_6be118a0",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_0d0a7601",
+    "status": "PAUSED",
+    "date": "2025-01-18"
   },
   {
     "ad_group_id": "cmp_0100_ag_3",
     "campaign_id": "cmp_0100",
-    "ad_group_name": "AdGroup_e2c9236a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "ad_group_name": "AdGroup_05e2f93c",
+    "status": "ENABLED",
+    "date": "2025-03-29"
   }
 ]
