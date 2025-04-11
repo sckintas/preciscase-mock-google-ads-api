@@ -2,4201 +2,4201 @@
   {
     "ad_id": "cmp_0001_ag_1_ad_1",
     "ad_group_id": "cmp_0001_ag_1",
-    "headline": "Headline_4e6607d9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_728b6761",
+    "status": "PAUSED",
+    "date": "2024-11-01"
   },
   {
     "ad_id": "cmp_0001_ag_1_ad_2",
     "ad_group_id": "cmp_0001_ag_1",
-    "headline": "Headline_6fd17543",
+    "headline": "Headline_4f4d2e54",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-01"
   },
   {
     "ad_id": "cmp_0001_ag_2_ad_1",
     "ad_group_id": "cmp_0001_ag_2",
-    "headline": "Headline_4a6321b7",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_1c2cdfb0",
+    "status": "PAUSED",
+    "date": "2025-02-11"
   },
   {
     "ad_id": "cmp_0001_ag_2_ad_2",
     "ad_group_id": "cmp_0001_ag_2",
-    "headline": "Headline_4d7cd07d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_c452688c",
+    "status": "ENABLED",
+    "date": "2025-02-11"
   },
   {
     "ad_id": "cmp_0001_ag_3_ad_1",
     "ad_group_id": "cmp_0001_ag_3",
-    "headline": "Headline_05f89196",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_8adc0184",
+    "status": "PAUSED",
+    "date": "2025-01-28"
   },
   {
     "ad_id": "cmp_0001_ag_3_ad_2",
     "ad_group_id": "cmp_0001_ag_3",
-    "headline": "Headline_c7d6c475",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ef966d1d",
+    "status": "PAUSED",
+    "date": "2025-01-28"
   },
   {
     "ad_id": "cmp_0002_ag_1_ad_1",
     "ad_group_id": "cmp_0002_ag_1",
-    "headline": "Headline_aef10dac",
+    "headline": "Headline_561c3c6c",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0002_ag_1_ad_2",
     "ad_group_id": "cmp_0002_ag_1",
-    "headline": "Headline_5c143cef",
+    "headline": "Headline_a0fa5019",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0002_ag_2_ad_1",
     "ad_group_id": "cmp_0002_ag_2",
-    "headline": "Headline_e3340cbd",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_5dd53823",
+    "status": "ENABLED",
+    "date": "2025-02-24"
   },
   {
     "ad_id": "cmp_0002_ag_2_ad_2",
     "ad_group_id": "cmp_0002_ag_2",
-    "headline": "Headline_d44153a1",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_2ed20cf0",
+    "status": "PAUSED",
+    "date": "2025-02-24"
   },
   {
     "ad_id": "cmp_0002_ag_3_ad_1",
     "ad_group_id": "cmp_0002_ag_3",
-    "headline": "Headline_8d459592",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_1bc2c946",
+    "status": "ENABLED",
+    "date": "2024-11-22"
   },
   {
     "ad_id": "cmp_0002_ag_3_ad_2",
     "ad_group_id": "cmp_0002_ag_3",
-    "headline": "Headline_5581cc58",
+    "headline": "Headline_4d3b0eaf",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-22"
   },
   {
     "ad_id": "cmp_0003_ag_1_ad_1",
     "ad_group_id": "cmp_0003_ag_1",
-    "headline": "Headline_c7014529",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_bbcc951b",
+    "status": "DISAPPROVED",
+    "date": "2025-01-25"
   },
   {
     "ad_id": "cmp_0003_ag_1_ad_2",
     "ad_group_id": "cmp_0003_ag_1",
-    "headline": "Headline_8d736869",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_cc552d8b",
+    "status": "ENABLED",
+    "date": "2025-01-25"
   },
   {
     "ad_id": "cmp_0003_ag_2_ad_1",
     "ad_group_id": "cmp_0003_ag_2",
-    "headline": "Headline_64ec8ff4",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_b83f0081",
+    "status": "ENABLED",
+    "date": "2024-12-12"
   },
   {
     "ad_id": "cmp_0003_ag_2_ad_2",
     "ad_group_id": "cmp_0003_ag_2",
-    "headline": "Headline_f8e6899c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_b67ca2cd",
+    "status": "DISAPPROVED",
+    "date": "2024-12-12"
   },
   {
     "ad_id": "cmp_0003_ag_3_ad_1",
     "ad_group_id": "cmp_0003_ag_3",
-    "headline": "Headline_d2bd1b76",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3ec3d21f",
+    "status": "PAUSED",
+    "date": "2025-03-16"
   },
   {
     "ad_id": "cmp_0003_ag_3_ad_2",
     "ad_group_id": "cmp_0003_ag_3",
-    "headline": "Headline_8405c94a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_150cb0e2",
+    "status": "ENABLED",
+    "date": "2025-03-16"
   },
   {
     "ad_id": "cmp_0004_ag_1_ad_1",
     "ad_group_id": "cmp_0004_ag_1",
-    "headline": "Headline_a5598a49",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_1ad71f4b",
+    "status": "PAUSED",
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0004_ag_1_ad_2",
     "ad_group_id": "cmp_0004_ag_1",
-    "headline": "Headline_981f5e2b",
+    "headline": "Headline_249ad6c2",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0004_ag_2_ad_1",
     "ad_group_id": "cmp_0004_ag_2",
-    "headline": "Headline_8df64fbe",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_453806d5",
+    "status": "DISAPPROVED",
+    "date": "2024-11-14"
   },
   {
     "ad_id": "cmp_0004_ag_2_ad_2",
     "ad_group_id": "cmp_0004_ag_2",
-    "headline": "Headline_961ecefb",
+    "headline": "Headline_2f6ea8eb",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-14"
   },
   {
     "ad_id": "cmp_0004_ag_3_ad_1",
     "ad_group_id": "cmp_0004_ag_3",
-    "headline": "Headline_4ed0fa94",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_687091a4",
+    "status": "DISAPPROVED",
+    "date": "2025-02-23"
   },
   {
     "ad_id": "cmp_0004_ag_3_ad_2",
     "ad_group_id": "cmp_0004_ag_3",
-    "headline": "Headline_9836acb8",
+    "headline": "Headline_ab45990b",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-23"
   },
   {
     "ad_id": "cmp_0005_ag_1_ad_1",
     "ad_group_id": "cmp_0005_ag_1",
-    "headline": "Headline_851fa17a",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_f680134c",
+    "status": "DISAPPROVED",
+    "date": "2024-12-05"
   },
   {
     "ad_id": "cmp_0005_ag_1_ad_2",
     "ad_group_id": "cmp_0005_ag_1",
-    "headline": "Headline_63c15773",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_104aa4f8",
+    "status": "ENABLED",
+    "date": "2024-12-05"
   },
   {
     "ad_id": "cmp_0005_ag_2_ad_1",
     "ad_group_id": "cmp_0005_ag_2",
-    "headline": "Headline_69ee32ee",
+    "headline": "Headline_9fd082c0",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "ad_id": "cmp_0005_ag_2_ad_2",
     "ad_group_id": "cmp_0005_ag_2",
-    "headline": "Headline_08de6350",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_015b3fb5",
+    "status": "ENABLED",
+    "date": "2024-11-09"
   },
   {
     "ad_id": "cmp_0005_ag_3_ad_1",
     "ad_group_id": "cmp_0005_ag_3",
-    "headline": "Headline_6f98676d",
+    "headline": "Headline_61cec918",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "ad_id": "cmp_0005_ag_3_ad_2",
     "ad_group_id": "cmp_0005_ag_3",
-    "headline": "Headline_d2cc47a2",
+    "headline": "Headline_eb908519",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "ad_id": "cmp_0006_ag_1_ad_1",
     "ad_group_id": "cmp_0006_ag_1",
-    "headline": "Headline_b26b00cc",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e4bd9624",
+    "status": "ENABLED",
+    "date": "2025-01-09"
   },
   {
     "ad_id": "cmp_0006_ag_1_ad_2",
     "ad_group_id": "cmp_0006_ag_1",
-    "headline": "Headline_2878b3af",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_a8378c4b",
+    "status": "PAUSED",
+    "date": "2025-01-09"
   },
   {
     "ad_id": "cmp_0006_ag_2_ad_1",
     "ad_group_id": "cmp_0006_ag_2",
-    "headline": "Headline_52a377c3",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_e8d387d4",
+    "status": "ENABLED",
+    "date": "2025-01-22"
   },
   {
     "ad_id": "cmp_0006_ag_2_ad_2",
     "ad_group_id": "cmp_0006_ag_2",
-    "headline": "Headline_b4f7e251",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3a02a159",
+    "status": "ENABLED",
+    "date": "2025-01-22"
   },
   {
     "ad_id": "cmp_0006_ag_3_ad_1",
     "ad_group_id": "cmp_0006_ag_3",
-    "headline": "Headline_de10afea",
+    "headline": "Headline_4a94b500",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_id": "cmp_0006_ag_3_ad_2",
     "ad_group_id": "cmp_0006_ag_3",
-    "headline": "Headline_cfb4a19b",
+    "headline": "Headline_73f99cc5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_id": "cmp_0007_ag_1_ad_1",
     "ad_group_id": "cmp_0007_ag_1",
-    "headline": "Headline_112d289e",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_e080b9d7",
+    "status": "DISAPPROVED",
+    "date": "2024-12-17"
   },
   {
     "ad_id": "cmp_0007_ag_1_ad_2",
     "ad_group_id": "cmp_0007_ag_1",
-    "headline": "Headline_349fc840",
+    "headline": "Headline_573c474d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-17"
   },
   {
     "ad_id": "cmp_0007_ag_2_ad_1",
     "ad_group_id": "cmp_0007_ag_2",
-    "headline": "Headline_2e3777e0",
+    "headline": "Headline_cf660fe4",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-30"
   },
   {
     "ad_id": "cmp_0007_ag_2_ad_2",
     "ad_group_id": "cmp_0007_ag_2",
-    "headline": "Headline_f7a42e4b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_49666ea9",
+    "status": "DISAPPROVED",
+    "date": "2025-03-30"
   },
   {
     "ad_id": "cmp_0007_ag_3_ad_1",
     "ad_group_id": "cmp_0007_ag_3",
-    "headline": "Headline_19013db4",
+    "headline": "Headline_6885eb1b",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-30"
   },
   {
     "ad_id": "cmp_0007_ag_3_ad_2",
     "ad_group_id": "cmp_0007_ag_3",
-    "headline": "Headline_8e914d02",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_cedb2c24",
+    "status": "ENABLED",
+    "date": "2024-12-30"
   },
   {
     "ad_id": "cmp_0008_ag_1_ad_1",
     "ad_group_id": "cmp_0008_ag_1",
-    "headline": "Headline_80d6c0f3",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_3186c554",
+    "status": "PAUSED",
+    "date": "2025-03-06"
   },
   {
     "ad_id": "cmp_0008_ag_1_ad_2",
     "ad_group_id": "cmp_0008_ag_1",
-    "headline": "Headline_bd76083c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b32a4218",
+    "status": "ENABLED",
+    "date": "2025-03-06"
   },
   {
     "ad_id": "cmp_0008_ag_2_ad_1",
     "ad_group_id": "cmp_0008_ag_2",
-    "headline": "Headline_531dde74",
+    "headline": "Headline_586f26f5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-30"
   },
   {
     "ad_id": "cmp_0008_ag_2_ad_2",
     "ad_group_id": "cmp_0008_ag_2",
-    "headline": "Headline_91613a30",
+    "headline": "Headline_bad7721e",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-30"
   },
   {
     "ad_id": "cmp_0008_ag_3_ad_1",
     "ad_group_id": "cmp_0008_ag_3",
-    "headline": "Headline_8307ef15",
+    "headline": "Headline_a705e5ab",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0008_ag_3_ad_2",
     "ad_group_id": "cmp_0008_ag_3",
-    "headline": "Headline_91df96d3",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_96a36d03",
+    "status": "ENABLED",
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0009_ag_1_ad_1",
     "ad_group_id": "cmp_0009_ag_1",
-    "headline": "Headline_70f013e7",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_91cbd017",
+    "status": "ENABLED",
+    "date": "2024-11-13"
   },
   {
     "ad_id": "cmp_0009_ag_1_ad_2",
     "ad_group_id": "cmp_0009_ag_1",
-    "headline": "Headline_212c66d9",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_5be8c8c4",
+    "status": "ENABLED",
+    "date": "2024-11-13"
   },
   {
     "ad_id": "cmp_0009_ag_2_ad_1",
     "ad_group_id": "cmp_0009_ag_2",
-    "headline": "Headline_36443c28",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_5a876336",
+    "status": "ENABLED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0009_ag_2_ad_2",
     "ad_group_id": "cmp_0009_ag_2",
-    "headline": "Headline_0be59d30",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ae9568b2",
+    "status": "ENABLED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0009_ag_3_ad_1",
     "ad_group_id": "cmp_0009_ag_3",
-    "headline": "Headline_2b0cb52d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_18c8876e",
+    "status": "ENABLED",
+    "date": "2024-12-06"
   },
   {
     "ad_id": "cmp_0009_ag_3_ad_2",
     "ad_group_id": "cmp_0009_ag_3",
-    "headline": "Headline_91994d3b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_c1656a3b",
+    "status": "PAUSED",
+    "date": "2024-12-06"
   },
   {
     "ad_id": "cmp_0010_ag_1_ad_1",
     "ad_group_id": "cmp_0010_ag_1",
-    "headline": "Headline_f59baffd",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_dbc10a54",
+    "status": "ENABLED",
+    "date": "2025-03-06"
   },
   {
     "ad_id": "cmp_0010_ag_1_ad_2",
     "ad_group_id": "cmp_0010_ag_1",
-    "headline": "Headline_f58317b7",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_eef04db9",
+    "status": "ENABLED",
+    "date": "2025-03-06"
   },
   {
     "ad_id": "cmp_0010_ag_2_ad_1",
     "ad_group_id": "cmp_0010_ag_2",
-    "headline": "Headline_3089296a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d7ceac2c",
+    "status": "PAUSED",
+    "date": "2025-04-06"
   },
   {
     "ad_id": "cmp_0010_ag_2_ad_2",
     "ad_group_id": "cmp_0010_ag_2",
-    "headline": "Headline_1259c25f",
+    "headline": "Headline_7f055109",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-06"
   },
   {
     "ad_id": "cmp_0010_ag_3_ad_1",
     "ad_group_id": "cmp_0010_ag_3",
-    "headline": "Headline_112e8cc3",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b75f07f4",
+    "status": "PAUSED",
+    "date": "2024-11-26"
   },
   {
     "ad_id": "cmp_0010_ag_3_ad_2",
     "ad_group_id": "cmp_0010_ag_3",
-    "headline": "Headline_709adc46",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d64fcbbc",
+    "status": "PAUSED",
+    "date": "2024-11-26"
   },
   {
     "ad_id": "cmp_0011_ag_1_ad_1",
     "ad_group_id": "cmp_0011_ag_1",
-    "headline": "Headline_c7638cf6",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_dbd61065",
+    "status": "DISAPPROVED",
+    "date": "2025-01-22"
   },
   {
     "ad_id": "cmp_0011_ag_1_ad_2",
     "ad_group_id": "cmp_0011_ag_1",
-    "headline": "Headline_8d5e9053",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_f6ce824d",
+    "status": "DISAPPROVED",
+    "date": "2025-01-22"
   },
   {
     "ad_id": "cmp_0011_ag_2_ad_1",
     "ad_group_id": "cmp_0011_ag_2",
-    "headline": "Headline_0a400d53",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_8eca2ffb",
+    "status": "DISAPPROVED",
+    "date": "2025-01-26"
   },
   {
     "ad_id": "cmp_0011_ag_2_ad_2",
     "ad_group_id": "cmp_0011_ag_2",
-    "headline": "Headline_187fbdf8",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_a459a398",
+    "status": "ENABLED",
+    "date": "2025-01-26"
   },
   {
     "ad_id": "cmp_0011_ag_3_ad_1",
     "ad_group_id": "cmp_0011_ag_3",
-    "headline": "Headline_57912d33",
+    "headline": "Headline_7b33fde3",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-05"
   },
   {
     "ad_id": "cmp_0011_ag_3_ad_2",
     "ad_group_id": "cmp_0011_ag_3",
-    "headline": "Headline_227a91b2",
+    "headline": "Headline_7064acce",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-05"
   },
   {
     "ad_id": "cmp_0012_ag_1_ad_1",
     "ad_group_id": "cmp_0012_ag_1",
-    "headline": "Headline_7727f89d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_75114686",
+    "status": "PAUSED",
+    "date": "2024-12-16"
   },
   {
     "ad_id": "cmp_0012_ag_1_ad_2",
     "ad_group_id": "cmp_0012_ag_1",
-    "headline": "Headline_c007a544",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_12c3dc53",
+    "status": "PAUSED",
+    "date": "2024-12-16"
   },
   {
     "ad_id": "cmp_0012_ag_2_ad_1",
     "ad_group_id": "cmp_0012_ag_2",
-    "headline": "Headline_9b4cac5a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_935b06ba",
+    "status": "ENABLED",
+    "date": "2024-11-16"
   },
   {
     "ad_id": "cmp_0012_ag_2_ad_2",
     "ad_group_id": "cmp_0012_ag_2",
-    "headline": "Headline_b9695539",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_050b0ba6",
+    "status": "PAUSED",
+    "date": "2024-11-16"
   },
   {
     "ad_id": "cmp_0012_ag_3_ad_1",
     "ad_group_id": "cmp_0012_ag_3",
-    "headline": "Headline_60c4e23b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_20185f37",
+    "status": "ENABLED",
+    "date": "2025-04-08"
   },
   {
     "ad_id": "cmp_0012_ag_3_ad_2",
     "ad_group_id": "cmp_0012_ag_3",
-    "headline": "Headline_e97e3e6d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_dc97a93c",
+    "status": "DISAPPROVED",
+    "date": "2025-04-08"
   },
   {
     "ad_id": "cmp_0013_ag_1_ad_1",
     "ad_group_id": "cmp_0013_ag_1",
-    "headline": "Headline_ab1d9b67",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_aee975bf",
+    "status": "ENABLED",
+    "date": "2025-04-05"
   },
   {
     "ad_id": "cmp_0013_ag_1_ad_2",
     "ad_group_id": "cmp_0013_ag_1",
-    "headline": "Headline_41b1da4e",
+    "headline": "Headline_801b4ecb",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-05"
   },
   {
     "ad_id": "cmp_0013_ag_2_ad_1",
     "ad_group_id": "cmp_0013_ag_2",
-    "headline": "Headline_025d113d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_88796657",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0013_ag_2_ad_2",
     "ad_group_id": "cmp_0013_ag_2",
-    "headline": "Headline_d11ae6b2",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_fed36eb3",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0013_ag_3_ad_1",
     "ad_group_id": "cmp_0013_ag_3",
-    "headline": "Headline_b8ebb6b6",
+    "headline": "Headline_e37b83a5",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0013_ag_3_ad_2",
     "ad_group_id": "cmp_0013_ag_3",
-    "headline": "Headline_8a03ff76",
+    "headline": "Headline_8dd2d891",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0014_ag_1_ad_1",
     "ad_group_id": "cmp_0014_ag_1",
-    "headline": "Headline_0456c6a9",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ba1d551f",
+    "status": "DISAPPROVED",
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0014_ag_1_ad_2",
     "ad_group_id": "cmp_0014_ag_1",
-    "headline": "Headline_24f83710",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_8d0f09d6",
+    "status": "DISAPPROVED",
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0014_ag_2_ad_1",
     "ad_group_id": "cmp_0014_ag_2",
-    "headline": "Headline_3aa3cdf8",
+    "headline": "Headline_721ff354",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_id": "cmp_0014_ag_2_ad_2",
     "ad_group_id": "cmp_0014_ag_2",
-    "headline": "Headline_25668fab",
+    "headline": "Headline_8af6efbc",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-11"
   },
   {
     "ad_id": "cmp_0014_ag_3_ad_1",
     "ad_group_id": "cmp_0014_ag_3",
-    "headline": "Headline_a47f0ba3",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d91ffc64",
+    "status": "ENABLED",
+    "date": "2024-12-12"
   },
   {
     "ad_id": "cmp_0014_ag_3_ad_2",
     "ad_group_id": "cmp_0014_ag_3",
-    "headline": "Headline_7481f57d",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b00d4889",
+    "status": "PAUSED",
+    "date": "2024-12-12"
   },
   {
     "ad_id": "cmp_0015_ag_1_ad_1",
     "ad_group_id": "cmp_0015_ag_1",
-    "headline": "Headline_fa51aab8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_36890427",
+    "status": "DISAPPROVED",
+    "date": "2025-01-26"
   },
   {
     "ad_id": "cmp_0015_ag_1_ad_2",
     "ad_group_id": "cmp_0015_ag_1",
-    "headline": "Headline_bc6382de",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d0646211",
+    "status": "DISAPPROVED",
+    "date": "2025-01-26"
   },
   {
     "ad_id": "cmp_0015_ag_2_ad_1",
     "ad_group_id": "cmp_0015_ag_2",
-    "headline": "Headline_4399b39d",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_a1af069f",
+    "status": "ENABLED",
+    "date": "2025-03-17"
   },
   {
     "ad_id": "cmp_0015_ag_2_ad_2",
     "ad_group_id": "cmp_0015_ag_2",
-    "headline": "Headline_a39bc03a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_cceb73e7",
+    "status": "ENABLED",
+    "date": "2025-03-17"
   },
   {
     "ad_id": "cmp_0015_ag_3_ad_1",
     "ad_group_id": "cmp_0015_ag_3",
-    "headline": "Headline_2b1fbd98",
+    "headline": "Headline_fe11187a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-21"
   },
   {
     "ad_id": "cmp_0015_ag_3_ad_2",
     "ad_group_id": "cmp_0015_ag_3",
-    "headline": "Headline_0a89da54",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e716091c",
+    "status": "ENABLED",
+    "date": "2024-11-21"
   },
   {
     "ad_id": "cmp_0016_ag_1_ad_1",
     "ad_group_id": "cmp_0016_ag_1",
-    "headline": "Headline_4a891ab9",
+    "headline": "Headline_32eade95",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-28"
   },
   {
     "ad_id": "cmp_0016_ag_1_ad_2",
     "ad_group_id": "cmp_0016_ag_1",
-    "headline": "Headline_b2b18f11",
+    "headline": "Headline_a1932c13",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-28"
   },
   {
     "ad_id": "cmp_0016_ag_2_ad_1",
     "ad_group_id": "cmp_0016_ag_2",
-    "headline": "Headline_e6b12941",
+    "headline": "Headline_c2e9ea9b",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-16"
   },
   {
     "ad_id": "cmp_0016_ag_2_ad_2",
     "ad_group_id": "cmp_0016_ag_2",
-    "headline": "Headline_0030d9b6",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_60482b09",
+    "status": "ENABLED",
+    "date": "2024-11-16"
   },
   {
     "ad_id": "cmp_0016_ag_3_ad_1",
     "ad_group_id": "cmp_0016_ag_3",
-    "headline": "Headline_d7149c7e",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ab8debbb",
+    "status": "ENABLED",
+    "date": "2025-04-02"
   },
   {
     "ad_id": "cmp_0016_ag_3_ad_2",
     "ad_group_id": "cmp_0016_ag_3",
-    "headline": "Headline_cb459a17",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_45d3568c",
+    "status": "PAUSED",
+    "date": "2025-04-02"
   },
   {
     "ad_id": "cmp_0017_ag_1_ad_1",
     "ad_group_id": "cmp_0017_ag_1",
-    "headline": "Headline_70861208",
+    "headline": "Headline_08391add",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-02"
   },
   {
     "ad_id": "cmp_0017_ag_1_ad_2",
     "ad_group_id": "cmp_0017_ag_1",
-    "headline": "Headline_e6819d2b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_03c395ce",
+    "status": "ENABLED",
+    "date": "2025-04-02"
   },
   {
     "ad_id": "cmp_0017_ag_2_ad_1",
     "ad_group_id": "cmp_0017_ag_2",
-    "headline": "Headline_7a824073",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_5e6e8e31",
+    "status": "DISAPPROVED",
+    "date": "2025-01-28"
   },
   {
     "ad_id": "cmp_0017_ag_2_ad_2",
     "ad_group_id": "cmp_0017_ag_2",
-    "headline": "Headline_32da419e",
+    "headline": "Headline_740872ee",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-28"
   },
   {
     "ad_id": "cmp_0017_ag_3_ad_1",
     "ad_group_id": "cmp_0017_ag_3",
-    "headline": "Headline_994ddf39",
+    "headline": "Headline_fdf94e21",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-15"
   },
   {
     "ad_id": "cmp_0017_ag_3_ad_2",
     "ad_group_id": "cmp_0017_ag_3",
-    "headline": "Headline_e93a0778",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_e2dc93a3",
+    "status": "PAUSED",
+    "date": "2025-02-15"
   },
   {
     "ad_id": "cmp_0018_ag_1_ad_1",
     "ad_group_id": "cmp_0018_ag_1",
-    "headline": "Headline_0cb58264",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_00d561b6",
+    "status": "DISAPPROVED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0018_ag_1_ad_2",
     "ad_group_id": "cmp_0018_ag_1",
-    "headline": "Headline_1d3d3572",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ca80c17c",
+    "status": "PAUSED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0018_ag_2_ad_1",
     "ad_group_id": "cmp_0018_ag_2",
-    "headline": "Headline_0ca5c771",
+    "headline": "Headline_bb551933",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-10"
   },
   {
     "ad_id": "cmp_0018_ag_2_ad_2",
     "ad_group_id": "cmp_0018_ag_2",
-    "headline": "Headline_b97903f8",
+    "headline": "Headline_d8ecd1f6",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-10"
   },
   {
     "ad_id": "cmp_0018_ag_3_ad_1",
     "ad_group_id": "cmp_0018_ag_3",
-    "headline": "Headline_cf3aadd6",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_548abba6",
+    "status": "PAUSED",
+    "date": "2025-02-19"
   },
   {
     "ad_id": "cmp_0018_ag_3_ad_2",
     "ad_group_id": "cmp_0018_ag_3",
-    "headline": "Headline_b74f9fc8",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b26ffa88",
+    "status": "DISAPPROVED",
+    "date": "2025-02-19"
   },
   {
     "ad_id": "cmp_0019_ag_1_ad_1",
     "ad_group_id": "cmp_0019_ag_1",
-    "headline": "Headline_fa7f07d3",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_eb4c9120",
+    "status": "DISAPPROVED",
+    "date": "2024-12-07"
   },
   {
     "ad_id": "cmp_0019_ag_1_ad_2",
     "ad_group_id": "cmp_0019_ag_1",
-    "headline": "Headline_1a01604f",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d3c4afc7",
+    "status": "PAUSED",
+    "date": "2024-12-07"
   },
   {
     "ad_id": "cmp_0019_ag_2_ad_1",
     "ad_group_id": "cmp_0019_ag_2",
-    "headline": "Headline_91630c83",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ed4bf15b",
+    "status": "ENABLED",
+    "date": "2024-12-26"
   },
   {
     "ad_id": "cmp_0019_ag_2_ad_2",
     "ad_group_id": "cmp_0019_ag_2",
-    "headline": "Headline_0298ed80",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_bea75d82",
+    "status": "DISAPPROVED",
+    "date": "2024-12-26"
   },
   {
     "ad_id": "cmp_0019_ag_3_ad_1",
     "ad_group_id": "cmp_0019_ag_3",
-    "headline": "Headline_93ef9745",
+    "headline": "Headline_7167a8c9",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-22"
   },
   {
     "ad_id": "cmp_0019_ag_3_ad_2",
     "ad_group_id": "cmp_0019_ag_3",
-    "headline": "Headline_36ce364b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_86733f5a",
+    "status": "ENABLED",
+    "date": "2024-11-22"
   },
   {
     "ad_id": "cmp_0020_ag_1_ad_1",
     "ad_group_id": "cmp_0020_ag_1",
-    "headline": "Headline_c7b2128b",
+    "headline": "Headline_a6febc7a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-21"
   },
   {
     "ad_id": "cmp_0020_ag_1_ad_2",
     "ad_group_id": "cmp_0020_ag_1",
-    "headline": "Headline_85071a56",
+    "headline": "Headline_874bd35c",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-21"
   },
   {
     "ad_id": "cmp_0020_ag_2_ad_1",
     "ad_group_id": "cmp_0020_ag_2",
-    "headline": "Headline_95deb6f0",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_fcdad2f4",
+    "status": "ENABLED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0020_ag_2_ad_2",
     "ad_group_id": "cmp_0020_ag_2",
-    "headline": "Headline_a1d67c85",
+    "headline": "Headline_a5e0ac4c",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0020_ag_3_ad_1",
     "ad_group_id": "cmp_0020_ag_3",
-    "headline": "Headline_7c01a5df",
+    "headline": "Headline_c212ed0d",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0020_ag_3_ad_2",
     "ad_group_id": "cmp_0020_ag_3",
-    "headline": "Headline_17bcdea1",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_7f370af8",
+    "status": "PAUSED",
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0021_ag_1_ad_1",
     "ad_group_id": "cmp_0021_ag_1",
-    "headline": "Headline_1b2a017a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_c01f089f",
+    "status": "ENABLED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0021_ag_1_ad_2",
     "ad_group_id": "cmp_0021_ag_1",
-    "headline": "Headline_5041ea6b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_447dab5d",
+    "status": "DISAPPROVED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0021_ag_2_ad_1",
     "ad_group_id": "cmp_0021_ag_2",
-    "headline": "Headline_28128a64",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_424946e9",
+    "status": "ENABLED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0021_ag_2_ad_2",
     "ad_group_id": "cmp_0021_ag_2",
-    "headline": "Headline_a9806278",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2936aafc",
+    "status": "ENABLED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0021_ag_3_ad_1",
     "ad_group_id": "cmp_0021_ag_3",
-    "headline": "Headline_1042ee8a",
+    "headline": "Headline_93ff2c26",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-13"
   },
   {
     "ad_id": "cmp_0021_ag_3_ad_2",
     "ad_group_id": "cmp_0021_ag_3",
-    "headline": "Headline_fffd7fbd",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_f2ba6256",
+    "status": "PAUSED",
+    "date": "2025-02-13"
   },
   {
     "ad_id": "cmp_0022_ag_1_ad_1",
     "ad_group_id": "cmp_0022_ag_1",
-    "headline": "Headline_d2dc888a",
+    "headline": "Headline_0bc0e2ed",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0022_ag_1_ad_2",
     "ad_group_id": "cmp_0022_ag_1",
-    "headline": "Headline_8d61c184",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ae21d34a",
+    "status": "ENABLED",
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0022_ag_2_ad_1",
     "ad_group_id": "cmp_0022_ag_2",
-    "headline": "Headline_351a825d",
+    "headline": "Headline_019c7bdc",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-23"
   },
   {
     "ad_id": "cmp_0022_ag_2_ad_2",
     "ad_group_id": "cmp_0022_ag_2",
-    "headline": "Headline_9bbad41a",
+    "headline": "Headline_24b5dd39",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-23"
   },
   {
     "ad_id": "cmp_0022_ag_3_ad_1",
     "ad_group_id": "cmp_0022_ag_3",
-    "headline": "Headline_ad59fd82",
+    "headline": "Headline_539e1ee3",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-27"
   },
   {
     "ad_id": "cmp_0022_ag_3_ad_2",
     "ad_group_id": "cmp_0022_ag_3",
-    "headline": "Headline_770a590d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_09889930",
+    "status": "DISAPPROVED",
+    "date": "2024-10-27"
   },
   {
     "ad_id": "cmp_0023_ag_1_ad_1",
     "ad_group_id": "cmp_0023_ag_1",
-    "headline": "Headline_7ae0de80",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_df342fea",
+    "status": "ENABLED",
+    "date": "2024-12-24"
   },
   {
     "ad_id": "cmp_0023_ag_1_ad_2",
     "ad_group_id": "cmp_0023_ag_1",
-    "headline": "Headline_b22a9ac3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_1ca8f93e",
+    "status": "ENABLED",
+    "date": "2024-12-24"
   },
   {
     "ad_id": "cmp_0023_ag_2_ad_1",
     "ad_group_id": "cmp_0023_ag_2",
-    "headline": "Headline_e61fcbe2",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0d2dcdf5",
+    "status": "ENABLED",
+    "date": "2025-03-24"
   },
   {
     "ad_id": "cmp_0023_ag_2_ad_2",
     "ad_group_id": "cmp_0023_ag_2",
-    "headline": "Headline_df4f4279",
+    "headline": "Headline_e1e50d3d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-24"
   },
   {
     "ad_id": "cmp_0023_ag_3_ad_1",
     "ad_group_id": "cmp_0023_ag_3",
-    "headline": "Headline_2579c47b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_686b7b83",
+    "status": "PAUSED",
+    "date": "2024-11-25"
   },
   {
     "ad_id": "cmp_0023_ag_3_ad_2",
     "ad_group_id": "cmp_0023_ag_3",
-    "headline": "Headline_ed9d8783",
+    "headline": "Headline_b69ec908",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-25"
   },
   {
     "ad_id": "cmp_0024_ag_1_ad_1",
     "ad_group_id": "cmp_0024_ag_1",
-    "headline": "Headline_b3ef5ebd",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_9fc58699",
+    "status": "ENABLED",
+    "date": "2024-10-23"
   },
   {
     "ad_id": "cmp_0024_ag_1_ad_2",
     "ad_group_id": "cmp_0024_ag_1",
-    "headline": "Headline_aa117189",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0e1ddbc6",
+    "status": "PAUSED",
+    "date": "2024-10-23"
   },
   {
     "ad_id": "cmp_0024_ag_2_ad_1",
     "ad_group_id": "cmp_0024_ag_2",
-    "headline": "Headline_87de3cbc",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_0b03796a",
+    "status": "DISAPPROVED",
+    "date": "2025-04-06"
   },
   {
     "ad_id": "cmp_0024_ag_2_ad_2",
     "ad_group_id": "cmp_0024_ag_2",
-    "headline": "Headline_e498e5bc",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2cea0210",
+    "status": "ENABLED",
+    "date": "2025-04-06"
   },
   {
     "ad_id": "cmp_0024_ag_3_ad_1",
     "ad_group_id": "cmp_0024_ag_3",
-    "headline": "Headline_bd2839b3",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b438c904",
+    "status": "ENABLED",
+    "date": "2025-03-31"
   },
   {
     "ad_id": "cmp_0024_ag_3_ad_2",
     "ad_group_id": "cmp_0024_ag_3",
-    "headline": "Headline_ad961131",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_a9264f78",
+    "status": "ENABLED",
+    "date": "2025-03-31"
   },
   {
     "ad_id": "cmp_0025_ag_1_ad_1",
     "ad_group_id": "cmp_0025_ag_1",
-    "headline": "Headline_ce411395",
+    "headline": "Headline_6f50bc30",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0025_ag_1_ad_2",
     "ad_group_id": "cmp_0025_ag_1",
-    "headline": "Headline_6509b3ac",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_72142d22",
+    "status": "DISAPPROVED",
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0025_ag_2_ad_1",
     "ad_group_id": "cmp_0025_ag_2",
-    "headline": "Headline_c92faacb",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_65f99e51",
+    "status": "ENABLED",
+    "date": "2025-02-22"
   },
   {
     "ad_id": "cmp_0025_ag_2_ad_2",
     "ad_group_id": "cmp_0025_ag_2",
-    "headline": "Headline_a68946ff",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_1c7d39ce",
+    "status": "ENABLED",
+    "date": "2025-02-22"
   },
   {
     "ad_id": "cmp_0025_ag_3_ad_1",
     "ad_group_id": "cmp_0025_ag_3",
-    "headline": "Headline_19b8bec9",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_125fe202",
+    "status": "ENABLED",
+    "date": "2025-03-30"
   },
   {
     "ad_id": "cmp_0025_ag_3_ad_2",
     "ad_group_id": "cmp_0025_ag_3",
-    "headline": "Headline_17485029",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_f6e08ff8",
+    "status": "PAUSED",
+    "date": "2025-03-30"
   },
   {
     "ad_id": "cmp_0026_ag_1_ad_1",
     "ad_group_id": "cmp_0026_ag_1",
-    "headline": "Headline_7725a5be",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_ada106aa",
+    "status": "DISAPPROVED",
+    "date": "2025-03-15"
   },
   {
     "ad_id": "cmp_0026_ag_1_ad_2",
     "ad_group_id": "cmp_0026_ag_1",
-    "headline": "Headline_0c6118dd",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_71f213ed",
+    "status": "ENABLED",
+    "date": "2025-03-15"
   },
   {
     "ad_id": "cmp_0026_ag_2_ad_1",
     "ad_group_id": "cmp_0026_ag_2",
-    "headline": "Headline_a8044fa7",
+    "headline": "Headline_ff3898ae",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0026_ag_2_ad_2",
     "ad_group_id": "cmp_0026_ag_2",
-    "headline": "Headline_1fc0281b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_26570e8e",
+    "status": "DISAPPROVED",
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0026_ag_3_ad_1",
     "ad_group_id": "cmp_0026_ag_3",
-    "headline": "Headline_62590880",
+    "headline": "Headline_9fc948c7",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-18"
   },
   {
     "ad_id": "cmp_0026_ag_3_ad_2",
     "ad_group_id": "cmp_0026_ag_3",
-    "headline": "Headline_93273531",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_acccd434",
+    "status": "DISAPPROVED",
+    "date": "2024-12-18"
   },
   {
     "ad_id": "cmp_0027_ag_1_ad_1",
     "ad_group_id": "cmp_0027_ag_1",
-    "headline": "Headline_25281d8e",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_adceb8f4",
+    "status": "PAUSED",
+    "date": "2024-12-01"
   },
   {
     "ad_id": "cmp_0027_ag_1_ad_2",
     "ad_group_id": "cmp_0027_ag_1",
-    "headline": "Headline_2b9a4800",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_043ba886",
+    "status": "DISAPPROVED",
+    "date": "2024-12-01"
   },
   {
     "ad_id": "cmp_0027_ag_2_ad_1",
     "ad_group_id": "cmp_0027_ag_2",
-    "headline": "Headline_5bfc2f68",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_a3d7ae7c",
+    "status": "ENABLED",
+    "date": "2025-03-07"
   },
   {
     "ad_id": "cmp_0027_ag_2_ad_2",
     "ad_group_id": "cmp_0027_ag_2",
-    "headline": "Headline_5723dfe4",
+    "headline": "Headline_f50d4cb2",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-07"
   },
   {
     "ad_id": "cmp_0027_ag_3_ad_1",
     "ad_group_id": "cmp_0027_ag_3",
-    "headline": "Headline_ce3c3cb9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_eef99862",
+    "status": "PAUSED",
+    "date": "2024-11-06"
   },
   {
     "ad_id": "cmp_0027_ag_3_ad_2",
     "ad_group_id": "cmp_0027_ag_3",
-    "headline": "Headline_b06f68cd",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_cb68b57d",
+    "status": "PAUSED",
+    "date": "2024-11-06"
   },
   {
     "ad_id": "cmp_0028_ag_1_ad_1",
     "ad_group_id": "cmp_0028_ag_1",
-    "headline": "Headline_6aed3ec6",
+    "headline": "Headline_5550054a",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-09"
   },
   {
     "ad_id": "cmp_0028_ag_1_ad_2",
     "ad_group_id": "cmp_0028_ag_1",
-    "headline": "Headline_ef3b0365",
+    "headline": "Headline_dfa66ebb",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-09"
   },
   {
     "ad_id": "cmp_0028_ag_2_ad_1",
     "ad_group_id": "cmp_0028_ag_2",
-    "headline": "Headline_096a276b",
-    "status": "DISAPPROVED",
+    "headline": "Headline_4941f4b3",
+    "status": "ENABLED",
     "date": "2024-10-11"
   },
   {
     "ad_id": "cmp_0028_ag_2_ad_2",
     "ad_group_id": "cmp_0028_ag_2",
-    "headline": "Headline_c9340562",
-    "status": "ENABLED",
+    "headline": "Headline_1283c6a1",
+    "status": "PAUSED",
     "date": "2024-10-11"
   },
   {
     "ad_id": "cmp_0028_ag_3_ad_1",
     "ad_group_id": "cmp_0028_ag_3",
-    "headline": "Headline_61e95e69",
+    "headline": "Headline_471313f5",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-01"
   },
   {
     "ad_id": "cmp_0028_ag_3_ad_2",
     "ad_group_id": "cmp_0028_ag_3",
-    "headline": "Headline_691eec7b",
+    "headline": "Headline_dc7d021c",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-01"
   },
   {
     "ad_id": "cmp_0029_ag_1_ad_1",
     "ad_group_id": "cmp_0029_ag_1",
-    "headline": "Headline_0ad66e15",
+    "headline": "Headline_b0621cc4",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-04"
   },
   {
     "ad_id": "cmp_0029_ag_1_ad_2",
     "ad_group_id": "cmp_0029_ag_1",
-    "headline": "Headline_df3aad53",
+    "headline": "Headline_a861b4d9",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-04"
   },
   {
     "ad_id": "cmp_0029_ag_2_ad_1",
     "ad_group_id": "cmp_0029_ag_2",
-    "headline": "Headline_05fcc639",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_4f69f920",
+    "status": "ENABLED",
+    "date": "2025-03-26"
   },
   {
     "ad_id": "cmp_0029_ag_2_ad_2",
     "ad_group_id": "cmp_0029_ag_2",
-    "headline": "Headline_edafb68d",
+    "headline": "Headline_e0ce9c0b",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-26"
   },
   {
     "ad_id": "cmp_0029_ag_3_ad_1",
     "ad_group_id": "cmp_0029_ag_3",
-    "headline": "Headline_09ef39b5",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_e3d6cf6e",
+    "status": "ENABLED",
+    "date": "2024-12-23"
   },
   {
     "ad_id": "cmp_0029_ag_3_ad_2",
     "ad_group_id": "cmp_0029_ag_3",
-    "headline": "Headline_401dddb7",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3870269b",
+    "status": "PAUSED",
+    "date": "2024-12-23"
   },
   {
     "ad_id": "cmp_0030_ag_1_ad_1",
     "ad_group_id": "cmp_0030_ag_1",
-    "headline": "Headline_230b2a84",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_0d37c1ee",
+    "status": "DISAPPROVED",
+    "date": "2024-12-16"
   },
   {
     "ad_id": "cmp_0030_ag_1_ad_2",
     "ad_group_id": "cmp_0030_ag_1",
-    "headline": "Headline_83aeb15e",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_6ec8073e",
+    "status": "ENABLED",
+    "date": "2024-12-16"
   },
   {
     "ad_id": "cmp_0030_ag_2_ad_1",
     "ad_group_id": "cmp_0030_ag_2",
-    "headline": "Headline_6c762a23",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_27bd7817",
+    "status": "PAUSED",
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0030_ag_2_ad_2",
     "ad_group_id": "cmp_0030_ag_2",
-    "headline": "Headline_358215d7",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_83623feb",
+    "status": "DISAPPROVED",
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0030_ag_3_ad_1",
     "ad_group_id": "cmp_0030_ag_3",
-    "headline": "Headline_1e9fe23d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_de8dad86",
+    "status": "ENABLED",
+    "date": "2025-02-21"
   },
   {
     "ad_id": "cmp_0030_ag_3_ad_2",
     "ad_group_id": "cmp_0030_ag_3",
-    "headline": "Headline_13ca7552",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_6d5e4eed",
+    "status": "PAUSED",
+    "date": "2025-02-21"
   },
   {
     "ad_id": "cmp_0031_ag_1_ad_1",
     "ad_group_id": "cmp_0031_ag_1",
-    "headline": "Headline_676307f5",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_1c7a3bdf",
+    "status": "PAUSED",
+    "date": "2024-12-13"
   },
   {
     "ad_id": "cmp_0031_ag_1_ad_2",
     "ad_group_id": "cmp_0031_ag_1",
-    "headline": "Headline_64bb05cf",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_fd2cc916",
+    "status": "ENABLED",
+    "date": "2024-12-13"
   },
   {
     "ad_id": "cmp_0031_ag_2_ad_1",
     "ad_group_id": "cmp_0031_ag_2",
-    "headline": "Headline_0034cecb",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d56e28c4",
+    "status": "DISAPPROVED",
+    "date": "2025-01-17"
   },
   {
     "ad_id": "cmp_0031_ag_2_ad_2",
     "ad_group_id": "cmp_0031_ag_2",
-    "headline": "Headline_3edd5359",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_2d46e248",
+    "status": "PAUSED",
+    "date": "2025-01-17"
   },
   {
     "ad_id": "cmp_0031_ag_3_ad_1",
     "ad_group_id": "cmp_0031_ag_3",
-    "headline": "Headline_4606be66",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_31cb14df",
+    "status": "PAUSED",
+    "date": "2025-02-27"
   },
   {
     "ad_id": "cmp_0031_ag_3_ad_2",
     "ad_group_id": "cmp_0031_ag_3",
-    "headline": "Headline_11c95c96",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_362943a8",
+    "status": "DISAPPROVED",
+    "date": "2025-02-27"
   },
   {
     "ad_id": "cmp_0032_ag_1_ad_1",
     "ad_group_id": "cmp_0032_ag_1",
-    "headline": "Headline_9c849c72",
+    "headline": "Headline_cdc79154",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-24"
   },
   {
     "ad_id": "cmp_0032_ag_1_ad_2",
     "ad_group_id": "cmp_0032_ag_1",
-    "headline": "Headline_5946fc1a",
+    "headline": "Headline_e936d489",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-24"
   },
   {
     "ad_id": "cmp_0032_ag_2_ad_1",
     "ad_group_id": "cmp_0032_ag_2",
-    "headline": "Headline_19ac6206",
+    "headline": "Headline_3fa57f68",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-02"
   },
   {
     "ad_id": "cmp_0032_ag_2_ad_2",
     "ad_group_id": "cmp_0032_ag_2",
-    "headline": "Headline_16f785ec",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_ad358037",
+    "status": "PAUSED",
+    "date": "2025-02-02"
   },
   {
     "ad_id": "cmp_0032_ag_3_ad_1",
     "ad_group_id": "cmp_0032_ag_3",
-    "headline": "Headline_d8f6e0f4",
+    "headline": "Headline_12ea818d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-04"
   },
   {
     "ad_id": "cmp_0032_ag_3_ad_2",
     "ad_group_id": "cmp_0032_ag_3",
-    "headline": "Headline_c1c2a933",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_76eb81aa",
+    "status": "PAUSED",
+    "date": "2025-01-04"
   },
   {
     "ad_id": "cmp_0033_ag_1_ad_1",
     "ad_group_id": "cmp_0033_ag_1",
-    "headline": "Headline_94b12c84",
+    "headline": "Headline_fc160613",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-02"
   },
   {
     "ad_id": "cmp_0033_ag_1_ad_2",
     "ad_group_id": "cmp_0033_ag_1",
-    "headline": "Headline_e33be6c5",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_9bbdfbd2",
+    "status": "DISAPPROVED",
+    "date": "2025-03-02"
   },
   {
     "ad_id": "cmp_0033_ag_2_ad_1",
     "ad_group_id": "cmp_0033_ag_2",
-    "headline": "Headline_3979a8f3",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_9c1d340f",
+    "status": "PAUSED",
+    "date": "2024-10-28"
   },
   {
     "ad_id": "cmp_0033_ag_2_ad_2",
     "ad_group_id": "cmp_0033_ag_2",
-    "headline": "Headline_d6ffccc3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_8612e815",
+    "status": "ENABLED",
+    "date": "2024-10-28"
   },
   {
     "ad_id": "cmp_0033_ag_3_ad_1",
     "ad_group_id": "cmp_0033_ag_3",
-    "headline": "Headline_cd4c933f",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_55df97d6",
+    "status": "DISAPPROVED",
+    "date": "2025-02-03"
   },
   {
     "ad_id": "cmp_0033_ag_3_ad_2",
     "ad_group_id": "cmp_0033_ag_3",
-    "headline": "Headline_1c8b8e7a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b6b41f31",
+    "status": "ENABLED",
+    "date": "2025-02-03"
   },
   {
     "ad_id": "cmp_0034_ag_1_ad_1",
     "ad_group_id": "cmp_0034_ag_1",
-    "headline": "Headline_2f5d7467",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_f8eadd2d",
+    "status": "ENABLED",
+    "date": "2024-12-30"
   },
   {
     "ad_id": "cmp_0034_ag_1_ad_2",
     "ad_group_id": "cmp_0034_ag_1",
-    "headline": "Headline_f0357e48",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_fbd20edc",
+    "status": "PAUSED",
+    "date": "2024-12-30"
   },
   {
     "ad_id": "cmp_0034_ag_2_ad_1",
     "ad_group_id": "cmp_0034_ag_2",
-    "headline": "Headline_e96fbcdc",
+    "headline": "Headline_8276b5f6",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-06"
   },
   {
     "ad_id": "cmp_0034_ag_2_ad_2",
     "ad_group_id": "cmp_0034_ag_2",
-    "headline": "Headline_05f6ec38",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_f0d1daa2",
+    "status": "DISAPPROVED",
+    "date": "2025-02-06"
   },
   {
     "ad_id": "cmp_0034_ag_3_ad_1",
     "ad_group_id": "cmp_0034_ag_3",
-    "headline": "Headline_d92704ee",
+    "headline": "Headline_1645e39b",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-13"
   },
   {
     "ad_id": "cmp_0034_ag_3_ad_2",
     "ad_group_id": "cmp_0034_ag_3",
-    "headline": "Headline_e3d4da09",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_18e655c8",
+    "status": "ENABLED",
+    "date": "2024-12-13"
   },
   {
     "ad_id": "cmp_0035_ag_1_ad_1",
     "ad_group_id": "cmp_0035_ag_1",
-    "headline": "Headline_db0bc190",
+    "headline": "Headline_8aa4034c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-10"
   },
   {
     "ad_id": "cmp_0035_ag_1_ad_2",
     "ad_group_id": "cmp_0035_ag_1",
-    "headline": "Headline_09b5f322",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_47670616",
+    "status": "PAUSED",
+    "date": "2024-11-10"
   },
   {
     "ad_id": "cmp_0035_ag_2_ad_1",
     "ad_group_id": "cmp_0035_ag_2",
-    "headline": "Headline_aa15259b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_73d2d066",
+    "status": "PAUSED",
+    "date": "2025-04-04"
   },
   {
     "ad_id": "cmp_0035_ag_2_ad_2",
     "ad_group_id": "cmp_0035_ag_2",
-    "headline": "Headline_2368614c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_0fbe3870",
+    "status": "PAUSED",
+    "date": "2025-04-04"
   },
   {
     "ad_id": "cmp_0035_ag_3_ad_1",
     "ad_group_id": "cmp_0035_ag_3",
-    "headline": "Headline_322e23c7",
+    "headline": "Headline_be325d2c",
     "status": "DISAPPROVED",
     "date": "2024-10-11"
   },
   {
     "ad_id": "cmp_0035_ag_3_ad_2",
     "ad_group_id": "cmp_0035_ag_3",
-    "headline": "Headline_292af8f9",
-    "status": "DISAPPROVED",
+    "headline": "Headline_cc58a8d5",
+    "status": "PAUSED",
     "date": "2024-10-11"
   },
   {
     "ad_id": "cmp_0036_ag_1_ad_1",
     "ad_group_id": "cmp_0036_ag_1",
-    "headline": "Headline_098e04d9",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_c8638817",
+    "status": "DISAPPROVED",
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0036_ag_1_ad_2",
     "ad_group_id": "cmp_0036_ag_1",
-    "headline": "Headline_c36cc847",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_a95b9a9e",
+    "status": "PAUSED",
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0036_ag_2_ad_1",
     "ad_group_id": "cmp_0036_ag_2",
-    "headline": "Headline_a9e13f5c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_d6db32bc",
+    "status": "DISAPPROVED",
+    "date": "2024-11-03"
   },
   {
     "ad_id": "cmp_0036_ag_2_ad_2",
     "ad_group_id": "cmp_0036_ag_2",
-    "headline": "Headline_4006e963",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_71d4ccfa",
+    "status": "ENABLED",
+    "date": "2024-11-03"
   },
   {
     "ad_id": "cmp_0036_ag_3_ad_1",
     "ad_group_id": "cmp_0036_ag_3",
-    "headline": "Headline_c3bc895a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_77c046fa",
+    "status": "DISAPPROVED",
+    "date": "2024-12-12"
   },
   {
     "ad_id": "cmp_0036_ag_3_ad_2",
     "ad_group_id": "cmp_0036_ag_3",
-    "headline": "Headline_736f66e1",
+    "headline": "Headline_5123fb17",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-12"
   },
   {
     "ad_id": "cmp_0037_ag_1_ad_1",
     "ad_group_id": "cmp_0037_ag_1",
-    "headline": "Headline_99d1895b",
+    "headline": "Headline_9daf657d",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0037_ag_1_ad_2",
     "ad_group_id": "cmp_0037_ag_1",
-    "headline": "Headline_fb020d86",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_7a3fd71b",
+    "status": "ENABLED",
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0037_ag_2_ad_1",
     "ad_group_id": "cmp_0037_ag_2",
-    "headline": "Headline_14ca4eab",
+    "headline": "Headline_5fad597a",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-12"
   },
   {
     "ad_id": "cmp_0037_ag_2_ad_2",
     "ad_group_id": "cmp_0037_ag_2",
-    "headline": "Headline_b0befc6a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2c42f9f2",
+    "status": "ENABLED",
+    "date": "2024-10-12"
   },
   {
     "ad_id": "cmp_0037_ag_3_ad_1",
     "ad_group_id": "cmp_0037_ag_3",
-    "headline": "Headline_96c518fc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_538fbbc1",
+    "status": "DISAPPROVED",
+    "date": "2025-01-04"
   },
   {
     "ad_id": "cmp_0037_ag_3_ad_2",
     "ad_group_id": "cmp_0037_ag_3",
-    "headline": "Headline_564599ab",
+    "headline": "Headline_4457aff6",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-04"
   },
   {
     "ad_id": "cmp_0038_ag_1_ad_1",
     "ad_group_id": "cmp_0038_ag_1",
-    "headline": "Headline_f133f6d7",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b2230ed2",
+    "status": "DISAPPROVED",
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0038_ag_1_ad_2",
     "ad_group_id": "cmp_0038_ag_1",
-    "headline": "Headline_36d362bb",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_c0d841ea",
+    "status": "PAUSED",
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0038_ag_2_ad_1",
     "ad_group_id": "cmp_0038_ag_2",
-    "headline": "Headline_629a1bf4",
+    "headline": "Headline_0b73ac93",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-11"
   },
   {
     "ad_id": "cmp_0038_ag_2_ad_2",
     "ad_group_id": "cmp_0038_ag_2",
-    "headline": "Headline_57552d6d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_7f251817",
+    "status": "PAUSED",
+    "date": "2024-12-11"
   },
   {
     "ad_id": "cmp_0038_ag_3_ad_1",
     "ad_group_id": "cmp_0038_ag_3",
-    "headline": "Headline_de4707a1",
+    "headline": "Headline_abc43732",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-14"
   },
   {
     "ad_id": "cmp_0038_ag_3_ad_2",
     "ad_group_id": "cmp_0038_ag_3",
-    "headline": "Headline_329d3257",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_659357c8",
+    "status": "DISAPPROVED",
+    "date": "2024-11-14"
   },
   {
     "ad_id": "cmp_0039_ag_1_ad_1",
     "ad_group_id": "cmp_0039_ag_1",
-    "headline": "Headline_19ca3e6d",
+    "headline": "Headline_828918f5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0039_ag_1_ad_2",
     "ad_group_id": "cmp_0039_ag_1",
-    "headline": "Headline_1cd5c99b",
+    "headline": "Headline_fba5659c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0039_ag_2_ad_1",
     "ad_group_id": "cmp_0039_ag_2",
-    "headline": "Headline_b7569683",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b0727a39",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0039_ag_2_ad_2",
     "ad_group_id": "cmp_0039_ag_2",
-    "headline": "Headline_597f33be",
+    "headline": "Headline_adac6446",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0039_ag_3_ad_1",
     "ad_group_id": "cmp_0039_ag_3",
-    "headline": "Headline_b1a04953",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_8413f91a",
+    "status": "ENABLED",
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0039_ag_3_ad_2",
     "ad_group_id": "cmp_0039_ag_3",
-    "headline": "Headline_5864f42e",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_d10f2f80",
+    "status": "ENABLED",
+    "date": "2025-01-03"
   },
   {
     "ad_id": "cmp_0040_ag_1_ad_1",
     "ad_group_id": "cmp_0040_ag_1",
-    "headline": "Headline_9ac1ff43",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_fbf160f0",
+    "status": "DISAPPROVED",
+    "date": "2024-12-05"
   },
   {
     "ad_id": "cmp_0040_ag_1_ad_2",
     "ad_group_id": "cmp_0040_ag_1",
-    "headline": "Headline_75551cc2",
+    "headline": "Headline_72abc798",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-05"
   },
   {
     "ad_id": "cmp_0040_ag_2_ad_1",
     "ad_group_id": "cmp_0040_ag_2",
-    "headline": "Headline_251e9ad3",
+    "headline": "Headline_809d2cf4",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0040_ag_2_ad_2",
     "ad_group_id": "cmp_0040_ag_2",
-    "headline": "Headline_5e4717ef",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_07e6e1ed",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0040_ag_3_ad_1",
     "ad_group_id": "cmp_0040_ag_3",
-    "headline": "Headline_ca732dc0",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_8a53d989",
+    "status": "ENABLED",
+    "date": "2025-03-31"
   },
   {
     "ad_id": "cmp_0040_ag_3_ad_2",
     "ad_group_id": "cmp_0040_ag_3",
-    "headline": "Headline_c2283c44",
+    "headline": "Headline_ec9979ff",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-31"
   },
   {
     "ad_id": "cmp_0041_ag_1_ad_1",
     "ad_group_id": "cmp_0041_ag_1",
-    "headline": "Headline_789c7584",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e6f2067b",
+    "status": "DISAPPROVED",
+    "date": "2025-03-19"
   },
   {
     "ad_id": "cmp_0041_ag_1_ad_2",
     "ad_group_id": "cmp_0041_ag_1",
-    "headline": "Headline_9bbc56bf",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b843fe8a",
+    "status": "ENABLED",
+    "date": "2025-03-19"
   },
   {
     "ad_id": "cmp_0041_ag_2_ad_1",
     "ad_group_id": "cmp_0041_ag_2",
-    "headline": "Headline_c73d316b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_2cc3c5fa",
+    "status": "ENABLED",
+    "date": "2025-03-02"
   },
   {
     "ad_id": "cmp_0041_ag_2_ad_2",
     "ad_group_id": "cmp_0041_ag_2",
-    "headline": "Headline_24e7b1a6",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_439ae193",
+    "status": "PAUSED",
+    "date": "2025-03-02"
   },
   {
     "ad_id": "cmp_0041_ag_3_ad_1",
     "ad_group_id": "cmp_0041_ag_3",
-    "headline": "Headline_a8845b0b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_f3168b2a",
+    "status": "ENABLED",
+    "date": "2024-11-19"
   },
   {
     "ad_id": "cmp_0041_ag_3_ad_2",
     "ad_group_id": "cmp_0041_ag_3",
-    "headline": "Headline_61f1ca88",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_5bf645fd",
+    "status": "DISAPPROVED",
+    "date": "2024-11-19"
   },
   {
     "ad_id": "cmp_0042_ag_1_ad_1",
     "ad_group_id": "cmp_0042_ag_1",
-    "headline": "Headline_aaebdf74",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2c010a58",
+    "status": "ENABLED",
+    "date": "2024-10-26"
   },
   {
     "ad_id": "cmp_0042_ag_1_ad_2",
     "ad_group_id": "cmp_0042_ag_1",
-    "headline": "Headline_e5c89b09",
+    "headline": "Headline_da0f8281",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-26"
   },
   {
     "ad_id": "cmp_0042_ag_2_ad_1",
     "ad_group_id": "cmp_0042_ag_2",
-    "headline": "Headline_2e8ba98a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_8017cd82",
+    "status": "DISAPPROVED",
+    "date": "2024-12-01"
   },
   {
     "ad_id": "cmp_0042_ag_2_ad_2",
     "ad_group_id": "cmp_0042_ag_2",
-    "headline": "Headline_2956faf8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ac46b17b",
+    "status": "ENABLED",
+    "date": "2024-12-01"
   },
   {
     "ad_id": "cmp_0042_ag_3_ad_1",
     "ad_group_id": "cmp_0042_ag_3",
-    "headline": "Headline_564564db",
+    "headline": "Headline_cb3fd47a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-04"
   },
   {
     "ad_id": "cmp_0042_ag_3_ad_2",
     "ad_group_id": "cmp_0042_ag_3",
-    "headline": "Headline_7eefe84b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_bcc62be0",
+    "status": "DISAPPROVED",
+    "date": "2024-11-04"
   },
   {
     "ad_id": "cmp_0043_ag_1_ad_1",
     "ad_group_id": "cmp_0043_ag_1",
-    "headline": "Headline_b37e8ca2",
+    "headline": "Headline_ca743092",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-21"
   },
   {
     "ad_id": "cmp_0043_ag_1_ad_2",
     "ad_group_id": "cmp_0043_ag_1",
-    "headline": "Headline_85c26a82",
+    "headline": "Headline_6c92bc52",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-21"
   },
   {
     "ad_id": "cmp_0043_ag_2_ad_1",
     "ad_group_id": "cmp_0043_ag_2",
-    "headline": "Headline_a05686f1",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_d928058d",
+    "status": "DISAPPROVED",
+    "date": "2024-11-29"
   },
   {
     "ad_id": "cmp_0043_ag_2_ad_2",
     "ad_group_id": "cmp_0043_ag_2",
-    "headline": "Headline_a512efc2",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d6cb782f",
+    "status": "DISAPPROVED",
+    "date": "2024-11-29"
   },
   {
     "ad_id": "cmp_0043_ag_3_ad_1",
     "ad_group_id": "cmp_0043_ag_3",
-    "headline": "Headline_c5b86a42",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3494427a",
+    "status": "ENABLED",
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0043_ag_3_ad_2",
     "ad_group_id": "cmp_0043_ag_3",
-    "headline": "Headline_d0d83068",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_94e71d6e",
+    "status": "DISAPPROVED",
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0044_ag_1_ad_1",
     "ad_group_id": "cmp_0044_ag_1",
-    "headline": "Headline_77b95686",
+    "headline": "Headline_182f592e",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0044_ag_1_ad_2",
     "ad_group_id": "cmp_0044_ag_1",
-    "headline": "Headline_74e6cae5",
+    "headline": "Headline_a06a5972",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0044_ag_2_ad_1",
     "ad_group_id": "cmp_0044_ag_2",
-    "headline": "Headline_84ce262e",
+    "headline": "Headline_2972cc36",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-16"
   },
   {
     "ad_id": "cmp_0044_ag_2_ad_2",
     "ad_group_id": "cmp_0044_ag_2",
-    "headline": "Headline_03470cda",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b5ed315c",
+    "status": "PAUSED",
+    "date": "2025-02-16"
   },
   {
     "ad_id": "cmp_0044_ag_3_ad_1",
     "ad_group_id": "cmp_0044_ag_3",
-    "headline": "Headline_744d0ef8",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_5da4b395",
+    "status": "PAUSED",
+    "date": "2024-11-19"
   },
   {
     "ad_id": "cmp_0044_ag_3_ad_2",
     "ad_group_id": "cmp_0044_ag_3",
-    "headline": "Headline_d0dc689b",
+    "headline": "Headline_15c3d793",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-19"
   },
   {
     "ad_id": "cmp_0045_ag_1_ad_1",
     "ad_group_id": "cmp_0045_ag_1",
-    "headline": "Headline_720785fa",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0d9978f3",
+    "status": "PAUSED",
+    "date": "2025-03-11"
   },
   {
     "ad_id": "cmp_0045_ag_1_ad_2",
     "ad_group_id": "cmp_0045_ag_1",
-    "headline": "Headline_c9a9a6ec",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_1871a712",
+    "status": "PAUSED",
+    "date": "2025-03-11"
   },
   {
     "ad_id": "cmp_0045_ag_2_ad_1",
     "ad_group_id": "cmp_0045_ag_2",
-    "headline": "Headline_9bc3312d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_a524a879",
+    "status": "PAUSED",
+    "date": "2024-12-28"
   },
   {
     "ad_id": "cmp_0045_ag_2_ad_2",
     "ad_group_id": "cmp_0045_ag_2",
-    "headline": "Headline_af2364fe",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d8bacec9",
+    "status": "PAUSED",
+    "date": "2024-12-28"
   },
   {
     "ad_id": "cmp_0045_ag_3_ad_1",
     "ad_group_id": "cmp_0045_ag_3",
-    "headline": "Headline_69243d6a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_85ca0e15",
+    "status": "ENABLED",
+    "date": "2025-02-09"
   },
   {
     "ad_id": "cmp_0045_ag_3_ad_2",
     "ad_group_id": "cmp_0045_ag_3",
-    "headline": "Headline_35add8a2",
+    "headline": "Headline_486afa8f",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-09"
   },
   {
     "ad_id": "cmp_0046_ag_1_ad_1",
     "ad_group_id": "cmp_0046_ag_1",
-    "headline": "Headline_cd902504",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_f6b766f9",
+    "status": "DISAPPROVED",
+    "date": "2025-03-18"
   },
   {
     "ad_id": "cmp_0046_ag_1_ad_2",
     "ad_group_id": "cmp_0046_ag_1",
-    "headline": "Headline_de915e10",
+    "headline": "Headline_64330358",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-18"
   },
   {
     "ad_id": "cmp_0046_ag_2_ad_1",
     "ad_group_id": "cmp_0046_ag_2",
-    "headline": "Headline_67cb8cf8",
+    "headline": "Headline_4c0844dc",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "ad_id": "cmp_0046_ag_2_ad_2",
     "ad_group_id": "cmp_0046_ag_2",
-    "headline": "Headline_e0f8fc26",
+    "headline": "Headline_895188a1",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "ad_id": "cmp_0046_ag_3_ad_1",
     "ad_group_id": "cmp_0046_ag_3",
-    "headline": "Headline_67addbc7",
+    "headline": "Headline_e45c8d5b",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-02"
   },
   {
     "ad_id": "cmp_0046_ag_3_ad_2",
     "ad_group_id": "cmp_0046_ag_3",
-    "headline": "Headline_0b5c56ce",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_147f433c",
+    "status": "DISAPPROVED",
+    "date": "2025-03-02"
   },
   {
     "ad_id": "cmp_0047_ag_1_ad_1",
     "ad_group_id": "cmp_0047_ag_1",
-    "headline": "Headline_eef38d7f",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_5b22af5d",
+    "status": "DISAPPROVED",
+    "date": "2024-11-10"
   },
   {
     "ad_id": "cmp_0047_ag_1_ad_2",
     "ad_group_id": "cmp_0047_ag_1",
-    "headline": "Headline_198c89fb",
+    "headline": "Headline_0407b75a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-10"
   },
   {
     "ad_id": "cmp_0047_ag_2_ad_1",
     "ad_group_id": "cmp_0047_ag_2",
-    "headline": "Headline_51cdc4a1",
+    "headline": "Headline_cf6f17ff",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-04"
   },
   {
     "ad_id": "cmp_0047_ag_2_ad_2",
     "ad_group_id": "cmp_0047_ag_2",
-    "headline": "Headline_2f7622c5",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d646627c",
+    "status": "ENABLED",
+    "date": "2024-11-04"
   },
   {
     "ad_id": "cmp_0047_ag_3_ad_1",
     "ad_group_id": "cmp_0047_ag_3",
-    "headline": "Headline_aed4a3e7",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0365dec7",
+    "status": "PAUSED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0047_ag_3_ad_2",
     "ad_group_id": "cmp_0047_ag_3",
-    "headline": "Headline_f5f5c52a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_25cd1706",
+    "status": "ENABLED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0048_ag_1_ad_1",
     "ad_group_id": "cmp_0048_ag_1",
-    "headline": "Headline_1b5cdb6b",
+    "headline": "Headline_9529f0bd",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "ad_id": "cmp_0048_ag_1_ad_2",
     "ad_group_id": "cmp_0048_ag_1",
-    "headline": "Headline_4561e185",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e18a949b",
+    "status": "DISAPPROVED",
+    "date": "2024-11-09"
   },
   {
     "ad_id": "cmp_0048_ag_2_ad_1",
     "ad_group_id": "cmp_0048_ag_2",
-    "headline": "Headline_d50ece07",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_0f43f88d",
+    "status": "DISAPPROVED",
+    "date": "2024-11-27"
   },
   {
     "ad_id": "cmp_0048_ag_2_ad_2",
     "ad_group_id": "cmp_0048_ag_2",
-    "headline": "Headline_9d314050",
+    "headline": "Headline_873252c6",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-27"
   },
   {
     "ad_id": "cmp_0048_ag_3_ad_1",
     "ad_group_id": "cmp_0048_ag_3",
-    "headline": "Headline_996cd73a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_1e76bd52",
+    "status": "PAUSED",
+    "date": "2025-01-28"
   },
   {
     "ad_id": "cmp_0048_ag_3_ad_2",
     "ad_group_id": "cmp_0048_ag_3",
-    "headline": "Headline_802b58c9",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_ba8122d9",
+    "status": "DISAPPROVED",
+    "date": "2025-01-28"
   },
   {
     "ad_id": "cmp_0049_ag_1_ad_1",
     "ad_group_id": "cmp_0049_ag_1",
-    "headline": "Headline_b3d88ae2",
+    "headline": "Headline_407888a0",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-16"
   },
   {
     "ad_id": "cmp_0049_ag_1_ad_2",
     "ad_group_id": "cmp_0049_ag_1",
-    "headline": "Headline_eabd47b2",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_3eda966c",
+    "status": "DISAPPROVED",
+    "date": "2024-11-16"
   },
   {
     "ad_id": "cmp_0049_ag_2_ad_1",
     "ad_group_id": "cmp_0049_ag_2",
-    "headline": "Headline_5d7d4473",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ee142fcf",
+    "status": "PAUSED",
+    "date": "2024-10-12"
   },
   {
     "ad_id": "cmp_0049_ag_2_ad_2",
     "ad_group_id": "cmp_0049_ag_2",
-    "headline": "Headline_48cb9cc6",
+    "headline": "Headline_4f3e06ed",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-12"
   },
   {
     "ad_id": "cmp_0049_ag_3_ad_1",
     "ad_group_id": "cmp_0049_ag_3",
-    "headline": "Headline_1c778f15",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_bb04d971",
+    "status": "ENABLED",
+    "date": "2025-01-24"
   },
   {
     "ad_id": "cmp_0049_ag_3_ad_2",
     "ad_group_id": "cmp_0049_ag_3",
-    "headline": "Headline_59d3ed6e",
+    "headline": "Headline_9184418d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-24"
   },
   {
     "ad_id": "cmp_0050_ag_1_ad_1",
     "ad_group_id": "cmp_0050_ag_1",
-    "headline": "Headline_77f1574c",
+    "headline": "Headline_6fd607dc",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-10"
   },
   {
     "ad_id": "cmp_0050_ag_1_ad_2",
     "ad_group_id": "cmp_0050_ag_1",
-    "headline": "Headline_2d3130e9",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0eaccec4",
+    "status": "PAUSED",
+    "date": "2025-01-10"
   },
   {
     "ad_id": "cmp_0050_ag_2_ad_1",
     "ad_group_id": "cmp_0050_ag_2",
-    "headline": "Headline_13285560",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_0d490e24",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0050_ag_2_ad_2",
     "ad_group_id": "cmp_0050_ag_2",
-    "headline": "Headline_23129fec",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_031e1726",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0050_ag_3_ad_1",
     "ad_group_id": "cmp_0050_ag_3",
-    "headline": "Headline_bee716e5",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_f29ff6b1",
+    "status": "PAUSED",
+    "date": "2025-01-29"
   },
   {
     "ad_id": "cmp_0050_ag_3_ad_2",
     "ad_group_id": "cmp_0050_ag_3",
-    "headline": "Headline_c2e14b18",
+    "headline": "Headline_b9a5f2fb",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-29"
   },
   {
     "ad_id": "cmp_0051_ag_1_ad_1",
     "ad_group_id": "cmp_0051_ag_1",
-    "headline": "Headline_8d3ed20b",
+    "headline": "Headline_d12e87d0",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-19"
   },
   {
     "ad_id": "cmp_0051_ag_1_ad_2",
     "ad_group_id": "cmp_0051_ag_1",
-    "headline": "Headline_9d1e2c91",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_74e464be",
+    "status": "ENABLED",
+    "date": "2024-11-19"
   },
   {
     "ad_id": "cmp_0051_ag_2_ad_1",
     "ad_group_id": "cmp_0051_ag_2",
-    "headline": "Headline_4f77089f",
+    "headline": "Headline_a425af19",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-23"
   },
   {
     "ad_id": "cmp_0051_ag_2_ad_2",
     "ad_group_id": "cmp_0051_ag_2",
-    "headline": "Headline_b436c9a4",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_1650f44d",
+    "status": "ENABLED",
+    "date": "2024-10-23"
   },
   {
     "ad_id": "cmp_0051_ag_3_ad_1",
     "ad_group_id": "cmp_0051_ag_3",
-    "headline": "Headline_00d1920a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_70d13f23",
+    "status": "ENABLED",
+    "date": "2025-02-23"
   },
   {
     "ad_id": "cmp_0051_ag_3_ad_2",
     "ad_group_id": "cmp_0051_ag_3",
-    "headline": "Headline_046d92f8",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_95315fc6",
+    "status": "DISAPPROVED",
+    "date": "2025-02-23"
   },
   {
     "ad_id": "cmp_0052_ag_1_ad_1",
     "ad_group_id": "cmp_0052_ag_1",
-    "headline": "Headline_9275ee0c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_54526c0b",
+    "status": "DISAPPROVED",
+    "date": "2025-02-22"
   },
   {
     "ad_id": "cmp_0052_ag_1_ad_2",
     "ad_group_id": "cmp_0052_ag_1",
-    "headline": "Headline_9a8855dc",
+    "headline": "Headline_95453be2",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-22"
   },
   {
     "ad_id": "cmp_0052_ag_2_ad_1",
     "ad_group_id": "cmp_0052_ag_2",
-    "headline": "Headline_cb02a683",
+    "headline": "Headline_e08867f5",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0052_ag_2_ad_2",
     "ad_group_id": "cmp_0052_ag_2",
-    "headline": "Headline_fd1c7bc6",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_a291c625",
+    "status": "DISAPPROVED",
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0052_ag_3_ad_1",
     "ad_group_id": "cmp_0052_ag_3",
-    "headline": "Headline_03342d53",
+    "headline": "Headline_5607f276",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-14"
   },
   {
     "ad_id": "cmp_0052_ag_3_ad_2",
     "ad_group_id": "cmp_0052_ag_3",
-    "headline": "Headline_5fb9c07c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_5df975dd",
+    "status": "PAUSED",
+    "date": "2025-02-14"
   },
   {
     "ad_id": "cmp_0053_ag_1_ad_1",
     "ad_group_id": "cmp_0053_ag_1",
-    "headline": "Headline_7cb3e862",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_6eb81911",
+    "status": "ENABLED",
+    "date": "2025-02-10"
   },
   {
     "ad_id": "cmp_0053_ag_1_ad_2",
     "ad_group_id": "cmp_0053_ag_1",
-    "headline": "Headline_5f085638",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_7aa8a25e",
+    "status": "DISAPPROVED",
+    "date": "2025-02-10"
   },
   {
     "ad_id": "cmp_0053_ag_2_ad_1",
     "ad_group_id": "cmp_0053_ag_2",
-    "headline": "Headline_6791e293",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e49e00c8",
+    "status": "ENABLED",
+    "date": "2024-12-01"
   },
   {
     "ad_id": "cmp_0053_ag_2_ad_2",
     "ad_group_id": "cmp_0053_ag_2",
-    "headline": "Headline_4b0007fb",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_cb63afd3",
+    "status": "PAUSED",
+    "date": "2024-12-01"
   },
   {
     "ad_id": "cmp_0053_ag_3_ad_1",
     "ad_group_id": "cmp_0053_ag_3",
-    "headline": "Headline_87cacd8c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_f53ed9a3",
+    "status": "DISAPPROVED",
+    "date": "2025-02-18"
   },
   {
     "ad_id": "cmp_0053_ag_3_ad_2",
     "ad_group_id": "cmp_0053_ag_3",
-    "headline": "Headline_62ecf012",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0a06adde",
+    "status": "ENABLED",
+    "date": "2025-02-18"
   },
   {
     "ad_id": "cmp_0054_ag_1_ad_1",
     "ad_group_id": "cmp_0054_ag_1",
-    "headline": "Headline_d50b7c65",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_2ddc1858",
+    "status": "PAUSED",
+    "date": "2025-01-29"
   },
   {
     "ad_id": "cmp_0054_ag_1_ad_2",
     "ad_group_id": "cmp_0054_ag_1",
-    "headline": "Headline_ea68fb8b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_9e1eedd3",
+    "status": "DISAPPROVED",
+    "date": "2025-01-29"
   },
   {
     "ad_id": "cmp_0054_ag_2_ad_1",
     "ad_group_id": "cmp_0054_ag_2",
-    "headline": "Headline_9bffc262",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_a5f9767e",
+    "status": "DISAPPROVED",
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0054_ag_2_ad_2",
     "ad_group_id": "cmp_0054_ag_2",
-    "headline": "Headline_049b8a2d",
+    "headline": "Headline_0876b64d",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0054_ag_3_ad_1",
     "ad_group_id": "cmp_0054_ag_3",
-    "headline": "Headline_bc978ab0",
+    "headline": "Headline_69ee3e23",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-17"
   },
   {
     "ad_id": "cmp_0054_ag_3_ad_2",
     "ad_group_id": "cmp_0054_ag_3",
-    "headline": "Headline_93c1bb1f",
+    "headline": "Headline_887e7be3",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-17"
   },
   {
     "ad_id": "cmp_0055_ag_1_ad_1",
     "ad_group_id": "cmp_0055_ag_1",
-    "headline": "Headline_fc3a3037",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_2f2de29e",
+    "status": "DISAPPROVED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0055_ag_1_ad_2",
     "ad_group_id": "cmp_0055_ag_1",
-    "headline": "Headline_ac69e1a0",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3bf3073b",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0055_ag_2_ad_1",
     "ad_group_id": "cmp_0055_ag_2",
-    "headline": "Headline_d9b5a33e",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b1a1d630",
+    "status": "ENABLED",
+    "date": "2025-01-06"
   },
   {
     "ad_id": "cmp_0055_ag_2_ad_2",
     "ad_group_id": "cmp_0055_ag_2",
-    "headline": "Headline_f476a050",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_373fc0f7",
+    "status": "ENABLED",
+    "date": "2025-01-06"
   },
   {
     "ad_id": "cmp_0055_ag_3_ad_1",
     "ad_group_id": "cmp_0055_ag_3",
-    "headline": "Headline_f1d45b1c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_33c91697",
+    "status": "ENABLED",
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0055_ag_3_ad_2",
     "ad_group_id": "cmp_0055_ag_3",
-    "headline": "Headline_7f031f2b",
+    "headline": "Headline_f4db26da",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0056_ag_1_ad_1",
     "ad_group_id": "cmp_0056_ag_1",
-    "headline": "Headline_b41a9b13",
+    "headline": "Headline_55be0071",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0056_ag_1_ad_2",
     "ad_group_id": "cmp_0056_ag_1",
-    "headline": "Headline_21aba212",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_e9449389",
+    "status": "DISAPPROVED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0056_ag_2_ad_1",
     "ad_group_id": "cmp_0056_ag_2",
-    "headline": "Headline_4f609fbc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_331b7476",
+    "status": "PAUSED",
+    "date": "2025-02-01"
   },
   {
     "ad_id": "cmp_0056_ag_2_ad_2",
     "ad_group_id": "cmp_0056_ag_2",
-    "headline": "Headline_028ac032",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_85445d64",
+    "status": "PAUSED",
+    "date": "2025-02-01"
   },
   {
     "ad_id": "cmp_0056_ag_3_ad_1",
     "ad_group_id": "cmp_0056_ag_3",
-    "headline": "Headline_d7cfbe2f",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_9a4a0f0c",
+    "status": "ENABLED",
+    "date": "2025-01-11"
   },
   {
     "ad_id": "cmp_0056_ag_3_ad_2",
     "ad_group_id": "cmp_0056_ag_3",
-    "headline": "Headline_32a66a53",
+    "headline": "Headline_b5406c2e",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-11"
   },
   {
     "ad_id": "cmp_0057_ag_1_ad_1",
     "ad_group_id": "cmp_0057_ag_1",
-    "headline": "Headline_a4f376de",
+    "headline": "Headline_6e45f974",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-24"
   },
   {
     "ad_id": "cmp_0057_ag_1_ad_2",
     "ad_group_id": "cmp_0057_ag_1",
-    "headline": "Headline_03cb2f2b",
+    "headline": "Headline_90338677",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-24"
   },
   {
     "ad_id": "cmp_0057_ag_2_ad_1",
     "ad_group_id": "cmp_0057_ag_2",
-    "headline": "Headline_83436451",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_8a051f85",
+    "status": "ENABLED",
+    "date": "2024-10-18"
   },
   {
     "ad_id": "cmp_0057_ag_2_ad_2",
     "ad_group_id": "cmp_0057_ag_2",
-    "headline": "Headline_c152abf2",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_c77faf62",
+    "status": "PAUSED",
+    "date": "2024-10-18"
   },
   {
     "ad_id": "cmp_0057_ag_3_ad_1",
     "ad_group_id": "cmp_0057_ag_3",
-    "headline": "Headline_70c0ec35",
+    "headline": "Headline_f2b837cc",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-06"
   },
   {
     "ad_id": "cmp_0057_ag_3_ad_2",
     "ad_group_id": "cmp_0057_ag_3",
-    "headline": "Headline_d25f9426",
+    "headline": "Headline_045a5d4a",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-06"
   },
   {
     "ad_id": "cmp_0058_ag_1_ad_1",
     "ad_group_id": "cmp_0058_ag_1",
-    "headline": "Headline_c66b2bb2",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_daaaeaf1",
+    "status": "PAUSED",
+    "date": "2025-02-14"
   },
   {
     "ad_id": "cmp_0058_ag_1_ad_2",
     "ad_group_id": "cmp_0058_ag_1",
-    "headline": "Headline_f9be7b3b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_149b7f37",
+    "status": "PAUSED",
+    "date": "2025-02-14"
   },
   {
     "ad_id": "cmp_0058_ag_2_ad_1",
     "ad_group_id": "cmp_0058_ag_2",
-    "headline": "Headline_c7885ddb",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_cd455c56",
+    "status": "PAUSED",
+    "date": "2024-11-28"
   },
   {
     "ad_id": "cmp_0058_ag_2_ad_2",
     "ad_group_id": "cmp_0058_ag_2",
-    "headline": "Headline_162cf1e8",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_49d68060",
+    "status": "ENABLED",
+    "date": "2024-11-28"
   },
   {
     "ad_id": "cmp_0058_ag_3_ad_1",
     "ad_group_id": "cmp_0058_ag_3",
-    "headline": "Headline_75d4f6b9",
+    "headline": "Headline_68fe0e33",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-17"
   },
   {
     "ad_id": "cmp_0058_ag_3_ad_2",
     "ad_group_id": "cmp_0058_ag_3",
-    "headline": "Headline_5ed230d1",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_63f27462",
+    "status": "PAUSED",
+    "date": "2025-01-17"
   },
   {
     "ad_id": "cmp_0059_ag_1_ad_1",
     "ad_group_id": "cmp_0059_ag_1",
-    "headline": "Headline_c76efed7",
+    "headline": "Headline_e98eac51",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0059_ag_1_ad_2",
     "ad_group_id": "cmp_0059_ag_1",
-    "headline": "Headline_b102c48e",
+    "headline": "Headline_9156269d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0059_ag_2_ad_1",
     "ad_group_id": "cmp_0059_ag_2",
-    "headline": "Headline_42b6a1e8",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_83389002",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0059_ag_2_ad_2",
     "ad_group_id": "cmp_0059_ag_2",
-    "headline": "Headline_a0ccf807",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ac01f7d1",
+    "status": "DISAPPROVED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0059_ag_3_ad_1",
     "ad_group_id": "cmp_0059_ag_3",
-    "headline": "Headline_b636769c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ee24a8c8",
+    "status": "PAUSED",
+    "date": "2024-12-27"
   },
   {
     "ad_id": "cmp_0059_ag_3_ad_2",
     "ad_group_id": "cmp_0059_ag_3",
-    "headline": "Headline_e2a9faf3",
+    "headline": "Headline_70a3227d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-27"
   },
   {
     "ad_id": "cmp_0060_ag_1_ad_1",
     "ad_group_id": "cmp_0060_ag_1",
-    "headline": "Headline_1ec35d8e",
+    "headline": "Headline_f1ddf730",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-05"
   },
   {
     "ad_id": "cmp_0060_ag_1_ad_2",
     "ad_group_id": "cmp_0060_ag_1",
-    "headline": "Headline_cf16b8f3",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_e6c93e53",
+    "status": "PAUSED",
+    "date": "2024-11-05"
   },
   {
     "ad_id": "cmp_0060_ag_2_ad_1",
     "ad_group_id": "cmp_0060_ag_2",
-    "headline": "Headline_84d74bd8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e1abc081",
+    "status": "ENABLED",
+    "date": "2024-12-15"
   },
   {
     "ad_id": "cmp_0060_ag_2_ad_2",
     "ad_group_id": "cmp_0060_ag_2",
-    "headline": "Headline_4d625185",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_af2bb872",
+    "status": "DISAPPROVED",
+    "date": "2024-12-15"
   },
   {
     "ad_id": "cmp_0060_ag_3_ad_1",
     "ad_group_id": "cmp_0060_ag_3",
-    "headline": "Headline_fe3d0e32",
+    "headline": "Headline_9dc123af",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0060_ag_3_ad_2",
     "ad_group_id": "cmp_0060_ag_3",
-    "headline": "Headline_3a0af300",
+    "headline": "Headline_bd424649",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0061_ag_1_ad_1",
     "ad_group_id": "cmp_0061_ag_1",
-    "headline": "Headline_ea0ad123",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ac6c3639",
+    "status": "DISAPPROVED",
+    "date": "2024-12-26"
   },
   {
     "ad_id": "cmp_0061_ag_1_ad_2",
     "ad_group_id": "cmp_0061_ag_1",
-    "headline": "Headline_50e09c5d",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2aea3ea8",
+    "status": "PAUSED",
+    "date": "2024-12-26"
   },
   {
     "ad_id": "cmp_0061_ag_2_ad_1",
     "ad_group_id": "cmp_0061_ag_2",
-    "headline": "Headline_0d14c2da",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0d60cebf",
+    "status": "ENABLED",
+    "date": "2024-10-28"
   },
   {
     "ad_id": "cmp_0061_ag_2_ad_2",
     "ad_group_id": "cmp_0061_ag_2",
-    "headline": "Headline_d05c9d32",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_9dae66d2",
+    "status": "PAUSED",
+    "date": "2024-10-28"
   },
   {
     "ad_id": "cmp_0061_ag_3_ad_1",
     "ad_group_id": "cmp_0061_ag_3",
-    "headline": "Headline_58c443e2",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_4c7d9933",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0061_ag_3_ad_2",
     "ad_group_id": "cmp_0061_ag_3",
-    "headline": "Headline_a0bd99f5",
+    "headline": "Headline_ec6e4854",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0062_ag_1_ad_1",
     "ad_group_id": "cmp_0062_ag_1",
-    "headline": "Headline_bf133c1d",
+    "headline": "Headline_f5c2a6fd",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-19"
   },
   {
     "ad_id": "cmp_0062_ag_1_ad_2",
     "ad_group_id": "cmp_0062_ag_1",
-    "headline": "Headline_87a18e5c",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_aeae409f",
+    "status": "PAUSED",
+    "date": "2024-12-19"
   },
   {
     "ad_id": "cmp_0062_ag_2_ad_1",
     "ad_group_id": "cmp_0062_ag_2",
-    "headline": "Headline_1be2b835",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_6e7a2719",
+    "status": "DISAPPROVED",
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0062_ag_2_ad_2",
     "ad_group_id": "cmp_0062_ag_2",
-    "headline": "Headline_295e4e7d",
+    "headline": "Headline_a8745560",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0062_ag_3_ad_1",
     "ad_group_id": "cmp_0062_ag_3",
-    "headline": "Headline_f981ccf0",
+    "headline": "Headline_51eb9735",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-11"
   },
   {
     "ad_id": "cmp_0062_ag_3_ad_2",
     "ad_group_id": "cmp_0062_ag_3",
-    "headline": "Headline_554c17ce",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_1d8468b5",
+    "status": "PAUSED",
+    "date": "2025-01-11"
   },
   {
     "ad_id": "cmp_0063_ag_1_ad_1",
     "ad_group_id": "cmp_0063_ag_1",
-    "headline": "Headline_8fd72f08",
+    "headline": "Headline_560ae5a4",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-14"
   },
   {
     "ad_id": "cmp_0063_ag_1_ad_2",
     "ad_group_id": "cmp_0063_ag_1",
-    "headline": "Headline_e7b91ba1",
+    "headline": "Headline_64ee2512",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-14"
   },
   {
     "ad_id": "cmp_0063_ag_2_ad_1",
     "ad_group_id": "cmp_0063_ag_2",
-    "headline": "Headline_8e6be7ad",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_8bc643b2",
+    "status": "PAUSED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0063_ag_2_ad_2",
     "ad_group_id": "cmp_0063_ag_2",
-    "headline": "Headline_844ebb91",
+    "headline": "Headline_4a538f1c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0063_ag_3_ad_1",
     "ad_group_id": "cmp_0063_ag_3",
-    "headline": "Headline_86a2b3a4",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_82f37e93",
+    "status": "ENABLED",
+    "date": "2025-03-26"
   },
   {
     "ad_id": "cmp_0063_ag_3_ad_2",
     "ad_group_id": "cmp_0063_ag_3",
-    "headline": "Headline_b0b4b82a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_5b600b6c",
+    "status": "ENABLED",
+    "date": "2025-03-26"
   },
   {
     "ad_id": "cmp_0064_ag_1_ad_1",
     "ad_group_id": "cmp_0064_ag_1",
-    "headline": "Headline_c3ac6743",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_f857efd1",
+    "status": "PAUSED",
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0064_ag_1_ad_2",
     "ad_group_id": "cmp_0064_ag_1",
-    "headline": "Headline_3fd1f6b6",
+    "headline": "Headline_0d39e9bc",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0064_ag_2_ad_1",
     "ad_group_id": "cmp_0064_ag_2",
-    "headline": "Headline_07b4da7a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_768ce35a",
+    "status": "ENABLED",
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0064_ag_2_ad_2",
     "ad_group_id": "cmp_0064_ag_2",
-    "headline": "Headline_2271b8a4",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_a2b960a0",
+    "status": "ENABLED",
+    "date": "2024-10-25"
   },
   {
     "ad_id": "cmp_0064_ag_3_ad_1",
     "ad_group_id": "cmp_0064_ag_3",
-    "headline": "Headline_20e72baf",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_29f500a7",
+    "status": "ENABLED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0064_ag_3_ad_2",
     "ad_group_id": "cmp_0064_ag_3",
-    "headline": "Headline_a7fd3e8e",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_db314d06",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0065_ag_1_ad_1",
     "ad_group_id": "cmp_0065_ag_1",
-    "headline": "Headline_4e2e6bf5",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_eb6b2195",
+    "status": "DISAPPROVED",
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0065_ag_1_ad_2",
     "ad_group_id": "cmp_0065_ag_1",
-    "headline": "Headline_6a7c3b15",
+    "headline": "Headline_b6a1c78c",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0065_ag_2_ad_1",
     "ad_group_id": "cmp_0065_ag_2",
-    "headline": "Headline_0999a442",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_cf40f493",
+    "status": "DISAPPROVED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0065_ag_2_ad_2",
     "ad_group_id": "cmp_0065_ag_2",
-    "headline": "Headline_f9b60ced",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_b329a3cb",
+    "status": "ENABLED",
+    "date": "2024-11-30"
   },
   {
     "ad_id": "cmp_0065_ag_3_ad_1",
     "ad_group_id": "cmp_0065_ag_3",
-    "headline": "Headline_10bee16e",
+    "headline": "Headline_34f86583",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-14"
   },
   {
     "ad_id": "cmp_0065_ag_3_ad_2",
     "ad_group_id": "cmp_0065_ag_3",
-    "headline": "Headline_ea86c774",
+    "headline": "Headline_f269e3d8",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-14"
   },
   {
     "ad_id": "cmp_0066_ag_1_ad_1",
     "ad_group_id": "cmp_0066_ag_1",
-    "headline": "Headline_6087137a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_75ddd2e6",
+    "status": "PAUSED",
+    "date": "2024-12-11"
   },
   {
     "ad_id": "cmp_0066_ag_1_ad_2",
     "ad_group_id": "cmp_0066_ag_1",
-    "headline": "Headline_683e49c7",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_31e11af5",
+    "status": "ENABLED",
+    "date": "2024-12-11"
   },
   {
     "ad_id": "cmp_0066_ag_2_ad_1",
     "ad_group_id": "cmp_0066_ag_2",
-    "headline": "Headline_4b969b47",
+    "headline": "Headline_816bb459",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-18"
   },
   {
     "ad_id": "cmp_0066_ag_2_ad_2",
     "ad_group_id": "cmp_0066_ag_2",
-    "headline": "Headline_7a7edf2c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_5e5d0547",
+    "status": "PAUSED",
+    "date": "2025-02-18"
   },
   {
     "ad_id": "cmp_0066_ag_3_ad_1",
     "ad_group_id": "cmp_0066_ag_3",
-    "headline": "Headline_3cca97fc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_2d1357da",
+    "status": "DISAPPROVED",
+    "date": "2025-04-05"
   },
   {
     "ad_id": "cmp_0066_ag_3_ad_2",
     "ad_group_id": "cmp_0066_ag_3",
-    "headline": "Headline_23044883",
+    "headline": "Headline_3b7f38f0",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-05"
   },
   {
     "ad_id": "cmp_0067_ag_1_ad_1",
     "ad_group_id": "cmp_0067_ag_1",
-    "headline": "Headline_2324c569",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_c274ad4c",
+    "status": "DISAPPROVED",
+    "date": "2024-11-04"
   },
   {
     "ad_id": "cmp_0067_ag_1_ad_2",
     "ad_group_id": "cmp_0067_ag_1",
-    "headline": "Headline_45974f13",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_32ff4a7a",
+    "status": "DISAPPROVED",
+    "date": "2024-11-04"
   },
   {
     "ad_id": "cmp_0067_ag_2_ad_1",
     "ad_group_id": "cmp_0067_ag_2",
-    "headline": "Headline_82bf8ea6",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_deab8e33",
+    "status": "ENABLED",
+    "date": "2024-10-15"
   },
   {
     "ad_id": "cmp_0067_ag_2_ad_2",
     "ad_group_id": "cmp_0067_ag_2",
-    "headline": "Headline_452bdef0",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_0dae4558",
+    "status": "PAUSED",
+    "date": "2024-10-15"
   },
   {
     "ad_id": "cmp_0067_ag_3_ad_1",
     "ad_group_id": "cmp_0067_ag_3",
-    "headline": "Headline_2f9f67b2",
+    "headline": "Headline_654a90d6",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-10"
   },
   {
     "ad_id": "cmp_0067_ag_3_ad_2",
     "ad_group_id": "cmp_0067_ag_3",
-    "headline": "Headline_4b2eb160",
+    "headline": "Headline_36ca65cb",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-10"
   },
   {
     "ad_id": "cmp_0068_ag_1_ad_1",
     "ad_group_id": "cmp_0068_ag_1",
-    "headline": "Headline_ba687eb0",
+    "headline": "Headline_1d727b2a",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-19"
   },
   {
     "ad_id": "cmp_0068_ag_1_ad_2",
     "ad_group_id": "cmp_0068_ag_1",
-    "headline": "Headline_723901b2",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d7e3d169",
+    "status": "ENABLED",
+    "date": "2025-03-19"
   },
   {
     "ad_id": "cmp_0068_ag_2_ad_1",
     "ad_group_id": "cmp_0068_ag_2",
-    "headline": "Headline_3d4ddf92",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_96fa8436",
+    "status": "ENABLED",
+    "date": "2024-11-14"
   },
   {
     "ad_id": "cmp_0068_ag_2_ad_2",
     "ad_group_id": "cmp_0068_ag_2",
-    "headline": "Headline_62365967",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3e978b81",
+    "status": "ENABLED",
+    "date": "2024-11-14"
   },
   {
     "ad_id": "cmp_0068_ag_3_ad_1",
     "ad_group_id": "cmp_0068_ag_3",
-    "headline": "Headline_b1810573",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_39795602",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0068_ag_3_ad_2",
     "ad_group_id": "cmp_0068_ag_3",
-    "headline": "Headline_cb00e849",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ec6ac75f",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0069_ag_1_ad_1",
     "ad_group_id": "cmp_0069_ag_1",
-    "headline": "Headline_a8f9a618",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_4e5f060c",
+    "status": "DISAPPROVED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0069_ag_1_ad_2",
     "ad_group_id": "cmp_0069_ag_1",
-    "headline": "Headline_a8e19631",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_4f4814f4",
+    "status": "ENABLED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0069_ag_2_ad_1",
     "ad_group_id": "cmp_0069_ag_2",
-    "headline": "Headline_98c4a4b8",
+    "headline": "Headline_88ea68ac",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-27"
   },
   {
     "ad_id": "cmp_0069_ag_2_ad_2",
     "ad_group_id": "cmp_0069_ag_2",
-    "headline": "Headline_4ea03efb",
+    "headline": "Headline_7cb90f70",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-27"
   },
   {
     "ad_id": "cmp_0069_ag_3_ad_1",
     "ad_group_id": "cmp_0069_ag_3",
-    "headline": "Headline_b0e08a77",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_0a658216",
+    "status": "PAUSED",
+    "date": "2024-11-29"
   },
   {
     "ad_id": "cmp_0069_ag_3_ad_2",
     "ad_group_id": "cmp_0069_ag_3",
-    "headline": "Headline_3095fd53",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_818b1e35",
+    "status": "DISAPPROVED",
+    "date": "2024-11-29"
   },
   {
     "ad_id": "cmp_0070_ag_1_ad_1",
     "ad_group_id": "cmp_0070_ag_1",
-    "headline": "Headline_d57f0003",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_5d0b33e6",
+    "status": "ENABLED",
+    "date": "2024-10-30"
   },
   {
     "ad_id": "cmp_0070_ag_1_ad_2",
     "ad_group_id": "cmp_0070_ag_1",
-    "headline": "Headline_9f4b5685",
+    "headline": "Headline_2f2c08ea",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-30"
   },
   {
     "ad_id": "cmp_0070_ag_2_ad_1",
     "ad_group_id": "cmp_0070_ag_2",
-    "headline": "Headline_31ec758c",
+    "headline": "Headline_486268c0",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0070_ag_2_ad_2",
     "ad_group_id": "cmp_0070_ag_2",
-    "headline": "Headline_d665d575",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e9087889",
+    "status": "ENABLED",
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0070_ag_3_ad_1",
     "ad_group_id": "cmp_0070_ag_3",
-    "headline": "Headline_8efe2969",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_02a253f2",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0070_ag_3_ad_2",
     "ad_group_id": "cmp_0070_ag_3",
-    "headline": "Headline_7290cd0c",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_7e58ff0d",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0071_ag_1_ad_1",
     "ad_group_id": "cmp_0071_ag_1",
-    "headline": "Headline_05f2fb71",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_7dcb8724",
+    "status": "PAUSED",
+    "date": "2024-11-01"
   },
   {
     "ad_id": "cmp_0071_ag_1_ad_2",
     "ad_group_id": "cmp_0071_ag_1",
-    "headline": "Headline_15c8efa7",
+    "headline": "Headline_a44e87a7",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-01"
   },
   {
     "ad_id": "cmp_0071_ag_2_ad_1",
     "ad_group_id": "cmp_0071_ag_2",
-    "headline": "Headline_94ca7aa4",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3ac5b501",
+    "status": "PAUSED",
+    "date": "2024-12-28"
   },
   {
     "ad_id": "cmp_0071_ag_2_ad_2",
     "ad_group_id": "cmp_0071_ag_2",
-    "headline": "Headline_3eeb6f5d",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_4db71514",
+    "status": "ENABLED",
+    "date": "2024-12-28"
   },
   {
     "ad_id": "cmp_0071_ag_3_ad_1",
     "ad_group_id": "cmp_0071_ag_3",
-    "headline": "Headline_e7cfb9f2",
+    "headline": "Headline_feb76937",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-14"
   },
   {
     "ad_id": "cmp_0071_ag_3_ad_2",
     "ad_group_id": "cmp_0071_ag_3",
-    "headline": "Headline_af6a95cb",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2d9d5965",
+    "status": "ENABLED",
+    "date": "2024-12-14"
   },
   {
     "ad_id": "cmp_0072_ag_1_ad_1",
     "ad_group_id": "cmp_0072_ag_1",
-    "headline": "Headline_f134b0f0",
+    "headline": "Headline_4b1bca2f",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-09"
   },
   {
     "ad_id": "cmp_0072_ag_1_ad_2",
     "ad_group_id": "cmp_0072_ag_1",
-    "headline": "Headline_cff142e3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_b7d155ed",
+    "status": "DISAPPROVED",
+    "date": "2025-03-09"
   },
   {
     "ad_id": "cmp_0072_ag_2_ad_1",
     "ad_group_id": "cmp_0072_ag_2",
-    "headline": "Headline_86acdf7a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ab0c4741",
+    "status": "DISAPPROVED",
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0072_ag_2_ad_2",
     "ad_group_id": "cmp_0072_ag_2",
-    "headline": "Headline_e7594d66",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e32eaa26",
+    "status": "DISAPPROVED",
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0072_ag_3_ad_1",
     "ad_group_id": "cmp_0072_ag_3",
-    "headline": "Headline_f7a4f75d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d2815daf",
+    "status": "DISAPPROVED",
+    "date": "2025-02-12"
   },
   {
     "ad_id": "cmp_0072_ag_3_ad_2",
     "ad_group_id": "cmp_0072_ag_3",
-    "headline": "Headline_8bb0e73c",
+    "headline": "Headline_8986a534",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-12"
   },
   {
     "ad_id": "cmp_0073_ag_1_ad_1",
     "ad_group_id": "cmp_0073_ag_1",
-    "headline": "Headline_fc950c3a",
+    "headline": "Headline_1d62b5d7",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-17"
   },
   {
     "ad_id": "cmp_0073_ag_1_ad_2",
     "ad_group_id": "cmp_0073_ag_1",
-    "headline": "Headline_7d6115aa",
+    "headline": "Headline_8c1a78ad",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-17"
   },
   {
     "ad_id": "cmp_0073_ag_2_ad_1",
     "ad_group_id": "cmp_0073_ag_2",
-    "headline": "Headline_a133edee",
+    "headline": "Headline_fe32da7d",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-06"
   },
   {
     "ad_id": "cmp_0073_ag_2_ad_2",
     "ad_group_id": "cmp_0073_ag_2",
-    "headline": "Headline_5e88e30a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_b7241382",
+    "status": "ENABLED",
+    "date": "2025-04-06"
   },
   {
     "ad_id": "cmp_0073_ag_3_ad_1",
     "ad_group_id": "cmp_0073_ag_3",
-    "headline": "Headline_9d8e4321",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_9fe44c92",
+    "status": "ENABLED",
+    "date": "2024-11-03"
   },
   {
     "ad_id": "cmp_0073_ag_3_ad_2",
     "ad_group_id": "cmp_0073_ag_3",
-    "headline": "Headline_eb3bc49b",
+    "headline": "Headline_b048d08d",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-03"
   },
   {
     "ad_id": "cmp_0074_ag_1_ad_1",
     "ad_group_id": "cmp_0074_ag_1",
-    "headline": "Headline_92787427",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_45de9eea",
+    "status": "ENABLED",
+    "date": "2025-01-27"
   },
   {
     "ad_id": "cmp_0074_ag_1_ad_2",
     "ad_group_id": "cmp_0074_ag_1",
-    "headline": "Headline_6b2b849f",
+    "headline": "Headline_160e9192",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-27"
   },
   {
     "ad_id": "cmp_0074_ag_2_ad_1",
     "ad_group_id": "cmp_0074_ag_2",
-    "headline": "Headline_57a0c8e0",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b01173f4",
+    "status": "ENABLED",
+    "date": "2025-02-05"
   },
   {
     "ad_id": "cmp_0074_ag_2_ad_2",
     "ad_group_id": "cmp_0074_ag_2",
-    "headline": "Headline_a809c23d",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_d023eba0",
+    "status": "DISAPPROVED",
+    "date": "2025-02-05"
   },
   {
     "ad_id": "cmp_0074_ag_3_ad_1",
     "ad_group_id": "cmp_0074_ag_3",
-    "headline": "Headline_66e24669",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_4dd5c267",
+    "status": "PAUSED",
+    "date": "2024-12-31"
   },
   {
     "ad_id": "cmp_0074_ag_3_ad_2",
     "ad_group_id": "cmp_0074_ag_3",
-    "headline": "Headline_c9e6b8f6",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_1f23b5ba",
+    "status": "PAUSED",
+    "date": "2024-12-31"
   },
   {
     "ad_id": "cmp_0075_ag_1_ad_1",
     "ad_group_id": "cmp_0075_ag_1",
-    "headline": "Headline_80ad9b9c",
+    "headline": "Headline_2779a74f",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-12-17"
   },
   {
     "ad_id": "cmp_0075_ag_1_ad_2",
     "ad_group_id": "cmp_0075_ag_1",
-    "headline": "Headline_783c8558",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_7f99b594",
+    "status": "PAUSED",
+    "date": "2024-12-17"
   },
   {
     "ad_id": "cmp_0075_ag_2_ad_1",
     "ad_group_id": "cmp_0075_ag_2",
-    "headline": "Headline_cded43c6",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_8d01dc95",
+    "status": "ENABLED",
+    "date": "2024-12-24"
   },
   {
     "ad_id": "cmp_0075_ag_2_ad_2",
     "ad_group_id": "cmp_0075_ag_2",
-    "headline": "Headline_9cac38b3",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_dda652f1",
+    "status": "DISAPPROVED",
+    "date": "2024-12-24"
   },
   {
     "ad_id": "cmp_0075_ag_3_ad_1",
     "ad_group_id": "cmp_0075_ag_3",
-    "headline": "Headline_8ee48e8c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_ff8dc395",
+    "status": "ENABLED",
+    "date": "2024-12-27"
   },
   {
     "ad_id": "cmp_0075_ag_3_ad_2",
     "ad_group_id": "cmp_0075_ag_3",
-    "headline": "Headline_cd8160a4",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_8beaf7af",
+    "status": "DISAPPROVED",
+    "date": "2024-12-27"
   },
   {
     "ad_id": "cmp_0076_ag_1_ad_1",
     "ad_group_id": "cmp_0076_ag_1",
-    "headline": "Headline_2c6980bc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d16b9db9",
+    "status": "PAUSED",
+    "date": "2025-02-15"
   },
   {
     "ad_id": "cmp_0076_ag_1_ad_2",
     "ad_group_id": "cmp_0076_ag_1",
-    "headline": "Headline_31049866",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_9fb74b96",
+    "status": "DISAPPROVED",
+    "date": "2025-02-15"
   },
   {
     "ad_id": "cmp_0076_ag_2_ad_1",
     "ad_group_id": "cmp_0076_ag_2",
-    "headline": "Headline_da7f06ba",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_26f77a4b",
+    "status": "ENABLED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0076_ag_2_ad_2",
     "ad_group_id": "cmp_0076_ag_2",
-    "headline": "Headline_374b9d37",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_62e1ec00",
+    "status": "ENABLED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0076_ag_3_ad_1",
     "ad_group_id": "cmp_0076_ag_3",
-    "headline": "Headline_e99a183b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_013900c3",
+    "status": "ENABLED",
+    "date": "2025-01-24"
   },
   {
     "ad_id": "cmp_0076_ag_3_ad_2",
     "ad_group_id": "cmp_0076_ag_3",
-    "headline": "Headline_a0ee6e3c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2d583721",
+    "status": "PAUSED",
+    "date": "2025-01-24"
   },
   {
     "ad_id": "cmp_0077_ag_1_ad_1",
     "ad_group_id": "cmp_0077_ag_1",
-    "headline": "Headline_fc04ad99",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_fc8d50b9",
+    "status": "PAUSED",
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0077_ag_1_ad_2",
     "ad_group_id": "cmp_0077_ag_1",
-    "headline": "Headline_aa6914b9",
+    "headline": "Headline_407e0e0c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-27"
   },
   {
     "ad_id": "cmp_0077_ag_2_ad_1",
     "ad_group_id": "cmp_0077_ag_2",
-    "headline": "Headline_e222d0f1",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_bf285c6b",
+    "status": "PAUSED",
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0077_ag_2_ad_2",
     "ad_group_id": "cmp_0077_ag_2",
-    "headline": "Headline_a41b43a7",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_21f3ffc9",
+    "status": "DISAPPROVED",
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0077_ag_3_ad_1",
     "ad_group_id": "cmp_0077_ag_3",
-    "headline": "Headline_c889df90",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_486ae460",
+    "status": "ENABLED",
+    "date": "2024-11-20"
   },
   {
     "ad_id": "cmp_0077_ag_3_ad_2",
     "ad_group_id": "cmp_0077_ag_3",
-    "headline": "Headline_b9a34c6a",
+    "headline": "Headline_268a6c13",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-20"
   },
   {
     "ad_id": "cmp_0078_ag_1_ad_1",
     "ad_group_id": "cmp_0078_ag_1",
-    "headline": "Headline_5d531026",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_59d14f98",
+    "status": "DISAPPROVED",
+    "date": "2025-01-02"
   },
   {
     "ad_id": "cmp_0078_ag_1_ad_2",
     "ad_group_id": "cmp_0078_ag_1",
-    "headline": "Headline_cabf4951",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2dc37c13",
+    "status": "PAUSED",
+    "date": "2025-01-02"
   },
   {
     "ad_id": "cmp_0078_ag_2_ad_1",
     "ad_group_id": "cmp_0078_ag_2",
-    "headline": "Headline_335f74b8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_20510640",
+    "status": "DISAPPROVED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0078_ag_2_ad_2",
     "ad_group_id": "cmp_0078_ag_2",
-    "headline": "Headline_f8a37304",
+    "headline": "Headline_7640f69e",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0078_ag_3_ad_1",
     "ad_group_id": "cmp_0078_ag_3",
-    "headline": "Headline_2e6ddcd6",
+    "headline": "Headline_7b527635",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-28"
   },
   {
     "ad_id": "cmp_0078_ag_3_ad_2",
     "ad_group_id": "cmp_0078_ag_3",
-    "headline": "Headline_b84f0df4",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_e589523e",
+    "status": "DISAPPROVED",
+    "date": "2025-02-28"
   },
   {
     "ad_id": "cmp_0079_ag_1_ad_1",
     "ad_group_id": "cmp_0079_ag_1",
-    "headline": "Headline_654c6f7a",
+    "headline": "Headline_3c193961",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-19"
   },
   {
     "ad_id": "cmp_0079_ag_1_ad_2",
     "ad_group_id": "cmp_0079_ag_1",
-    "headline": "Headline_dd1c7d2d",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_06b7fa42",
+    "status": "ENABLED",
+    "date": "2025-03-19"
   },
   {
     "ad_id": "cmp_0079_ag_2_ad_1",
     "ad_group_id": "cmp_0079_ag_2",
-    "headline": "Headline_e20d1e13",
+    "headline": "Headline_3767a46a",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-30"
   },
   {
     "ad_id": "cmp_0079_ag_2_ad_2",
     "ad_group_id": "cmp_0079_ag_2",
-    "headline": "Headline_4f9cd448",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_6dd48b5f",
+    "status": "PAUSED",
+    "date": "2025-01-30"
   },
   {
     "ad_id": "cmp_0079_ag_3_ad_1",
     "ad_group_id": "cmp_0079_ag_3",
-    "headline": "Headline_3c674d75",
+    "headline": "Headline_39a68cc9",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-20"
   },
   {
     "ad_id": "cmp_0079_ag_3_ad_2",
     "ad_group_id": "cmp_0079_ag_3",
-    "headline": "Headline_e282aac0",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_e30c3f1e",
+    "status": "PAUSED",
+    "date": "2025-02-20"
   },
   {
     "ad_id": "cmp_0080_ag_1_ad_1",
     "ad_group_id": "cmp_0080_ag_1",
-    "headline": "Headline_2760f60f",
+    "headline": "Headline_4169f740",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "ad_id": "cmp_0080_ag_1_ad_2",
     "ad_group_id": "cmp_0080_ag_1",
-    "headline": "Headline_8b3f5d68",
+    "headline": "Headline_2de5e101",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-09"
   },
   {
     "ad_id": "cmp_0080_ag_2_ad_1",
     "ad_group_id": "cmp_0080_ag_2",
-    "headline": "Headline_11c5ce0c",
+    "headline": "Headline_aa9821bc",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-27"
   },
   {
     "ad_id": "cmp_0080_ag_2_ad_2",
     "ad_group_id": "cmp_0080_ag_2",
-    "headline": "Headline_22ddba43",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b17a5630",
+    "status": "PAUSED",
+    "date": "2025-01-27"
   },
   {
     "ad_id": "cmp_0080_ag_3_ad_1",
     "ad_group_id": "cmp_0080_ag_3",
-    "headline": "Headline_a321b003",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_fc980f20",
+    "status": "ENABLED",
+    "date": "2025-02-08"
   },
   {
     "ad_id": "cmp_0080_ag_3_ad_2",
     "ad_group_id": "cmp_0080_ag_3",
-    "headline": "Headline_4b598c67",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3b401477",
+    "status": "PAUSED",
+    "date": "2025-02-08"
   },
   {
     "ad_id": "cmp_0081_ag_1_ad_1",
     "ad_group_id": "cmp_0081_ag_1",
-    "headline": "Headline_7942bdc2",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_efacdf7f",
+    "status": "ENABLED",
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0081_ag_1_ad_2",
     "ad_group_id": "cmp_0081_ag_1",
-    "headline": "Headline_ef82012d",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_6324fb0f",
+    "status": "PAUSED",
+    "date": "2025-03-04"
   },
   {
     "ad_id": "cmp_0081_ag_2_ad_1",
     "ad_group_id": "cmp_0081_ag_2",
-    "headline": "Headline_7078511e",
+    "headline": "Headline_29761e09",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-20"
   },
   {
     "ad_id": "cmp_0081_ag_2_ad_2",
     "ad_group_id": "cmp_0081_ag_2",
-    "headline": "Headline_1b516cff",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_4f573101",
+    "status": "DISAPPROVED",
+    "date": "2025-02-20"
   },
   {
     "ad_id": "cmp_0081_ag_3_ad_1",
     "ad_group_id": "cmp_0081_ag_3",
-    "headline": "Headline_5882b39c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_306562d7",
+    "status": "ENABLED",
+    "date": "2025-03-03"
   },
   {
     "ad_id": "cmp_0081_ag_3_ad_2",
     "ad_group_id": "cmp_0081_ag_3",
-    "headline": "Headline_ca8993a4",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b60b80ab",
+    "status": "DISAPPROVED",
+    "date": "2025-03-03"
   },
   {
     "ad_id": "cmp_0082_ag_1_ad_1",
     "ad_group_id": "cmp_0082_ag_1",
-    "headline": "Headline_e4391568",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_38a32404",
+    "status": "DISAPPROVED",
+    "date": "2024-12-27"
   },
   {
     "ad_id": "cmp_0082_ag_1_ad_2",
     "ad_group_id": "cmp_0082_ag_1",
-    "headline": "Headline_725195bf",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_67a582d4",
+    "status": "ENABLED",
+    "date": "2024-12-27"
   },
   {
     "ad_id": "cmp_0082_ag_2_ad_1",
     "ad_group_id": "cmp_0082_ag_2",
-    "headline": "Headline_31fafd82",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_3cb407b8",
+    "status": "ENABLED",
+    "date": "2025-01-09"
   },
   {
     "ad_id": "cmp_0082_ag_2_ad_2",
     "ad_group_id": "cmp_0082_ag_2",
-    "headline": "Headline_4e7fd8fb",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b2370faa",
+    "status": "DISAPPROVED",
+    "date": "2025-01-09"
   },
   {
     "ad_id": "cmp_0082_ag_3_ad_1",
     "ad_group_id": "cmp_0082_ag_3",
-    "headline": "Headline_0f900126",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_8ad803a7",
+    "status": "PAUSED",
+    "date": "2025-04-10"
   },
   {
     "ad_id": "cmp_0082_ag_3_ad_2",
     "ad_group_id": "cmp_0082_ag_3",
-    "headline": "Headline_4cd451b2",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_c9fc58fe",
+    "status": "DISAPPROVED",
+    "date": "2025-04-10"
   },
   {
     "ad_id": "cmp_0083_ag_1_ad_1",
     "ad_group_id": "cmp_0083_ag_1",
-    "headline": "Headline_88a5a81a",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_10cc70e4",
+    "status": "DISAPPROVED",
+    "date": "2024-10-20"
   },
   {
     "ad_id": "cmp_0083_ag_1_ad_2",
     "ad_group_id": "cmp_0083_ag_1",
-    "headline": "Headline_feff565e",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_29595998",
+    "status": "DISAPPROVED",
+    "date": "2024-10-20"
   },
   {
     "ad_id": "cmp_0083_ag_2_ad_1",
     "ad_group_id": "cmp_0083_ag_2",
-    "headline": "Headline_73faf6fc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_c74d4b1d",
+    "status": "DISAPPROVED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0083_ag_2_ad_2",
     "ad_group_id": "cmp_0083_ag_2",
-    "headline": "Headline_a7ca5fcd",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_900d28db",
+    "status": "DISAPPROVED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0083_ag_3_ad_1",
     "ad_group_id": "cmp_0083_ag_3",
-    "headline": "Headline_572a8a89",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_3e3612fe",
+    "status": "DISAPPROVED",
+    "date": "2025-02-26"
   },
   {
     "ad_id": "cmp_0083_ag_3_ad_2",
     "ad_group_id": "cmp_0083_ag_3",
-    "headline": "Headline_b4e23cf0",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_c2ccb1cf",
+    "status": "ENABLED",
+    "date": "2025-02-26"
   },
   {
     "ad_id": "cmp_0084_ag_1_ad_1",
     "ad_group_id": "cmp_0084_ag_1",
-    "headline": "Headline_28c4ee60",
+    "headline": "Headline_0594f3c2",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-03"
   },
   {
     "ad_id": "cmp_0084_ag_1_ad_2",
     "ad_group_id": "cmp_0084_ag_1",
-    "headline": "Headline_75769861",
+    "headline": "Headline_22f5bef0",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-03"
   },
   {
     "ad_id": "cmp_0084_ag_2_ad_1",
     "ad_group_id": "cmp_0084_ag_2",
-    "headline": "Headline_07b9fa22",
+    "headline": "Headline_19dcc6d7",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-18"
   },
   {
     "ad_id": "cmp_0084_ag_2_ad_2",
     "ad_group_id": "cmp_0084_ag_2",
-    "headline": "Headline_8d6c137c",
+    "headline": "Headline_758f58b5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-18"
   },
   {
     "ad_id": "cmp_0084_ag_3_ad_1",
     "ad_group_id": "cmp_0084_ag_3",
-    "headline": "Headline_60fd70ff",
+    "headline": "Headline_8c6be12c",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-22"
   },
   {
     "ad_id": "cmp_0084_ag_3_ad_2",
     "ad_group_id": "cmp_0084_ag_3",
-    "headline": "Headline_5257ac55",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d1a85035",
+    "status": "PAUSED",
+    "date": "2025-01-22"
   },
   {
     "ad_id": "cmp_0085_ag_1_ad_1",
     "ad_group_id": "cmp_0085_ag_1",
-    "headline": "Headline_eb9c78fb",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_4d74085c",
+    "status": "DISAPPROVED",
+    "date": "2025-03-25"
   },
   {
     "ad_id": "cmp_0085_ag_1_ad_2",
     "ad_group_id": "cmp_0085_ag_1",
-    "headline": "Headline_ef75c64c",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_cd3fcf02",
+    "status": "ENABLED",
+    "date": "2025-03-25"
   },
   {
     "ad_id": "cmp_0085_ag_2_ad_1",
     "ad_group_id": "cmp_0085_ag_2",
-    "headline": "Headline_d6c39850",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d727750c",
+    "status": "PAUSED",
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0085_ag_2_ad_2",
     "ad_group_id": "cmp_0085_ag_2",
-    "headline": "Headline_21b66ab9",
+    "headline": "Headline_920a0d2c",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-12"
   },
   {
     "ad_id": "cmp_0085_ag_3_ad_1",
     "ad_group_id": "cmp_0085_ag_3",
-    "headline": "Headline_c108ecd2",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_71f584a4",
+    "status": "ENABLED",
+    "date": "2024-10-18"
   },
   {
     "ad_id": "cmp_0085_ag_3_ad_2",
     "ad_group_id": "cmp_0085_ag_3",
-    "headline": "Headline_1d073f47",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_67f53195",
+    "status": "ENABLED",
+    "date": "2024-10-18"
   },
   {
     "ad_id": "cmp_0086_ag_1_ad_1",
     "ad_group_id": "cmp_0086_ag_1",
-    "headline": "Headline_a6ec79d8",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_727d0922",
+    "status": "PAUSED",
+    "date": "2025-02-21"
   },
   {
     "ad_id": "cmp_0086_ag_1_ad_2",
     "ad_group_id": "cmp_0086_ag_1",
-    "headline": "Headline_ecafb630",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_57e268bb",
+    "status": "DISAPPROVED",
+    "date": "2025-02-21"
   },
   {
     "ad_id": "cmp_0086_ag_2_ad_1",
     "ad_group_id": "cmp_0086_ag_2",
-    "headline": "Headline_497dfb8a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_94a9ce96",
+    "status": "ENABLED",
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0086_ag_2_ad_2",
     "ad_group_id": "cmp_0086_ag_2",
-    "headline": "Headline_048ae651",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_bccd4498",
+    "status": "PAUSED",
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0086_ag_3_ad_1",
     "ad_group_id": "cmp_0086_ag_3",
-    "headline": "Headline_ac8bc251",
+    "headline": "Headline_82a4ff9a",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-16"
   },
   {
     "ad_id": "cmp_0086_ag_3_ad_2",
     "ad_group_id": "cmp_0086_ag_3",
-    "headline": "Headline_d158ae9b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_8ce37b66",
+    "status": "PAUSED",
+    "date": "2025-02-16"
   },
   {
     "ad_id": "cmp_0087_ag_1_ad_1",
     "ad_group_id": "cmp_0087_ag_1",
-    "headline": "Headline_45d52728",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_d86711ef",
+    "status": "PAUSED",
+    "date": "2025-04-10"
   },
   {
     "ad_id": "cmp_0087_ag_1_ad_2",
     "ad_group_id": "cmp_0087_ag_1",
-    "headline": "Headline_010bd69e",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_5e351fe6",
+    "status": "PAUSED",
+    "date": "2025-04-10"
   },
   {
     "ad_id": "cmp_0087_ag_2_ad_1",
     "ad_group_id": "cmp_0087_ag_2",
-    "headline": "Headline_be88032a",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_67c19a4f",
+    "status": "ENABLED",
+    "date": "2025-01-25"
   },
   {
     "ad_id": "cmp_0087_ag_2_ad_2",
     "ad_group_id": "cmp_0087_ag_2",
-    "headline": "Headline_1480d98f",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2dedda1c",
+    "status": "PAUSED",
+    "date": "2025-01-25"
   },
   {
     "ad_id": "cmp_0087_ag_3_ad_1",
     "ad_group_id": "cmp_0087_ag_3",
-    "headline": "Headline_0524bc0f",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_7a6a6f45",
+    "status": "ENABLED",
+    "date": "2024-12-19"
   },
   {
     "ad_id": "cmp_0087_ag_3_ad_2",
     "ad_group_id": "cmp_0087_ag_3",
-    "headline": "Headline_4ede290b",
+    "headline": "Headline_e3e48dd5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-19"
   },
   {
     "ad_id": "cmp_0088_ag_1_ad_1",
     "ad_group_id": "cmp_0088_ag_1",
-    "headline": "Headline_7f06f439",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_85a55c51",
+    "status": "ENABLED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0088_ag_1_ad_2",
     "ad_group_id": "cmp_0088_ag_1",
-    "headline": "Headline_6e367bd1",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_3090204f",
+    "status": "PAUSED",
+    "date": "2024-10-29"
   },
   {
     "ad_id": "cmp_0088_ag_2_ad_1",
     "ad_group_id": "cmp_0088_ag_2",
-    "headline": "Headline_d90e4bcf",
+    "headline": "Headline_a5abcc72",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-07"
   },
   {
     "ad_id": "cmp_0088_ag_2_ad_2",
     "ad_group_id": "cmp_0088_ag_2",
-    "headline": "Headline_3220bc0b",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_49fe90d7",
+    "status": "PAUSED",
+    "date": "2024-12-07"
   },
   {
     "ad_id": "cmp_0088_ag_3_ad_1",
     "ad_group_id": "cmp_0088_ag_3",
-    "headline": "Headline_93f231c4",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_3b8b10a0",
+    "status": "PAUSED",
+    "date": "2024-10-12"
   },
   {
     "ad_id": "cmp_0088_ag_3_ad_2",
     "ad_group_id": "cmp_0088_ag_3",
-    "headline": "Headline_359bd528",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_da7035e5",
+    "status": "ENABLED",
+    "date": "2024-10-12"
   },
   {
     "ad_id": "cmp_0089_ag_1_ad_1",
     "ad_group_id": "cmp_0089_ag_1",
-    "headline": "Headline_ba95cd4e",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_3043711b",
+    "status": "DISAPPROVED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0089_ag_1_ad_2",
     "ad_group_id": "cmp_0089_ag_1",
-    "headline": "Headline_cd2ef363",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_5e5b834f",
+    "status": "PAUSED",
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0089_ag_2_ad_1",
     "ad_group_id": "cmp_0089_ag_2",
-    "headline": "Headline_6f57a740",
+    "headline": "Headline_24fa0de9",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-11-05"
   },
   {
     "ad_id": "cmp_0089_ag_2_ad_2",
     "ad_group_id": "cmp_0089_ag_2",
-    "headline": "Headline_e088b32b",
+    "headline": "Headline_2eeb71de",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-11-05"
   },
   {
     "ad_id": "cmp_0089_ag_3_ad_1",
     "ad_group_id": "cmp_0089_ag_3",
-    "headline": "Headline_f2d9c163",
+    "headline": "Headline_d05c0468",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-02-01"
   },
   {
     "ad_id": "cmp_0089_ag_3_ad_2",
     "ad_group_id": "cmp_0089_ag_3",
-    "headline": "Headline_8865589b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_66eb2eed",
+    "status": "ENABLED",
+    "date": "2025-02-01"
   },
   {
     "ad_id": "cmp_0090_ag_1_ad_1",
     "ad_group_id": "cmp_0090_ag_1",
-    "headline": "Headline_82066bc1",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_b9775e24",
+    "status": "DISAPPROVED",
+    "date": "2024-10-15"
   },
   {
     "ad_id": "cmp_0090_ag_1_ad_2",
     "ad_group_id": "cmp_0090_ag_1",
-    "headline": "Headline_371cb137",
+    "headline": "Headline_806526b0",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-15"
   },
   {
     "ad_id": "cmp_0090_ag_2_ad_1",
     "ad_group_id": "cmp_0090_ag_2",
-    "headline": "Headline_9fbb7ad9",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_65e03c0b",
+    "status": "ENABLED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0090_ag_2_ad_2",
     "ad_group_id": "cmp_0090_ag_2",
-    "headline": "Headline_2acb964a",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_e9522abe",
+    "status": "PAUSED",
+    "date": "2024-10-31"
   },
   {
     "ad_id": "cmp_0090_ag_3_ad_1",
     "ad_group_id": "cmp_0090_ag_3",
-    "headline": "Headline_c2a5e34b",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_b631f5f7",
+    "status": "PAUSED",
+    "date": "2025-03-29"
   },
   {
     "ad_id": "cmp_0090_ag_3_ad_2",
     "ad_group_id": "cmp_0090_ag_3",
-    "headline": "Headline_40b60455",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_4dbe2ef2",
+    "status": "ENABLED",
+    "date": "2025-03-29"
   },
   {
     "ad_id": "cmp_0091_ag_1_ad_1",
     "ad_group_id": "cmp_0091_ag_1",
-    "headline": "Headline_3a26bf24",
+    "headline": "Headline_d10eeafd",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-20"
   },
   {
     "ad_id": "cmp_0091_ag_1_ad_2",
     "ad_group_id": "cmp_0091_ag_1",
-    "headline": "Headline_262d1595",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_a56189e2",
+    "status": "PAUSED",
+    "date": "2025-01-20"
   },
   {
     "ad_id": "cmp_0091_ag_2_ad_1",
     "ad_group_id": "cmp_0091_ag_2",
-    "headline": "Headline_508c2edc",
+    "headline": "Headline_2c4be48c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-13"
   },
   {
     "ad_id": "cmp_0091_ag_2_ad_2",
     "ad_group_id": "cmp_0091_ag_2",
-    "headline": "Headline_eb748721",
+    "headline": "Headline_b7d0ed3e",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-13"
   },
   {
     "ad_id": "cmp_0091_ag_3_ad_1",
     "ad_group_id": "cmp_0091_ag_3",
-    "headline": "Headline_ebe88a6e",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2b6bad00",
+    "status": "PAUSED",
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0091_ag_3_ad_2",
     "ad_group_id": "cmp_0091_ag_3",
-    "headline": "Headline_7cfa6d99",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_6eebc174",
+    "status": "DISAPPROVED",
+    "date": "2024-12-02"
   },
   {
     "ad_id": "cmp_0092_ag_1_ad_1",
     "ad_group_id": "cmp_0092_ag_1",
-    "headline": "Headline_e5f00779",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_4af3e6cd",
+    "status": "DISAPPROVED",
+    "date": "2025-01-01"
   },
   {
     "ad_id": "cmp_0092_ag_1_ad_2",
     "ad_group_id": "cmp_0092_ag_1",
-    "headline": "Headline_7285d375",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_ded73a3e",
+    "status": "PAUSED",
+    "date": "2025-01-01"
   },
   {
     "ad_id": "cmp_0092_ag_2_ad_1",
     "ad_group_id": "cmp_0092_ag_2",
-    "headline": "Headline_ffd037fb",
+    "headline": "Headline_769c25b4",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-10-17"
   },
   {
     "ad_id": "cmp_0092_ag_2_ad_2",
     "ad_group_id": "cmp_0092_ag_2",
-    "headline": "Headline_8b99b3dc",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_3528bb66",
+    "status": "PAUSED",
+    "date": "2024-10-17"
   },
   {
     "ad_id": "cmp_0092_ag_3_ad_1",
     "ad_group_id": "cmp_0092_ag_3",
-    "headline": "Headline_02422070",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_af97f567",
+    "status": "DISAPPROVED",
+    "date": "2024-11-07"
   },
   {
     "ad_id": "cmp_0092_ag_3_ad_2",
     "ad_group_id": "cmp_0092_ag_3",
-    "headline": "Headline_3eee72f0",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_4772f122",
+    "status": "PAUSED",
+    "date": "2024-11-07"
   },
   {
     "ad_id": "cmp_0093_ag_1_ad_1",
     "ad_group_id": "cmp_0093_ag_1",
-    "headline": "Headline_73d3d6cd",
+    "headline": "Headline_e0e6fc3c",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0093_ag_1_ad_2",
     "ad_group_id": "cmp_0093_ag_1",
-    "headline": "Headline_387e1ecf",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_d9919615",
+    "status": "DISAPPROVED",
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0093_ag_2_ad_1",
     "ad_group_id": "cmp_0093_ag_2",
-    "headline": "Headline_58d1dcbc",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_3e9be216",
+    "status": "ENABLED",
+    "date": "2024-10-30"
   },
   {
     "ad_id": "cmp_0093_ag_2_ad_2",
     "ad_group_id": "cmp_0093_ag_2",
-    "headline": "Headline_cbbf9e0d",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_64930012",
+    "status": "PAUSED",
+    "date": "2024-10-30"
   },
   {
     "ad_id": "cmp_0093_ag_3_ad_1",
     "ad_group_id": "cmp_0093_ag_3",
-    "headline": "Headline_3071a6ff",
+    "headline": "Headline_65b55da0",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-16"
   },
   {
     "ad_id": "cmp_0093_ag_3_ad_2",
     "ad_group_id": "cmp_0093_ag_3",
-    "headline": "Headline_78bcaa49",
+    "headline": "Headline_6f9eb5bf",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-16"
   },
   {
     "ad_id": "cmp_0094_ag_1_ad_1",
     "ad_group_id": "cmp_0094_ag_1",
-    "headline": "Headline_d294d45d",
+    "headline": "Headline_ce47ccea",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-03-07"
   },
   {
     "ad_id": "cmp_0094_ag_1_ad_2",
     "ad_group_id": "cmp_0094_ag_1",
-    "headline": "Headline_dc0d6624",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_4ea99da7",
+    "status": "PAUSED",
+    "date": "2025-03-07"
   },
   {
     "ad_id": "cmp_0094_ag_2_ad_1",
     "ad_group_id": "cmp_0094_ag_2",
-    "headline": "Headline_1b910071",
+    "headline": "Headline_628363db",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-10-22"
   },
   {
     "ad_id": "cmp_0094_ag_2_ad_2",
     "ad_group_id": "cmp_0094_ag_2",
-    "headline": "Headline_f9c997ea",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_92fb8ff0",
+    "status": "ENABLED",
+    "date": "2024-10-22"
   },
   {
     "ad_id": "cmp_0094_ag_3_ad_1",
     "ad_group_id": "cmp_0094_ag_3",
-    "headline": "Headline_db9e1f6e",
+    "headline": "Headline_82fe80f9",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-10-17"
   },
   {
     "ad_id": "cmp_0094_ag_3_ad_2",
     "ad_group_id": "cmp_0094_ag_3",
-    "headline": "Headline_52d8af5b",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_774d107f",
+    "status": "DISAPPROVED",
+    "date": "2024-10-17"
   },
   {
     "ad_id": "cmp_0095_ag_1_ad_1",
     "ad_group_id": "cmp_0095_ag_1",
-    "headline": "Headline_57c73e53",
+    "headline": "Headline_c167d9ca",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0095_ag_1_ad_2",
     "ad_group_id": "cmp_0095_ag_1",
-    "headline": "Headline_2c16ddfa",
+    "headline": "Headline_c9650810",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-01-12"
   },
   {
     "ad_id": "cmp_0095_ag_2_ad_1",
     "ad_group_id": "cmp_0095_ag_2",
-    "headline": "Headline_6d037ce9",
+    "headline": "Headline_7df5e978",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-04-05"
   },
   {
     "ad_id": "cmp_0095_ag_2_ad_2",
     "ad_group_id": "cmp_0095_ag_2",
-    "headline": "Headline_8568fb7f",
+    "headline": "Headline_1bdf773e",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-04-05"
   },
   {
     "ad_id": "cmp_0095_ag_3_ad_1",
     "ad_group_id": "cmp_0095_ag_3",
-    "headline": "Headline_b1f7ec93",
+    "headline": "Headline_642d0004",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0095_ag_3_ad_2",
     "ad_group_id": "cmp_0095_ag_3",
-    "headline": "Headline_93db8164",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_440c19ed",
+    "status": "PAUSED",
+    "date": "2024-12-03"
   },
   {
     "ad_id": "cmp_0096_ag_1_ad_1",
     "ad_group_id": "cmp_0096_ag_1",
-    "headline": "Headline_8980bdd8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_6daaf32c",
+    "status": "DISAPPROVED",
+    "date": "2025-03-07"
   },
   {
     "ad_id": "cmp_0096_ag_1_ad_2",
     "ad_group_id": "cmp_0096_ag_1",
-    "headline": "Headline_cb94bd42",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_affbbbb8",
+    "status": "PAUSED",
+    "date": "2025-03-07"
   },
   {
     "ad_id": "cmp_0096_ag_2_ad_1",
     "ad_group_id": "cmp_0096_ag_2",
-    "headline": "Headline_dd178fb3",
+    "headline": "Headline_aff4656d",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-02-01"
   },
   {
     "ad_id": "cmp_0096_ag_2_ad_2",
     "ad_group_id": "cmp_0096_ag_2",
-    "headline": "Headline_e472ebfa",
+    "headline": "Headline_5c87ef99",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-01"
   },
   {
     "ad_id": "cmp_0096_ag_3_ad_1",
     "ad_group_id": "cmp_0096_ag_3",
-    "headline": "Headline_e662e2e8",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_ab214fe9",
+    "status": "ENABLED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0096_ag_3_ad_2",
     "ad_group_id": "cmp_0096_ag_3",
-    "headline": "Headline_88ed6d11",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_9fc1d2fa",
+    "status": "DISAPPROVED",
+    "date": "2024-12-25"
   },
   {
     "ad_id": "cmp_0097_ag_1_ad_1",
     "ad_group_id": "cmp_0097_ag_1",
-    "headline": "Headline_b4f117f0",
+    "headline": "Headline_a138640b",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-22"
   },
   {
     "ad_id": "cmp_0097_ag_1_ad_2",
     "ad_group_id": "cmp_0097_ag_1",
-    "headline": "Headline_47bb02d1",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_6232ae47",
+    "status": "DISAPPROVED",
+    "date": "2024-11-22"
   },
   {
     "ad_id": "cmp_0097_ag_2_ad_1",
     "ad_group_id": "cmp_0097_ag_2",
-    "headline": "Headline_feaf1575",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_66032a91",
+    "status": "ENABLED",
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0097_ag_2_ad_2",
     "ad_group_id": "cmp_0097_ag_2",
-    "headline": "Headline_28dcea47",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_86b55f4d",
+    "status": "PAUSED",
+    "date": "2025-04-09"
   },
   {
     "ad_id": "cmp_0097_ag_3_ad_1",
     "ad_group_id": "cmp_0097_ag_3",
-    "headline": "Headline_8c1b433e",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_7646d08d",
+    "status": "DISAPPROVED",
+    "date": "2025-03-30"
   },
   {
     "ad_id": "cmp_0097_ag_3_ad_2",
     "ad_group_id": "cmp_0097_ag_3",
-    "headline": "Headline_67ad0db4",
+    "headline": "Headline_a9633fc9",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-30"
   },
   {
     "ad_id": "cmp_0098_ag_1_ad_1",
     "ad_group_id": "cmp_0098_ag_1",
-    "headline": "Headline_24539c45",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_89581091",
+    "status": "PAUSED",
+    "date": "2025-02-25"
   },
   {
     "ad_id": "cmp_0098_ag_1_ad_2",
     "ad_group_id": "cmp_0098_ag_1",
-    "headline": "Headline_1abb0264",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_a3b78ce4",
+    "status": "DISAPPROVED",
+    "date": "2025-02-25"
   },
   {
     "ad_id": "cmp_0098_ag_2_ad_1",
     "ad_group_id": "cmp_0098_ag_2",
-    "headline": "Headline_8a62d45f",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_9ebfcf81",
+    "status": "DISAPPROVED",
+    "date": "2024-12-07"
   },
   {
     "ad_id": "cmp_0098_ag_2_ad_2",
     "ad_group_id": "cmp_0098_ag_2",
-    "headline": "Headline_5c2860d4",
+    "headline": "Headline_3502fa0c",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2024-12-07"
   },
   {
     "ad_id": "cmp_0098_ag_3_ad_1",
     "ad_group_id": "cmp_0098_ag_3",
-    "headline": "Headline_727879b9",
+    "headline": "Headline_1dbfdec5",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2024-11-20"
   },
   {
     "ad_id": "cmp_0098_ag_3_ad_2",
     "ad_group_id": "cmp_0098_ag_3",
-    "headline": "Headline_64e41466",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_df0e2f25",
+    "status": "DISAPPROVED",
+    "date": "2024-11-20"
   },
   {
     "ad_id": "cmp_0099_ag_1_ad_1",
     "ad_group_id": "cmp_0099_ag_1",
-    "headline": "Headline_abf4dfb8",
+    "headline": "Headline_12d19be5",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "ad_id": "cmp_0099_ag_1_ad_2",
     "ad_group_id": "cmp_0099_ag_1",
-    "headline": "Headline_8308cf67",
+    "headline": "Headline_3dc7079e",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-01-16"
   },
   {
     "ad_id": "cmp_0099_ag_2_ad_1",
     "ad_group_id": "cmp_0099_ag_2",
-    "headline": "Headline_fccec639",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_2a524f3b",
+    "status": "PAUSED",
+    "date": "2025-02-13"
   },
   {
     "ad_id": "cmp_0099_ag_2_ad_2",
     "ad_group_id": "cmp_0099_ag_2",
-    "headline": "Headline_d4dc5be6",
+    "headline": "Headline_911963cb",
     "status": "PAUSED",
-    "date": "2024-10-11"
+    "date": "2025-02-13"
   },
   {
     "ad_id": "cmp_0099_ag_3_ad_1",
     "ad_group_id": "cmp_0099_ag_3",
-    "headline": "Headline_9ed765b0",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d1059d2e",
+    "status": "PAUSED",
+    "date": "2024-12-16"
   },
   {
     "ad_id": "cmp_0099_ag_3_ad_2",
     "ad_group_id": "cmp_0099_ag_3",
-    "headline": "Headline_744abc04",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_d50e2446",
+    "status": "PAUSED",
+    "date": "2024-12-16"
   },
   {
     "ad_id": "cmp_0100_ag_1_ad_1",
     "ad_group_id": "cmp_0100_ag_1",
-    "headline": "Headline_4643d203",
-    "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "headline": "Headline_20604f27",
+    "status": "ENABLED",
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0100_ag_1_ad_2",
     "ad_group_id": "cmp_0100_ag_1",
-    "headline": "Headline_ab344a16",
-    "status": "ENABLED",
-    "date": "2024-10-11"
+    "headline": "Headline_1850489a",
+    "status": "PAUSED",
+    "date": "2025-03-20"
   },
   {
     "ad_id": "cmp_0100_ag_2_ad_1",
     "ad_group_id": "cmp_0100_ag_2",
-    "headline": "Headline_e02e3409",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_05e39248",
+    "status": "ENABLED",
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0100_ag_2_ad_2",
     "ad_group_id": "cmp_0100_ag_2",
-    "headline": "Headline_bb7adea6",
-    "status": "PAUSED",
-    "date": "2024-10-11"
+    "headline": "Headline_2e9a671e",
+    "status": "DISAPPROVED",
+    "date": "2025-01-18"
   },
   {
     "ad_id": "cmp_0100_ag_3_ad_1",
     "ad_group_id": "cmp_0100_ag_3",
-    "headline": "Headline_aff7d2ef",
+    "headline": "Headline_2d7e89b9",
     "status": "ENABLED",
-    "date": "2024-10-11"
+    "date": "2025-03-29"
   },
   {
     "ad_id": "cmp_0100_ag_3_ad_2",
     "ad_group_id": "cmp_0100_ag_3",
-    "headline": "Headline_bb656226",
+    "headline": "Headline_cf0149a3",
     "status": "DISAPPROVED",
-    "date": "2024-10-11"
+    "date": "2025-03-29"
   }
 ]
