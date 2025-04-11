@@ -1,602 +1,602 @@
 [
   {
-    "id": "bud_2000",
-    "name": "Budget Plan 1",
-    "amount_micros": 106000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0001",
+    "budget_name": "Budget_f1d04522",
+    "budget_amount": 2103.35,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2001",
-    "name": "Budget Plan 2",
-    "amount_micros": 94000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0002",
+    "budget_name": "Budget_202eefeb",
+    "budget_amount": 870.09,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2002",
-    "name": "Budget Plan 3",
-    "amount_micros": 67000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0003",
+    "budget_name": "Budget_a0481d7a",
+    "budget_amount": 3973.97,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2003",
-    "name": "Budget Plan 4",
-    "amount_micros": 59000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0004",
+    "budget_name": "Budget_71217017",
+    "budget_amount": 4073.48,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2004",
-    "name": "Budget Plan 5",
-    "amount_micros": 114000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0005",
+    "budget_name": "Budget_3f2c61cc",
+    "budget_amount": 7450.64,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2005",
-    "name": "Budget Plan 6",
-    "amount_micros": 87000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0006",
+    "budget_name": "Budget_e1d83fa0",
+    "budget_amount": 9677.83,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2006",
-    "name": "Budget Plan 7",
-    "amount_micros": 101000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0007",
+    "budget_name": "Budget_8732455f",
+    "budget_amount": 8841.85,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2007",
-    "name": "Budget Plan 8",
-    "amount_micros": 128000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0008",
+    "budget_name": "Budget_3bd6389d",
+    "budget_amount": 4493.44,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2008",
-    "name": "Budget Plan 9",
-    "amount_micros": 71000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0009",
+    "budget_name": "Budget_c233eed6",
+    "budget_amount": 7223.25,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2009",
-    "name": "Budget Plan 10",
-    "amount_micros": 79000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0010",
+    "budget_name": "Budget_e1731cfb",
+    "budget_amount": 6415.25,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2010",
-    "name": "Budget Plan 11",
-    "amount_micros": 101000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0011",
+    "budget_name": "Budget_1648961f",
+    "budget_amount": 985.12,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2011",
-    "name": "Budget Plan 12",
-    "amount_micros": 91000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0012",
+    "budget_name": "Budget_b622c1da",
+    "budget_amount": 5884.56,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2012",
-    "name": "Budget Plan 13",
-    "amount_micros": 82000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0013",
+    "budget_name": "Budget_e24e1222",
+    "budget_amount": 5847.84,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2013",
-    "name": "Budget Plan 14",
-    "amount_micros": 51000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0014",
+    "budget_name": "Budget_1062a4fa",
+    "budget_amount": 7974.48,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2014",
-    "name": "Budget Plan 15",
-    "amount_micros": 134000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0015",
+    "budget_name": "Budget_c6db6819",
+    "budget_amount": 3716.52,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2015",
-    "name": "Budget Plan 16",
-    "amount_micros": 110000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0016",
+    "budget_name": "Budget_b8f2d477",
+    "budget_amount": 3570.07,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2016",
-    "name": "Budget Plan 17",
-    "amount_micros": 108000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0017",
+    "budget_name": "Budget_1c8bef8a",
+    "budget_amount": 7232.04,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2017",
-    "name": "Budget Plan 18",
-    "amount_micros": 137000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0018",
+    "budget_name": "Budget_a8de57b5",
+    "budget_amount": 3451.81,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2018",
-    "name": "Budget Plan 19",
-    "amount_micros": 81000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0019",
+    "budget_name": "Budget_27b682e5",
+    "budget_amount": 1080.86,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2019",
-    "name": "Budget Plan 20",
-    "amount_micros": 73000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0020",
+    "budget_name": "Budget_7cb6dedb",
+    "budget_amount": 9775.24,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2020",
-    "name": "Budget Plan 21",
-    "amount_micros": 141000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0021",
+    "budget_name": "Budget_8b945171",
+    "budget_amount": 9915.18,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2021",
-    "name": "Budget Plan 22",
-    "amount_micros": 119000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0022",
+    "budget_name": "Budget_c120ff84",
+    "budget_amount": 913.16,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2022",
-    "name": "Budget Plan 23",
-    "amount_micros": 143000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0023",
+    "budget_name": "Budget_b5f6b4a8",
+    "budget_amount": 8626.23,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2023",
-    "name": "Budget Plan 24",
-    "amount_micros": 125000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0024",
+    "budget_name": "Budget_2f943c99",
+    "budget_amount": 3270.75,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2024",
-    "name": "Budget Plan 25",
-    "amount_micros": 85000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0025",
+    "budget_name": "Budget_524d7466",
+    "budget_amount": 199.82,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2025",
-    "name": "Budget Plan 26",
-    "amount_micros": 68000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0026",
+    "budget_name": "Budget_bb4d7412",
+    "budget_amount": 5248.23,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2026",
-    "name": "Budget Plan 27",
-    "amount_micros": 120000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0027",
+    "budget_name": "Budget_33f201ff",
+    "budget_amount": 4326.67,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2027",
-    "name": "Budget Plan 28",
-    "amount_micros": 79000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0028",
+    "budget_name": "Budget_e35f4c36",
+    "budget_amount": 7212.3,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2028",
-    "name": "Budget Plan 29",
-    "amount_micros": 117000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0029",
+    "budget_name": "Budget_e7e0fcbe",
+    "budget_amount": 1376.8,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2029",
-    "name": "Budget Plan 30",
-    "amount_micros": 148000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0030",
+    "budget_name": "Budget_6f45c602",
+    "budget_amount": 8759.36,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2030",
-    "name": "Budget Plan 31",
-    "amount_micros": 85000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0031",
+    "budget_name": "Budget_54db07bd",
+    "budget_amount": 3912.09,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2031",
-    "name": "Budget Plan 32",
-    "amount_micros": 134000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0032",
+    "budget_name": "Budget_3fc9c788",
+    "budget_amount": 6272.94,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2032",
-    "name": "Budget Plan 33",
-    "amount_micros": 80000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0033",
+    "budget_name": "Budget_26f9ba55",
+    "budget_amount": 1316.43,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2033",
-    "name": "Budget Plan 34",
-    "amount_micros": 107000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0034",
+    "budget_name": "Budget_0c0a7dfa",
+    "budget_amount": 9924.13,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2034",
-    "name": "Budget Plan 35",
-    "amount_micros": 63000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0035",
+    "budget_name": "Budget_11956bd7",
+    "budget_amount": 928.4,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2035",
-    "name": "Budget Plan 36",
-    "amount_micros": 63000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0036",
+    "budget_name": "Budget_f8e41f98",
+    "budget_amount": 9953.02,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2036",
-    "name": "Budget Plan 37",
-    "amount_micros": 63000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0037",
+    "budget_name": "Budget_4506f3ed",
+    "budget_amount": 6038.42,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2037",
-    "name": "Budget Plan 38",
-    "amount_micros": 121000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0038",
+    "budget_name": "Budget_02730726",
+    "budget_amount": 9043.61,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2038",
-    "name": "Budget Plan 39",
-    "amount_micros": 103000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0039",
+    "budget_name": "Budget_b93af94e",
+    "budget_amount": 9413.78,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2039",
-    "name": "Budget Plan 40",
-    "amount_micros": 111000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0040",
+    "budget_name": "Budget_6a79a59f",
+    "budget_amount": 652.39,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2040",
-    "name": "Budget Plan 41",
-    "amount_micros": 84000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0041",
+    "budget_name": "Budget_250cfb8a",
+    "budget_amount": 6677.37,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2041",
-    "name": "Budget Plan 42",
-    "amount_micros": 124000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0042",
+    "budget_name": "Budget_c707fb7e",
+    "budget_amount": 1832.96,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2042",
-    "name": "Budget Plan 43",
-    "amount_micros": 137000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0043",
+    "budget_name": "Budget_d5b7fc02",
+    "budget_amount": 6855.96,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2043",
-    "name": "Budget Plan 44",
-    "amount_micros": 77000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0044",
+    "budget_name": "Budget_c844ff53",
+    "budget_amount": 8399.6,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2044",
-    "name": "Budget Plan 45",
-    "amount_micros": 110000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0045",
+    "budget_name": "Budget_da35f239",
+    "budget_amount": 3549.43,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2045",
-    "name": "Budget Plan 46",
-    "amount_micros": 144000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0046",
+    "budget_name": "Budget_000e260a",
+    "budget_amount": 304.35,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2046",
-    "name": "Budget Plan 47",
-    "amount_micros": 59000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0047",
+    "budget_name": "Budget_60c40da8",
+    "budget_amount": 3151.39,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2047",
-    "name": "Budget Plan 48",
-    "amount_micros": 122000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0048",
+    "budget_name": "Budget_143d9770",
+    "budget_amount": 1780.3,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2048",
-    "name": "Budget Plan 49",
-    "amount_micros": 138000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0049",
+    "budget_name": "Budget_53c7077b",
+    "budget_amount": 4659.88,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2049",
-    "name": "Budget Plan 50",
-    "amount_micros": 115000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0050",
+    "budget_name": "Budget_b9533889",
+    "budget_amount": 3264.54,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2050",
-    "name": "Budget Plan 51",
-    "amount_micros": 88000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0051",
+    "budget_name": "Budget_7e418350",
+    "budget_amount": 5577.15,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2051",
-    "name": "Budget Plan 52",
-    "amount_micros": 148000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0052",
+    "budget_name": "Budget_2d0b9ffd",
+    "budget_amount": 827.37,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2052",
-    "name": "Budget Plan 53",
-    "amount_micros": 89000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0053",
+    "budget_name": "Budget_198d0d33",
+    "budget_amount": 2267.38,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2053",
-    "name": "Budget Plan 54",
-    "amount_micros": 100000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0054",
+    "budget_name": "Budget_fded65b8",
+    "budget_amount": 2198.74,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2054",
-    "name": "Budget Plan 55",
-    "amount_micros": 111000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0055",
+    "budget_name": "Budget_f8462b29",
+    "budget_amount": 6691.89,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2055",
-    "name": "Budget Plan 56",
-    "amount_micros": 70000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0056",
+    "budget_name": "Budget_c6ad478d",
+    "budget_amount": 4047.73,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2056",
-    "name": "Budget Plan 57",
-    "amount_micros": 120000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0057",
+    "budget_name": "Budget_38b5526e",
+    "budget_amount": 4247.98,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2057",
-    "name": "Budget Plan 58",
-    "amount_micros": 120000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0058",
+    "budget_name": "Budget_4b69ce5d",
+    "budget_amount": 5149.9,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2058",
-    "name": "Budget Plan 59",
-    "amount_micros": 106000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0059",
+    "budget_name": "Budget_c571056e",
+    "budget_amount": 7115.57,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2059",
-    "name": "Budget Plan 60",
-    "amount_micros": 146000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0060",
+    "budget_name": "Budget_0aa594ef",
+    "budget_amount": 1859.9,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2060",
-    "name": "Budget Plan 61",
-    "amount_micros": 69000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0061",
+    "budget_name": "Budget_fa25164e",
+    "budget_amount": 4317.7,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2061",
-    "name": "Budget Plan 62",
-    "amount_micros": 117000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0062",
+    "budget_name": "Budget_14c4be20",
+    "budget_amount": 9849.2,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2062",
-    "name": "Budget Plan 63",
-    "amount_micros": 109000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0063",
+    "budget_name": "Budget_283f06cf",
+    "budget_amount": 2333.5,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2063",
-    "name": "Budget Plan 64",
-    "amount_micros": 70000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0064",
+    "budget_name": "Budget_7393ab3a",
+    "budget_amount": 9424.39,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2064",
-    "name": "Budget Plan 65",
-    "amount_micros": 109000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0065",
+    "budget_name": "Budget_2e3f4531",
+    "budget_amount": 7913.33,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2065",
-    "name": "Budget Plan 66",
-    "amount_micros": 64000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0066",
+    "budget_name": "Budget_982ac9d1",
+    "budget_amount": 3259.61,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2066",
-    "name": "Budget Plan 67",
-    "amount_micros": 57000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0067",
+    "budget_name": "Budget_d6cd25c2",
+    "budget_amount": 3667.5,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2067",
-    "name": "Budget Plan 68",
-    "amount_micros": 88000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0068",
+    "budget_name": "Budget_37f6e4b3",
+    "budget_amount": 164.96,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2068",
-    "name": "Budget Plan 69",
-    "amount_micros": 54000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0069",
+    "budget_name": "Budget_368c37aa",
+    "budget_amount": 8877.62,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2069",
-    "name": "Budget Plan 70",
-    "amount_micros": 103000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0070",
+    "budget_name": "Budget_fe26005e",
+    "budget_amount": 9372.11,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2070",
-    "name": "Budget Plan 71",
-    "amount_micros": 53000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0071",
+    "budget_name": "Budget_e84e43e1",
+    "budget_amount": 5324.7,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2071",
-    "name": "Budget Plan 72",
-    "amount_micros": 134000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0072",
+    "budget_name": "Budget_5929b60a",
+    "budget_amount": 4153.51,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2072",
-    "name": "Budget Plan 73",
-    "amount_micros": 66000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0073",
+    "budget_name": "Budget_5e6af04d",
+    "budget_amount": 7168.54,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2073",
-    "name": "Budget Plan 74",
-    "amount_micros": 56000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0074",
+    "budget_name": "Budget_100aefad",
+    "budget_amount": 4188.52,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2074",
-    "name": "Budget Plan 75",
-    "amount_micros": 77000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0075",
+    "budget_name": "Budget_8bd23841",
+    "budget_amount": 4873.35,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2075",
-    "name": "Budget Plan 76",
-    "amount_micros": 57000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0076",
+    "budget_name": "Budget_cebdf1bc",
+    "budget_amount": 7905.08,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2076",
-    "name": "Budget Plan 77",
-    "amount_micros": 121000000,
-    "date": "2025-04-07"
+    "budget_id": "bdgt_0077",
+    "budget_name": "Budget_dcab8639",
+    "budget_amount": 7589.78,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2077",
-    "name": "Budget Plan 78",
-    "amount_micros": 58000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0078",
+    "budget_name": "Budget_947d9ec8",
+    "budget_amount": 6535.28,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2078",
-    "name": "Budget Plan 79",
-    "amount_micros": 117000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0079",
+    "budget_name": "Budget_adcbec82",
+    "budget_amount": 3366.92,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2079",
-    "name": "Budget Plan 80",
-    "amount_micros": 129000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0080",
+    "budget_name": "Budget_de65c546",
+    "budget_amount": 4018.89,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2080",
-    "name": "Budget Plan 81",
-    "amount_micros": 125000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0081",
+    "budget_name": "Budget_301f56d6",
+    "budget_amount": 3691.3,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2081",
-    "name": "Budget Plan 82",
-    "amount_micros": 80000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0082",
+    "budget_name": "Budget_599773ec",
+    "budget_amount": 8413.55,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2082",
-    "name": "Budget Plan 83",
-    "amount_micros": 80000000,
-    "date": "2025-04-03"
+    "budget_id": "bdgt_0083",
+    "budget_name": "Budget_b12b6186",
+    "budget_amount": 3071.39,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2083",
-    "name": "Budget Plan 84",
-    "amount_micros": 140000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0084",
+    "budget_name": "Budget_949ada87",
+    "budget_amount": 9362.46,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2084",
-    "name": "Budget Plan 85",
-    "amount_micros": 106000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0085",
+    "budget_name": "Budget_8da34d24",
+    "budget_amount": 1969.95,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2085",
-    "name": "Budget Plan 86",
-    "amount_micros": 127000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0086",
+    "budget_name": "Budget_68c5c550",
+    "budget_amount": 4654.79,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2086",
-    "name": "Budget Plan 87",
-    "amount_micros": 123000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0087",
+    "budget_name": "Budget_9343fa1b",
+    "budget_amount": 1144.83,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2087",
-    "name": "Budget Plan 88",
-    "amount_micros": 79000000,
-    "date": "2025-04-05"
+    "budget_id": "bdgt_0088",
+    "budget_name": "Budget_6fe3747c",
+    "budget_amount": 5641.92,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2088",
-    "name": "Budget Plan 89",
-    "amount_micros": 105000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0089",
+    "budget_name": "Budget_bb4b939d",
+    "budget_amount": 2052.17,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2089",
-    "name": "Budget Plan 90",
-    "amount_micros": 72000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0090",
+    "budget_name": "Budget_3c243386",
+    "budget_amount": 9481.42,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2090",
-    "name": "Budget Plan 91",
-    "amount_micros": 110000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0091",
+    "budget_name": "Budget_6c7b8b2e",
+    "budget_amount": 6887.47,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2091",
-    "name": "Budget Plan 92",
-    "amount_micros": 74000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0092",
+    "budget_name": "Budget_fdb45ccb",
+    "budget_amount": 2061.56,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2092",
-    "name": "Budget Plan 93",
-    "amount_micros": 125000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0093",
+    "budget_name": "Budget_d230ec28",
+    "budget_amount": 4570.85,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2093",
-    "name": "Budget Plan 94",
-    "amount_micros": 122000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0094",
+    "budget_name": "Budget_9e30f44c",
+    "budget_amount": 9723.56,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2094",
-    "name": "Budget Plan 95",
-    "amount_micros": 82000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0095",
+    "budget_name": "Budget_032dd09c",
+    "budget_amount": 883.97,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2095",
-    "name": "Budget Plan 96",
-    "amount_micros": 136000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0096",
+    "budget_name": "Budget_f6c25225",
+    "budget_amount": 3313.26,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2096",
-    "name": "Budget Plan 97",
-    "amount_micros": 99000000,
-    "date": "2025-04-02"
+    "budget_id": "bdgt_0097",
+    "budget_name": "Budget_2c11aace",
+    "budget_amount": 9632.74,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2097",
-    "name": "Budget Plan 98",
-    "amount_micros": 115000000,
-    "date": "2025-04-08"
+    "budget_id": "bdgt_0098",
+    "budget_name": "Budget_9aa9ce1c",
+    "budget_amount": 1701.01,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2098",
-    "name": "Budget Plan 99",
-    "amount_micros": 94000000,
-    "date": "2025-04-06"
+    "budget_id": "bdgt_0099",
+    "budget_name": "Budget_1b3f8b0b",
+    "budget_amount": 2299.61,
+    "date": "2024-04-11"
   },
   {
-    "id": "bud_2099",
-    "name": "Budget Plan 100",
-    "amount_micros": 90000000,
-    "date": "2025-04-04"
+    "budget_id": "bdgt_0100",
+    "budget_name": "Budget_7eecfe51",
+    "budget_amount": 7820.43,
+    "date": "2024-04-11"
   }
 ]
